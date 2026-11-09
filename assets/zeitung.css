@@ -15,7 +15,7 @@ a { color: var(--accent); }
 
 .aufmacher { border-bottom: 1px solid var(--line); padding-bottom: 18px; margin-bottom: 22px; }
 .aufmacher h2 { font-family: var(--title-font); font-size: clamp(1.6rem, 4.5vw, 2.5rem); line-height: 1.15; margin: .15em 0 .4em; }
-.aufmacher .text { font-size: 1.08em; columns: 2 320px; column-gap: 28px; }
+.aufmacher .text { font-size: 1.08em; max-width: 46em; }
 .aufmacher .text p:first-child { margin-top: 0; }
 .rubrik { font-family: var(--ui-font); font-size: .75em; text-transform: uppercase; letter-spacing: .12em; color: var(--accent); font-weight: 700; }
 
@@ -86,7 +86,14 @@ body.wow .rubrikname { color: #ff8000; }
 @media (max-width: 760px) { .seitengrid.mit-kasten { grid-template-columns: 1fr; } }
 .artikel.gross { grid-column: 1 / -1; }
 .artikel.gross h4 { font-size: 1.6em; }
-.artikel.gross .text { columns: 2 300px; column-gap: 28px; }
+.artikel.gross .text { max-width: 46em; }
+/* Textspalten nur auf großen Bildschirmen, wo eine Spalte ganz ins Bild passt. Nie bei Mama (Fold aufgefaltet, fast quadratisch). */
+@media (min-width: 1100px) and (min-height: 850px) {
+  body:not(.mama) .aufmacher .text { columns: 2 320px; column-gap: 28px; max-width: none; }
+  body:not(.mama) .artikel.gross .text { columns: 2 300px; column-gap: 28px; max-width: none; }
+}
+/* Fold aufgefaltet und Tablets: Kasten unter die Artikel statt schmaler Randspalte, Artikel zweispaltig */
+@media (max-width: 960px) { body.mama .seitengrid.mit-kasten { grid-template-columns: 1fr; } }
 .unter { color: var(--muted); font-style: italic; margin: -2px 0 8px; }
 .kasten { background: var(--card); border: 1px solid var(--line); border-top: 4px solid var(--accent); border-radius: var(--radius); padding: 14px 16px; font-size: .92em; }
 .kasten h5 { font-family: var(--ui-font); text-transform: uppercase; letter-spacing: .1em; font-size: .8em; color: var(--accent); margin: 0 0 8px; }
