@@ -55,6 +55,11 @@ NUR World of Warcraft: Forever. Kein Retail, kein Classic, keine anderen Spiele.
 
 Quellen für WoW: news.blizzard.com, us.forums.blizzard.com, zockify.com/forever, wowhead.com (Blue Tracker), wowguide.net, warcraft.wiki.gg.
 
+## Wenn Webseiten nicht erreichbar sind
+- WebFetch kann in der Cloud für viele Nachrichtenseiten gesperrt sein. Dann **nicht aufgeben**: Die Ergebnisse von WebSearch (Modus `extended`) enthalten Zusammenfassungen und die Links der Artikel. Diese Links sind gültige Quellen.
+- Pro Thema mehrere gezielte Suchen machen (z. B. „Mülheim an der Ruhr Polizei“, „Mülheim Stadtrat“, „Mülheim Veranstaltungen Woche“) und nur übernehmen, was in den Suchergebnissen eindeutig steht.
+- Eine Ausgabe muss **immer** erscheinen. Reicht das Material nicht für 30 Artikel, lieber weniger Artikel (mindestens 2 je Seite) und Seiten mit belegten Hintergrund- oder Service-Artikeln füllen als gar nichts veröffentlichen. Erfinden bleibt verboten.
+
 ## Regeln
 - Nur schreiben, was eine Quelle belegt. Jeder Artikel nennt mindestens eine Quelle mit Link. Nichts erfinden.
 - Widersprechen sich Quellen (z. B. Ergebnisse), nur die übereinstimmenden Angaben nehmen.
