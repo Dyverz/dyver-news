@@ -1,0 +1,50 @@
+{
+  "gruss": "Guten Morgen, Mama! Schön, dass du da bist. Hier ist deine Zeitung für heute.",
+  "aufmacher": {
+    "rubrik": "Mülheim",
+    "titel": "Laternen, Lieder und bald Schiffsweihnacht",
+    "text": "In Mülheim ist Martinszeit. Ein paar Züge sind schon gelaufen, diese Woche folgen weitere. In Saarn geht es heute um 17 Uhr am Pastor-Luhr-Platz los. Morgen, am 10. November, gibt es ökumenische Martinszüge an der Freilichtbühne.\n\nUnd die nächste schöne Sache steht schon fest: Vom 27. bis 29. November ist wieder Mülheimer Schiffsweihnacht.",
+    "quellen": [
+      { "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/" },
+      { "name": "regioactive", "url": "https://www.regioactive.de/events/21167/muelheim/veranstaltungen-party-konzerte" }
+    ]
+  },
+  "rubriken": [
+    {
+      "name": "Aus Mülheim",
+      "artikel": [
+        { "titel": "Baustelle auf der Walkmühlenstraße", "text": "Ab heute bis zum 27. November bekommt die Walkmühlenstraße zwischen der B1-Brücke und der Essener Straße einen neuen Belag. Mit Auto und Bus muss man dort mit Umleitungen rechnen.", "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/" }] },
+        { "titel": "Gedenken am 9. November", "text": "Die Stadt erinnert heute gemeinsam mit der Jüdischen Gemeinde an die Opfer des Nationalsozialismus. Am 9. November 1938 brannten in der Pogromnacht überall in Deutschland die Synagogen.", "quellen": [{ "name": "Stadt Mülheim", "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen" }] },
+        { "titel": "Preis für eine Mülheimer Erfindung", "text": "Die Mülheimer Firma NFC21 hat einen internationalen Preis gewonnen. Ihre Handy-App SenseTap hilft blinden und sehbehinderten Menschen im Alltag.", "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/" }] },
+        { "titel": "Die Stadt schreibt jetzt auch auf WhatsApp", "text": "Wer Neuigkeiten aus dem Rathaus direkt aufs Handy möchte, kann der Stadt Mülheim jetzt auf WhatsApp folgen.", "quellen": [{ "name": "Stadt Mülheim", "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen" }] }
+      ]
+    },
+    {
+      "name": "Deutschland",
+      "artikel": [
+        { "titel": "Ilse Aigner soll Bundespräsidentin werden", "text": "Die CDU möchte die Bayerin Ilse Aigner als nächste Bundespräsidentin vorschlagen. Sie ist zurzeit Präsidentin des bayerischen Landtags und hat gute Chancen.", "quellen": [{ "name": "news.de", "url": "https://www.news.de/panorama/860170630/9-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-09-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/" }] },
+        { "titel": "Vor 37 Jahren fiel die Mauer", "text": "Am 9. November 1989 öffnete sich die Berliner Mauer. Bundeskanzler Merz erinnerte daran und rief dazu auf, die Demokratie zu schützen.", "quellen": [{ "name": "ZDFheute", "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html" }] },
+        { "titel": "20 Jahre Synagoge in München", "text": "Die Hauptsynagoge Ohel Jakob in München wird 20 Jahre alt. Das wird heute mit einem Festakt gefeiert.", "quellen": [{ "name": "news.de", "url": "https://www.news.de/panorama/860170630/9-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-09-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/" }] }
+      ]
+    },
+    {
+      "name": "Sport",
+      "artikel": [
+        { "titel": "Bundesliga: Bayern, Dortmund und Leverkusen gewinnen", "text": "Am Wochenende war der 9. Spieltag. Dortmund schlug Elversberg mit 2:1, Bayern gewann in Mainz und Leipzig siegte deutlich gegen Augsburg. Stuttgart gewann 1:0 gegen Bremen.\n\nAm Sonntag holte Leverkusen beim 1. FC Köln einen 2:1-Sieg, Freiburg schlug Union Berlin mit 2:0. Paderborn und Frankfurt trennten sich unentschieden.", "quellen": [{ "name": "fussballdaten.de", "url": "https://www.fussballdaten.de/news/bayern-bvb-leipzig-vfb-siegen-bundesliga-ergebnisse-7-november-2026/" }, { "name": "hessenschau", "url": "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-1bl100.html" }] }
+      ]
+    },
+    {
+      "name": "Klatsch & Tratsch",
+      "artikel": [
+        { "titel": "Sylvie Meis in ihrer ersten Serien-Hauptrolle", "text": "Sylvie Meis spielt zum ersten Mal die Hauptrolle in einer Fernsehserie. Eine Szene hat sie dabei viel Mut gekostet, erzählt sie. Eine Nacktszene war es aber nicht.", "quellen": [{ "name": "ZDFheute", "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html" }] },
+        { "titel": "Andrea Kiewel ist jetzt in den sozialen Medien", "text": "Die Moderatorin vom ZDF-Fernsehgarten hat Social Media für sich entdeckt.", "quellen": [{ "name": "ZDFheute", "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html" }] },
+        { "titel": "Preis für Dunja Hayali und Sarah Tacke", "text": "Bei der Verleihung des Hanns-Joachim-Friedrichs-Preises in Hamburg zeigten sich die beiden ZDF-Journalistinnen gemeinsam mit dem Preis. Er gehört zu den wichtigsten Auszeichnungen für Fernsehjournalismus.", "quellen": [{ "name": "ZDFheute", "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html" }] },
+        { "titel": "Daniel Brühl spricht ein Hörbuch", "text": "Schauspieler Daniel Brühl ist in einem neuen Hörbuch zu hören.", "quellen": [{ "name": "klatsch-tratsch.de", "url": "https://www.klatsch-tratsch.de/" }] }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Eine kleine Geschichte zum Martinstag",
+    "text": "Es war einmal ein Soldat namens Martin, der an einem eiskalten Abend vor dem Stadttor einen frierenden Bettler sah. Er hatte nichts dabei außer seinem Mantel. Also nahm er sein Schwert, schnitt den Mantel in der Mitte durch und gab dem Mann die eine Hälfte.\n\nDeshalb ziehen die Kinder heute mit Laternen durch die Straßen. Teilen wärmt nämlich beide."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "gruss": "Seid gegrüßt, Abenteurer! Die erste Woche von WoW Forever ist um. Das hat sich seitdem getan.",
+  "aufmacher": {
+    "rubrik": "Launch",
+    "titel": "Rekordstart: Forever ist der größte Launch der WoW-Geschichte",
+    "text": "Laut Blizzard hatte WoW Forever den größten Start in der Geschichte von World of Warcraft, gemessen an gleichzeitig spielenden Menschen. Auch so viele Rückkehrer wie noch nie sind dabei.\n\nDer Start war am 4. November. Die ersten Level-60-Charaktere gab es schon am 7. November, rund 52 Stunden später. Auf EU dingten fünf Horde-Charaktere von Team JokerD fast gleichzeitig.",
+    "quellen": [
+      { "name": "Zockify", "url": "https://www.zockify.com/forever/news/" },
+      { "name": "wowguide.net", "url": "https://wowguide.net/en/guides/wow-forever-release-date" }
+    ]
+  },
+  "rubriken": [
+    {
+      "name": "Hotfixes & Patches",
+      "artikel": [
+        { "titel": "Dungeon-Gegner geben 50 % mehr EP", "text": "Mit einem Hotfix vom 8. November hat Blizzard die Erfahrung für Kills in Dungeons um 50 Prozent erhöht. Das hat Kaivax angekündigt. Dungeon-Leveln lohnt sich damit deutlich mehr.", "quellen": [{ "name": "Zockify", "url": "https://www.zockify.com/forever/news/" }] },
+        { "titel": "Undermine-Schmuckstücke abgeschwächt, Hexer reiten früher", "text": "Ein Server-Hotfix für Build 1.60.1.70862 schwächt drei Schmuckstücke aus Undermine. Hexer können jetzt über Summon Felsteed die Reitfertigkeit Apprentice Riding lernen.", "quellen": [{ "name": "Zockify", "url": "https://www.zockify.com/forever/news/" }] },
+        { "titel": "Hotfixes vom 6. November", "text": "Die große Hotfix-Liste behebt Fehler bei Klassen, Dungeons, Quests, Berufen und in der Spielwelt. Unter anderem sinkt die nötige Skillstufe fürs Tanning Rack von 140 auf 125, und die Quest „Vorsha the Lasher“ funktioniert wieder.", "quellen": [{ "name": "Blizzard News", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-6-2026" }, { "name": "Blizzard-Forum", "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-6-2026/2403040" }] },
+        { "titel": "Morgen kommen Klassen-Hotfixes", "text": "Blizzard will am Dienstag, 10. November, Hotfixes für Klassen aufspielen. Laut Fan-Seiten geht es vor allem um Voidwalker, Jäger-Begleiter, Gebrechen-Hexer und Verstärkungs-Schamanen. Offiziell bestätigt ist bisher nur der Termin.", "quellen": [{ "name": "wowguide.net", "url": "https://wowguide.net/en/guides/wow-forever-release-date" }] }
+      ]
+    },
+    {
+      "name": "Gold & Wirtschaft",
+      "artikel": [
+        { "titel": "Kein Bonusgold mehr für Quests auf Level 60", "text": "Auf Level 60 wandeln Quests ihre Erfahrung nicht mehr in Bonusgold um. Laut einem Blizzard-Entwickler ist das so gewollt. Wer Gold farmen will, sollte also besser auf andere Wege setzen.", "quellen": [{ "name": "Zockify", "url": "https://www.zockify.com/forever/news/" }] },
+        { "titel": "AH-Mindestgebühr sinkt auf 1 Kupfer", "text": "Die Mindest-Einstellgebühr im Auktionshaus soll von 1 Silber auf 1 Kupfer sinken. Das haben Entwickler im Interview mit Crix gesagt. Einen Termin dafür gibt es noch nicht.", "quellen": [{ "name": "Zockify", "url": "https://www.zockify.com/forever/news/" }] }
+      ]
+    },
+    {
+      "name": "Dungeons & Guides",
+      "artikel": [
+        { "titel": "Drowned City und Krol'dok Stronghold: mehr Quests bekannt", "text": "Die Guides zu den beiden neuen Dungeons haben weitere Quests, Vorquests für die Allianz und neu entdeckte Belohnungen dazubekommen. Ganz vollständig sind sie noch nicht.", "quellen": [{ "name": "Zockify", "url": "https://www.zockify.com/forever/news/" }] }
+      ]
+    },
+    {
+      "name": "Termine",
+      "artikel": [
+        { "titel": "Freunde-werben-Codes nur noch bis Mittwoch", "text": "Die Invite-A-Friend-Codes aus den Vorbesteller-Paketen gelten nur in der Launch-Woche, also bis zum 11. November.", "quellen": [{ "name": "wowguide.net", "url": "https://wowguide.net/en/guides/wow-forever-release-date" }] },
+        { "titel": "Warcraft Forever Collection nur bis 11. Januar", "text": "Ab dem 11. Januar 2027 wird die Warcraft Forever Collection nicht mehr verkauft.", "quellen": [{ "name": "wowguide.net", "url": "https://wowguide.net/en/guides/wow-forever-release-date" }] }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages",
+    "text": "Mit 50 % mehr Dungeon-EP lohnt sich heute eine Gruppe für den nächsten Dungeon. Morgen kommen die Klassen-Hotfixes, also vor dem Umskillen lieber noch einen Tag warten."
+  }
+}

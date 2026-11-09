@@ -1,0 +1,51 @@
+{
+  "gruss": "Guten Morgen, Tim! Heute gibt es Neues zur Pflegekasse, Baustellen in Mülheim und schwache Switch-2-Zahlen.",
+  "aufmacher": {
+    "rubrik": "Altenpflege",
+    "titel": "Die Pflegeversicherung braucht Geld vom Bund",
+    "text": "Die Pflegeversicherung bekommt im November zum ersten Mal ein zusätzliches Darlehen vom Bund. Das Gesundheitsministerium hat das der dpa bestätigt. Wie viel Geld genau fließt, steht noch nicht fest. Der Haushaltsausschuss des Bundestags hatte Anfang Oktober bis zu 700 Millionen Euro freigegeben.\n\nGleichzeitig berät der Bundestag in erster Lesung über das Pflegeneuordnungsgesetz. Abgeordnete von Union und SPD wollen beim geplanten Sozialraumbudget nachbessern. Der Deutsche Pflegerat begrüßt die vorgesehene Pflegebegleitung.",
+    "quellen": [
+      { "name": "onvista / dpa-AFX", "url": "https://onvista.de/news/2026/11-07-roundup-pflegeversicherung-bekommt-extra-geldspritze-im-november-0-10-26573767" },
+      { "name": "Altenheim", "url": "https://www.altenheim.net/" },
+      { "name": "Altenpflege-Online", "url": "https://www.altenpflege-online.net/" }
+    ]
+  },
+  "rubriken": [
+    {
+      "name": "Mülheim an der Ruhr",
+      "artikel": [
+        { "titel": "Walkmühlenstraße bekommt neuen Belag", "text": "Ab heute bis einschließlich 27. November wird die Fahrbahn zwischen der B1-Brücke und der Essener Straße erneuert. Autofahrer und Busfahrgäste müssen mit Sperrungen und Umleitungen rechnen.", "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/" }, { "name": "Stadt Mülheim", "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen" }] },
+        { "titel": "Fußgänger in Styrum schwer verletzt", "text": "An der Kreuzung Hauskampstraße/Limburgstraße hat am Donnerstag ein Auto einen Fußgänger erfasst. Der Mann wurde schwer verletzt. Die Polizei sucht Zeugen.", "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/" }] },
+        { "titel": "Mülheimer App für Blinde ausgezeichnet", "text": "Die Mülheimer Firma NFC21 hat für ihre App SenseTap einen internationalen Innovationspreis gewonnen. Die App hilft blinden und sehbehinderten Menschen im Alltag.", "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/" }] },
+        { "titel": "Stadt sucht Investor für neue Polizeiwache", "text": "Für eine neue Polizeiinspektion bietet die Stadt zwei Grundstücke an: an der Parallelstraße und am Klöttschen. Investoren können sich jetzt bewerben.", "quellen": [{ "name": "Stadt Mülheim", "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen" }] }
+      ]
+    },
+    {
+      "name": "Deutschland",
+      "artikel": [
+        { "titel": "Ilse Aigner soll Bundespräsidentin werden", "text": "Die CDU-Spitze will auf Vorschlag von Friedrich Merz die bayerische Landtagspräsidentin Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin nominieren. Ihr werden gute Chancen eingeräumt.", "quellen": [{ "name": "news.de", "url": "https://www.news.de/panorama/860170630/9-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-09-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/" }] },
+        { "titel": "9. November: Tag der Erinnerung", "text": "Heute vor 37 Jahren fiel die Berliner Mauer, vor 88 Jahren brannten in der Pogromnacht die Synagogen. Kanzler Merz rief dazu auf, die Demokratie in Deutschland und Europa zu schützen. Auch in Mülheim gedenkt die Stadt gemeinsam mit der Jüdischen Gemeinde der Opfer.", "quellen": [{ "name": "ZDFheute", "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html" }, { "name": "Stadt Mülheim", "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen" }] }
+      ]
+    },
+    {
+      "name": "Altenpflege",
+      "artikel": [
+        { "titel": "Studie: Mitbestimmung macht Heimbewohner zufriedener", "text": "Eine internationale Übersichtsarbeit mit 30 Studien und gut 5.000 Teilnehmenden zeigt: Wer im Heim mehr selbst bestimmen darf, hat mehr Lebensqualität. Bei Menschen mit Demenz können Unruhe und herausforderndes Verhalten abnehmen.", "quellen": [{ "name": "Care vor9", "url": "https://www.carevor9.de/" }] },
+        { "titel": "Termine im November", "text": "Am 19. und 20. November findet der ZukunftsSalon der Stiftung Zukunft Altenpflege statt, am 23. und 24. November folgt in Berlin das zweite Modul der Akademie 2040. Die nächste Fachmesse care:xpo ist für April 2027 in Nürnberg angekündigt.", "quellen": [{ "name": "Stiftung Zukunft Altenpflege", "url": "https://stiftung-zukunft-altenpflege.de/" }] }
+      ]
+    },
+    {
+      "name": "Gaming & Tech",
+      "artikel": [
+        { "titel": "Switch 2 verkauft sich deutlich schlechter", "text": "Nintendo hat im Quartal bis Ende September 2,67 Millionen Switch 2 verkauft, 41 Prozent weniger als im Vorjahr. Als ein Grund gilt die Preiserhöhung im September. Eine weitere Erhöhung plant Nintendo laut Präsident Shuntaro Furukawa nicht. Insgesamt liegt die Switch 2 aber immer noch rund 6 Millionen Geräte vor der ersten Switch zum selben Zeitpunkt.", "quellen": [{ "name": "CNBC", "url": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html" }, { "name": "The Shortcut", "url": "https://www.theshortcut.com/p/nintendo-rules-out-another-switch-2-price-hike-for-now" }, { "name": "My Nintendo News", "url": "https://mynintendonews.com/2026/11/08/despite-nintendo-switch-2-sales-dropping-by-37-it-is-still-6-million-ahead-of-original-switch" }] },
+        { "titel": "Neu auf der Switch 2", "text": "Stellar Blade ist diese Woche auf der Switch 2 erschienen, außerdem gibt es jetzt Call of Duty: Warzone für die Konsole. Die Zelda-Sonderedition zum 40. Jubiläum ist in den USA weiterhin schwer zu bekommen.", "quellen": [{ "name": "Nintendo News", "url": "https://nintendonews.com/" }, { "name": "Tom's Guide", "url": "https://tomsguide.com/news/live/zelda-edition-switch-2-console-restock-live-updates" }] },
+        { "titel": "Steam prüft neue Spiele langsamer", "text": "Valve kommt mit der Prüfung neuer Spiele kaum hinterher: Eine Freigabe dauert derzeit bis zu 12 Werktage. Beobachter sehen die Flut an KI-Spielen als Grund, Valve selbst sagt das nicht. Vom 16. bis 23. November läuft das Auto-Battler-RPG-Fest auf Steam.", "quellen": [{ "name": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/" }, { "name": "Game Developer", "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games" }] },
+        { "titel": "WoW Forever: größter Start der WoW-Geschichte", "text": "Blizzard meldet für WoW Forever den größten Launch aller Zeiten, gemessen an gleichzeitig spielenden Menschen. Die Details stehen im Forever-Boten.", "quellen": [{ "name": "Zockify", "url": "https://www.zockify.com/forever/news/" }] }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Zum Schluss",
+    "text": "In Saarn zieht heute um 17 Uhr der Martinszug vom Pastor-Luhr-Platz los. Wenn du abends Laternen siehst, weißt du jetzt, warum."
+  }
+}

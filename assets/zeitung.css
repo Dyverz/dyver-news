@@ -1,0 +1,62 @@
+/* Grundgerüst für alle drei Zeitungen; die Themes stehen unten. */
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--text-font); font-size: var(--size, 17px); line-height: 1.55; }
+#zeitung { max-width: 1060px; margin: 0 auto; padding: 24px 16px 48px; }
+a { color: var(--accent); }
+.leer { text-align: center; padding: 4rem 0; color: var(--muted); }
+
+.kopf { text-align: center; border-bottom: 3px double var(--line-strong); padding-bottom: 14px; margin-bottom: 18px; }
+.kopfzeile { display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap; font-size: .8em; text-transform: uppercase;
+             letter-spacing: .08em; color: var(--muted); border-bottom: 1px solid var(--line); padding-bottom: 8px; margin-bottom: 10px; font-family: var(--ui-font); }
+.titel { font-family: var(--title-font); font-size: clamp(2.2rem, 7vw, 4.4rem); margin: .1em 0 0; line-height: 1.05; font-weight: var(--title-weight, 700); color: var(--title-ink, var(--ink)); }
+.unterzeile { color: var(--muted); font-style: italic; margin-top: 4px; }
+.gruss { font-size: 1.15em; text-align: center; margin: 0 0 16px; }
+.wetter { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 10px 14px; margin-bottom: 20px; text-align: center; font-family: var(--ui-font); font-size: .95em; }
+
+.aufmacher { border-bottom: 1px solid var(--line); padding-bottom: 18px; margin-bottom: 22px; }
+.aufmacher h2 { font-family: var(--title-font); font-size: clamp(1.6rem, 4.5vw, 2.5rem); line-height: 1.15; margin: .15em 0 .4em; }
+.aufmacher .text { font-size: 1.08em; columns: 2 320px; column-gap: 28px; }
+.aufmacher .text p:first-child { margin-top: 0; }
+.rubrik { font-family: var(--ui-font); font-size: .75em; text-transform: uppercase; letter-spacing: .12em; color: var(--accent); font-weight: 700; }
+
+.rubrikblock { margin-bottom: 26px; }
+.rubrikname { font-family: var(--ui-font); font-size: .85em; text-transform: uppercase; letter-spacing: .14em; color: var(--accent);
+              border-top: 2px solid var(--line-strong); padding-top: 8px; margin: 0 0 12px; }
+.artikelgrid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px 28px; }
+.artikel { background: var(--card-article, transparent); border-radius: var(--radius); padding: var(--article-pad, 0); }
+.artikel h4 { font-family: var(--title-font); font-size: 1.25em; line-height: 1.25; margin: 0 0 .35em; }
+.artikel .text p { margin: 0 0 .6em; }
+.quellen { font-family: var(--ui-font); font-size: .78em; color: var(--muted); }
+.quellen a { color: var(--muted); }
+
+.schluss { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 22px; margin-top: 10px; }
+.schluss h3 { font-family: var(--title-font); margin: 0 0 .4em; font-size: 1.35em; }
+.fuss { margin-top: 30px; padding-top: 14px; border-top: 1px solid var(--line); display: flex; justify-content: space-between; align-items: center;
+        gap: 12px; flex-wrap: wrap; font-family: var(--ui-font); font-size: .85em; color: var(--muted); }
+.fuss select { font: inherit; padding: 4px 6px; margin-left: 6px; background: var(--card); color: var(--ink); border: 1px solid var(--line); border-radius: 6px; max-width: 100%; }
+
+/* Tim: modern, klar */
+body.tim { --bg:#f6f7f9; --card:#fff; --ink:#15181e; --muted:#667085; --accent:#2563eb; --line:#e3e6ec; --line-strong:#15181e;
+  --text-font: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; --ui-font: system-ui, -apple-system, "Segoe UI", sans-serif;
+  --title-font: "Segoe UI", system-ui, sans-serif; --title-weight: 800; --radius: 12px; --card-article:#fff; --article-pad: 16px; }
+@media (prefers-color-scheme: dark) {
+  body.tim { --bg:#0f1115; --card:#181b22; --card-article:#181b22; --ink:#e8eaee; --muted:#9aa3b2; --accent:#6ea0ff; --line:#2a2f3a; --line-strong:#e8eaee; }
+}
+
+/* Mama: klassische Zeitung, große Schrift */
+body.mama { --size: 20px; --bg:#f7f2e7; --card:#fffaf0; --ink:#231f1a; --muted:#6b6255; --accent:#9b2d20; --line:#d9cdb6; --line-strong:#231f1a;
+  --text-font: Georgia, "Times New Roman", serif; --ui-font: Verdana, Tahoma, sans-serif; --title-font: Georgia, "Times New Roman", serif; --radius: 6px; }
+body.mama .titel { font-style: italic; }
+body.mama .artikelgrid { grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); }
+@media (prefers-color-scheme: dark) {
+  body.mama { --bg:#1c1a16; --card:#26231d; --ink:#f0e9db; --muted:#b3a993; --accent:#e58a6f; --line:#3e392f; --line-strong:#f0e9db; }
+}
+
+/* WoW: Pergament und Gold */
+body.wow { --bg:#120f0b; --card:#1f1a12; --card-article:#1f1a12; --ink:#eadfc8; --muted:#a8987a; --accent:#f0b543; --line:#3d3221; --line-strong:#c8952f;
+  --title-ink:#f6c457; --text-font: Georgia, "Palatino Linotype", serif; --ui-font: "Trebuchet MS", system-ui, sans-serif;
+  --title-font: "Palatino Linotype", "Book Antiqua", Georgia, serif; --radius: 4px; --article-pad: 16px;
+  background-image: radial-gradient(ellipse at top, #2a2014 0%, #120f0b 60%); background-attachment: fixed; }
+body.wow .titel { text-shadow: 0 2px 18px rgba(240,181,67,.35); letter-spacing: .02em; }
+body.wow .artikel { border: 1px solid var(--line); }
+body.wow .rubrikname { color: #ff8000; }
