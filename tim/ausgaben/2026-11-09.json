@@ -1,51 +1,436 @@
 {
-  "gruss": "Guten Morgen, Tim! Heute gibt es Neues zur Pflegekasse, Baustellen in Mülheim und schwache Switch-2-Zahlen.",
+  "gruss": "Guten Morgen, Tim! Montag, 9. November: Die Pflegereform soll nachgebessert werden, die Walkmühlenstraße ist ab heute dicht, und die Switch 2 verkauft sich schwächer als im Vorjahr. Los geht's.",
   "aufmacher": {
     "rubrik": "Altenpflege",
-    "titel": "Die Pflegeversicherung braucht Geld vom Bund",
-    "text": "Die Pflegeversicherung bekommt im November zum ersten Mal ein zusätzliches Darlehen vom Bund. Das Gesundheitsministerium hat das der dpa bestätigt. Wie viel Geld genau fließt, steht noch nicht fest. Der Haushaltsausschuss des Bundestags hatte Anfang Oktober bis zu 700 Millionen Euro freigegeben.\n\nGleichzeitig berät der Bundestag in erster Lesung über das Pflegeneuordnungsgesetz. Abgeordnete von Union und SPD wollen beim geplanten Sozialraumbudget nachbessern. Der Deutsche Pflegerat begrüßt die vorgesehene Pflegebegleitung.",
+    "titel": "Pflegereform: Koalition will nachbessern",
+    "unterzeile": "Das Pflegeneuordnungsgesetz soll am 1. Januar 2027 starten, aber selbst die Regierungsfraktionen sehen Lücken",
+    "text": "Das Pflegeneuordnungsgesetz (PNOG) soll ein Loch von rund acht Milliarden Euro in der sozialen Pflegeversicherung stopfen. Das Kabinett hat den Entwurf am 30. September beschlossen. Der Plan kombiniert Leistungskürzungen mit höheren Einnahmen: neue Budgets für die häusliche Pflege, ein höherer Beitragszuschlag für Kinderlose und strengere Hürden bei den Pflegegraden 1 bis 3. Im Bundestag haben Abgeordnete von Union und SPD signalisiert, dass sie nachbessern wollen, etwa bei den \"Abbruchkanten\" und beim neuen Sozialraumbudget.\n\nBesonders umstritten: Pflegegrad 1 soll den Entlastungsbetrag von 131 Euro verlieren. Die CDU-Abgeordnete Simone Borchardt hat laut Bericht angekündigt, dass die Koalition das ablehnt. Die Deutsche Stiftung Patientenschutz spricht von der \"größten Mogelpackung seit Bestehen der Pflegeversicherung\". Die zweite und dritte Lesung sind für Dezember geplant. Ein Risiko ist der Bundesrat: Mehrere Länder haben laut Bericht angekündigt, das Gesetz abzulehnen. Die Angaben beruhen auf Entwürfen und Kabinettsbeschlüssen, es ist noch nichts beschlossen.",
     "quellen": [
-      { "name": "onvista / dpa-AFX", "url": "https://onvista.de/news/2026/11-07-roundup-pflegeversicherung-bekommt-extra-geldspritze-im-november-0-10-26573767" },
-      { "name": "Altenheim", "url": "https://www.altenheim.net/" },
-      { "name": "Altenpflege-Online", "url": "https://www.altenpflege-online.net/" }
+      { "name": "Deutscher Bundestag", "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-pflegeneuordnungsgesetz-1225076" },
+      { "name": "pflege.de", "url": "https://www.pflege.de/pflegegesetz-pflegerecht/pflegeneuordnungsgesetz-pnog/" },
+      { "name": "taz", "url": "https://taz.de/Pflegereform-im-Bundestag/!6227720/" },
+      { "name": "Altenheim", "url": "https://www.altenheim.net/pnog-koalition-will-beim-sozialraumbudget-nachbessern/" }
     ]
   },
-  "rubriken": [
+  "seiten": [
     {
-      "name": "Mülheim an der Ruhr",
+      "titel": "Mülheim an der Ruhr",
       "artikel": [
-        { "titel": "Walkmühlenstraße bekommt neuen Belag", "text": "Ab heute bis einschließlich 27. November wird die Fahrbahn zwischen der B1-Brücke und der Essener Straße erneuert. Autofahrer und Busfahrgäste müssen mit Sperrungen und Umleitungen rechnen.", "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/" }, { "name": "Stadt Mülheim", "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen" }] },
-        { "titel": "Fußgänger in Styrum schwer verletzt", "text": "An der Kreuzung Hauskampstraße/Limburgstraße hat am Donnerstag ein Auto einen Fußgänger erfasst. Der Mann wurde schwer verletzt. Die Polizei sucht Zeugen.", "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/" }] },
-        { "titel": "Mülheimer App für Blinde ausgezeichnet", "text": "Die Mülheimer Firma NFC21 hat für ihre App SenseTap einen internationalen Innovationspreis gewonnen. Die App hilft blinden und sehbehinderten Menschen im Alltag.", "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/" }] },
-        { "titel": "Stadt sucht Investor für neue Polizeiwache", "text": "Für eine neue Polizeiinspektion bietet die Stadt zwei Grundstücke an: an der Parallelstraße und am Klöttschen. Investoren können sich jetzt bewerben.", "quellen": [{ "name": "Stadt Mülheim", "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen" }] }
+        {
+          "titel": "Walkmühlenstraße: Seit heute Baustelle bis 27. November",
+          "unterzeile": "Neue Fahrbahndecke zwischen B1-Brücke und Essener Straße",
+          "text": "Von heute, Montag, 9. November, bis einschließlich Freitag, 27. November wird die Fahrbahndecke der Walkmühlenstraße zwischen der B1-Brücke und der Essener Straße erneuert. Die Stadt kündigt Einschränkungen und Sperrungen an.\n\nLaut Radio Mülheim ist die Straße für die Asphaltarbeiten komplett gesperrt, auch für Anlieger. Für die Fräsarbeiten ist eine Vollsperrung von der Essener Straße bis zur Tilsiter Straße vorgesehen. Die Buslinie 151 wird umgeleitet. Schlechtes Wetter kann alles verzögern. Plan also lieber ein paar Minuten mehr ein.",
+          "quellen": [
+            { "name": "Stadt Mülheim an der Ruhr", "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/zwischen-bruecke-b1-und-essener-strasse-instandsetzung-der" },
+            { "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/artikel/walkmuehlenstrasse-in-muelheim-vollsperrung-ab-9-november-2799703" }
+          ]
+        },
+        {
+          "titel": "Styrum: Fußgänger angefahren, Polizei sucht Zeugen",
+          "text": "Am 5. November wurde in Styrum ein 27-jähriger Fußgänger von einem Auto angefahren und schwer verletzt. Die Polizei meldet am 6. November, dass sie den Fahrer und Zeugen des Unfalls sucht. Wer etwas gesehen hat, sollte sich bei der Polizei Essen melden, die auch für Mülheim zuständig ist.",
+          "quellen": [
+            { "name": "Polizei Essen / Presseportal", "url": "https://www.presseportal.de/blaulicht/pm/11562/6385580" }
+          ]
+        },
+        {
+          "titel": "B1 Kölner Straße: Stadt machte Druck auf Straßen.NRW",
+          "text": "Im August hat die Stadt Mülheim den Landesbetrieb Straßen.NRW aufgefordert, Mängel an einer Baustelle auf der B1 Kölner Straße zu beheben. Es ging laut Stadt um fehlerhafte Beschilderung, darunter fehlende Sackgassenschilder. Der Landesbetrieb sagte zu, die Mängel noch am selben Tag zu beseitigen. Ob inzwischen alles erledigt ist, steht in den Quellen nicht. Die Meldung ist also älter, erklärt aber, warum die Stadt bei der B1 so genau hinschaut.",
+          "quellen": [
+            { "name": "Stadt Mülheim an der Ruhr", "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/b1-koelner-strasse-stadt-muelheim-fordert-strassennrw-zu" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Walkmühlenstraße: Bauarbeiten 9. bis 27. November, Linie 151 umgeleitet",
+          "Polizei Essen sucht Zeugen zum Unfall in Styrum (5. November)",
+          "Laut Stadt werden für eine neue Polizeiinspektion noch Investoren gesucht"
+        ],
+        "quellen": [
+          { "name": "Stadt Mülheim an der Ruhr", "url": "https://cms.muelheim-ruhr.de/" }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim & Ruhrgebiet",
+      "artikel": [
+        {
+          "titel": "Bergbauschaden bremst Regionalzüge rund um Essen",
+          "unterzeile": "Mehrere RE-Linien mit Verspätungen und Ausfällen",
+          "text": "Laut VRR-Startseite beeinflusst weiterhin ein Bergbauschaden den Zugverkehr rund um Essen. Betroffen sind RE 1, RE 2, RE 6, RE 11, RE 14, RE 42 und RE 49. Es gibt Verspätungen, Zusatzhalte und Ausfälle. Aktuelle Details stehen auf zuginfo.nrw. Wer heute pendelt, schaut besser vorher nach.",
+          "quellen": [
+            { "name": "VRR", "url": "https://www.vrr.de/" },
+            { "name": "zuginfo.nrw", "url": "https://www.zuginfo.nrw/?categories=1&sParam=LMOD_&sIncrease=DESC&perma=true" }
+          ]
+        },
+        {
+          "titel": "S1: Oberleitungsarbeiten ab 27. November",
+          "text": "Auf der S 1 gibt es vom 27. November bis 12. Dezember Zugausfälle zwischen Mülheim-Styrum und Duisburg Hbf sowie zwischen Essen Hbf und Solingen Hbf. Grund sind Oberleitungsarbeiten. Ersatzfahrpläne gibt es als Download bei zuginfo.nrw.",
+          "quellen": [
+            { "name": "zuginfo.nrw", "url": "https://www.zuginfo.nrw/?categories=1&sParam=LMOD_&sIncrease=DESC&perma=true" }
+          ]
+        },
+        {
+          "titel": "Weihnachtsmärkte in Mülheim: Das ist geplant",
+          "text": "Mehrere Verzeichnisse nennen für Mülheim die Schiffsweihnacht auf der Schleuseninsel (20. bis 29. November), den Altstadt-Adventsmarkt (27. November bis 13. Dezember) und die Broicher Schlossweihnacht (ab 5. Dezember). Die Angaben der Portale widersprechen sich teilweise bei Zeiten und Terminen. Prüf vor dem Besuch die Seiten der Veranstalter.",
+          "quellen": [
+            { "name": "alle-weihnachtsmaerkte.de", "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/" },
+            { "name": "NRW Tourismus", "url": "https://www.nrw-tourismus.de/events/broicher-schlossweihnacht-muelheim" }
+          ]
+        },
+        {
+          "titel": "Wochenende: Designmarkt auf Zollverein",
+          "text": "Am 14. und 15. November gibt es auf Zollverein in Essen einen Kunsthandwerk- und Designmarkt in der historischen Industriehalle. Am 15. November zeigen beim Markt der schönen Dinge über 50 regionale Aussteller ihre Arbeiten. Die Angaben stammen aus Veranstaltungskalendern, ohne Gewähr.",
+          "quellen": [
+            { "name": "Veranstaltungen Ruhrgebiet 2026", "url": "https://steinkunstwerk.de/blogs/ruhrgebiet-kalender/veranstaltungen-ruhrgebiet-2026" },
+            { "name": "Kulturinfo Ruhr", "url": "https://kulturinfo.ruhr/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine der Woche",
+        "punkte": [
+          "13.11.: \"Eulenspiegel\" im Stadttheater Duisburg",
+          "14./15.11.: Kunsthandwerk und Design auf Zollverein, Essen",
+          "15.11.: Markt der schönen Dinge",
+          "20.11.: Start Schiffsweihnacht Mülheim (laut Verzeichnis)",
+          "27.11.: Start Altstadt-Adventsmarkt Mülheim"
+        ],
+        "quellen": [
+          { "name": "eventfinder Duisburg", "url": "https://www.eventfinder.de/duisburg/veranstaltungen/november/" },
+          { "name": "alle-weihnachtsmaerkte.de", "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/" }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Politik",
+      "artikel": [
+        {
+          "titel": "Rentenreform: Merz rückt von Zeitplan ab",
+          "unterzeile": "Vor Weihnachten soll nur der rentenrechtliche Teil durchs Kabinett",
+          "text": "Laut t-online vom 5. November rückt Kanzler Merz von seinem Versprechen ab, die gesamte Rentenreform bis Weihnachten durchs Kabinett zu bringen. Die Kapitalrente soll demnach erst 2027 gesetzlich kommen. Vor Weihnachten soll nur der rentenrechtliche Teil beschlossen werden, etwa die Kopplung des Renteneintrittsalters an die Lebenserwartung. Ende August war der Zeitplan noch anders angekündigt worden.\n\nnd-aktuell berichtet, die Mehrheit für das Paket im Bundestag sei wackelig, weil 18 jüngere Unionsabgeordnete Bedenken haben.",
+          "quellen": [
+            { "name": "t-online", "url": "https://www.t-online.de/finanzen/ratgeber/altersvorsorge/gesetzlicherente/id_101513986/rentenreform-merz-rueckt-bei-schweden-rente-von-zusage-ab.html" },
+            { "name": "nd-aktuell", "url": "https://www.nd-aktuell.de/artikel/1195770.haushaltsdebatte-generaldebatte-im-bundestag-merz-appelliert-an-unions-abweichler.html" }
+          ]
+        },
+        {
+          "titel": "Junge Gruppe: Streit ums Rentenniveau nach 2031",
+          "text": "Union und SPD wollen das Rentenniveau bis 2031 bei 48 Prozent halten. Die Junge Gruppe der Union stört sich an einer Passage, nach der das Niveau auch danach etwas höher liegen soll. Das würde laut Junger Union bis 2040 bis zu 120 Milliarden Euro Mehrkosten verursachen. Arbeitsministerin Bas (SPD) lehnt weitere Zugeständnisse ab. Die Quellen sind teils älter, der aktuelle Verhandlungsstand ist unklar.",
+          "quellen": [
+            { "name": "WirtschaftsWoche", "url": "https://www.wiwo.de/politik/deutschland/koalition-loesung-im-rentenstreit-nicht-in-sicht/100175876.html" },
+            { "name": "taz", "url": "https://taz.de/Streit-ueber-Rentenpaket/!6126504/" }
+          ]
+        },
+        {
+          "titel": "Merz zieht positive Zwischenbilanz",
+          "text": "In einer Regierungserklärung im Sommer nannte Kanzler Merz die Koalition \"geschlossen, stark und selbstbewusst\". Er verwies auf Entscheidungen zu Rente, Krankenversicherung, Einkommensteuer, Arbeitsmarkt, Infrastruktur und Bürokratieabbau. Die Opposition sieht das anders: Die AfD spricht von einem Endstadium der Koalition, die Grünen werfen Merz vor, eine Regierung ohne eigene Mehrheit zu führen. Die Koalition hat 328 von 630 Sitzen, die Mehrheit liegt bei 316.",
+          "quellen": [
+            { "name": "Deutscher Bundestag", "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw28-de-regierungserklaerung-1193984" },
+            { "name": "Koalitionsrechner", "url": "https://koalitions-rechner.de/bundestag.html" }
+          ]
+        },
+        {
+          "titel": "Grundsicherung: AfD rechnet mit Mehrkosten",
+          "text": "Das Bürgergeld wurde laut AfD-Bundestagsfraktion im Juli 2026 vom Grundsicherungsgeld abgelöst. Die Fraktion, also eine Oppositionspartei, wirft der Regierung vor, dass der Bund 2026 zusätzlich 250 Millionen Euro bereitstellen muss und die Reform kaum spart. Das ist eine parteiische Darstellung, die Zahlen solltest du nicht ungeprüft übernehmen.",
+          "quellen": [
+            { "name": "AfD-Fraktion im Bundestag (Oppositionssicht)", "url": "https://afdbundestag.de/grundsicherung-wird-durch-merz-reform-teurer-statt-billiger" }
+          ]
+        }
       ]
     },
     {
-      "name": "Deutschland",
+      "titel": "Deutschland: Wirtschaft & Verbraucher",
       "artikel": [
-        { "titel": "Ilse Aigner soll Bundespräsidentin werden", "text": "Die CDU-Spitze will auf Vorschlag von Friedrich Merz die bayerische Landtagspräsidentin Ilse Aigner als Kandidatin für das Amt der Bundespräsidentin nominieren. Ihr werden gute Chancen eingeräumt.", "quellen": [{ "name": "news.de", "url": "https://www.news.de/panorama/860170630/9-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-09-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/" }] },
-        { "titel": "9. November: Tag der Erinnerung", "text": "Heute vor 37 Jahren fiel die Berliner Mauer, vor 88 Jahren brannten in der Pogromnacht die Synagogen. Kanzler Merz rief dazu auf, die Demokratie in Deutschland und Europa zu schützen. Auch in Mülheim gedenkt die Stadt gemeinsam mit der Jüdischen Gemeinde der Opfer.", "quellen": [{ "name": "ZDFheute", "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html" }, { "name": "Stadt Mülheim", "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen" }] }
+        {
+          "titel": "Inflation: Energie treibt die Preise",
+          "unterzeile": "September mit 3,3 Prozent der Jahreshöchstwert",
+          "text": "Destatis meldet für September 2026 eine Inflationsrate von 3,3 Prozent, den höchsten Wert des Jahres. Energie war fast 15 Prozent teurer als im Vorjahr, vor allem wegen Kraftstoffen und Heizöl. Haushaltsstrom (minus 5,5 Prozent) und Gas (minus 2,8 Prozent) waren dagegen noch günstiger als vor einem Jahr.\n\nFür Oktober nennt ein Bericht eine vorläufige Rate von 2,8 Prozent. Diese Zahl stammt aus einer einzelnen Quelle, sieh für Genaues bei Destatis nach.",
+          "quellen": [
+            { "name": "Destatis", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html" },
+            { "name": "Verbraucherschutzforum Berlin", "url": "https://verbraucherschutzforum.berlin/2026-11-03/rentenerhoehung-2027-mehr-als-vier-prozent-zusaetzlich-doch-die-inflation-koennte-das-plus-wieder-auffressen-444628/" }
+          ]
+        },
+        {
+          "titel": "Strom und Gas für Haushalte günstiger",
+          "text": "Laut Destatis sind die Preise für Haushaltsstrom im ersten Halbjahr 2026 gegenüber dem zweiten Halbjahr 2025 um 6,4 Prozent gesunken, Gas um 5,3 Prozent. Im Schnitt zahlten Haushalte 37,97 Cent pro kWh Strom und 11,58 Cent pro kWh Gas.",
+          "quellen": [
+            { "name": "Destatis", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_345_61243.html" },
+            { "name": "netz-trends.de", "url": "https://www.netz-trends.de/destatis-strompreis-37-97-cent-gaspreis-11-58-cent-haushalte-1-halbjahr-2026-netzentgelte-bundeszuschuss-30-september-2026/" }
+          ]
+        },
+        {
+          "titel": "Arbeitsmarkt: 2,955 Millionen Arbeitslose im Oktober",
+          "text": "Die Bundesagentur für Arbeit zählte im Oktober 2,955 Millionen Arbeitslose, die Quote lag bei 6,3 Prozent. Das sind 40.000 weniger als im September, aber 44.000 mehr als vor einem Jahr. Saisonbereinigt stieg die Zahl um 4.000, die Herbstbelebung bleibt verhalten. Die Quellen nennen leicht abweichende Angaben, die Zahlen sind aus Zusammenfassungen.",
+          "quellen": [
+            { "name": "statistiken-aktuell.de", "url": "https://statistiken-aktuell.de/arbeitslosigkeit-deutschland/" },
+            { "name": "Bundeswirtschaftsministerium", "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20261014-wirt-lage-deutschland-okt-2026.html" }
+          ]
+        },
+        {
+          "titel": "Konjunktur: Erholung verliert an Schwung",
+          "text": "Die Institute erwarten in ihrer Gemeinschaftsprognose für 2026 ein reales BIP-Wachstum von 1,3 Prozent. Die Verbraucherstimmung trübt sich ein: Der HDE-Konsumbarometer fiel im Oktober auf 93,51 Punkte, 1,19 Punkte weniger als im September.",
+          "quellen": [
+            { "name": "infoboard.de", "url": "https://www.infoboard.de/konjunktur-snapshot-deutschland-im-oktober-2026/" },
+            { "name": "ms-aktuell (HDE-Konsumbarometer)", "url": "https://ms-aktuell.de/welt/hde-konsumbarometer-oktober-03-10-2026/" }
+          ]
+        },
+        {
+          "titel": "Rente 2027: Plus von gut vier Prozent im Gespräch",
+          "text": "Für 2027 wird eine Rentenerhöhung von rund 4,09 Prozent diskutiert, nach 4,24 Prozent in 2026 und 3,74 Prozent in 2025. Ein Kommentar warnt, dass die Inflation einen Teil des Plus wieder auffressen könnte. Die Zahl ist noch nicht amtlich bestätigt.",
+          "quellen": [
+            { "name": "Verbraucherschutzforum Berlin", "url": "https://verbraucherschutzforum.berlin/2026-11-03/rentenerhoehung-2027-mehr-als-vier-prozent-zusaetzlich-doch-die-inflation-koennte-das-plus-wieder-auffressen-444628/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen",
+        "punkte": [
+          "Inflation September: 3,3 %",
+          "Arbeitslosenquote Oktober: 6,3 %",
+          "Strom: 37,97 Cent/kWh (1. Halbjahr)",
+          "Gas: 11,58 Cent/kWh (1. Halbjahr)"
+        ],
+        "quellen": [
+          { "name": "Destatis", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_345_61243.html" }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Politik & Recht",
+      "artikel": [
+        {
+          "titel": "PNOG: Was die Reform für Beiträge und Leistungen bedeutet",
+          "unterzeile": "Fahrplan: zweite und dritte Lesung im Dezember, Start zum 1. Januar 2027",
+          "text": "Der Gesetzentwurf soll ein Defizit von rund acht Milliarden Euro in der sozialen Pflegeversicherung schließen, das sonst schon 2027 in Milliardenhöhe drohte. Der allgemeine Beitragssatz soll laut mehreren Quellen bei 3,6 Prozent bleiben. Ein Gutachten des IGES-Instituts kommt dagegen auf rund 4,1 Prozent, die nötig wären.\n\nBeim Kinderlosenzuschlag weichen die Quellen ab: Eine nennt 0,9 Prozent, ein früherer Referentenentwurf nur 0,7 Prozent insgesamt. Die Beitragsbemessungsgrenze soll laut mehreren Quellen auf 6.375 Euro im Monat steigen. Das sind Zahlen aus Ratgeberseiten und Entwürfen, noch nichts ist beschlossen.",
+          "quellen": [
+            { "name": "cash-online", "url": "https://www.cash-online.de/a/pflegereform-2027-bundestag-beraet-ueber-hoehere-beitraege-und-neue-pflegeleistungen-729560/" },
+            { "name": "pflege.de", "url": "https://www.pflege.de/pflegegesetz-pflegerecht/pflegeneuordnungsgesetz-pnog/" },
+            { "name": "Bundestag Drucksache 21/8869", "url": "https://dserver.bundestag.de/btd/21/088/2108869.pdf" }
+          ]
+        },
+        {
+          "titel": "Pflegegrad 1: 131 Euro Entlastungsbetrag vor dem Aus?",
+          "text": "Das neue Sozialraumbudget soll den Entlastungsbetrag für die Pflegegrade 2 bis 5 ersetzen und bietet bis zu 175 Euro im Monat, für Pflegebedürftige unter 25 bis zu 300 Euro. Pflegegrad 1 ist ausgeschlossen, dort würden 131 Euro wegfallen. Laut Bericht trifft das rund 780.000 Menschen. Die CDU-Politikerin Simone Borchardt kündigte an, den Wegfall abzulehnen. Die neue Pflegebegleitung startet laut Kritikern erst 2029.",
+          "quellen": [
+            { "name": "gegen-hartz.de", "url": "https://www.gegen-hartz.de/news/neue-pflegereform-ein-pflegegrad-ist-besonders-betroffen" },
+            { "name": "Altenheim", "url": "https://www.altenheim.net/pnog-koalition-will-beim-sozialraumbudget-nachbessern/" }
+          ]
+        },
+        {
+          "titel": "Bund schießt im November Geld nach",
+          "text": "Die Pflegeversicherung greift im November laut dpa-Bericht erstmals auf ein zusätzliches Bundesdarlehen zurück, das das Gesundheitsministerium bestätigt hat. Die Höhe ist nicht genannt. Der Haushaltsausschuss hatte Anfang Oktober bis zu 700 Millionen Euro freigegeben.",
+          "quellen": [
+            { "name": "onvista / dpa-AFX", "url": "https://onvista.de/news/2026/11-07-roundup-pflegeversicherung-bekommt-extra-geldspritze-im-november-0-10-26573767" },
+            { "name": "cash-online", "url": "https://www.cash-online.de/a/pflegeversicherung-bund-schiesst-im-november-erneut-geld-nach-729741/" }
+          ]
+        },
+        {
+          "titel": "Bundesrat und Verbände: Gegenwind für die Reform",
+          "text": "Mehrere Bundesländer haben laut Bericht angekündigt, das Gesetz abzulehnen. Der Bundesrat soll sich laut einer Quelle am 20. November damit befassen. Der Verband bpa warnt nach einer Befragung von über 2.000 Einrichtungen, dass bundesweit über 50.000 Arbeitsplätze in der ambulanten Versorgung gefährdet sein könnten. Der Paritätische hält das Sozialraumbudget für wenig flexibel. Die Positionen der Länder konnten wir nicht aus Primärquellen prüfen.",
+          "quellen": [
+            { "name": "Bibliomed Pflege", "url": "https://www.bibliomed-pflege.de/news/pflegereform-bundestag-kritik-pnog-proteste" },
+            { "name": "Altenheim", "url": "https://www.altenheim.net/pnog-koalition-will-beim-sozialraumbudget-nachbessern/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine Pflegereform",
+        "punkte": [
+          "20.11.: Bundesrat (laut einer Quelle)",
+          "Dezember: 2. und 3. Lesung im Bundestag geplant",
+          "1.1.2027: geplanter Start"
+        ],
+        "quellen": [
+          { "name": "cash-online", "url": "https://www.cash-online.de/a/pflegereform-2027-bundestag-beraet-ueber-hoehere-beitraege-und-neue-pflegeleistungen-729560/" }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Praxis & Fachwissen",
+      "artikel": [
+        {
+          "titel": "Allensbach-Studie: Pflegekräfte in NRW zufriedener",
+          "unterzeile": "63 Prozent bewerten ihre Situation positiv, 2023 waren es 51",
+          "text": "In einer Online-Befragung von 2.880 Pflegefachpersonen in NRW bewerten 63 Prozent ihre berufliche Situation positiv, 2023 waren es 51 Prozent. Die Besserung zeigt sich in nahezu allen Bereichen, besonders in der Altenpflege. Als Treiber nennt die Studie den Abbau von Pandemie-Belastungen, Tariflöhne, Personalaufbau und Digitalisierung. Handlungsbedarf sieht sie weiter beim Schichtdienst und in der Altenpflege.\n\nEinordnung: Die Studie gilt für NRW und Rheinland-Pfalz und liegt uns nur als Zusammenfassung vor.",
+          "quellen": [
+            { "name": "KU Gesundheitsmanagement", "url": "https://ku-gesundheitsmanagement.de/aus-der-praxis/berufszufriedenheit-pflege-nrw-allensbach-studie-2026" }
+          ]
+        },
+        {
+          "titel": "DBfK-Befragung: Sinn ja, Frust auch",
+          "text": "Die bundesweite DBfK-Befragung \"Pflege, wie geht es dir?\" zeigt ein gemischtes Bild. Die meisten würden den Beruf wieder wählen. Gleichzeitig sind 44 Prozent mit der Arbeitsauslastung unzufrieden und 43 Prozent mit Führung und Management. Ein Vergleich mit älteren Studien ist methodisch heikel, weil es andere Erhebungen sind. So passt das zum NRW-Bild: besser als früher, aber nicht gut.",
+          "quellen": [
+            { "name": "Bibliomed Pflege", "url": "https://www.bibliomed-pflege.de/news/dbfk-befragung-pflege-zufriedenheit-arbeitsbedingungen-2026" }
+          ]
+        },
+        {
+          "titel": "Fachkräftemangel: Das sagen die Studien",
+          "text": "Der RWI-Pflegeheim Rating Report 2024 wertete Jahresabschlüsse von 1.844 Pflegeheimen aus und rechnet damit, dass bis 2040 mehrere Hunderttausend Pflegekräfte fehlen könnten. Höhere Löhne und bessere Arbeitsbedingungen könnten die Lücke verkleinern. Ein Praxisblog nennt unter Berufung auf die Bundesagentur für Arbeit im Mai 2025 im Schnitt 296 Tage, bis eine Stelle in der Altenpflege besetzt ist. Die Zahlen sind teils älter, Prognosen hängen von Modellannahmen ab.",
+          "quellen": [
+            { "name": "Elsevier", "url": "https://www.elsevier.com/de-de/connect/was-ware-die-pflege-in-deutschland-ohne-auslandische-pflegekrafte" },
+            { "name": "Fachkräftemangel in der Pflege", "url": "https://pflege.cloud/fachkraeftemangel-pflege/" }
+          ]
+        },
+        {
+          "titel": "Ausländische Pflegekräfte: Beschäftigung wächst",
+          "text": "Laut einer IAB-Studie von 2024 wächst die Beschäftigung ausländischer Pflegekräfte besonders stark in der Altenpflege. Das ist ein Hintergrund zur laufenden Debatte, wie der Personalmangel abgefedert werden kann. Die Studie ist nicht aus diesem Monat, wir nehmen sie als Einordnung.",
+          "quellen": [
+            { "name": "IAB Forschungsbericht", "url": "https://doku.iab.de/forschungsbericht/2023/fb0823.pdf" }
+          ]
+        }
       ]
     },
     {
-      "name": "Altenpflege",
+      "titel": "Gaming: Steam & PC",
       "artikel": [
-        { "titel": "Studie: Mitbestimmung macht Heimbewohner zufriedener", "text": "Eine internationale Übersichtsarbeit mit 30 Studien und gut 5.000 Teilnehmenden zeigt: Wer im Heim mehr selbst bestimmen darf, hat mehr Lebensqualität. Bei Menschen mit Demenz können Unruhe und herausforderndes Verhalten abnehmen.", "quellen": [{ "name": "Care vor9", "url": "https://www.carevor9.de/" }] },
-        { "titel": "Termine im November", "text": "Am 19. und 20. November findet der ZukunftsSalon der Stiftung Zukunft Altenpflege statt, am 23. und 24. November folgt in Berlin das zweite Modul der Akademie 2040. Die nächste Fachmesse care:xpo ist für April 2027 in Nürnberg angekündigt.", "quellen": [{ "name": "Stiftung Zukunft Altenpflege", "url": "https://stiftung-zukunft-altenpflege.de/" }] }
-      ]
+        {
+          "titel": "Steam Machine: Preise und Lieferlage",
+          "unterzeile": "In Deutschland nur direkt über Valve",
+          "text": "Laut mehreren Quellen kostet die Steam Machine in Deutschland 1.039 Euro (512 GB), 1.108 Euro mit Controller, 1.359 Euro für 2 TB und 1.428 Euro für 2 TB mit Controller. Valve verkauft das Gerät hierzulande ausschließlich selbst über Steam. Zur Lieferzeit widersprechen sich die Quellen: Neue Wartelisten-Einträge rechnen teils mit Lieferung 2027, andere berichten von Zugriff für deutsche Kunden. Händlerangebote liegen mit rund 1.519 Euro deutlich über dem offiziellen Preis. Die Meldungen stammen überwiegend aus dem Sommer, schau im Steam-Shop nach.",
+          "quellen": [
+            { "name": "GIGA", "url": "https://www.giga.de/games/steam-machine-preis-release-und-alles-wichtige-zur-veroeffentlichung--01KB0ECBCMXF302QR3GG8FVXCW" },
+            { "name": "drohnen.de", "url": "https://www.drohnen.de/96857/steam-machine-kaufen/" },
+            { "name": "GamesWirtschaft", "url": "https://www.gameswirtschaft.de/marketing-pr/steam-machine-preis-modelle-vorbestellung-230626/" }
+          ]
+        },
+        {
+          "titel": "Steam Deck: Wirbel um Store-Weiterleitung",
+          "text": "Am 3. November leitete die Steam-Deck-Storeseite kurz um, was Gerüchte über ein Aus des Geräts auslöste. Die Seite kam am selben Tag zurück, einen offiziellen Hinweis auf eine Einstellung gibt es laut Bericht nicht. Zuvor hatte Valve am 27. Mai die Preise angehoben: OLED 512 GB auf 789 US-Dollar, 1 TB auf 949 US-Dollar, begründet mit höheren Speicherkosten. Die Meldung zu den Sales-Einbrüchen stammt von einer Schätzung eines Dritten, nicht von Valve. Die Quellen sind Fan- und Techportale.",
+          "quellen": [
+            { "name": "WindowsForum", "url": "https://windowsforum.com/news/steam-deck-store-page-returns-after-redirect-sparks-discontinuation-rumors.451291/" },
+            { "name": "shattered.io", "url": "https://shattered.io/steam-deck-price-hike-sales-drop-2026/" }
+          ]
+        },
+        {
+          "titel": "SteamOS 3.9.5 laut Bericht stabil",
+          "text": "Laut einem Techportal wurde SteamOS 3.9.5 am 23. Oktober als stabiler Build ausgerollt. Valve hat gesagt, dass Steam Machine, Steam Deck und Steam Frame dieselbe SteamOS-Basis nutzen, sodass Fixes meist für alle gelten. Ein weiterer Bericht nennt für das Oktober-Update einen 64-Bit-Client und 96 Fixes. Beides aus Sekundärquellen.",
+          "quellen": [
+            { "name": "shattered.io", "url": "https://shattered.io/steam-deck-october-2026-update-64-bit-client/" },
+            { "name": "TweakTown", "url": "https://www.tweaktown.com/news/112217/valve-rolls-out-update-for-steam-machine-release-following-steam-deck-price-hike/index.html" }
+          ]
+        },
+        {
+          "titel": "PC-Releases im November",
+          "text": "Laut PC Gamer erscheinen im November unter anderem Casualties: Unknown (9. November), Warhammer Survivors und Football Manager 27 (10. November), Barbie Rewind (12. November), Derelikt (13. November) und Athelan Battlegrounds (25. November). Arkheron startet am 27. November im Early Access. Grand Theft Auto 6 soll am 19. November erscheinen, aber nicht für PC. Bei einzelnen Titeln weichen die Termine zwischen Quellen ab.",
+          "quellen": [
+            { "name": "PC Gamer", "url": "https://www.pcgamer.com/games/november-games-2026/" },
+            { "name": "Steam Upcoming", "url": "https://store.steampowered.com/explore/upcoming/" }
+          ]
+        },
+        {
+          "titel": "Steam Scream Sale: Horror im Angebot",
+          "text": "Das Steam Scream Sale läuft laut Steam Deck HQ gerade. Das Portal empfiehlt Horrorspiele, die von der Leistung der Steam Machine profitieren. Wie lange der Sale läuft, steht nicht in der Quelle, check das im Store.",
+          "quellen": [
+            { "name": "Steam Deck HQ", "url": "https://steamdeckhq.com/news/horror-games-for-steam-machine-steam-scream-sale/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "PC-Termine",
+        "punkte": [
+          "10.11.: Football Manager 27, Warhammer Survivors",
+          "13.11.: Derelikt",
+          "25.11.: Athelan Battlegrounds",
+          "27.11.: Arkheron (Early Access)"
+        ],
+        "quellen": [
+          { "name": "PC Gamer", "url": "https://www.pcgamer.com/games/november-games-2026/" }
+        ]
+      }
     },
     {
-      "name": "Gaming & Tech",
+      "titel": "Nintendo Switch 2 & Konsolen",
       "artikel": [
-        { "titel": "Switch 2 verkauft sich deutlich schlechter", "text": "Nintendo hat im Quartal bis Ende September 2,67 Millionen Switch 2 verkauft, 41 Prozent weniger als im Vorjahr. Als ein Grund gilt die Preiserhöhung im September. Eine weitere Erhöhung plant Nintendo laut Präsident Shuntaro Furukawa nicht. Insgesamt liegt die Switch 2 aber immer noch rund 6 Millionen Geräte vor der ersten Switch zum selben Zeitpunkt.", "quellen": [{ "name": "CNBC", "url": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html" }, { "name": "The Shortcut", "url": "https://www.theshortcut.com/p/nintendo-rules-out-another-switch-2-price-hike-for-now" }, { "name": "My Nintendo News", "url": "https://mynintendonews.com/2026/11/08/despite-nintendo-switch-2-sales-dropping-by-37-it-is-still-6-million-ahead-of-original-switch" }] },
-        { "titel": "Neu auf der Switch 2", "text": "Stellar Blade ist diese Woche auf der Switch 2 erschienen, außerdem gibt es jetzt Call of Duty: Warzone für die Konsole. Die Zelda-Sonderedition zum 40. Jubiläum ist in den USA weiterhin schwer zu bekommen.", "quellen": [{ "name": "Nintendo News", "url": "https://nintendonews.com/" }, { "name": "Tom's Guide", "url": "https://tomsguide.com/news/live/zelda-edition-switch-2-console-restock-live-updates" }] },
-        { "titel": "Steam prüft neue Spiele langsamer", "text": "Valve kommt mit der Prüfung neuer Spiele kaum hinterher: Eine Freigabe dauert derzeit bis zu 12 Werktage. Beobachter sehen die Flut an KI-Spielen als Grund, Valve selbst sagt das nicht. Vom 16. bis 23. November läuft das Auto-Battler-RPG-Fest auf Steam.", "quellen": [{ "name": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/" }, { "name": "Game Developer", "url": "https://www.gamedeveloper.com/business/valve-warns-of-slower-steam-approval-process-due-to-flood-of-new-games" }] },
-        { "titel": "WoW Forever: größter Start der WoW-Geschichte", "text": "Blizzard meldet für WoW Forever den größten Launch aller Zeiten, gemessen an gleichzeitig spielenden Menschen. Die Details stehen im Forever-Boten.", "quellen": [{ "name": "Zockify", "url": "https://www.zockify.com/forever/news/" }] }
-      ]
+        {
+          "titel": "Switch 2: 26,35 Millionen verkauft, Tempo lässt nach",
+          "unterzeile": "Sommerquartal 41 Prozent unter Vorjahr",
+          "text": "Nintendo meldet zum 30. September weltweit 26,35 Millionen verkaufte Switch-2-Geräte. Im Sommerquartal waren es 2,67 Millionen, gut 41 Prozent weniger als im Vorjahreszeitraum. Die Jahresprognose bleibt bei 16,5 Millionen Einheiten bis Ende März 2027. In den USA gilt seit September laut Eurogamer ein Preis von 499,99 statt 449,99 US-Dollar.",
+          "quellen": [
+            { "name": "Gematsu", "url": "https://www.gematsu.com/2026/11/switch-2-worldwide-sales-top-26-35-million-switch-tops-157-20-million" },
+            { "name": "Hardwareluxx", "url": "https://www.hardwareluxx.de/index.php/news/consumer-electronics/konsolen/70867-neue-verkaufszahlen-switch-2-knackt-26-millionen-doch-das-tempo-laesst-nach.html" },
+            { "name": "Eurogamer", "url": "https://www.eurogamer.de/switch-2-verkaufszahlen-rekord-ps5-xbox" }
+          ]
+        },
+        {
+          "titel": "Vollgepackter November für die Switch 2",
+          "text": "Laut Nintendo und Fachportalen erscheinen im November unter anderem The Legend of Zelda: Ocarina of Time (5. November, laut Nintendo exklusiv für Switch 2) und Stellar Blade Complete Edition (5. November). Am 12. November folgen Pikmin 4 mit Dandori Academy, Metaphor: ReFantazio und Sonic Pico PARK. Am 19. November kommt The Binding of Isaac: Repentance+. Bei einigen Terminen weichen die Quellen ab.",
+          "quellen": [
+            { "name": "Nintendo", "url": "https://www.nintendo.com/de-de/News/2026/November/Diese-Spiele-erscheinen-im-November-2026--3229019.html" },
+            { "name": "GameRant", "url": "https://gamerant.com/nintendo-switch-2-new-games-coming-out-soon-list-november-oot-remake/" },
+            { "name": "ntower", "url": "https://www.ntower.de/news/100072-nintendo-switch-2-diese-spiele-erscheinen-im-november-2026/" }
+          ]
+        },
+        {
+          "titel": "Nintendo Direct: Metroid Ravenous und Kirby",
+          "text": "In der jüngsten Nintendo Direct wurden laut Nintendo unter anderem Metroid Ravenous und Kirby and the World Beyond angekündigt, dazu neue Inhalte für Pokémon Pokopia, Mario Kart World und Star Fox sowie Switch-2-Editionen von Pikmin 4 und Xenoblade Chronicles 3. Kirby soll laut Eurogamer und PCGames erst im Frühjahr 2027 erscheinen.",
+          "quellen": [
+            { "name": "Nintendo", "url": "https://www.nintendo.com/us/whatsnew/nintendo-direct-reveals-metroid-ravenous-kirby-and-the-world-beyond-and-more-games-for-nintendo-switch-2-and-nintendo-switch/" },
+            { "name": "Eurogamer", "url": "https://www.eurogamer.de/nintendo-direct-zusammenfassung-switch-2-spiele" }
+          ]
+        },
+        {
+          "titel": "PlayStation und Xbox: Teurer, schwächerer Absatz",
+          "text": "Die PS5 kostet seit 2. April in Europa laut Bericht 649,99 Euro in der regulären Version. Sony arbeitet nach eigenen Angaben im Zeitplan an der nächsten PlayStation, nennt aber weder Termin noch Preis. Der PS5-Absatz sinkt. Bei Xbox berichtet GamesWirtschaft von einer Preiserhöhung um mindestens 100 Euro zum 1. August. Das Datum der Quelle wirkt widersprüchlich, bitte nicht als gesichert nehmen.",
+          "quellen": [
+            { "name": "ms-aktuell", "url": "https://ms-aktuell.de/welt/playstation-6-sony-06-11-2026" },
+            { "name": "GamesWirtschaft", "url": "https://www.gameswirtschaft.de/wirtschaft/xbox-series-x-preiserhoehung-microsoft-260626/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Neue Spiele der Woche (Switch 2)",
+        "punkte": [
+          "12.11.: Pikmin 4 mit Dandori Academy",
+          "12.11.: Metaphor: ReFantazio",
+          "12.11.: Sonic Pico PARK",
+          "19.11.: The Binding of Isaac: Repentance+"
+        ],
+        "quellen": [
+          { "name": "GameRant", "url": "https://gamerant.com/switch-2-new-games-releasing-soon-list-november-12/" },
+          { "name": "ntower", "url": "https://www.ntower.de/news/100072-nintendo-switch-2-diese-spiele-erscheinen-im-november-2026/" }
+        ]
+      }
+    },
+    {
+      "titel": "Tech & Netz",
+      "artikel": [
+        {
+          "titel": "GhostMap: Android-Lücke ohne Patch",
+          "unterzeile": "Präparierte App kann Handys in eine Absturzschleife zwingen",
+          "text": "Bitdefender hat laut Born City eine Android-Schwachstelle namens GhostMap gemeldet, für die es noch keinen Patch gibt. Eine präparierte App kann demnach Smartphones ohne besondere Berechtigung in eine Absturzschleife zwingen. Betroffen sind alle Versionen ab Android 10. Reale Angriffe wurden bisher nicht festgestellt. Installier bis zum Patch nur Apps aus vertrauenswürdigen Quellen.",
+          "quellen": [
+            { "name": "Born City", "url": "https://borncity.com/news/ghostmap-android-schwachstelle-stuerzt-smartphones-ohne-berechtigung-ab" }
+          ]
+        },
+        {
+          "titel": "Eine SMS kann Android-Handys lahmlegen",
+          "text": "Laut GIGA erlaubt eine neu entdeckte Lücke, ein Android-Handy mit einer einzigen präparierten SMS lahmzulegen. Google hat laut Bericht bereits eine Lösung entwickelt. Halte dein Handy auf dem neuesten Stand.",
+          "quellen": [
+            { "name": "GIGA", "url": "https://giga.de/tech/diese-sms-ist-der-schlimmste-albtraum-fuer-android-handys--01M6EBXYKK7B61XN8PEYYHMQX5" }
+          ]
+        },
+        {
+          "titel": "Microsoft schließt über 1.000 Windows-Lücken",
+          "text": "Laut Born City hat Microsoft im Oktober über tausend Windows-Lücken behoben und nutzt dabei auch KI-Agenten zur Code-Analyse. Die genaue Zahl nennen die Quellen unterschiedlich (1.123 und 1.413). Ein Microsoft-Manager betonte, mehr gefundene Lücken bedeuteten nicht automatisch ein unsichereres Windows.",
+          "quellen": [
+            { "name": "Born City", "url": "https://borncity.com/news/windows-sicherheit-microsoft-schliesst-1-413-luecken-mit-ki-code-scanning/" }
+          ]
+        },
+        {
+          "titel": "Chatkontrolle: Freiwillige Regel bis April 2028",
+          "text": "Laut Euronews haben die EU-Staaten am 23. Juli die freiwillige Übergangsregelung bestätigt, die Plattformen bis zum 3. April 2028 erlaubt, freiwillig nach Missbrauchsmaterial zu scannen. Im EU-Parlament lehnte am 9. Juli eine relative Mehrheit von 314 Stimmen den Ratsvorschlag ab. Die dauerhafte Verordnung wird weiter verhandelt, Streitpunkt ist vor allem verschlüsselte Kommunikation.",
+          "quellen": [
+            { "name": "Euronews", "url": "https://www.euronews.com/my-europe/2026/07/28/why-is-chat-control-one-of-the-eus-biggest-digital-rights-fights" },
+            { "name": "netzpolitik.org", "url": "https://netzpolitik.org/2026/nur-auf-verdacht-eu-parlament-stimmt-gegen-massenueberwachung-bei-freiwilliger-chatkontrolle/" }
+          ]
+        }
+      ],
+      "zumSchluss": {
+        "titel": "Tipp des Tages: Updates nicht aufschieben",
+        "text": "Gleich zwei Android-Meldungen in einer Woche: Prüf in den Einstellungen, ob dein Handy auf dem neuesten Sicherheitsstand ist, und lass automatische App-Updates an. Das dauert zwei Minuten und schließt die meisten bekannten Lücken."
+      }
     }
-  ],
-  "zumSchluss": {
-    "titel": "Zum Schluss",
-    "text": "In Saarn zieht heute um 17 Uhr der Martinszug vom Pastor-Luhr-Platz los. Wenn du abends Laternen siehst, weißt du jetzt, warum."
-  }
+  ]
 }
