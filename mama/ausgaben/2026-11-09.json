@@ -1,50 +1,476 @@
 {
-  "gruss": "Guten Morgen, Mama! Schön, dass du da bist. Hier ist deine Zeitung für heute.",
+  "gruss": "Guten Morgen, Mama! Heute ist Montag, der 9. November. Mach es dir bequem, der Kaffee darf ruhig noch ein bisschen dampfen. Hier ist deine Zeitung für heute.",
   "aufmacher": {
     "rubrik": "Mülheim",
-    "titel": "Laternen, Lieder und bald Schiffsweihnacht",
-    "text": "In Mülheim ist Martinszeit. Ein paar Züge sind schon gelaufen, diese Woche folgen weitere. In Saarn geht es heute um 17 Uhr am Pastor-Luhr-Platz los. Morgen, am 10. November, gibt es ökumenische Martinszüge an der Freilichtbühne.\n\nUnd die nächste schöne Sache steht schon fest: Vom 27. bis 29. November ist wieder Mülheimer Schiffsweihnacht.",
+    "titel": "Heute und morgen ziehen die Laternen durch Mülheim",
+    "unterzeile": "Die Martinszüge sind noch nicht vorbei",
+    "text": "In Mülheim ist noch Martinszeit. Heute, am Montag, startet um 17 Uhr ein Martinsumzug auf dem Pastor-Luhr-Platz in Saarn. In Selbeck zieht um 17:30 Uhr die Gemeinde St. Theresia von Avila los.\n\nMorgen, am Dienstag, gibt es die ökumenischen Martinszüge. Sie beginnen nach einer kurzen Andacht um 17:30 Uhr an der Pauluskirche und am Karl-Ziegler-Gymnasium. Von dort geht es zur Freilichtbühne.\n\nNimm eine warme Jacke mit. Am Sonntag war schon der große Zug in der Innenstadt, bei dem „Ssinter Mätes“ ritt. Die Stadt führt ihre Liste der Züge laut eigener Angabe nicht vollständig. Frag also im Zweifel kurz bei deiner Gemeinde nach.",
     "quellen": [
-      { "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/" },
-      { "name": "regioactive", "url": "https://www.regioactive.de/events/21167/muelheim/veranstaltungen-party-konzerte" }
+      {
+        "name": "Radio Mülheim",
+        "url": "https://www.radiomuelheim.de/artikel/muelheim-die-naechsten-martinszuege-starten-2801382"
+      },
+      {
+        "name": "Stadt Mülheim an der Ruhr",
+        "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/ssinter-maetes-und-weitere-martinsumzuege"
+      }
     ]
   },
-  "rubriken": [
+  "seiten": [
     {
-      "name": "Aus Mülheim",
+      "titel": "Aus Mülheim",
       "artikel": [
-        { "titel": "Baustelle auf der Walkmühlenstraße", "text": "Ab heute bis zum 27. November bekommt die Walkmühlenstraße zwischen der B1-Brücke und der Essener Straße einen neuen Belag. Mit Auto und Bus muss man dort mit Umleitungen rechnen.", "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/" }] },
-        { "titel": "Gedenken am 9. November", "text": "Die Stadt erinnert heute gemeinsam mit der Jüdischen Gemeinde an die Opfer des Nationalsozialismus. Am 9. November 1938 brannten in der Pogromnacht überall in Deutschland die Synagogen.", "quellen": [{ "name": "Stadt Mülheim", "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen" }] },
-        { "titel": "Preis für eine Mülheimer Erfindung", "text": "Die Mülheimer Firma NFC21 hat einen internationalen Preis gewonnen. Ihre Handy-App SenseTap hilft blinden und sehbehinderten Menschen im Alltag.", "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/" }] },
-        { "titel": "Die Stadt schreibt jetzt auch auf WhatsApp", "text": "Wer Neuigkeiten aus dem Rathaus direkt aufs Handy möchte, kann der Stadt Mülheim jetzt auf WhatsApp folgen.", "quellen": [{ "name": "Stadt Mülheim", "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen" }] }
+        {
+          "titel": "Wasserrohr in Saarn kaputt: Bus 139 fährt Umweg",
+          "unterzeile": "Seit Donnerstag gibt es Änderungen auf der Brüsseler Allee",
+          "text": "Auf der Brüsseler Allee in Saarn ist ein Wasserrohr gebrochen. Der Bus 139 muss deshalb seit Donnerstag, dem 5. November, einen Umweg fahren. Das gilt in beide Richtungen.\n\nIn Richtung Broich fährt der Bus zwischen Selma-Lagerlöf-Straße und Schleswiger Straße anders. In Richtung Frohnhausen ist es zwischen Lindenhof und Lehnerfeld so. Einige Haltestellen entfallen dabei ohne Ersatz, zum Beispiel Brüsseler Allee und Kleefeld. Die Nachtlinie NE10 ist nicht betroffen.\n\nWann das Rohr repariert ist, steht in der Meldung nicht. Schau am besten vor der Fahrt noch einmal in den Fahrplan.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim",
+              "url": "https://www.radiomuelheim.de/artikel/rohrbruch-in-muelheim-bus-139-muss-umleitung-fahren-2800113"
+            }
+          ]
+        },
+        {
+          "titel": "Galeria im Rhein-Ruhr-Zentrum: Die Zukunft ist offen",
+          "text": "Das Kaufhaus Galeria hat wieder Insolvenz angemeldet. Laut Radio Mülheim soll der Betrieb in allen 83 Filialen zunächst weitergehen. Das Haus im Rhein-Ruhr-Zentrum steht auf einer Liste von 33 Filialen, die in Gefahr sind. Ob es schließen muss, ist noch nicht entschieden. Für das Haus spricht: Das Einkaufszentrum wird gerade für viel Geld umgebaut. Die Berichte nennen kein genaues Datum. Wir schauen weiter hin.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Galeria insolvent",
+              "url": "https://www.radiomuelheim.de/artikel/galeria-insolvent-zukunft-der-muelheimer-filiale-unklar-2771218"
+            },
+            {
+              "name": "Radio Mülheim: Schließungsliste",
+              "url": "https://www.radiomuelheim.de/artikel/galeria-im-rrz-muelheimer-filiale-auf-der-schliessungsliste-2710116"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Heute 17 Uhr: Martinsumzug, Pastor-Luhr-Platz in Saarn",
+          "Heute 17:30 Uhr: Martinszug in Selbeck (St. Theresia von Avila)",
+          "Morgen 17:30 Uhr: ökumenische Martinszüge zur Freilichtbühne"
+        ],
+        "quellen": [
+          {
+            "name": "Radio Mülheim",
+            "url": "https://www.radiomuelheim.de/artikel/muelheim-die-naechsten-martinszuege-starten-2801382"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim erleben",
+      "artikel": [
+        {
+          "titel": "Schiffsweihnacht: Dieses Jahr an zwei Wochenenden",
+          "unterzeile": "Auf der Schleuseninsel am Ruhrufer",
+          "text": "Die Mülheimer Schiffsweihnacht ist in diesem Jahr an zwei Wochenenden: am 20. und 21. November und vom 27. bis 29. November. Der Eintritt ist frei. Es gibt Kunsthandwerk und Stände auf den Schiffen der Weißen Flotte. Am 20. und 21. November spielt ab 16 Uhr Live-Musik, zum Beispiel ein Shantychor und ein Gospelchor.\n\nÖffnungszeiten laut t-online: freitags 15 bis 21 Uhr, samstags 13 bis 21 Uhr, am Sonntag, 29. November, 11 bis 20 Uhr.\n\nWichtig: Auf der Seite der Stadt ist der Termin in den technischen Daten als „abgesagt“ markiert. Die anderen Quellen führen ihn ganz normal. Frag vor dem Besuch kurz beim Stadtmarketing nach.",
+          "quellen": [
+            {
+              "name": "t-online",
+              "url": "https://essen.t-online.de/region/essen/id_101503290/schiffsweihnacht-muelheim-2026-weihnachtsmarkt-auf-schiffen.html"
+            },
+            {
+              "name": "mein-muelheim.de",
+              "url": "https://www.mein-muelheim.de/event/muelheimer-schiffsweihnacht-2026"
+            },
+            {
+              "name": "Stadt Mülheim",
+              "url": "https://www1.muelheim-ruhr.de/veranstaltungen/muelheimer_schiffsweihnacht/403842"
+            }
+          ]
+        },
+        {
+          "titel": "Lachen im Ringlokschuppen und in der Stadthalle",
+          "text": "In den nächsten Wochen gibt es Kabarett und Comedy in Mülheim. Am Sonntag, 15. November, ist Jonas Greiner mit „Auf Augenhöhe“ im Ringlokschuppen. Am Samstag, 21. November, kommt David Kebekus mit „Sensible Inhalte“. Am selben Abend singt Klaus Hoffmann in der Stadthalle sein Programm „Ich bin“. Alle Shows beginnen um 20 Uhr. Die Angaben stammen von Kartenportalen. Prüfe sie bitte beim Veranstalter.",
+          "quellen": [
+            {
+              "name": "musik-dresden.de: Ringlokschuppen",
+              "url": "https://www.musik-dresden.de/muelheim-an-der-ruhr/ringlokschuppen/"
+            },
+            {
+              "name": "mvp.de",
+              "url": "https://www.mvp.de/muelheim-an-der-ruhr/veranstaltungen/"
+            }
+          ]
+        },
+        {
+          "titel": "Ein Spaziergang zu Schloss Broich und zur Camera Obscura",
+          "text": "Im Herbst leuchtet der Hof von Schloss Broich gelb und orange. Es ist das wichtigste weltliche Baudenkmal der Stadt und hat ein Historisches Museum. Ganz in der Nähe liegt die Camera Obscura im MüGa-Park. Sie steckt in einem alten Wasserturm und gilt als größte begehbare Camera Obscura der Welt. Es gibt 16 Stationen und ein Café. Zu Fuß ist alles in wenigen Minuten erreichbar. Im Winter ist die Camera Obscura wohl kürzer geöffnet. Schau vorher auf die Internetseite.",
+          "quellen": [
+            {
+              "name": "NRW-Tourismus: Schloss Broich",
+              "url": "https://www.nrw-tourismus.de/schloesser-burgen/schloss-broich"
+            },
+            {
+              "name": "Camera Obscura (Ticketportal)",
+              "url": "https://www.evocard.de/angebote/details/i/5644-camera-obscura/"
+            },
+            {
+              "name": "Schloss Broich: In der Nähe",
+              "url": "https://www.schloss-broich-muelheim.de/besuch-planen/in-der-naehe"
+            }
+          ]
+        },
+        {
+          "titel": "Martinsgansessen auf dem Schiff",
+          "text": "Die Weiße Flotte bietet in Mülheim Tageskreuzfahrten mit Martinsgansessen an. Ein Termin ist der 15. November. Das ist ein Ausflug mit gutem Essen auf der Ruhr. Genaue Preise und Zeiten findest du beim Anbieter.",
+          "quellen": [
+            {
+              "name": "regioactive",
+              "url": "https://www.regioactive.de/freizeit/martinsgansessen-tageskreuzfahrten-2026-kulinarik-muelheim-an-der-ruhr-weisse-flotte-2026-11-15-tickets-jYcW9PZNxK"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "Heute 17 Uhr: Martinsumzug in Saarn",
+          "Morgen 17:30 Uhr: Martinszüge zur Freilichtbühne",
+          "So, 15.11., 20 Uhr: Jonas Greiner, Ringlokschuppen",
+          "So, 15.11.: Martinsgansessen-Kreuzfahrt der Weißen Flotte",
+          "Fr/Sa, 20./21.11.: Schiffsweihnacht (Eintritt frei)",
+          "Sa, 21.11., 20 Uhr: David Kebekus und Klaus Hoffmann"
+        ],
+        "quellen": [
+          {
+            "name": "mein-muelheim.de",
+            "url": "https://www.mein-muelheim.de/event/muelheimer-schiffsweihnacht-2026"
+          },
+          {
+            "name": "mvp.de",
+            "url": "https://www.mvp.de/muelheim-an-der-ruhr/veranstaltungen/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland",
+      "artikel": [
+        {
+          "titel": "Rente: Was die Kommission vorschlägt",
+          "unterzeile": "Noch ist nichts beschlossen",
+          "text": "Eine Expertengruppe hat im Juni Vorschläge für die Rente gemacht. Es sind 33. Die Regierung will bis Ende des Jahres einen Gesetzentwurf im Kabinett beschließen.\n\nEin Vorschlag: Die Rente ohne Abzüge nach 45 Beitragsjahren, bekannt als „Rente mit 63“, soll wegfallen. Außerdem soll der früheste Rentenbeginn bei langer Versicherung von 63 auf 64 Jahre steigen. Für Menschen mit Gesundheitsproblemen ist eine „Schutzrente“ im Gespräch.\n\nWichtig für dich: Das sind bisher nur Vorschläge. Ein Gesetz gibt es noch nicht. Die Quellen sind sich auch nicht einig, welche Jahrgänge betroffen wären.",
+          "quellen": [
+            {
+              "name": "Bundesregierung: FAQ zum Bericht",
+              "url": "https://www.bundesregierung.de/breg-de/aktuelles/faq-rentenreform-2444534"
+            },
+            {
+              "name": "Deutsche Rentenversicherung",
+              "url": "https://www.deutsche-rentenversicherung.de/DRV/DE/Rente/Rentenreform"
+            }
+          ]
+        },
+        {
+          "titel": "Wohngeld: Kürzung für 2027 geplant",
+          "text": "Die Regierung will das Wohngeld im nächsten Jahr nicht erhöhen. Auch der Zuschuss für Heizkosten soll halbiert werden. Für eine Person würde dieser Teil von 96 auf 48 Euro im Monat sinken. Das heißt nicht, dass das ganze Wohngeld halbiert wird. Der Bundestag hat am 4. November Fachleute dazu gehört. Der Bundesrat hat sich bisher gegen die Kürzung ausgesprochen. Beschlossen ist noch nichts.",
+          "quellen": [
+            {
+              "name": "netz-trends.de",
+              "url": "https://www.netz-trends.de/wohngeld-2027-heizkostenzuschlag-halbiert-bundestag-ho-rt-experten-am-4-november/"
+            },
+            {
+              "name": "buerger-geld.org",
+              "url": "https://www.buerger-geld.org/news/finanzen/neu-fuer-mieter-2027-wohngeld-soll-sinken-heizkostenregeln-greifen/"
+            }
+          ]
+        },
+        {
+          "titel": "Bürgergeld bleibt 2026 gleich",
+          "text": "Die Regelsätze bleiben in diesem Jahr unverändert. Wer allein lebt, bekommt weiter 563 Euro im Monat. Die Bundesregierung spricht von einer Nullrunde. Das Bürgergeld wird außerdem zur „Neuen Grundsicherung“ umgebaut.",
+          "quellen": [
+            {
+              "name": "Bundesregierung: Regelbedarfe 2026",
+              "url": "https://www.bundesregierung.de/breg-de/aktuelles/nullrunde-buergergeld-2383676"
+            }
+          ]
+        }
       ]
     },
     {
-      "name": "Deutschland",
+      "titel": "Aus aller Welt",
       "artikel": [
-        { "titel": "Ilse Aigner soll Bundespräsidentin werden", "text": "Die CDU möchte die Bayerin Ilse Aigner als nächste Bundespräsidentin vorschlagen. Sie ist zurzeit Präsidentin des bayerischen Landtags und hat gute Chancen.", "quellen": [{ "name": "news.de", "url": "https://www.news.de/panorama/860170630/9-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-09-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/" }] },
-        { "titel": "Vor 37 Jahren fiel die Mauer", "text": "Am 9. November 1989 öffnete sich die Berliner Mauer. Bundeskanzler Merz erinnerte daran und rief dazu auf, die Demokratie zu schützen.", "quellen": [{ "name": "ZDFheute", "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html" }] },
-        { "titel": "20 Jahre Synagoge in München", "text": "Die Hauptsynagoge Ohel Jakob in München wird 20 Jahre alt. Das wird heute mit einem Festakt gefeiert.", "quellen": [{ "name": "news.de", "url": "https://www.news.de/panorama/860170630/9-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-09-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/" }] }
+        {
+          "titel": "Gute Nachricht für einen seltenen Vogel",
+          "unterzeile": "Von 23 Tieren auf mehr als 1.600",
+          "text": "Auf der Lord-Howe-Insel lebt die Waldralle, ein scheuer Vogel. Vor einigen Jahren gab es nur noch 23 Tiere. Heute sind es mehr als 1.600. Das haben Zuchtprogramme geschafft. Außerdem wurden eingeschleppte Tiere bekämpft, die den Vögeln gefährlich waren. Die Studie ist Anfang November in einer Fachzeitschrift erschienen. Sie zeigt: Naturschutz kann klappen.",
+          "quellen": [
+            {
+              "name": "heute.at",
+              "url": "https://www.heute.at/s/nur-dann-koennen-bloss-50-tiere-eine-ganze-art-retten-120278822"
+            }
+          ]
+        },
+        {
+          "titel": "3.000 Vogelspinnen in Socken",
+          "text": "Am Flughafen in Lima, Peru, wurden zwei Deutsche und ein Pole gestoppt. Sie hatten über 3.000 Vogelspinnen in getragenen Socken versteckt. Die Männer wollten die Tiere nach Deutschland bringen. Der Schmuggel wurde kurz vor dem Abflug entdeckt.",
+          "quellen": [
+            {
+              "name": "Berliner Kurier, Panorama",
+              "url": "https://www.berliner-kurier.de/category/panorama"
+            }
+          ]
+        },
+        {
+          "titel": "Das Wetter: Schnee nur in den Bergen",
+          "text": "In der Nacht zum Freitag, dem 13. November, geht der Regen im höheren Bergland in Schnee über. Im Flachland ist erster Schnee laut Wetterfachleuten eher unwahrscheinlich. Vorher bleibt es zeitweise mild. Bis zum 18. November sollen es wieder 5 bis 10 Grad werden. Die Vorhersagen sind noch unsicher.",
+          "quellen": [
+            {
+              "name": "daswetter.com",
+              "url": "https://www.daswetter.com/nachrichten/vorhersage/erster-schnee-im-november-hier-wird-es-zuerst-wei-wetterexperte-nennt-die-regionen.html"
+            },
+            {
+              "name": "Stuttgarter Nachrichten",
+              "url": "https://www.stuttgarter-nachrichten.de/panorama/winter-wetter-im-november-das-sagen-die-wettermodelle-vorher-79655709.html"
+            }
+          ]
+        },
+        {
+          "titel": "Eichhörnchen-Waisen gerettet",
+          "text": "Der Verein Pfotenhilfe in Österreich hat drei junge Eichhörnchen gerettet. Zwei lagen unterkühlt und hungrig auf einem Waldweg in Elixhausen. Das dritte wurde am Wanderweg in Strobl am Wolfgangsee gefunden.",
+          "quellen": [
+            {
+              "name": "oe24.at",
+              "url": "https://www.oe24.at/a/gute-nachrichten-aus-dem-tierschutz-900127502"
+            }
+          ]
+        }
       ]
     },
     {
-      "name": "Sport",
+      "titel": "Sport: Bundesliga",
       "artikel": [
-        { "titel": "Bundesliga: Bayern, Dortmund und Leverkusen gewinnen", "text": "Am Wochenende war der 9. Spieltag. Dortmund schlug Elversberg mit 2:1, Bayern gewann in Mainz und Leipzig siegte deutlich gegen Augsburg. Stuttgart gewann 1:0 gegen Bremen.\n\nAm Sonntag holte Leverkusen beim 1. FC Köln einen 2:1-Sieg, Freiburg schlug Union Berlin mit 2:0. Paderborn und Frankfurt trennten sich unentschieden.", "quellen": [{ "name": "fussballdaten.de", "url": "https://www.fussballdaten.de/news/bayern-bvb-leipzig-vfb-siegen-bundesliga-ergebnisse-7-november-2026/" }, { "name": "hessenschau", "url": "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-1bl100.html" }] }
+        {
+          "titel": "Bayern und Dortmund bleiben ganz oben",
+          "unterzeile": "Beide haben 21 Punkte",
+          "text": "Nach dem 9. Spieltag stehen der FC Bayern und Borussia Dortmund mit je 21 Punkten an der Spitze. Beide haben gewonnen. Bayern siegte in Mainz. Dortmund gewann gegen Elversberg, Felix Nmecha schoss zwei Tore.\n\nAm Ende der Tabelle steht Borussia Mönchengladbach mit 4 Punkten.",
+          "quellen": [
+            {
+              "name": "Sportschau: Tabelle",
+              "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/tabelle"
+            },
+            {
+              "name": "Jordan News",
+              "url": "https://www.jordannews.jo/Section-71/Football/Two-tough-wins-for-Bayern-Munich-and-Dortmund-58596"
+            }
+          ]
+        },
+        {
+          "titel": "Das Spitzenspiel endete 2:2",
+          "text": "Am 8. Spieltag trafen Bayern und Dortmund in München aufeinander. Es stand am Ende 2:2. Harry Kane verschoss dabei einen Elfmeter. Das nächste Treffen ist am 6. März 2027 in Dortmund.",
+          "quellen": [
+            {
+              "name": "ESPN",
+              "url": "https://www.espn.com/soccer/report/_/gameId/401884754"
+            },
+            {
+              "name": "fussballdaten.de",
+              "url": "https://www.fussballdaten.de/vereine/fc-bayern-muenchen/borussia-dortmund/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Tabellenspitze nach 9 Spielen",
+        "punkte": [
+          "1.–2. FC Bayern und Borussia Dortmund: je 21 Punkte",
+          "Letzter: Borussia Mönchengladbach, 4 Punkte"
+        ],
+        "quellen": [
+          {
+            "name": "Sportschau",
+            "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/tabelle"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Sport: Vereine und Region",
+      "artikel": [
+        {
+          "titel": "Basketball: Bayern gewinnt in Würzburg",
+          "text": "In der Basketball-Bundesliga gab es am Wochenende viele Ergebnisse. Alba Berlin schlug Hagen mit 102:72. Trier gewann gegen Bamberg 92:79. Bonn siegte gegen Braunschweig 97:87. Der FC Bayern gewann in Würzburg mit 94:73.",
+          "quellen": [
+            {
+              "name": "hessenschau: BBL",
+              "url": "https://www.hessenschau.de/sport/ergebnisse-tabellen/basketball-1bl100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Jugend-Derby: MSV schlägt RWE",
+          "text": "Die U19 des MSV Duisburg hat das Derby gegen Rot-Weiss Essen mit 3:1 gewonnen. Der MSV ist Zweiter hinter Dortmund. Die U19 von RWE spielte am 2. November 1:1 gegen Schalke.",
+          "quellen": [
+            {
+              "name": "RevierSport",
+              "url": "https://www.reviersport.de/fussball/junioren/a631947---u19-drei-bittere-minuten-fuer-rwe-msv-duisburg-dreht-derby.html"
+            },
+            {
+              "name": "Rot-Weiss Essen",
+              "url": "https://www.rot-weiss-essen.de/2026/11/02/u19-verpasst-sieg-gegen-den-schalke-in-der-nachspielzeit/"
+            }
+          ]
+        },
+        {
+          "titel": "Der MSV Duisburg im November",
+          "text": "Die Profis des MSV spielen am 18. November bei Fortuna Düsseldorf. Am 22. November kommt Hansa Rostock nach Duisburg. Das steht im Spielplan des Vereins.",
+          "quellen": [
+            {
+              "name": "MSV Duisburg: Spielplan",
+              "url": "https://www.msv-duisburg.de/aktuelles/spielplan/"
+            }
+          ]
+        },
+        {
+          "titel": "Lebenshilfe-Sport trifft sich heute",
+          "text": "Die Sportabteilung der Lebenshilfe Mülheim lädt heute zur Mitgliederversammlung ein. Sie beginnt um 18:30 Uhr im Lebenshilfe-Center. Zur Abteilung gehören unter anderem Schwimmen, Basketball und Handball.",
+          "quellen": [
+            {
+              "name": "Lebenshilfe Mülheim",
+              "url": "https://www.lebenshilfe-muelheim.de/de/dienstleistungen/offene-hilfen/sport.php"
+            }
+          ]
+        }
       ]
     },
     {
-      "name": "Klatsch & Tratsch",
+      "titel": "Klatsch & Tratsch",
       "artikel": [
-        { "titel": "Sylvie Meis in ihrer ersten Serien-Hauptrolle", "text": "Sylvie Meis spielt zum ersten Mal die Hauptrolle in einer Fernsehserie. Eine Szene hat sie dabei viel Mut gekostet, erzählt sie. Eine Nacktszene war es aber nicht.", "quellen": [{ "name": "ZDFheute", "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html" }] },
-        { "titel": "Andrea Kiewel ist jetzt in den sozialen Medien", "text": "Die Moderatorin vom ZDF-Fernsehgarten hat Social Media für sich entdeckt.", "quellen": [{ "name": "ZDFheute", "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html" }] },
-        { "titel": "Preis für Dunja Hayali und Sarah Tacke", "text": "Bei der Verleihung des Hanns-Joachim-Friedrichs-Preises in Hamburg zeigten sich die beiden ZDF-Journalistinnen gemeinsam mit dem Preis. Er gehört zu den wichtigsten Auszeichnungen für Fernsehjournalismus.", "quellen": [{ "name": "ZDFheute", "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html" }] },
-        { "titel": "Daniel Brühl spricht ein Hörbuch", "text": "Schauspieler Daniel Brühl ist in einem neuen Hörbuch zu hören.", "quellen": [{ "name": "klatsch-tratsch.de", "url": "https://www.klatsch-tratsch.de/" }] }
+        {
+          "titel": "Bernhard Brink zieht nach Mallorca",
+          "unterzeile": "„Nicht mehr mein Berlin“",
+          "text": "Der Schlagersänger Bernhard Brink hat mit seiner Frau Ute eine Wohnung im Südwesten von Mallorca gekauft. Die beiden sind fast 40 Jahre verheiratet. Berlin sei nicht mehr seine Stadt, sagt er. Das hat das „Mallorca Magazin“ berichtet.",
+          "quellen": [
+            {
+              "name": "headtopics",
+              "url": "https://de.headtopics.com/news/nicht-mehr-mein-berlin-bernhard-brink-wandert-nach-89665597"
+            }
+          ]
+        },
+        {
+          "titel": "Roland Kaiser: Vier Konzerte in Dresden 2027",
+          "text": "Für 2027 sind vier „Kaisermania“-Konzerte am Dresdner Elbufer angekündigt. Die Karten für 2026 waren laut dem Bericht in einer Stunde ausverkauft.",
+          "quellen": [
+            {
+              "name": "headtopics",
+              "url": "https://de.headtopics.com/news/roland-kaiser-kundigt-vier-konzerte-fur-kaisermania-2027-89612705"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "TV, Shows und Royals",
+      "artikel": [
+        {
+          "titel": "Tatort aus Zürich: 7,5 Millionen sahen zu",
+          "text": "Der Tatort „Frei wie ein Adler“ aus Zürich lief am Sonntag im Ersten. Er hatte 7,54 Millionen Zuschauer. Das sind 30,3 Prozent aller Fernsehzuschauer. Der Krimi vom 4. Oktober aus Ludwigshafen hatte nur 5,32 Millionen.",
+          "quellen": [
+            {
+              "name": "Quotenmeter",
+              "url": "https://www.quotenmeter.de/n/177354/primetime-check-sonntag-08-november-2026"
+            },
+            {
+              "name": "Fernsehserien.de",
+              "url": "https://www.fernsehserien.de/tatort/sendetermine"
+            }
+          ]
+        },
+        {
+          "titel": "Die Royals erinnern an die Gefallenen",
+          "text": "Am 7. November war das Festival of Remembrance in England. Die Royals haben in diesen Tagen mehrere Gedenktermine. Erwartet werden König Charles, Camilla, William und Kate. Auch Prinz Edward und seine Frau Sophie sollen dabei sein.",
+          "quellen": [
+            {
+              "name": "web.de",
+              "url": "https://web.de/magazine/unterhaltung/adel/britische-royals/remembrance-day-wichtigen-termine-stehen-royals-42919896"
+            }
+          ]
+        },
+        {
+          "titel": "Gerücht: Weihnachten ohne Sandringham?",
+          "text": "Ein Boulevard-Bericht behauptet, William und Kate könnten Weihnachten bei Kates Familie feiern. Das ist nur ein Gerücht. Es ist nicht bestätigt, der Palast hat sich nicht geäußert.",
+          "quellen": [
+            {
+              "name": "news.de (Gerücht)",
+              "url": "https://www.news.de/promis/860161648/rinzessin-kate-und-prinz-william-planen-familien-flucht-kate-und-william-drohen-koenig-charles-mit-weihnachts-absage/1/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "TV-Tipps für heute Abend",
+        "punkte": [
+          "ZDF, 20:15 Uhr: Fernsehfilm „Nichts wie weg“",
+          "ZDF, 22:15 Uhr: Spielfilm „The Zone of Interest“",
+          "Bitte vorher im Programm prüfen"
+        ],
+        "quellen": [
+          {
+            "name": "film.at",
+            "url": "https://www.film.at/news/besten-tipps-montag-9-november-2026/403204057"
+          },
+          {
+            "name": "TVinfo",
+            "url": "https://www.tvinfo.de/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Zum Schluss",
+      "artikel": [
+        {
+          "titel": "Grippeimpfung: Jetzt ist ein guter Zeitpunkt",
+          "text": "Die Grippeimpfung wird ab Oktober empfohlen. Nach der Impfung dauert es etwa 14 Tage, bis der Schutz da ist. Ein Fachmann der Charité rät besonders Menschen ab 60, sich jetzt zu kümmern. Sprich am besten mit deiner Hausärztin oder deinem Hausarzt.",
+          "quellen": [
+            {
+              "name": "zdfheute",
+              "url": "https://www.zdfheute.de/wissen/grippe-impfung-experte-sander-stiko-100.html"
+            },
+            {
+              "name": "Apotheken Umschau",
+              "url": "https://www.apotheken-umschau.de/krankheiten-symptome/infektionskrankheiten/was-kann-man-gegen-eine-grippe-tun-734131.html"
+            }
+          ]
+        },
+        {
+          "titel": "Gegen Erkältung: Hände waschen und trinken",
+          "text": "Der beste Schutz vor einer Erkältung ist, die Hände oft zu waschen. Genug Schlaf hilft auch. Vitamin C bringt laut dem Fachmann wenig. Wenn du krank bist, hilft viel Trinken, zum Beispiel warmer Tee oder Brühe. Bei hohem Fieber geh zum Arzt.",
+          "quellen": [
+            {
+              "name": "zdfheute",
+              "url": "https://www.zdfheute.de/wissen/grippe-impfung-experte-sander-stiko-100.html"
+            },
+            {
+              "name": "avogel.ch",
+              "url": "https://www.avogel-health.ch/de/ihre-gesundheit/erkaeltung/erkaeltung.php"
+            }
+          ]
+        },
+        {
+          "titel": "Haushalt: Richtig lüften im Herbst",
+          "text": "Lüfte kurz und kräftig. Im Herbst reichen etwa 10 bis 20 Minuten Durchzug, im Winter 3 bis 5 Minuten. Das Fenster auf Kipp ist schlecht. Lüfte am besten nach dem Duschen, Kochen und nach der Nacht. Das Schlafzimmer sollte tagsüber mindestens 16 Grad warm sein. So bekommt Schimmel keine Chance.",
+          "quellen": [
+            {
+              "name": "Verbraucherzentrale",
+              "url": "https://www.verbraucherzentrale.de/wissen/energie/heizen-und-warmwasser/heizen-und-lueften-so-gehts-richtig-10426"
+            },
+            {
+              "name": "Verbraucherzentrale Niedersachsen",
+              "url": "https://www.verbraucherzentrale-niedersachsen.de/presse/schimmelfrei-durch-die-kalte-jahreszeit-tipps-fuer-die-heizsaison"
+            }
+          ]
+        }
       ]
     }
   ],
   "zumSchluss": {
-    "titel": "Eine kleine Geschichte zum Martinstag",
-    "text": "Es war einmal ein Soldat namens Martin, der an einem eiskalten Abend vor dem Stadttor einen frierenden Bettler sah. Er hatte nichts dabei außer seinem Mantel. Also nahm er sein Schwert, schnitt den Mantel in der Mitte durch und gab dem Mann die eine Hälfte.\n\nDeshalb ziehen die Kinder heute mit Laternen durch die Straßen. Teilen wärmt nämlich beide."
+    "titel": "Die Laterne von Frau Winter",
+    "text": "Frau Winter wohnte im dritten Stock und kannte alle im Haus. Jedes Jahr im November holte sie ihre alte Laterne vom Schrank. Sie war schon ganz verblasst. Die Kinder aus dem Haus kamen und fragten: „Darf ich sie tragen?“ Frau Winter lächelte und gab sie weiter. Dann kochte sie Kakao. Er duftete nach Zimt. Als die Kinder zurückkamen, hatten sie rote Wangen. Sie setzten sich um den Tisch und sangen noch ein Lied. Draußen wurde es dunkel, aber in der Stube blieb es hell. Frau Winter dachte: Ein kleines Licht reicht oft schon. Und sie stellte die Laterne ans Fenster."
   }
 }
