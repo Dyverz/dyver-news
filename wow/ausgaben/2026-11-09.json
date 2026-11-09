@@ -1,47 +1,760 @@
 {
-  "gruss": "Seid gegrüßt, Abenteurer! Die erste Woche von WoW Forever ist um. Das hat sich seitdem getan.",
+  "gruss": "Seid gegrüßt, Abenteurer! Morgen kommen die ersten Klassen-Hotfixes, und der Dezember-Raid-Termin steht. Das ist heute los in Forever.",
   "aufmacher": {
-    "rubrik": "Launch",
-    "titel": "Rekordstart: Forever ist der größte Launch der WoW-Geschichte",
-    "text": "Laut Blizzard hatte WoW Forever den größten Start in der Geschichte von World of Warcraft, gemessen an gleichzeitig spielenden Menschen. Auch so viele Rückkehrer wie noch nie sind dabei.\n\nDer Start war am 4. November. Die ersten Level-60-Charaktere gab es schon am 7. November, rund 52 Stunden später. Auf EU dingten fünf Horde-Charaktere von Team JokerD fast gleichzeitig.",
+    "rubrik": "Klassen & Balance",
+    "titel": "Dienstag wird getunt: Pets, Affliction und Enhancement im Visier",
+    "unterzeile": "Blizzard kündigt die erste Klassen-Anpassung seit dem Launch für den 10. November an, Zahlen gibt es noch keine",
+    "text": "Am Dienstag, 10. November, spielt Blizzard per Hotfix die ersten Klassenanpassungen von WoW Forever auf. Betroffen sind Hunter-Pets, der Voidwalker der Hexer, Affliction-Hexer und Enhancement-Schamanen.\n\nHunter-Pets und Voidwalker sollen näher an Classic-Era-Niveau tanken; dafür senkt Blizzard laut Berichten ihre Gesundheit. Anders als in Classic ziehen Pets in Forever einen Teil ihrer Werte vom Besitzer und wachsen so mit dem Gear. Affliction soll sich weniger auf Wrack allein verlassen: Siphon Life, Corruption und Bane of Agony sollen sich neben Wrack wieder lohnen, der Gesamtschaden soll dabei gleich bleiben. Bei Enhancement soll Stärke der beste Wert werden, damit Mage- und Hexer-Gear nicht mehr die erste Wahl ist.\n\nKonkrete Zahlen hat Blizzard bisher nicht veröffentlicht und sagt, man untersuche noch. Die Details können sich also ändern. Wer umskillen oder Gear tauschen will, wartet besser bis nach dem Hotfix.",
     "quellen": [
-      { "name": "Zockify", "url": "https://www.zockify.com/forever/news/" },
-      { "name": "wowguide.net", "url": "https://wowguide.net/en/guides/wow-forever-release-date" }
+      {
+        "name": "Warcraft Tavern",
+        "url": "https://www.warcrafttavern.com/forever/news/class-tuning-coming-for-shamans-warlocks-hunter-pets-in-wow-forever/"
+      },
+      {
+        "name": "MMO Huts",
+        "url": "https://mmohuts.com/news/wow-forever-class-tuning-coming-november-10-for-pets-affliction-warlocks-and-enhancement-shamans"
+      },
+      {
+        "name": "WoW Forever (wowforever.be)",
+        "url": "https://wowforever.be/news/hunter-and-warlock-pets-get-tougher-on-tuesday/"
+      }
     ]
   },
-  "rubriken": [
+  "seiten": [
     {
-      "name": "Hotfixes & Patches",
+      "titel": "Hotfixes & Patches",
       "artikel": [
-        { "titel": "Dungeon-Gegner geben 50 % mehr EP", "text": "Mit einem Hotfix vom 8. November hat Blizzard die Erfahrung für Kills in Dungeons um 50 Prozent erhöht. Das hat Kaivax angekündigt. Dungeon-Leveln lohnt sich damit deutlich mehr.", "quellen": [{ "name": "Zockify", "url": "https://www.zockify.com/forever/news/" }] },
-        { "titel": "Undermine-Schmuckstücke abgeschwächt, Hexer reiten früher", "text": "Ein Server-Hotfix für Build 1.60.1.70862 schwächt drei Schmuckstücke aus Undermine. Hexer können jetzt über Summon Felsteed die Reitfertigkeit Apprentice Riding lernen.", "quellen": [{ "name": "Zockify", "url": "https://www.zockify.com/forever/news/" }] },
-        { "titel": "Hotfixes vom 6. November", "text": "Die große Hotfix-Liste behebt Fehler bei Klassen, Dungeons, Quests, Berufen und in der Spielwelt. Unter anderem sinkt die nötige Skillstufe fürs Tanning Rack von 140 auf 125, und die Quest „Vorsha the Lasher“ funktioniert wieder.", "quellen": [{ "name": "Blizzard News", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-6-2026" }, { "name": "Blizzard-Forum", "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-6-2026/2403040" }] },
-        { "titel": "Morgen kommen Klassen-Hotfixes", "text": "Blizzard will am Dienstag, 10. November, Hotfixes für Klassen aufspielen. Laut Fan-Seiten geht es vor allem um Voidwalker, Jäger-Begleiter, Gebrechen-Hexer und Verstärkungs-Schamanen. Offiziell bestätigt ist bisher nur der Termin.", "quellen": [{ "name": "wowguide.net", "url": "https://wowguide.net/en/guides/wow-forever-release-date" }] }
-      ]
+        {
+          "titel": "Hotfixes vom 6. November: Voidwalker bekommt mehr Leben",
+          "unterzeile": "Klassen, Dungeons und Quests im Detail",
+          "text": "Blizzards offizielle Liste vom 6. November enthält auch Klassenfixes. Das Legacy-Talent Quick and the Dead wurde repariert, mehrere Druiden-Tooltips und das Heilen von Bloom wurden korrigiert. Voidwalker erhalten auf allen Leveln rund 40 Basis-Gesundheit mehr. Zudem wurde behoben, dass manche Hexer-Pet-Fähigkeiten zu stark vom Orc-Rassenbonus Command profitierten.\n\nBei den Dungeons erscheint in Maraudon der Geist von Zaetar nach dem Sieg über Princess Theradras jetzt wieder, und ein Portalproblem in Drowned City ist behoben.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 6. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-6-2026"
+            },
+            {
+              "name": "allthings.how: Hotfixes",
+              "url": "https://allthings.how/wow-forever-hotfixes-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Hotfixes vom 5. November: Zephras Isle und Respawns",
+          "unterzeile": "Händler, Druiden-Lehrer und Spawnzeiten",
+          "text": "Der Hotfix vom 5. November korrigierte die Respawn-Zeiten einiger Kreaturen und ein Problem beim Druiden-Lehrer auf Zephras Isle. Außerdem verkaufen die Handwerks-Händler auf Zephras Isle jetzt wieder die Apprentice-Taschen für Berufe.",
+          "quellen": [
+            {
+              "name": "allthings.how: Hotfixes",
+              "url": "https://allthings.how/wow-forever-hotfixes-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Bekannt: PvP-Händler zeitweise nicht verfügbar",
+          "unterzeile": "Laut Guide-Seite Stand 5. November",
+          "text": "Ein PvP-Guide nennt unter den Known Issues, dass die PvP-Händler zeitweise nicht verfügbar sind (Stand 5. November). Ob das inzwischen behoben ist, geht aus den gefundenen Quellen nicht hervor. Wer Honor-Gear kaufen will, schaut am besten in Blizzards aktuelle Known-Issues-Liste.",
+          "quellen": [
+            {
+              "name": "Timesaver: PvP-Guide",
+              "url": "https://timesaver.gg/blog/wow-forever-pvp-battlegrounds-darkspear-islands-honor"
+            }
+          ]
+        },
+        {
+          "titel": "Fan-Seiten melden Hotfix vom 8. November",
+          "unterzeile": "Dungeon-XP laut Drittseiten um 50 % höher",
+          "text": "Mehrere Fan-Seiten berichten über einen Hotfix vom 8. November, der die Erfahrung für Kills in Dungeons um 50 Prozent erhöht (laut foreverchanges.pro live ab etwa 19:05 UTC). In Blizzards offiziellem Hotfix-Log war der Eintrag in unserer Recherche nicht zu bestätigen. Behandelt die Angabe daher als noch nicht offiziell bestätigt.",
+          "quellen": [
+            {
+              "name": "foreverchanges.pro",
+              "url": "https://foreverchanges.pro/patch-notes"
+            },
+            {
+              "name": "Conquest Capped: Patch Notes",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-patch-notes/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Patch-Stand",
+        "punkte": [
+          "Letzter offizieller Hotfix-Log: 6. November 2026",
+          "Server-Hotfix für Build 1.60.1.70862 (laut Zockify)",
+          "Voidwalker: ca. +40 Basis-Gesundheit auf allen Leveln",
+          "Tanning Rack: nötige Skillstufe laut Zockify 140 auf 125 gesenkt",
+          "Dienstag, 10.11.: Klassen-Hotfixes angekündigt"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard News: Hotfixes 6. November",
+            "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-6-2026"
+          },
+          {
+            "name": "Zockify: Forever News",
+            "url": "https://www.zockify.com/forever/news/"
+          }
+        ]
+      }
     },
     {
-      "name": "Gold & Wirtschaft",
+      "titel": "Klassen & Balance",
       "artikel": [
-        { "titel": "Kein Bonusgold mehr für Quests auf Level 60", "text": "Auf Level 60 wandeln Quests ihre Erfahrung nicht mehr in Bonusgold um. Laut einem Blizzard-Entwickler ist das so gewollt. Wer Gold farmen will, sollte also besser auf andere Wege setzen.", "quellen": [{ "name": "Zockify", "url": "https://www.zockify.com/forever/news/" }] },
-        { "titel": "AH-Mindestgebühr sinkt auf 1 Kupfer", "text": "Die Mindest-Einstellgebühr im Auktionshaus soll von 1 Silber auf 1 Kupfer sinken. Das haben Entwickler im Interview mit Crix gesagt. Einen Termin dafür gibt es noch nicht.", "quellen": [{ "name": "Zockify", "url": "https://www.zockify.com/forever/news/" }] }
-      ]
+        {
+          "titel": "Hunter-Pets und Voidwalker sollen weniger aushalten",
+          "unterzeile": "Ziel: näher an Classic Era",
+          "text": "Blizzard will, dass Hunter-Pets und Voidwalker ähnlich wie in Classic Era tanken. Laut dem leitenden Designer wurde dafür die Gesundheit beider Pet-Arten gesenkt. Der Unterschied zu Classic: In Forever übernehmen Pets einen Teil ihrer Werte vom Besitzer und wachsen mit dessen Ausrüstung mit. Berichte darüber, ob die Senkung schon live ist, widersprechen sich. Wartet die Hotfixes am Dienstag ab.",
+          "quellen": [
+            {
+              "name": "WoW Forever (wowforever.be)",
+              "url": "https://wowforever.be/news/hunter-and-warlock-pets-get-tougher-on-tuesday/"
+            },
+            {
+              "name": "Warcraft Tavern",
+              "url": "https://www.warcrafttavern.com/forever/news/class-tuning-coming-for-shamans-warlocks-hunter-pets-in-wow-forever/"
+            }
+          ]
+        },
+        {
+          "titel": "Affliction-Hexer: Mehr als nur Wrack channeln",
+          "unterzeile": "Corruption, Siphon Life und Bane of Agony sollen sich wieder lohnen",
+          "text": "Affliction-Hexer sollen künftig nicht mehr allein Wrack channeln. Blizzard will, dass sich Siphon Life, Corruption und Bane of Agony neben Wrack lohnen. Nach den Berichten soll der Gesamtschaden von Affliction dabei gleich bleiben. Eine Quelle beschreibt es als Verschiebung dessen, was sich zu zaubern lohnt.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern",
+              "url": "https://www.warcrafttavern.com/forever/news/class-tuning-coming-for-shamans-warlocks-hunter-pets-in-wow-forever/"
+            },
+            {
+              "name": "MMO Huts",
+              "url": "https://mmohuts.com/news/wow-forever-class-tuning-coming-november-10-for-pets-affliction-warlocks-and-enhancement-shamans"
+            }
+          ]
+        },
+        {
+          "titel": "Enhancement-Schamanen: Stärke wird der wichtigste Wert",
+          "unterzeile": "Mage- und Hexer-Gear soll nicht mehr optimal sein",
+          "text": "Bei Enhancement-Schamanen soll Stärke der stärkste Wert werden. Aktuell greifen manche Spieler zu Mage- und Hexer-Gear. Künftig sollten Enhancement-Schamanen beim Leveln auf Stärke und Angriffskraft achten.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern",
+              "url": "https://www.warcrafttavern.com/forever/news/class-tuning-coming-for-shamans-warlocks-hunter-pets-in-wow-forever/"
+            },
+            {
+              "name": "MMO Huts",
+              "url": "https://mmohuts.com/news/wow-forever-class-tuning-coming-november-10-for-pets-affliction-warlocks-and-enhancement-shamans"
+            }
+          ]
+        },
+        {
+          "titel": "Entwickler: Keine starre Bindung an Classic-Power",
+          "unterzeile": "Beta-Notizen vom 2. November",
+          "text": "In den Beta Development Notes vom 2. November schrieb Blizzard, das Festhalten an Classic-Power-Budgets pro Klasse habe dazu geführt, dass jedes neue Element auf Kosten eines anderen gehen musste. Das Team will deshalb die Stärken und Unterschiede jeder Klasse betonen, statt sie zu stark anzugleichen. Dienstägliche Balance-Updates könnten laut Berichten bei Bedarf in den kommenden Wochen weitergehen.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Beta Development Notes",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-november-2/2360696/9"
+            },
+            {
+              "name": "Warcraft Tavern",
+              "url": "https://www.warcrafttavern.com/forever/news/class-tuning-coming-for-shamans-warlocks-hunter-pets-in-wow-forever/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Dienstag, 10. November",
+        "punkte": [
+          "Hunter-Pets und Voidwalker: weniger Gesundheit (Tank-Niveau näher an Classic Era)",
+          "Affliction: Gesamtschaden soll gleich bleiben",
+          "Enhancement: Stärke wird Haupt-Stat",
+          "Zahlen: bisher keine veröffentlicht"
+        ],
+        "quellen": [
+          {
+            "name": "Warcraft Tavern",
+            "url": "https://www.warcrafttavern.com/forever/news/class-tuning-coming-for-shamans-warlocks-hunter-pets-in-wow-forever/"
+          },
+          {
+            "name": "MMO Huts",
+            "url": "https://mmohuts.com/news/wow-forever-class-tuning-coming-november-10-for-pets-affliction-warlocks-and-enhancement-shamans"
+          }
+        ]
+      }
     },
     {
-      "name": "Dungeons & Guides",
+      "titel": "Dungeons & Raids",
       "artikel": [
-        { "titel": "Drowned City und Krol'dok Stronghold: mehr Quests bekannt", "text": "Die Guides zu den beiden neuen Dungeons haben weitere Quests, Vorquests für die Allianz und neu entdeckte Belohnungen dazubekommen. Ganz vollständig sind sie noch nicht.", "quellen": [{ "name": "Zockify", "url": "https://www.zockify.com/forever/news/" }] }
-      ]
+        {
+          "titel": "9. Dezember: Barrow Deeps, Hyjal Summit und Onyxia öffnen",
+          "unterzeile": "Drei Raids in drei Größen",
+          "text": "Laut Blizzards Roadmap öffnen am 9. Dezember 2026 die ersten drei Raids: Barrow Deeps mit 10 Spielern, Hyjal Summit mit 20 und Onyxia's Lair mit 40. Bis dahin ist im Launch-Stand kein Raid offen. Blizzard plant laut einer Guide-Seite, alle Raids wöchentlich zurückzusetzen, also eine Sperre pro Raid und Woche.\n\nIn einem Blizzard-Video aus dem September hieß es zu Onyxia noch „zum Launch“. Die Roadmap nennt aber den 9. Dezember, und danach sollte man planen.",
+          "quellen": [
+            {
+              "name": "wowguide.net: Raids",
+              "url": "https://wowguide.net/en/guides/wow-forever-raids-release-date"
+            },
+            {
+              "name": "HardcoreHelper: Raid-Roadmap",
+              "url": "https://www.hardcorehelper.com/forever/guides/wow-forever-raids-roadmap"
+            }
+          ]
+        },
+        {
+          "titel": "Molten Core bleibt vorerst zu",
+          "unterzeile": "Ein überarbeiteter Klassiker für Sommer 2027 ist geplant",
+          "text": "Molten Core hat in Blizzards Roadmap keinen Termin. Die Geschichte von Forever spielt vor der Öffnung des Molten Core. Blizzard plant für Sommer 2027 einen überarbeiteten Klassiker-Raid, den Blizzard noch nicht benannt hat. Quellen beschreiben den Stand unterschiedlich fest, belastbar ist nur: kein Termin.",
+          "quellen": [
+            {
+              "name": "wowforever.ninja",
+              "url": "https://wowforever.ninja/news/2026-09-15-molten-core-not-opening-at-launch/"
+            },
+            {
+              "name": "wowguide.net: Raids",
+              "url": "https://wowguide.net/en/guides/wow-forever-raids-release-date"
+            }
+          ]
+        },
+        {
+          "titel": "Onyxia-Attunement: Details noch offen",
+          "unterzeile": "Fan-Guides beschreiben die Drakefire-Amulett-Kette",
+          "text": "Guides beschreiben die Attunement-Kette für Onyxia über das Drakefire Amulet für beide Fraktionen. Laut Raid-Roadmap-Seiten sind Encounter-Änderungen, Attunement, Belohnungen und Lockout-Regeln von Blizzard aber nicht vollständig veröffentlicht. Wer Fan-Guides nutzt, sollte sie bis zum Raid-Start gegen Blizzards Infos prüfen.",
+          "quellen": [
+            {
+              "name": "Timesaver: Onyxia-Attunement",
+              "url": "https://timesaver.gg/blog/wow-forever-onyxia-attunement-drakefire-amulet"
+            },
+            {
+              "name": "wowguide.net: Raids",
+              "url": "https://wowguide.net/en/guides/wow-forever-raids-release-date"
+            }
+          ]
+        },
+        {
+          "titel": "Neue Dungeons Krol'dok Stronghold und Drowned City: Guides widersprechen sich",
+          "unterzeile": "Level 40–45 im Riverglades",
+          "text": "Krol'dok Stronghold ist ein Dungeon für Level 40 bis 45 im Riverglades. Guides listen rund sechs Dungeon-Quests, je drei pro Fraktion, mit Belohnungen wie Semblance of Twilight oder Rock on Stick. Bei Bossen, Loot und Schlüsseln widersprechen sich die Seiten. Eine meldet, Blizzard habe für keinen der neun neuen Dungeons Schlüssel oder Attunement angekündigt. Die Dungeons zählen für das Erfolgsziel Experienced Spelunker.",
+          "quellen": [
+            {
+              "name": "Conquest Capped: Krol'dok Stronghold",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-kroldok-stronghold-guide/"
+            },
+            {
+              "name": "Conquest Capped: The Drowned City",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-the-drowned-city-guide/"
+            },
+            {
+              "name": "Conquest Capped: Dungeon-Quests",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-dungeon-quests/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Raid-Fahrplan",
+        "punkte": [
+          "9.12.2026: Barrow Deeps (10), Hyjal Summit (20), Onyxia's Lair (40)",
+          "Frühjahr 2027: zwei weitere Raids (10 und 20 Spieler)",
+          "Sommer 2027: überarbeiteter Klassiker-Raid und ein neuer Raid",
+          "Alle Termine: Änderungen vorbehalten"
+        ],
+        "quellen": [
+          {
+            "name": "HardcoreHelper: Raid-Roadmap",
+            "url": "https://www.hardcorehelper.com/forever/guides/wow-forever-raids-roadmap"
+          },
+          {
+            "name": "Icy Veins: Roadmap 2027",
+            "url": "https://www.icy-veins.com/wow-forever/news/three-new-raid-tiers-and-pvp-seasons-planned-for-2027/"
+          }
+        ]
+      }
     },
     {
-      "name": "Termine",
+      "titel": "Quests, Leveln & Gebiete",
       "artikel": [
-        { "titel": "Freunde-werben-Codes nur noch bis Mittwoch", "text": "Die Invite-A-Friend-Codes aus den Vorbesteller-Paketen gelten nur in der Launch-Woche, also bis zum 11. November.", "quellen": [{ "name": "wowguide.net", "url": "https://wowguide.net/en/guides/wow-forever-release-date" }] },
-        { "titel": "Warcraft Forever Collection nur bis 11. Januar", "text": "Ab dem 11. Januar 2027 wird die Warcraft Forever Collection nicht mehr verkauft.", "quellen": [{ "name": "wowguide.net", "url": "https://wowguide.net/en/guides/wow-forever-release-date" }] }
-      ]
+        {
+          "titel": "52 Stunden bis Level 60: Fünf Horde-Spieler teilen sich den Rekord",
+          "unterzeile": "Inoffizieller Tracker: erster 60er am 7. November",
+          "text": "Fünf Horde-Spieler erreichten laut einem inoffiziellen Tracker nach 52 Stunden gemeinsam Level 60, der erste Eintrag lag am 7. November um 03:10 UTC. Die Zwischenstände: Level 40 nach 22 Stunden, Level 50 nach 35. Der Rekord kam durch AoE-Pulls in der offenen Welt: Ein Paladin zog Gruppen, drei Magier setzten Arcane Explosion ein. Die Fünf hielten ihre Erfahrung gleich, damit alle gleichzeitig 60 wurden. Die Zeit stammt nicht von Blizzard.",
+          "quellen": [
+            {
+              "name": "EndgameTools: Erste Level 60",
+              "url": "https://endgametools.com/en/wow-forever/news/wow-forever-world-first-60"
+            },
+            {
+              "name": "Timesaver: Leveling Guide",
+              "url": "https://timesaver.gg/blog/wow-forever-leveling-explained-beta"
+            }
+          ]
+        },
+        {
+          "titel": "Neue Gebiete: Zephras Isle, Riverglades, Shen'dralas und Hyjal",
+          "unterzeile": "Guides zeigen Level-Spannen, Details sind noch unscharf",
+          "text": "Laut Guides startet das Skyborne-Volk auf Zephras Isle (Level 1 bis 12). Riverglades ist das neue Gebiet für die mittleren Level, etwa 35 bis 45. Shen'dralas ist ein Story-Gebiet zwischen Mulgore und Desolace ohne offizielle Level-Spanne. Mount Hyjal ist ein Level-60-Endgame-Gebiet und liegt im Weg über Winterspring und Darkwhisper Gorge. Die Skyborne-Questreihe braucht laut Guide mindestens das Skyborne Heroic Pack. Die Angaben stammen aus Guide-Seiten.",
+          "quellen": [
+            {
+              "name": "Conquest Capped: Neue Zonen",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-new-zones/"
+            },
+            {
+              "name": "Skycoach: Zonen-Guide",
+              "url": "https://skycoach.gg/blog/wow-forever/articles/all-new-zones-guide"
+            }
+          ]
+        },
+        {
+          "titel": "Über 1.000 neue Quests in der alten Welt",
+          "unterzeile": "Auch bestehende Zonen bekommen frische Aufträge",
+          "text": "Neben den neuen Gebieten gibt es laut Guides mehr als 1.000 neue Quests in bestehenden Zonen zwischen Level 1 und 60, dazu neue Bootsrouten. Riverglades allein soll je nach Quelle rund 150 bis 200 Quests bieten. Genaue Zahlen weichen zwischen den Seiten ab.",
+          "quellen": [
+            {
+              "name": "Conquest Capped: Neue Zonen",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-new-zones/"
+            },
+            {
+              "name": "Skycoach: Zonen-Guide",
+              "url": "https://skycoach.gg/blog/wow-forever/articles/all-new-zones-guide"
+            }
+          ]
+        },
+        {
+          "titel": "Wie lange dauert 1 bis 60 wirklich?",
+          "unterzeile": "Normale Spieler rechnen mit 100 bis 150 Stunden",
+          "text": "Während der Rekord bei 52 Stunden liegt, rechnen Guides für normale Spieler mit 100 bis 150 Stunden. Magier und Hunter sollen rund 8 Prozent schneller sein als der Durchschnitt (etwa 138 Stunden). Die Schätzungen beruhen auf Classic-Daten und Beta-Zahlen und sind kein Versprechen. Als gängige Dungeon-Spots um die 60 nennen Guides Blackmaw Hold und Shaper's Terrace.",
+          "quellen": [
+            {
+              "name": "Timesaver: Leveling Guide",
+              "url": "https://timesaver.gg/blog/wow-forever-leveling-explained-beta"
+            },
+            {
+              "name": "EndgameTools: Erste Level 60",
+              "url": "https://endgametools.com/en/wow-forever/news/wow-forever-world-first-60"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen zum Leveln",
+        "punkte": [
+          "Rekord (inoffiziell): 52 Std. bis 60",
+          "Level 40 nach 22 Std., Level 50 nach 35 Std.",
+          "Normal: ca. 100–150 Std.",
+          "Über 1.000 neue Quests"
+        ],
+        "quellen": [
+          {
+            "name": "EndgameTools: Erste Level 60",
+            "url": "https://endgametools.com/en/wow-forever/news/wow-forever-world-first-60"
+          },
+          {
+            "name": "Timesaver: Leveling Guide",
+            "url": "https://timesaver.gg/blog/wow-forever-leveling-explained-beta"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Frische Wirtschaft: Gold kommt vor allem aus Quests und Vendoren",
+          "unterzeile": "Sammelberufe und Rohstoffverkauf sind der Einstieg",
+          "text": "Der Launch brachte eine Wirtschaft ohne Gold-Altbestand. Laut einem Guide kommt neues Gold vor allem über Quest-Belohnungen und Vendor-Verkäufe ins Spiel, Auktionen verschieben nur vorhandenes Gold zwischen Spielern. Als Einstieg empfehlen Guides zwei Sammelberufe und den Verkauf von Rohstoffen schon beim Leveln. Die genannten Gewinnzahlen stammen von Booster- und Goldseiten, also mit Vorsicht lesen.",
+          "quellen": [
+            {
+              "name": "LFCarry: Gold-Ökonomie",
+              "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+            }
+          ]
+        },
+        {
+          "titel": "AH-Gebühr: Was 1 Kupfer ändert",
+          "unterzeile": "Beispiel Fine Leather Tunic",
+          "text": "Aktuell kostet jede Auktion mindestens 1 Silber Einstellgebühr, die bei Nichtverkauf verloren geht. Designer Kris Zierhut hat im Interview mit Crix bestätigt, dass das Minimum auf 1 Kupfer sinken soll, einen Termin nennt Blizzard nicht. Laut Icy Veins würde die Gebühr dann wieder dem Vendorpreis folgen: Für eine Fine Leather Tunic über 8 Stunden fielen 92 Kupfer statt 1 Silber an.",
+          "quellen": [
+            {
+              "name": "Icy Veins: AH-Deposit",
+              "url": "https://www.icy-veins.com/wow-forever/news/wow-forever-players-are-getting-a-99-cheaper-auction-house-deposit/"
+            },
+            {
+              "name": "Wowhead auf X",
+              "url": "https://x.com/Wowhead/status/2118786391022915811"
+            }
+          ]
+        },
+        {
+          "titel": "Respec-Kosten: 1 Gold zum Start, danach mehr",
+          "unterzeile": "Beta-Preis von 1 Silber gilt nicht mehr",
+          "text": "Mehrere Guides melden, dass der Beta-Preis von 1 Silber für einen Talent-Reset nicht mehr gilt. Spieler nennen 1 Gold für den ersten, 5 Gold für den zweiten Reset, danach könnten Classic-artige höhere Preise folgen. Legacy-Resets werden separat bepreist, ein Guide nennt 10 Gold. Prüft den Preis beim Klassenlehrer, bevor ihr bestätigt.",
+          "quellen": [
+            {
+              "name": "Timesaver: Respec-Kosten",
+              "url": "https://timesaver.gg/blog/wow-forever-dual-spec-respec-cost"
+            },
+            {
+              "name": "Epic Carry: Respec-Kosten",
+              "url": "https://epiccarry.com/blogs/wow-forever-respec-cost/"
+            }
+          ]
+        },
+        {
+          "titel": "Blizzard greift bei Gold-Kauf durch",
+          "unterzeile": "Streamer Payo in der Beta gebannt",
+          "text": "In der Beta wurde der Streamer Payo gebannt, nachdem er seinen Chat aufgefordert hatte, für ihn Gold zu kaufen. Quellen unterscheiden zwischen Bann und Sperre. Er kehrte mit einem anderen Account zurück und sagte, er habe nie selbst Gold gekauft. Bei Streamer Ziqo wurde Gold entfernt, ohne Bann. Blizzard erklärte, Käufer wie Verkäufer zu bestrafen. Berichten zufolge wurden in der Beta über 2.100 Accounts geschlossen.",
+          "quellen": [
+            {
+              "name": "GameSpot: Gold-Buying-Bann",
+              "url": "https://www.gamespot.com/articles/blizzard-might-finally-be-serious-about-wow-forever-gold-buying-bans-streamer-for-promoting-it/"
+            },
+            {
+              "name": "FRVR",
+              "url": "https://frvr.com/blog/news/blizzard-actually-bans-world-of-warcraft-forever-streamer-for-gold-buying-as-they-remain-crystal-clear-on-punishing-players-manipulating-the-economy/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Gold-Kurzmeldungen",
+        "punkte": [
+          "AH-Minimum: 1 Silber, soll auf 1 Kupfer sinken (kein Termin)",
+          "Respec: erster Reset ca. 1 Gold (Spielerangaben)",
+          "Kein WoW-Token in Forever laut Gold-Guide",
+          "Riding-Training dient als Gold-Sink (Guide)"
+        ],
+        "quellen": [
+          {
+            "name": "Icy Veins: AH-Deposit",
+            "url": "https://www.icy-veins.com/wow-forever/news/wow-forever-players-are-getting-a-99-cheaper-auction-house-deposit/"
+          },
+          {
+            "name": "LFCarry: Gold-Ökonomie",
+            "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Community",
+      "artikel": [
+        {
+          "titel": "1,12 Millionen Twitch-Zuschauer am Launch-Tag",
+          "unterzeile": "Fast so viel wie der Classic-Rekord",
+          "text": "Am Launch-Tag am 4. November zählte ein Tracker rund 1,12 Millionen Twitch-Zuschauer für WoW Forever. Das ist laut IGGM fast der Classic-Rekord. Bei der Beta-Enthüllung sollen es zuvor etwa 807.000 gewesen sein. Die Zahlen stammen von Trackern, nicht von Blizzard.",
+          "quellen": [
+            {
+              "name": "IGGM: Twitch-Zuschauer",
+              "url": "https://iggm.com/news/wow-forever-twitch-viewers-classic-record"
+            }
+          ]
+        },
+        {
+          "titel": "Neuer Server-Typ: RP-PvP kam nach Community-Wunsch",
+          "unterzeile": "Blizzard änderte seine Meinung innerhalb einer Woche",
+          "text": "Blizzard hat am 22. Oktober einen vierten Ruleset zum Launch angekündigt: Rollenspiel-PvP. Eine Woche zuvor hieß es noch, man plane keinen. Blizzard begründete das früher damit, die RP-Community sei im Vergleich klein und das serverlose Rulesetsystem brauche eine kritische Masse. Warum sich das änderte, hat Blizzard GameSpot nicht gesagt.",
+          "quellen": [
+            {
+              "name": "GameSpot: RP-PvP-Server",
+              "url": "https://www.gamespot.com/articles/wow-forever-is-getting-a-new-server-option-by-popular-demand/"
+            }
+          ]
+        },
+        {
+          "titel": "Streamer auf dem PvP-Ruleset: Kritik an der Dominanz",
+          "unterzeile": "GameSpot: „WoW: Forever Has A Streamer Problem“",
+          "text": "GameSpot kritisierte, dass auf dem Haupt-PvP-Server stark von Streamern geprägte Communities dominieren. Ein Beispiel ist Asmongolds Allianz-Gilde Olympus, die laut einer Quelle in der Beta über 74.000 Spieler zählte; diese Zahl ist unbestätigt. In Forever gibt es keine Serverliste, Spieler wählen einen Ruleset, und alle teilen sich im Kern einen großen Verbund.",
+          "quellen": [
+            {
+              "name": "GameSpot: Streamer-Problem",
+              "url": "https://www.gamespot.com/articles/wow-forever-has-a-streamer-problem/"
+            },
+            {
+              "name": "GameSpot: RP-PvP-Server",
+              "url": "https://www.gamespot.com/articles/wow-forever-is-getting-a-new-server-option-by-popular-demand/"
+            }
+          ]
+        },
+        {
+          "titel": "Wie viele spielen Forever?",
+          "unterzeile": "Blizzard nennt keine Zahlen, Tracker widersprechen sich",
+          "text": "Blizzard hat keine offizielle Spielerzahl veröffentlicht. Ein Tracker schätzt rund 290.000 tägliche Spieler, WoWCensus sah diese Woche 642.692 Charaktere, Forever Pulse zählt etwa 1,4 Millionen verschiedene Charaktere insgesamt. Die Werte messen Verschiedenes und sind nicht direkt vergleichbar.",
+          "quellen": [
+            {
+              "name": "MMO-Population",
+              "url": "https://mmo-population.com/game/world-of-warcraft-forever"
+            },
+            {
+              "name": "WoWCensus",
+              "url": "https://wowcensus.io/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Rulesets zum Launch",
+        "punkte": [
+          "Normal",
+          "PvP",
+          "Roleplaying",
+          "Roleplaying-PvP",
+          "Hardcore: erst nach dem Launch (Winter)"
+        ],
+        "quellen": [
+          {
+            "name": "GameSpot: RP-PvP-Server",
+            "url": "https://www.gamespot.com/articles/wow-forever-is-getting-a-new-server-option-by-popular-demand/"
+          },
+          {
+            "name": "The Forever Era: Hardcore",
+            "url": "https://theforeverera.com/en/guides/hardcore/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Legacy Points: 16 Punkte in drei Bäumen",
+          "unterzeile": "Professions, Adventure, Resourcefulness",
+          "text": "Jeder Charakter kann zum Launch bis zu 16 Legacy Points in drei Bäumen ausgeben: Professions, Adventure und Resourcefulness. Jeder Charakter darf einen anderen Build haben. Die ersten zwei Punkte gibt es laut Guide, wenn ihr eine Klasse auf 25 bringt oder einen Nicht-Sammelberuf auf 150.",
+          "quellen": [
+            {
+              "name": "Method: Legacy Points",
+              "url": "https://www.method.gg/wow-forever/the-best-way-to-spend-your-legacy-points-in-wow-forever-best-legacy-talent-builds"
+            },
+            {
+              "name": "Sportskeeda: Respec",
+              "url": "https://www.sportskeeda.com/mmo/how-respec-wow-forever"
+            }
+          ]
+        },
+        {
+          "titel": "Talented wird bei Level 60 nutzlos",
+          "unterzeile": "Danach respeccen",
+          "text": "Laut einem Guide ist Talented eine beliebte erste Wahl, wird auf Level 60 aber nutzlos. Wer dort Punkte hat, muss neu verteilen. Plant den Build vorher, denn jeder Reset kostet Gold. Resets laufen über den Klassenlehrer in einer Hauptstadt und erfassen auch die Legacy-Talente.",
+          "quellen": [
+            {
+              "name": "Method: Legacy Points",
+              "url": "https://www.method.gg/wow-forever/the-best-way-to-spend-your-legacy-points-in-wow-forever-best-legacy-talent-builds"
+            },
+            {
+              "name": "Sportskeeda: Respec",
+              "url": "https://www.sportskeeda.com/mmo/how-respec-wow-forever"
+            },
+            {
+              "name": "Timesaver: Respec-Kosten",
+              "url": "https://timesaver.gg/blog/wow-forever-dual-spec-respec-cost"
+            }
+          ]
+        },
+        {
+          "titel": "Kein Ranked-PvP: Honor und Ränge",
+          "unterzeile": "So läuft PvP in Forever",
+          "text": "Laut PvP-Guides gibt es in Forever weder gewertete Arenen noch gewertete Schlachtfelder. Honor kauft Ausrüstung, Rank Points bringen den Rang voran, und Honor auszugeben senkt die Rank Points nicht. Wer einsteigen will, sollte Blizzards Known Issues zu den PvP-Händlern im Blick behalten.",
+          "quellen": [
+            {
+              "name": "Timesaver: PvP-Guide",
+              "url": "https://timesaver.gg/blog/wow-forever-pvp-battlegrounds-darkspear-islands-honor"
+            },
+            {
+              "name": "Gaming Route: PvP",
+              "url": "https://gamingroute.com/wow-forever-pvp/"
+            }
+          ]
+        },
+        {
+          "titel": "Dual-Spec ab Level 40",
+          "unterzeile": "Respec-Kosten und Freischaltung",
+          "text": "Ein Guide vom 8. November nennt die Freischaltung von Dual-Spec ab Level 40. Zusammen mit den Respec-Kosten ab 1 Gold lohnt es sich also, bis dahin einen festen Leveling-Build zu wählen. Der Guide stützt sich auf Spielerangaben.",
+          "quellen": [
+            {
+              "name": "Timesaver: Respec-Kosten",
+              "url": "https://timesaver.gg/blog/wow-forever-dual-spec-respec-cost"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Tipps in Kürze",
+        "punkte": [
+          "Nur einmal respeccen: der zweite Reset kostet das Fünffache (Guide)",
+          "Vor dem 10.11. nicht umskillen",
+          "Rohstoffe schon beim Leveln verkaufen"
+        ],
+        "quellen": [
+          {
+            "name": "Epic Carry: Respec-Kosten",
+            "url": "https://epiccarry.com/blogs/wow-forever-respec-cost/"
+          },
+          {
+            "name": "LFCarry: Gold-Ökonomie",
+            "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Blizzard",
+      "artikel": [
+        {
+          "titel": "Launch-Nacht: 70.480 CPU-Kerne und 251.136 GB RAM",
+          "unterzeile": "Blizzard nennt Infrastruktur, räumt Probleme ein",
+          "text": "In einem Post am Launch-Abend nannte der offizielle WoW-Account die Infrastruktur: 3.924 virtuelle Maschinen, 251.136 GB Arbeitsspeicher und 70.480 CPU-Kerne. Der Start sei nicht fehlerfrei gewesen, das räumte Blizzard am selben Abend ein, und Entwickler Josh Greenfield bestätigte einige Probleme in den ersten Stunden. Mehrere Medien berichten trotzdem von einem insgesamt glatten Start, andere erwähnen Login-Warteschlangen. Detaillierte Blizzard-Zahlen zu Wartezeiten fehlen.",
+          "quellen": [
+            {
+              "name": "OutputLag: Server-Infrastruktur",
+              "url": "https://outputlag.com/news/wow-forevers-launch-ran-on-251136-gb-of-ram-and-70480-cpu-cores-blizzard-reveals/"
+            },
+            {
+              "name": "Digital Citizen: Launch",
+              "url": "https://www.digitalcitizen.life/world-of-warcraft-forever-launches-smoothly-after-beta-server-problems-and-long-login-queues/"
+            }
+          ]
+        },
+        {
+          "titel": "Alle vier Monate neuer Content",
+          "unterzeile": "Acht Wochen waren dem Team „viel zu schnell“",
+          "text": "Principal Game Designer Kris Zierhut sagte IGN zufolge, ein Acht-Wochen-Takt habe sich „way, way, way too fast“ angefühlt. Das Team hält etwa alle vier Monate oder 17 Wochen für richtig, also dreimal pro Jahr. Teile der Inhalte sollen auch mitten in einem Zyklus freigeschaltet werden. Blizzard hofft laut GameSpot, Forever 10 bis 20 Jahre zu betreiben.",
+          "quellen": [
+            {
+              "name": "GameSpot: Update-Rhythmus",
+              "url": "https://www.gamespot.com/articles/wow-forever-content-updates-will-come-slower-than-you-might-expect/"
+            },
+            {
+              "name": "PC Gamer: Update-Zeitplan",
+              "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-update-schedule-will-be-a-little-more-laid-back-than-the-main-mmo/"
+            }
+          ]
+        },
+        {
+          "titel": "Roadmap 2027: Zwei Update-Wellen",
+          "unterzeile": "Frühjahr und Sommer, ohne feste Daten",
+          "text": "Das erste große Update soll im Frühjahr 2027 zwei Raids (10 und 20 Spieler), zwei Dungeons, neue Quests und ein neues Gebiet, eine Legendary-Questreihe und eine PvP-Season bringen. Im Sommer folgen ein überarbeiteter Klassiker-Raid, ein neuer Raid, zwei Dungeons und Updates für Berufe und Legacy. Ein kursierendes „März 2027“ ist eine Schätzung der Presse. Blizzard weist die Roadmap mit „Änderungen vorbehalten“ aus.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Roadmap 2027",
+              "url": "https://www.icy-veins.com/wow-forever/news/three-new-raid-tiers-and-pvp-seasons-planned-for-2027/"
+            },
+            {
+              "name": "Icy Veins: Roadmap",
+              "url": "https://www.icy-veins.com/wow-forever/roadmap"
+            }
+          ]
+        },
+        {
+          "titel": "Hardcore kommt im Winter, neue Klasse nicht ausgeschlossen",
+          "unterzeile": "Kaum Details veröffentlicht",
+          "text": "Der Hardcore-Ruleset ist laut Roadmap für Winter 2026/27 vorgesehen, ohne Datum. Fan-Seiten melden, dass Fortschritt aus Hardcore in andere Rulesets fließen kann, aber nichts umgekehrt, und dass ein gestorbener Charakter in einen anderen Ruleset wechseln kann. Eine neue Klasse hat Blizzard laut Berichten nicht ausgeschlossen, aber nichts angekündigt.",
+          "quellen": [
+            {
+              "name": "The Forever Era: Hardcore",
+              "url": "https://theforeverera.com/en/guides/hardcore/"
+            },
+            {
+              "name": "Gamerant: Roadmap",
+              "url": "https://gamerant.com/wow-forever-roadmap-future-updates-release-date/"
+            },
+            {
+              "name": "Icy Veins: Roadmap",
+              "url": "https://www.icy-veins.com/wow-forever/roadmap"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Blizzard sagt",
+        "punkte": [
+          "Updates etwa alle 17 Wochen",
+          "Frühjahr 2027: erstes großes Update",
+          "Sommer 2027: zweites großes Update",
+          "Hardcore: Winter 2026/27, ohne Datum"
+        ],
+        "quellen": [
+          {
+            "name": "GameSpot: Update-Rhythmus",
+            "url": "https://www.gamespot.com/articles/wow-forever-content-updates-will-come-slower-than-you-might-expect/"
+          },
+          {
+            "name": "Icy Veins: Roadmap",
+            "url": "https://www.icy-veins.com/wow-forever/roadmap"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Di., 10. November: Klassen-Hotfixes",
+          "unterzeile": "Pets, Affliction, Enhancement",
+          "text": "Morgen spielt Blizzard laut Ankündigung Klassen-Hotfixes für Hunter-Pets, Voidwalker, Affliction-Hexer und Enhancement-Schamanen auf. Zahlen gibt es bisher nicht, Details können sich ändern.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern",
+              "url": "https://www.warcrafttavern.com/forever/news/class-tuning-coming-for-shamans-warlocks-hunter-pets-in-wow-forever/"
+            },
+            {
+              "name": "MMO Huts",
+              "url": "https://mmohuts.com/news/wow-forever-class-tuning-coming-november-10-for-pets-affliction-warlocks-and-enhancement-shamans"
+            }
+          ]
+        },
+        {
+          "titel": "Mi., 9. Dezember: Die ersten drei Raids",
+          "unterzeile": "Barrow Deeps, Hyjal Summit, Onyxia's Lair",
+          "text": "Am 9. Dezember öffnen die ersten drei Raids in den Größen 10, 20 und 40. Ihr habt also gut vier Wochen, um Level 60 zu erreichen, Ausrüstung zu sammeln und eine Raidgruppe zu finden.",
+          "quellen": [
+            {
+              "name": "wowguide.net: Raids",
+              "url": "https://wowguide.net/en/guides/wow-forever-raids-release-date"
+            },
+            {
+              "name": "HardcoreHelper: Raid-Roadmap",
+              "url": "https://www.hardcorehelper.com/forever/guides/wow-forever-raids-roadmap"
+            }
+          ]
+        },
+        {
+          "titel": "Winter: Hardcore, 2027: zwei große Updates",
+          "unterzeile": "Alles ohne festes Datum",
+          "text": "Hardcore ist für den Winter 2026/27 geplant, die großen Updates für Frühjahr und Sommer 2027. Blizzard nennt dafür keine Tage, und die Roadmap steht unter Vorbehalt.",
+          "quellen": [
+            {
+              "name": "The Forever Era: Hardcore",
+              "url": "https://theforeverera.com/en/guides/hardcore/"
+            },
+            {
+              "name": "Icy Veins: Roadmap",
+              "url": "https://www.icy-veins.com/wow-forever/roadmap"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kalender",
+        "punkte": [
+          "10.11.: Klassen-Hotfixes",
+          "9.12.: Raids Barrow Deeps, Hyjal Summit, Onyxia",
+          "Winter 2026/27: Hardcore",
+          "Frühjahr 2027: erstes großes Update",
+          "Sommer 2027: zweites großes Update"
+        ],
+        "quellen": [
+          {
+            "name": "HardcoreHelper: Raid-Roadmap",
+            "url": "https://www.hardcorehelper.com/forever/guides/wow-forever-raids-roadmap"
+          },
+          {
+            "name": "Icy Veins: Roadmap",
+            "url": "https://www.icy-veins.com/wow-forever/roadmap"
+          }
+        ]
+      }
     }
   ],
   "zumSchluss": {
     "titel": "Tipp des Tages",
-    "text": "Mit 50 % mehr Dungeon-EP lohnt sich heute eine Gruppe für den nächsten Dungeon. Morgen kommen die Klassen-Hotfixes, also vor dem Umskillen lieber noch einen Tag warten."
+    "text": "Spart euch das Umskillen bis nach dem Hotfix am Dienstag. Hunter-, Hexer- und Schamanen-Spieler sehen dann, ob ihr Build noch passt, und der erste Reset kostet ohnehin schon Gold."
   }
 }
