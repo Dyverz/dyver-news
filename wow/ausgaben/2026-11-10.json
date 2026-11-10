@@ -1,0 +1,406 @@
+{
+  "gruss": "Seid gegrüßt, Abenteurer! Heute ist Patch-Dienstag: Die ersten Klassen-Hotfixes stehen an, und rund um Onyxia, Gold und Level-60-Rekorde gibt es frischen Stoff für den Forever-Alltag.",
+  "aufmacher": {
+    "rubrik": "Klassen-Tuning",
+    "titel": "Patch-Dienstag: Pets, Affliction und Enhancement bekommen ihr Tuning",
+    "unterzeile": "Blizzard will heute Hunter-Pets, Voidwalker, Wrack-Hexer und Enhancement-Schamanen anfassen – weitere Dienstage könnten folgen",
+    "text": "Für heute, Dienstag den 10. November, hat Blizzard die ersten Klassen-Hotfixes seit dem Launch angekündigt. Laut Blizzards Community-Manager Kaivax, der das am 6. November verkündete, brauchten einige Klassenprobleme „sofortige Änderungen“. Im Mittelpunkt stehen Hunter-Pets und Warlock-Voidwalker, die als Tanks nicht genug aushalten und sich wieder an der Effektivität in Classic Era orientieren sollen, außerdem Affliction-Hexer und Enhancement-Schamanen.\n\nBei Affliction geht es um die Rotation: Wer ständig Wrack channelt, fährt aktuell besser als mit den Damage-over-Time-Zaubern. Siphon Life, Corruption und Bane of Agony sollen künftig neben Wrack lohnend sein – der Gesamtschaden soll laut Ankündigung gleich bleiben, es ist also eine Rotationsänderung und kein Nerf. Enhancement-Schamanen sollen Strength als wichtigsten Wert bekommen, weil Intellect und Spell Power bislang stärker abschnitten.\n\nWichtig: Zum Redaktionsschluss lag keine Quelle vor, die die Änderungen als bereits live bestätigt, und genaue Zahlen hat Blizzard nicht genannt. Blizzard erklärt außerdem, dass an späteren Dienstagen bei Bedarf weitere Balance-Änderungen folgen können.",
+    "quellen": [
+      {"name": "WoW Guide: Class Tuning 10 November", "url": "https://wowguide.net/en/guides/wow-forever-class-tuning-november-10"},
+      {"name": "allthings.how: Class Tuning 10 November", "url": "https://allthings.how/wow-forever-class-tuning-november-10/"},
+      {"name": "Team Overpowered: Class Tuning", "url": "https://teamoverpowered.com/forever/news/class-tuning-incoming-november-10-pets-affliction-enhancement/"}
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Heute Klassen-Hotfixes – die Liste steht im Forum",
+          "unterzeile": "Blizzard beschreibt die Änderungen in einem eigenen Tuning-Post",
+          "text": "Die für den 10. November angekündigten Klassenänderungen beschreibt Blizzard laut Guide-Seiten in einem Class-Tuning-Post und einer Hotfix-Liste in den offiziellen Foren. Vorangegangen war die Ankündigung von Community-Manager Kaivax vom 6. November.\n\nWas konkret live geht, bestätigt am Morgen noch keine Quelle: Mehrere Berichte betonen, die Änderungen seien geplant, aber noch nicht als umgesetzt belegt, und Blizzard prüfe weiter, sodass sich Details ändern können. Wer wissen will, was tatsächlich angekommen ist, wartet am besten die offizielle Hotfix-Liste ab.\n\nHinweis: Mehrere der genannten Seiten sind Fan- und Guide-Seiten, die Blizzards Ankündigung zusammenfassen.",
+          "quellen": [
+            {"name": "WoW Guide: Class Tuning 10 November", "url": "https://wowguide.net/en/guides/wow-forever-class-tuning-november-10"},
+            {"name": "GamerFuzion: Class Tuning Tuesday", "url": "https://www.gamerfuzion.com/world-of-warcraft-forever-class-tuning-november-10-pets-affliction-enhancement-shaman-hotfixes/"}
+          ]
+        },
+        {
+          "titel": "Server am Montagabend kurz heruntergefahren",
+          "unterzeile": "Blizzard kündigte es per In-Game-Meldung an",
+          "text": "Wowhead meldete am 9. November, Blizzard habe über In-Game-Servernachrichten angekündigt, die WoW-Forever-Server kurz herunterzufahren. Details zum Grund oder zur Dauer lassen sich aus den Suchergebnissen nicht entnehmen. Falls ihr gestern Abend aus dem Spiel geworfen wurdet, lag es vermutlich daran.",
+          "quellen": [
+            {"name": "Wowhead auf X", "url": "https://x.com/Wowhead/status/2119912295681925202"},
+            {"name": "Wowhead: Forever News", "url": "https://www.wowhead.com/forever"}
+          ]
+        },
+        {
+          "titel": "Hotfix vom 6. November: Tanning Rack früher nutzbar, Teldrassil-Fix",
+          "unterzeile": "Kleine Änderungen, die man leicht übersieht",
+          "text": "Neben den Klassenfixes steht im Hotfix-Log vom 6. November, dass die Skill-Anforderung für das Tanning Rack im Lederverarbeitung von 140 auf 125 gesenkt wurde. In Teldrassil wurde behoben, dass Lasher Sproutlings, Blooming Lashers und Wrathvine immun gegen Naturschaden waren. Ein Fix vom 5. November betrifft Pelluk im Swamp of Sorrows, der manchmal nicht spawnte, und die Respawn-Zeit von Deathstalker Erland.",
+          "quellen": [
+            {"name": "Blizzard News: Hotfixes 6. November", "url": "https://news.blizzard.com/en-gb/article/24307310/hotfixes-november-6-2026"},
+            {"name": "Blizzard: Hotfixes 5. November", "url": "https://worldofwarcraft.blizzard.com/en-us/news/24307310"}
+          ]
+        },
+        {
+          "titel": "Layer-Zahlen und kaputte Transporte: Known Issues",
+          "unterzeile": "Laut Guide-Seiten aus dem offiziellen Known-Issues-Thread",
+          "text": "Community-Manager Kaivax hat laut einer Guide-Seite am 5. November einen Known-Issues-Thread im offiziellen Forum eröffnet. Darin und in Berichten dazu geht es um Layer-Zahlen, die nach Berichten über leere Zonen angepasst wurden, während Spieler nun teils überfüllte Questgebiete beklagen. In Foren melden Spieler außerdem, dass Zeppeline auf einigen RP-PvP-Layern nicht richtig funktionieren. Diese Angaben stammen aus Drittseiten und Foren-Berichten, nicht aus Blizzards eigener Liste.",
+          "quellen": [
+            {"name": "WoW Handbook: Launch Week Known Issues", "url": "https://wowhandbook.com/news/wow-forever-launch-week-known-issues/"},
+            {"name": "WoW Guide: Known Issues", "url": "https://wowguide.net/en/guides/wow-forever-known-issues-bug-list"},
+            {"name": "Blizzard-Forum: Zeppelins broken?", "url": "https://us.forums.blizzard.com/en/wow/t/zeppelins-broken/2401777"}
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Patch-Stand",
+        "punkte": [
+          "Build-Nummer: in den ausgewerteten Quellen nicht genannt",
+          "10. Nov: Klassen-Tuning (Pets, Affliction, Enhancement) angekündigt",
+          "6. Nov: Voidwalker ca. +40 Basis-Gesundheit, Bloom heilt korrekt, Tanning Rack 125 statt 140",
+          "Letzte bestätigte Hotfix-Liste im Suchergebnis: 6. November"
+        ],
+        "quellen": [
+          {"name": "Blizzard News: Hotfixes 6. November", "url": "https://news.blizzard.com/en-gb/article/24307310/hotfixes-november-6-2026"}
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Enhancement-Schamanen: Was Strength für Loot-Entscheidungen bedeutet",
+          "unterzeile": "Mage- und Hexer-Items sollen nicht mehr die beste Wahl sein",
+          "text": "Blizzard will, dass bei Enhancement-Schamanen Strength der stärkste Wert wird, weil Intellect und Spell Power bisher besser abschnitten. Ziel sind laut Berichten Top-Items mit Strength oder Attack Power plus etwas Intellect und/oder Spell Power. Gear von Magiern und Hexern wäre damit nicht mehr automatisch die beste Wahl. Konkrete Zahlen hat Blizzard nicht veröffentlicht.",
+          "quellen": [
+            {"name": "Team Overpowered: Class Tuning", "url": "https://teamoverpowered.com/forever/news/class-tuning-incoming-november-10-pets-affliction-enhancement/"},
+            {"name": "Timesaver: Class Changes Nov 10", "url": "https://timesaver.gg/blog/wow-forever-class-changes-november-10"}
+          ]
+        },
+        {
+          "titel": "Affliction: Kein Nerf, sondern ein Rotations-Umbau",
+          "unterzeile": "Siphon Life, Corruption und Bane of Agony sollen wieder zählen",
+          "text": "Hexer, die dauerhaft Wrack channeln, erzielen derzeit mehr Wirkung als mit ihren Damage-over-Time-Zaubern. Blizzard plant, Siphon Life, Corruption und Bane of Agony neben Wrack lohnend zu machen. Der Gesamtschaden von Affliction soll dabei laut Ankündigung unverändert bleiben. Heißt: Die Spielweise ändert sich, nicht die Stärke der Spezialisierung.",
+          "quellen": [
+            {"name": "WoW Guide: Class Tuning 10 November", "url": "https://wowguide.net/en/guides/wow-forever-class-tuning-november-10"},
+            {"name": "Master of Warcraft: Class Tuning", "url": "https://www.masterofwarcraft.net/2026/11/wow-forever-class-tuning-november-10.html"}
+          ]
+        },
+        {
+          "titel": "Pet-Tanks: Ziel ist Classic-Era-Niveau",
+          "unterzeile": "Hunter-Pets und Voidwalker halten bisher zu wenig aus",
+          "text": "Laut Blizzard halten Hunter-Pets und Warlock-Voidwalker als Tanks nicht so viel aus wie vorgesehen. Die Stats sollen angepasst werden, bis sie etwa so haltbar sind wie in Classic Era. Schon der Hotfix vom 6. November hatte Voidwalkern auf allen Leveln rund 40 Basis-Gesundheit mehr gegeben.",
+          "quellen": [
+            {"name": "WoW Forever: Hunter and Warlock pets get tougher", "url": "https://wowforever.be/news/hunter-and-warlock-pets-get-tougher-on-tuesday/"},
+            {"name": "Blizzard News: Hotfixes 6. November", "url": "https://news.blizzard.com/en-gb/article/24307310/hotfixes-november-6-2026"}
+          ]
+        },
+        {
+          "titel": "Weitere Dienstage möglich",
+          "unterzeile": "Blizzard hält sich Nachjustierungen offen",
+          "text": "Blizzard hat laut den Berichten angekündigt, an späteren Dienstagen bei Bedarf weitere Balance-Änderungen nachzuschieben. Mehrere Quellen weisen zudem darauf hin, dass Blizzard noch untersucht und Details sich ändern können. Wer gerade Gold in einen Respec stecken will, behält das im Hinterkopf.",
+          "quellen": [
+            {"name": "Timesaver: Class Changes Nov 10", "url": "https://timesaver.gg/blog/wow-forever-class-changes-november-10"},
+            {"name": "GamerFuzion: Class Tuning", "url": "https://www.gamerfuzion.com/world-of-warcraft-forever-class-tuning-november-10-pets-affliction-enhancement-shaman-hotfixes/"}
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Onyxia-Attunement: Der Drakefire Amulet muss in die Tasche",
+          "unterzeile": "Guide-Seiten beschreiben die Kette für beide Fraktionen",
+          "text": "Von den drei Raids zum 9. Dezember hat laut Guides nur Onyxia's Lair ein Attunement. Der Schlüssel ist das Drakefire Amulet; es muss beim Betreten in den Taschen liegen, nicht angelegt sein. Jeder Charakter muss die Kette selbst abschließen. Die Allianz startet mit einer Quest von Helendis Riverhorn in den Burning Steppes, die Horde bei Kargath, und mehrere Quellen sagen, die Horde-Quests verlangten Level 55. Als Endpunkt nennen manche Seiten General Drakkisath an der Spitze von Blackrock Spire.\n\nAchtung: Viele dieser Seiten verkaufen Boosts oder Attunement-Services. Die Fakten decken sich zwar untereinander, ein Abgleich mit Blizzards offizieller Übersicht war nicht möglich.",
+          "quellen": [
+            {"name": "Timesaver: Onyxia Attunement", "url": "https://timesaver.gg/blog/wow-forever-onyxia-attunement-drakefire-amulet"},
+            {"name": "Conquest Capped: Onyxia Attunement", "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-onyxia-attunement/"},
+            {"name": "Accountshark: Onyxia Attunement", "url": "https://accountshark.net/blog/wow-forever-onyxia-attunement-drakefire-amulet-first-raid-preparation"}
+          ]
+        },
+        {
+          "titel": "Barrow Deeps und Hyjal Summit: Kein Attunement, dafür weite Wege",
+          "unterzeile": "Raidgrößen, Bossanzahl und Eingänge laut Guides",
+          "text": "Barrow Deeps ist ein Raid für 10 Spieler mit 8 Bossen und liegt laut Guides im Mount Hyjal, mit Eingängen über Mount Hyjal, Winterspring und Blackmaw Hold. Hyjal Summit fasst 20 Spieler, hat 13 Bosse und liegt am Gipfel nahe Nordrassil. Onyxia's Lair in Dustwallow Marsh ist der 40er-Raid. Für Barrow Deeps und Hyjal Summit nennen die Quellen keine Attunement-Kette; die Raids setzen wöchentlich zurück. Ein Treffer gab Barrow Deeps als Dungeon für Level 48–53 an – das widerspricht allen anderen Quellen und gilt hier als Fehler.",
+          "quellen": [
+            {"name": "LFCarry: Raids Guide", "url": "https://lfcarry.com/guides/wow-forever-raids"},
+            {"name": "Output Lag: Dungeons and Raids List", "url": "https://outputlag.com/guides/wow-forever-dungeons-and-raids-list/"}
+          ]
+        },
+        {
+          "titel": "Raid-Start weltweit zeitgleich",
+          "unterzeile": "Entwickler im MrGM-Interview",
+          "text": "Laut Wowhead-Zusammenfassung des MrGM-Interviews sagten Kris Zierhut und Josh Greenfield, die neuen Raids öffneten am 9. Dezember weltweit zum gleichen Zeitpunkt in jeder Region. Eine Uhrzeit hatte Blizzard Stand 7. November noch nicht genannt. Der Termin liegt 35 Tage nach dem Launch.",
+          "quellen": [
+            {"name": "Wowhead: MrGM Interview", "url": "https://www.wowhead.com/forever/news/black-market-auction-house-global-raid-launch-quest-helpers-mrgm-interview-on-383781"},
+            {"name": "Endgame Tools: Developers on raids", "url": "https://endgametools.com/en/wow-forever/news/wow-forever-developers-raids-black-market"}
+          ]
+        },
+        {
+          "titel": "Pre-Raid-BiS: Erste Listen sind online",
+          "unterzeile": "Drittseiten-Guides zu Barrow Deeps, Hyjal und Onyxia",
+          "text": "Timesaver hat eine Pre-Raid-BiS-Liste für die drei Raids veröffentlicht, die sich auf den Start am 9. Dezember 2026 bezieht. Es handelt sich um eine Drittseite, die Einschätzungen vor dem Raid-Start gibt; Blizzard hat keine offiziellen Empfehlungen gegeben. Wer jetzt Dungeon-Gear sammelt, kann sich daran orientieren – prüft aber nach den Klassen-Hotfixes, ob die Empfehlungen noch passen.",
+          "quellen": [
+            {"name": "Timesaver: Pre-Raid BiS", "url": "https://timesaver.gg/blog/wow-forever-pre-raid-bis"}
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Riverglades: Per Schiff ins Level-35-bis-45-Gebiet",
+          "unterzeile": "Rund 150 bis 200 Quests mit neuen Rufgruppen",
+          "text": "Die meisten Guides platzieren Riverglades im mittleren 30er- bis mittleren 40er-Bereich mit ungefähr 150 bis 200 Quests. Ein Guide verweist auf Blizzard, das fast 200 Quests für beide Fraktionen zählt, dazu kommen neue Rufgruppen und Belohnungen. Erreichbar ist das Gebiet per Boot; der neutrale Goblin-Hafen Powderfuse Port wird von Tanaris aus angesteuert.\n\nDie Levelbereiche stammen bei vielen Seiten aus Beta-Daten oder Schätzungen, nicht aus einer Blizzard-Angabe.",
+          "quellen": [
+            {"name": "eXputer: Leveling Zones", "url": "https://exputer.com/news/games/wow-forever-leveling-zones/"},
+            {"name": "Output Lag: New Zones by Level", "url": "https://outputlag.com/guides/wow-forever-new-zones-by-level/"}
+          ]
+        },
+        {
+          "titel": "Shen'dralas: Guides streiten über das Level",
+          "unterzeile": "40–45 oder 45–53?",
+          "text": "Shen'dralas liegt laut mehreren Guides südlich von Desolace, erreichbar über das Valley of Bones. Beim Level sind sich die Seiten nicht einig: Genannt werden 40 bis 45 und 45 bis 53. Blizzard hat keinen Bereich veröffentlicht; die Angaben für Shen'dralas und Mount Hyjal sind Schätzungen aus den Kreaturenleveln. Der Rat: nach Questfarbe entscheiden, wenn ihr dort ankommt.",
+          "quellen": [
+            {"name": "LFCarry: New Zones", "url": "https://lfcarry.com/guides/wow-forever-new-zones"},
+            {"name": "Output Lag: New Zones by Level", "url": "https://outputlag.com/guides/wow-forever-new-zones-by-level/"}
+          ]
+        },
+        {
+          "titel": "Startgebiet Zephras Isle und die Reisezeit",
+          "unterzeile": "Keine Summoning Stones, kein Fliegen",
+          "text": "Skyborne-Charaktere starten laut Guides auf Zephras Isle (Level 1 bis 12). Weil es in Forever keine Summoning Stones und kein Fliegen gibt, schlägt die Reisezeit stärker zu Buche als in Classic. Über Zephras-Layer berichten Foren-Nutzer außerdem, dass sie oft zu einer Fraktion tendieren.",
+          "quellen": [
+            {"name": "Gaming Route: Leveling Guide", "url": "https://gamingroute.com/wow-forever-leveling-guide/"},
+            {"name": "Expcarry: Zephras Isle Guide", "url": "https://expcarry.com/wow-forever-zephras-isle-guide"},
+            {"name": "Blizzard-Forum: About Zephras Isle", "url": "https://eu.forums.blizzard.com/en/wow/t/about-zephras-isle/636538"}
+          ]
+        },
+        {
+          "titel": "Erster Solo-60er: Nachtelfen-Hunter KSuper2",
+          "unterzeile": "Ohne Gruppe auf die Höchststufe",
+          "text": "Icy Veins berichtet, dass KSuper2 mit einem Nachtelfen-Hunter als erster Spieler Level 60 in WoW Forever solo erreicht hat. Zuvor hatte eine Gruppe von fünf Horde-Spielern rund 52 Stunden nach dem Launch die 60 erreicht.",
+          "quellen": [
+            {"name": "Icy Veins: Erster Solo-60er", "url": "https://www.icy-veins.com/wow-forever/news/another-world-first-wow-forevers-first-solo-level-60-is-here/"},
+            {"name": "Endgame Tools: Erste 60er", "url": "https://endgametools.com/en/wow-forever/news/wow-forever-world-first-60"}
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Gold-Guides uneinig: Sammelberufe oder Enchanting?",
+          "unterzeile": "Mining, Herbalism, Skinning gegen Verzauberer",
+          "text": "Mehrere Guides empfehlen Herbalism und Mining als stärkste Goldquellen beim Leveln, weil sie keine Vorabkosten haben; ein anderer sieht Mining, Herbalism und Skinning vorn. Skinning ist umstritten, da das Leder im Lederverarbeiten und in bestimmten Waylaid Crates gebraucht wird. Auf Level 60 hält ein Guide Enchanting für die verlässlichste Goldquelle, ein anderer verweist auf Tailoring/Enchanting und auf Alchemy bei wiederkehrenden Verbrauchsgütern. Fast alle diese Seiten sind Drittanbieter, die teils selbst Gold oder Boosts verkaufen.",
+          "quellen": [
+            {"name": "LFCarry: Gold Economy", "url": "https://lfcarry.com/guides/wow-forever-gold-economy"},
+            {"name": "Gamsgo: Gold Guide", "url": "https://www.gamsgo.com/blog/wow-forever-gold-guide"},
+            {"name": "Dving: Gold Guide", "url": "https://dving.net/guides/wow-forever-gold-guide"}
+          ]
+        },
+        {
+          "titel": "Black Market Auction House: Goldsenke mit wenigen Items",
+          "unterzeile": "Zum Start nur eine Handvoll Mounts und Pets",
+          "text": "Laut Wowhead-Zusammenfassung des MrGM-Interviews enthält das Black Market Auction House zum Start nur wenige Mounts und Pets, der Rest ist ausgewählte Dungeon-Beute. Rivendares Deathcharger wurde nach Community-Feedback aus den Belohnungen genommen. Die Entwickler sehen das System auch als Goldsenke, weil Spieler laufend Gold erzeugen und sonst Inflation droht. Ein weiterer NPC soll seltene Materialien wie Black Lotus verkaufen und so die Preise deckeln.",
+          "quellen": [
+            {"name": "Wowhead: MrGM Interview", "url": "https://www.wowhead.com/forever/news/black-market-auction-house-global-raid-launch-quest-helpers-mrgm-interview-on-383781"},
+            {"name": "Guided.news: Black Market", "url": "https://guided.news/en/news/wow-forever-black-market-dungeon-set-pieces-deathcharger/"}
+          ]
+        },
+        {
+          "titel": "Was kostet das Berufe-Leveln? Ein Preis-Snapshot",
+          "unterzeile": "Cooking, First Aid und Alchemy am günstigsten",
+          "text": "Der Profession-Rechner von Timesaver nennt für das US-Auktionshaus der Allianz (Stand 9. November 2026) Cooking, First Aid und Alchemy als billigste Crafting-Berufe für 1 bis 300. Das ist eine Momentaufnahme eines Servers und einer Fraktion; eure Preise können deutlich abweichen. Vor größeren Käufen lohnt der Blick in die Preishistorie statt auf ein einzelnes billiges Angebot.",
+          "quellen": [
+            {"name": "Timesaver: Profession Calculator", "url": "https://timesaver.gg/tools/wow-forever/professions"},
+            {"name": "LFCarry: Gold Economy", "url": "https://lfcarry.com/guides/wow-forever-gold-economy"}
+          ]
+        },
+        {
+          "titel": "Kein WoW-Token in Sicht",
+          "unterzeile": "Es gibt keinen offiziellen Weg, Gold zu kaufen",
+          "text": "Laut Timesaver ist für Forever kein WoW-Token bestätigt, es gibt also keinen sanktionierten Weg, Gold zu kaufen. Blizzard hat in der Beta nach eigenen Angaben über 2.100 Gold-Käufer-Accounts und knapp 1.600 Verkäufer- oder Bot-Accounts geschlossen. Das erklärt, warum Gold in Forever vor allem aus Quests, Farmen und Handwerk stammt.",
+          "quellen": [
+            {"name": "Timesaver: Beta RMT Ban Wave", "url": "https://timesaver.gg/blog/wow-forever-beta-rmt-ban-wave-what-it-means-for-launch"},
+            {"name": "mmohuts: Bans in der Beta", "url": "https://mmohuts.com/news/blizzard-bans-thousands-of-gold-buying-and-bot-accounts-in-wow-forever-beta"}
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Community",
+      "artikel": [
+        {
+          "titel": "Wer war wirklich zuerst auf 60? Die Listen widersprechen sich",
+          "unterzeile": "Inoffizielle Tracker, keine offizielle Wertung",
+          "text": "Mehrere Quellen sehen eine Gruppe von fünf Horde-Spielern 52 Stunden nach dem Launch bei Level 60; der Tracker sah den Untoten-Paladin Cloud Bells am 7. November um 03:10 UTC auf 60. Die Armory-Rangliste führt dagegen den Mage Jokerd Prime (EU, Normal) als ersten gesehenen 60er. Esfand Televisions 60 gilt im Forever-Guides-Tracker als unbestätigt. Es sind handgepflegte Fan-Listen; Blizzard führt keine offizielle Rangliste.",
+          "quellen": [
+            {"name": "Armory WoW Forever: World First", "url": "https://armorywowforever.com/world-first"},
+            {"name": "The Forever Guides: World First 60", "url": "https://theforeverguides.com/news/world-first-60/"},
+            {"name": "Endgame Tools: Erste 60er", "url": "https://endgametools.com/en/wow-forever/news/wow-forever-world-first-60"}
+          ]
+        },
+        {
+          "titel": "Twitch: 1.119.734 Zuschauer, knapp unter dem Classic-Rekord",
+          "unterzeile": "Blizzard nennt keine Spielerzahl",
+          "text": "Streams Charts beziffert den Launch-Peak am 4. November auf 1.119.734 gleichzeitige Twitch-Zuschauer, knapp unter dem Classic-Launch von August 2019 mit 1.132.957. Blizzard nennt den Launch den größten nach gleichzeitigen Spielern, veröffentlicht aber keine Zahl; mehr könnte es laut Icy Veins bei den Microsoft-Quartalszahlen im Januar 2027 geben. Zur Beta kursieren widersprüchliche Peak-Werte (rund 800.000 gegen über 1,6 Millionen).",
+          "quellen": [
+            {"name": "Streams Charts: Launch-Viewership", "url": "https://streamscharts.com/news/world-warcraft-forever-launch-viewership"},
+            {"name": "Icy Veins: Biggest launch ever", "url": "https://www.icy-veins.com/wow-forever/news/blizzard-says-wow-forever-is-its-biggest-launch-ever-but-wont-say-how-big/"}
+          ]
+        },
+        {
+          "titel": "Streamer wegen Werbung für Gold-Kauf gebannt",
+          "unterzeile": "GameSpot: Blizzard macht Ernst",
+          "text": "GameSpot berichtet, Blizzard gehe in Forever sichtbar gegen Gold-Kauf vor und habe einen Streamer gesperrt, der dafür geworben haben soll. Blizzard will auch Käufer bestrafen, nicht nur Verkäufer. Laut Berichten drohen Gold-Entzug, Sperre oder dauerhafte Schließung. Spieler im Forum klagen teils über Sperren für kleine Goldbeträge von Fremden – das ist nicht unabhängig geprüft.",
+          "quellen": [
+            {"name": "GameSpot: Gold-Kauf und Streamer-Bann", "url": "https://www.gamespot.com/articles/blizzard-might-finally-be-serious-about-wow-forever-gold-buying-bans-streamer-for-promoting-it/"},
+            {"name": "WOWF.IO: RMT Bans", "url": "https://wowf.io/en/news/rmt-bans-and-detection"}
+          ]
+        },
+        {
+          "titel": "Login-Warteschlangen: Es gibt keine belastbaren Zahlen",
+          "unterzeile": "Graue Rulesets und Queue-Tricks",
+          "text": "Ein Guide, zuletzt am 9. November aktualisiert, widmet sich Launch-Warteschlangen und ausgegrauten Rulesets. Echte Queue-Längen oder Bevölkerungszahlen nennt er ausdrücklich nicht, und auch sonst fanden sich keine verlässlichen. Der Armory-Tracker zählt rund 4,4 Millionen Charaktere – das ist aber eine Trackerzahl und kein Maß für aktive Spieler.",
+          "quellen": [
+            {"name": "WoW Forever Leveling: Login Queue Issues", "url": "https://wowforeverleveling.com/guides/wow-forever-login-queue-issues"},
+            {"name": "Armory WoW Forever: World First", "url": "https://armorywowforever.com/world-first"}
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Blizzards Starter Guide: Wählt euer Ruleset mit Bedacht",
+          "unterzeile": "Gruppen bilden sich nur mit gleichem Ruleset und gleicher Fraktion",
+          "text": "Blizzards offizieller Starter Guide beschreibt die Rulesets Normal, PvP und Roleplay und weist darauf hin, dass sich Gruppen nur mit Spielern desselben Rulesets und derselben Fraktion bilden. Normal wird als einladender Ort zum Lernen beschrieben. Wer das Ruleset wechseln will, sollte vor dem Charakterbau wissen, dass Freunde dazu dasselbe wählen müssen.",
+          "quellen": [
+            {"name": "Blizzard: New Player's Starter Guide", "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315280"}
+          ]
+        },
+        {
+          "titel": "Häufige Anfängerfehler laut Guide-Seiten",
+          "unterzeile": "Spellbook prüfen, Taschen selbst einsetzen",
+          "text": "Mehrere Guides warnen: Neu gelernte Zauber landen nicht automatisch in der Aktionsleiste, deshalb nach jedem Trainer-Besuch das Spellbook prüfen. Auch Taschen müssen manuell platziert werden. Einen automatischen Dungeon Finder gibt es nicht, Gruppen müssen per Chat zusammenfinden. Da Forever kein Level-Scaling hat, wird der Kampf gegen deutlich höherstufige Gegner schnell frustrierend.",
+          "quellen": [
+            {"name": "Space4Games: Beginner Tips", "url": "https://space4games.com/en/games-en/wow-forever-beginner-tips/"},
+            {"name": "Timesaver: Beginner Guide", "url": "https://timesaver.gg/blog/wow-forever-beginner-guide-new-players"},
+            {"name": "Overgear: Tips for Beginners", "url": "https://overgear.com/guides/wow-forever/tips-for-beginners/"}
+          ]
+        },
+        {
+          "titel": "Preset „Enhanced“ empfohlen",
+          "unterzeile": "Quest-Marker, One-bag und HD-Modelle",
+          "text": "Die meisten Anfänger-Guides empfehlen das Preset Enhanced. Laut einem Guide schaltet es Quest-Marker, One-bag und HD-Modelle ein; es lässt sich später in den Optionen ändern.",
+          "quellen": [
+            {"name": "Space4Games: Beginner Tips", "url": "https://space4games.com/en/games-en/wow-forever-beginner-tips/"}
+          ]
+        },
+        {
+          "titel": "Schneller leveln mit dem Cozy Sleeping Bag",
+          "unterzeile": "Neuer Wowhead-Guide vom 9. November",
+          "text": "Wowhead hat am 9. November einen Guide mit dem Titel „Level Faster with your Cozy Sleeping Bag in WoW: Forever“ veröffentlicht. Der Inhalt war in den Suchergebnissen nicht lesbar; es lohnt sich, direkt auf Wowhead nachzuschauen. Weitere Guides zu Rested XP, Campen und Legacy Perks listen Drittseiten, ohne dass Details zum Camping-System auffindbar waren.",
+          "quellen": [
+            {"name": "Wowhead: Forever News and Guides", "url": "https://www.wowhead.com/forever"},
+            {"name": "Conquest Capped: Leveling Guide", "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-leveling/"}
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard",
+      "artikel": [
+        {
+          "titel": "Entwickler: Kein Fliegen, nie",
+          "unterzeile": "Auch keine Arenen und kein geteiltes Mob-Tagging",
+          "text": "Im Interview mit MrGM haben Kris Zierhut und Josh Greenfield laut Berichten Flugreittiere für Forever dauerhaft ausgeschlossen. Eine Seite fügt hinzu, dass auch gewertete Arenen und geteiltes Mob-Tagging nie kommen sollen, obwohl die Karte keine leeren Flächen habe. Wowhead nennt das Interview als Quelle; die anderen Seiten fassen es zusammen.",
+          "quellen": [
+            {"name": "Wowhead: MrGM Interview", "url": "https://www.wowhead.com/forever/news/black-market-auction-house-global-raid-launch-quest-helpers-mrgm-interview-on-383781"},
+            {"name": "WoW Forever: Flying mounts will never come", "url": "https://wowforever.be/news/flying-mounts-will-never-come-to-wow-forever/"}
+          ]
+        },
+        {
+          "titel": "Auktionshaus-Gebühr soll auf 1 Kupfer sinken – ohne Termin",
+          "unterzeile": "Aus einem Interview mit Crix",
+          "text": "Laut Icy Veins sagte Zierhut in einem Interview mit Crix, die Auktionshaus-Einstellgebühr werde von 1 Silber auf 1 Kupfer sinken. Einen Termin dafür gibt es nicht.",
+          "quellen": [
+            {"name": "Icy Veins: 99 % cheaper Auction House Deposit", "url": "https://www.icy-veins.com/wow-forever/news/wow-forever-players-are-getting-a-99-cheaper-auction-house-deposit/"}
+          ]
+        },
+        {
+          "titel": "Hardcore kommt nach den Raids – Datum offen",
+          "unterzeile": "Winter 2026/27 laut Roadmap",
+          "text": "Blizzard hat für das Hardcore-Ruleset keinen Starttermin genannt. Die Roadmap-Seiten platzieren es im Winter nach den Raids vom 9. Dezember; die Entwickler sagten laut Berichten, es komme nach dem Launch. Laut einem Guide soll ein Hardcore-Charakter nach dem Tod in andere Modi wechseln können. Das ist nicht offiziell belegt.",
+          "quellen": [
+            {"name": "Icy Veins: Roadmap", "url": "https://www.icy-veins.com/wow-forever/roadmap"},
+            {"name": "The Forever Era: Hardcore", "url": "https://theforeverera.com/en/guides/hardcore/"}
+          ]
+        },
+        {
+          "titel": "Greenfield: Zahlen zu Bans im WoW-Forever-Podcast",
+          "unterzeile": "Über 2.100 Käufer, knapp 1.600 Verkäufer und Bots",
+          "text": "Josh Greenfield nannte in der dritten Folge des WoW-Forever-Podcasts laut mmohuts mehr als 2.100 geschlossene Gold-Käufer-Accounts und knapp 1.600 Verkäufer- oder Bot-Accounts in der Beta. Warnungen beim Handel mit Fremden gibt es bereits, weitere für Handelsbestätigungen und Post sollen folgen.",
+          "quellen": [
+            {"name": "mmohuts: Bans in der Beta", "url": "https://mmohuts.com/news/blizzard-bans-thousands-of-gold-buying-and-bot-accounts-in-wow-forever-beta"},
+            {"name": "Road to 60 Forever: Gold buying bans", "url": "https://roadto60forever.com/news/wow-forever-gold-buying-bans/"}
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Heute: Klassen-Tuning",
+          "unterzeile": "Dienstag, 10. November",
+          "text": "Die ersten Klassen-Hotfixes (Hunter-Pets, Voidwalker, Affliction, Enhancement) sind für heute angekündigt. Uhrzeit nennen die Quellen nicht; ob die Änderungen live sind, bestätigt Blizzards Hotfix-Liste.",
+          "quellen": [
+            {"name": "WoW Guide: Class Tuning 10 November", "url": "https://wowguide.net/en/guides/wow-forever-class-tuning-november-10"}
+          ]
+        },
+        {
+          "titel": "9. Dezember: Barrow Deeps, Hyjal Summit und Onyxia",
+          "unterzeile": "Weltweit zum gleichen Zeitpunkt",
+          "text": "Die drei Raids öffnen am 9. Dezember 2026 für Level-60-Charaktere, 35 Tage nach dem Launch. Barrow Deeps (10 Spieler), Hyjal Summit (20) und Onyxia's Lair (40) setzen wöchentlich zurück. Blizzard hatte die Uhrzeit Stand 7. November noch nicht genannt.",
+          "quellen": [
+            {"name": "Timesaver: Roadmap after launch", "url": "https://timesaver.gg/blog/wow-forever-roadmap-after-launch"},
+            {"name": "Wowhead: MrGM Interview", "url": "https://www.wowhead.com/forever/news/black-market-auction-house-global-raid-launch-quest-helpers-mrgm-interview-on-383781"}
+          ]
+        },
+        {
+          "titel": "Winter, Frühling und Sommer 2027 laut Roadmap",
+          "unterzeile": "Hardcore, zwei Raids und ein überarbeiteter Klassiker",
+          "text": "Roadmap-Seiten nennen für den Winter das Hardcore-Ruleset. Für das Frühjahr 2027 sind zwei neue Raids, zwei neue Dungeons, ein neues spielbares Gebiet, eine Legendary-Questreihe und ein PvP-Season-Refresh aufgeführt, für den Sommer ein überarbeiteter ikonischer Raid und ein weiterer neuer Raid. Terminangaben können sich laut Roadmap-Seiten ändern.",
+          "quellen": [
+            {"name": "Icy Veins: Roadmap", "url": "https://www.icy-veins.com/wow-forever/roadmap"},
+            {"name": "LFCarry: Roadmap", "url": "https://lfcarry.com/guides/wow-forever-roadmap"}
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kalender",
+        "punkte": [
+          "Di, 10. Nov: Klassen-Tuning",
+          "Weitere Dienstage: mögliche Balance-Änderungen",
+          "Mi, 9. Dez: Barrow Deeps, Hyjal Summit, Onyxia's Lair",
+          "Winter: Hardcore (kein Datum)",
+          "Frühjahr/Sommer 2027: weitere Raids und Dungeons"
+        ],
+        "quellen": [
+          {"name": "Icy Veins: Roadmap", "url": "https://www.icy-veins.com/wow-forever/roadmap"}
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages",
+    "text": "Wenn ihr Onyxia im Dezember mitnehmen wollt: Fangt die Attunement-Kette früh an und legt den Drakefire Amulet in die Tasche statt ihn anzulegen. Und lest nach dem Tuning-Dienstag die Hotfix-Liste, bevor ihr Gold in einen Respec oder neues Gear steckt."
+  }
+}
