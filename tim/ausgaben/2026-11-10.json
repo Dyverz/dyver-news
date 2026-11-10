@@ -1,0 +1,665 @@
+{
+  "gruss": "Guten Morgen, Tim! Dienstag, der 10. November – Regenschirm und Eiskratzer bereithalten, auf der A52 war es am Wochenende glatt. Hier ist dein Kurier.",
+  "aufmacher": {
+    "rubrik": "Deutschland: Politik",
+    "titel": "Haushalt 2027: Die Koalition ringt um jeden Euro",
+    "unterzeile": "Schlichtungsgipfel am Montag, am Donnerstag entscheidet der Haushaltsausschuss",
+    "text": "Eine Woche mit Ansage: Union und SPD haben beim Bundeshaushalt 2027 noch nicht zusammengefunden. Laut Bild-Bericht, den Yahoo Nachrichten wiedergibt, blockieren sich die Finanzpolitiker beider Seiten bei Schlüsselfragen. Am Montagabend sollte ein Schlichtungsgipfel mit den Fraktionschefs Thorsten Frei und Matthias Miersch helfen.\n\nStreitpunkte sind unter anderem die Regelsätze der Grundsicherung (nach Koalitionsangaben 5 bis 7 Euro im Monat zu hoch), der Kindersofortzuschlag von 25 Euro sowie Stromsteuer, Plastik- und Zuckerabgabe. Der Spielraum liegt bei nur etwa 1,4 Milliarden Euro.\n\nSpätestens am Donnerstag, 12. November, wird es ernst: Dann beginnt die Bereinigungssitzung des Haushaltsausschusses, die traditionell bis in den Freitagmorgen dauert. Wir bleiben dran.",
+    "quellen": [
+      {
+        "name": "Yahoo Nachrichten (Haushalt 2027)",
+        "url": "https://de.nachrichten.yahoo.com/merz-regierung-clinch-um-haushalt-094312360.html"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Mülheim an der Ruhr",
+      "artikel": [
+        {
+          "titel": "A52 bei Mülheim: Glatteis sorgt für fünf Unfälle auf der Ruhrtalbrücke",
+          "unterzeile": "Drei Leichtverletzte, Brücke zeitweise gesperrt",
+          "text": "Am Samstagmorgen, kurz nach 5.48 Uhr, hat Glatteis auf der A52-Ruhrtalbrücke in Richtung Essen gleich fünf Unfälle ausgelöst. Drei Menschen wurden leicht verletzt, die Brücke musste zeitweise gesperrt werden.\n\nLaut Polizei Düsseldorf rutschte zuerst ein Smart in die Leitplanke. Während die Beamten das aufnahmen, schleuderte ein Golf gegen Leitplanke und Betonwand. Beim vierten Unfall schob ein Golf einen stehenden Renault in weitere Fahrzeuge und in einen leeren Streifenwagen.\n\nNach weiterem Streuen wurden die Sperrungen gegen 8.15 Uhr weitgehend aufgehoben, um 10.25 Uhr war die Unfallstelle geräumt. Der Winter klopft an: Wer früh über die Brücke muss, plant mehr Zeit ein.",
+          "quellen": [
+            {
+              "name": "Polizei Düsseldorf via Presseportal",
+              "url": "https://www.presseportal.de/blaulicht/pm/13248/6386208"
+            }
+          ]
+        },
+        {
+          "titel": "Neue Polizeiinspektion in der Innenstadt: Grundstücke stehen bereit",
+          "unterzeile": "Zwei Flächen am Hauptbahnhof im Angebot",
+          "text": "Mülheim bekommt eine neue Polizeiinspektion in der Innenstadt. Das Land NRW hat dafür am 3. September EU-weit ein Mietobjekt mit Bauverpflichtung ausgeschrieben; Teilnahmeanträge sind bis zum 21. Dezember möglich.\n\nDie Stadt selbst bietet nur Grundstücke an: die Parallelstraße (ca. 3.500 m², Kaufpreis 1,19 Mio. Euro) und das Klöttschen (ca. 7.100 m², 2,256 Mio. Euro, aktuell mit Unterkünften für Geflüchtete bebaut). Beide liegen nahe dem Hauptbahnhof.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Investor*innen gesucht",
+              "url": "https://www.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/investorinnen-und-projektentwicklerinnen-gesucht-neue"
+            }
+          ]
+        },
+        {
+          "titel": "CO₂-Pipeline: Mülheim will sich gegen die Trasse durch den Wald wehren",
+          "unterzeile": "Beide Korridore von OGE führen durch die Stadt",
+          "text": "Open Grid Europe plant eine rund 200 Kilometer lange CO₂-Leitung von NRW Richtung Niederlande. Beide favorisierten Trassenkorridore laufen durch Mülheim, betroffen wären Wald, Naturschutz- und Wasserschutzgebiete. Für die Verlegung wären etwa 28,5 Meter breite Arbeitsstreifen nötig.\n\nDie Stadt sieht den Waldverlust als nicht ausgleichbar, und Oberbürgermeister Marc Buchholz kündigte an, alle rechtlichen Mittel auszuschöpfen. Die Öffentlichkeitsbeteiligung im Raumordnungsverfahren lief bis zum 26. Oktober; zur Infoveranstaltung in der Gesamtschule Saarn kamen rund 120 Leute.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Fragen zur CO₂-Pipeline",
+              "url": "https://www.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/stadtverwaltung-beantwortet-fragen-zur-geplanten-co2-pipeline"
+            }
+          ]
+        },
+        {
+          "titel": "Verfolgungsfahrt: 14-Jähriger flieht im geklauten Mercedes",
+          "unterzeile": "Start in Mülheim, Crash in Essen",
+          "text": "Ein 14-Jähriger ist mit einem in Duisburg gestohlenen Mercedes vor der Polizei geflohen. Die Verfolgung begann in Mülheim und endete mit einem Unfall in Essen. Der Jugendliche blieb unverletzt, so die Meldung der Duisburger Polizei vom Montag.",
+          "quellen": [
+            {
+              "name": "Polizei Duisburg via Presseportal",
+              "url": "https://www.presseportal.de/blaulicht/pm/50510/6387102"
+            }
+          ]
+        },
+        {
+          "titel": "Glasfaseratlas: So siehst du, wo in Mülheim ausgebaut wird",
+          "unterzeile": "Neue Online-Karte der Stadt",
+          "text": "Der Glasfaserausbau in Mülheim hat zuletzt spürbar Fahrt aufgenommen. Die Stadt hat dazu einen Glasfaseratlas online gestellt, der adressgenau zeigt, wo Glasfaser liegt oder geplant ist – egal ob privat finanziert oder gefördert. Verbindliche Auskünfte gibt es aber nur bei den Netzbetreibern, die Karte ist reine Information.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Glasfaseratlas",
+              "url": "https://www.muelheim-ruhr.de/rathaus/aemter-und-einrichtungen/amt-fuer-digitalisierung-und-it/der-glasfaseratlas-ihr-praeziser"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Gedenken: Am 9. November erinnerten Stadt und Jüdische Gemeinde an die Opfer der Pogromnacht 1938.",
+          "Volkstrauertag: Am 15. November Kranzniederlegung am Ehrenmal beim Altstadtfriedhof.",
+          "Weihnachtspäckchen: Schuhkartons für Partnerstadt Iwano-Frankiwsk bis 21. November abgeben (u. a. Sparkasse, Berliner Platz 1).",
+          "Kräuter ohne Erde: Das Mülheimer Unternehmen NourTec testet im Restaurant Ronja Anbau ohne Erde."
+        ],
+        "quellen": [
+          {
+            "name": "Stadt Mülheim: Gedenken",
+            "url": "https://www.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/"
+          },
+          {
+            "name": "Stadt Mülheim: Weihnachtspäckchen",
+            "url": "https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/europa-und-internationales/ukraine/weihnachtspaeckchen-fuer-die"
+          },
+          {
+            "name": "Stadt Mülheim: Kräuter ohne Erde",
+            "url": "https://www.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/kraeuter-ohne-erde-muelheimer-unternehmen-erprobt-anbau-im"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim & Ruhrgebiet",
+      "artikel": [
+        {
+          "titel": "Weihnachtsmärkte im Ruhrgebiet starten diese Woche",
+          "unterzeile": "Duisburg Donnerstag, Essen Freitag",
+          "text": "Der Duisburger Weihnachtsmarkt öffnet am Donnerstag, 12. November, und läuft bis 30. Dezember. Essen folgt am 13. November mit dem Anzünden der Lichtkrone auf dem Kennedyplatz, geöffnet bis 23. Dezember bei freiem Eintritt.\n\nLaut einer Übersicht starten Bochum und Dortmund am 19. November, Gelsenkirchen am 20. November. Beim CentrO-Markt in Oberhausen sind die Termine je nach Quelle noch vorläufig. In Essen laufen außerdem die Lichtwochen seit dem 25. Oktober.",
+          "quellen": [
+            {
+              "name": "Duisburger Weihnachtsmarkt",
+              "url": "https://www.festivalsindeutschland.de/festival/duisburger-weihnachtsmarkt"
+            },
+            {
+              "name": "Internationaler Weihnachtsmarkt Essen",
+              "url": "https://www.festivalsindeutschland.de/festival/internationaler-weihnachtsmarkt-essen"
+            },
+            {
+              "name": "Weihnachtsmärkte Ruhrgebiet 2026",
+              "url": "https://steinkunstwerk.de/blogs/ruhrgebiet-kalender/weihnachtsmaerkte-ruhrgebiet"
+            }
+          ]
+        },
+        {
+          "titel": "Zollverein: Ausstellung über NS-Zwangsarbeit im Ruhrbergbau",
+          "unterzeile": "„Unter Tage. Unter Zwang“ in Halle 8",
+          "text": "Auf Zollverein läuft die Ausstellung „Unter Tage. Unter Zwang“ über NS-Zwangsarbeit im Ruhrbergbau. Sie ist in Halle 8 täglich von 12 bis 18 Uhr zu sehen. Parallel gibt es im Ruhr Museum unter anderem die Sonderschau „überLeben in der Eiszeit“ und im Red Dot Design Museum „Red Dot Milestones 2026“. Eine Lesung zum Grubenunglück Hibernia 1887 fiel am Dienstag wegen Krankheit aus.",
+          "quellen": [
+            {
+              "name": "Zollverein: Veranstaltungskalender",
+              "url": "https://www.zollverein.de/kalender/"
+            }
+          ]
+        },
+        {
+          "titel": "Landtag NRW: Haushalt 2027 und Autostandort auf der Agenda",
+          "unterzeile": "Erste Ausschusswoche nach der Herbstpause",
+          "text": "Nach der Herbstpause hat der Düsseldorfer Landtag laut seiner Wochenvorschau den Haushaltsentwurf 2027 als Schwerpunkt in den Ausschüssen. Außerdem standen unter anderem die Lehrerbesoldung, die Zukunft des Automobilstandorts NRW und der Lokaljournalismus auf dem Plan.",
+          "quellen": [
+            {
+              "name": "Landtag NRW: Wochenvorschau",
+              "url": "https://www.landtag.nrw.de/home/aktuelles/meldungen-und-berichte/meldungen-berichte-und-informati/meldungen-und-berichte/2026/11/0211_wochenvorschau-45-kw.html"
+            }
+          ]
+        },
+        {
+          "titel": "Raus an die frische Luft: Halde Hoheward und Gänse am Niederrhein",
+          "unterzeile": "RVR-Angebote für die nächsten Wochenenden",
+          "text": "Der Regionalverband Ruhr bietet am Samstag, 14. November, um 14 Uhr eine Kleinbus-Führung über die Halde Hoheward in Herten an (16 Euro). Am 21. November geht es um 13 Uhr zu den „Arktischen Wildgänsen“ ans NaturForum Bislicher Insel in Xanten (10 Euro). Für den 24. November ist eine Vollmondwanderung auf Hoheward angesetzt (12 Euro). Einige Angebote sind laut Liste schon ausgebucht.",
+          "quellen": [
+            {
+              "name": "RVR: Veranstaltungen",
+              "url": "https://www.rvr.ruhr/service/veranstaltungen-des-rvr/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine der Woche",
+        "punkte": [
+          "Di 10.11., 19 Uhr: „Die Nashörner“ (Theater, Mülheim; Ort im Kalender nicht angegeben)",
+          "Laufend: „Tomas Kleiner. Im Wind“ im Kunstmuseum Mülheim",
+          "Do 12.11.: Start Duisburger Weihnachtsmarkt",
+          "Fr 13.11.: Start Essener Weihnachtsmarkt (Kennedyplatz)",
+          "Sa 14.11., 14 Uhr: Führung Halde Hoheward, Herten (16 €)",
+          "So 15.11.: Volkstrauertag, Kranzniederlegung am Altstadtfriedhof"
+        ],
+        "quellen": [
+          {
+            "name": "Kulturkalender Mülheim",
+            "url": "https://www1.muelheim-ruhr.de/veranstaltungen"
+          },
+          {
+            "name": "RVR: Veranstaltungen",
+            "url": "https://www.rvr.ruhr/service/veranstaltungen-des-rvr/"
+          },
+          {
+            "name": "Stadt Mülheim: Volkstrauertag",
+            "url": "https://www.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Politik",
+      "artikel": [
+        {
+          "titel": "Haushalt 2027: Koalition ringt vor der Bereinigungssitzung um Milliarden",
+          "unterzeile": "Schlichtungsgipfel am Montagabend, Entscheidung am Donnerstag",
+          "text": "Beim Bundeshaushalt 2027 hakt es bei Union und SPD. Laut Bild-Bericht, den Yahoo Nachrichten aufgreift, blockieren sich die Finanzpolitiker beider Seiten bei Schlüsselfragen; am Montagabend war ein Schlichtungsgipfel mit den Fraktionschefs Thorsten Frei und Matthias Miersch angesetzt.\n\nAm Donnerstag, 12. November, beginnt die Bereinigungssitzung des Haushaltsausschusses, die traditionell bis in den Freitagmorgen dauert. Es geht um 555,4 Milliarden Euro. Klingbeil plant im Kernhaushalt 118,7 Milliarden Euro Neuverschuldung. Der verbleibende Spielraum liegt bei nur etwa 1,4 Milliarden Euro, die offene Streitpunkte schnell auffressen könnten.",
+          "quellen": [
+            {
+              "name": "Yahoo Nachrichten (Haushalt 2027)",
+              "url": "https://de.nachrichten.yahoo.com/merz-regierung-clinch-um-haushalt-094312360.html"
+            }
+          ]
+        },
+        {
+          "titel": "Regelsätze und Kinderzuschlag: Union und SPD uneins",
+          "unterzeile": "Union will kürzen, SPD sagt „völlig unverantwortlich“",
+          "text": "Laut Koalitionskreisen sind die Regelsätze der Grundsicherung nach einer Neuberechnung 5 bis 7 Euro im Monat zu hoch. Die Union will ab nächstem Jahr kürzen, die SPD lehnt das ab. Streit gibt es auch beim Kindersofortzuschlag von 25 Euro: Die SPD will ihn behalten, das Arbeitsministerium brachte einen ähnlichen „Bildungszuschlag“ ab sechs Jahren ins Spiel, den die Union ablehnt.",
+          "quellen": [
+            {
+              "name": "Yahoo Nachrichten (Haushalt 2027)",
+              "url": "https://de.nachrichten.yahoo.com/merz-regierung-clinch-um-haushalt-094312360.html"
+            }
+          ]
+        },
+        {
+          "titel": "Stromsteuer, Plastikabgabe, Corona-Schulden: Weitere Baustellen",
+          "unterzeile": "Union will 10 Milliarden Entlastung, Klingbeil bremst",
+          "text": "Die Union um Friedrich Merz will rund 10 Milliarden Euro Entlastung über eine allgemeine Stromsteuersenkung und den Ausgleich der kalten Progression. Klingbeil ist gegen die Stromsteuersenkung, für beides ist keine Finanzierung benannt. Strittig sind außerdem Plastik- und Zuckersteuer, die Hunderte Millionen einbringen sollten. Klingbeil will die Rückzahlung der Corona-Schulden von 2028 auf 2033 verschieben, was Kritik auslöst. Für 2028 bis 2030 fehlen zudem etwa 115 Milliarden Euro.",
+          "quellen": [
+            {
+              "name": "Yahoo Nachrichten (Haushalt 2027)",
+              "url": "https://de.nachrichten.yahoo.com/merz-regierung-clinch-um-haushalt-094312360.html"
+            }
+          ]
+        },
+        {
+          "titel": "Frankreich macht Iran für Sabotage von Kühlsystemen verantwortlich",
+          "unterzeile": "Auch Deutschland betroffen",
+          "text": "Frankreichs Regierung macht den Iran für Cyberangriffe auf Kühlsysteme in mehreren europäischen Ländern verantwortlich. Außenminister Jean-Noël Barrot nennt die Revolutionsgarden. Im Oktober wurden Kühlschränke in französischen Supermärkten manipuliert; ähnliche Fälle gab es auch in Deutschland, wo Ware verdarb.\n\nDie Pariser Staatsanwaltschaft beantragt Haftbefehle, Frankreich bestellte den iranischen Botschafter ein und will EU-Sanktionen anstoßen.",
+          "quellen": [
+            {
+              "name": "heise online: Iran steckt hinter Cyberangriffen auf Kühlsysteme",
+              "url": "https://www.heise.de/news/Frankreich-Iran-steckt-hinter-Cyberangriffen-auf-Kuehlsysteme-11517966.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen zum Haushalt 2027",
+        "punkte": [
+          "Streitvolumen: 555,4 Mrd. €",
+          "Kernhaushalt-Neuverschuldung (Plan Klingbeil): 118,7 Mrd. €",
+          "Mit Sondervermögen: knapp 204 Mrd. €",
+          "Steuermehreinnahmen laut Schätzung: 3,9 Mrd. €",
+          "Bereinigungssitzung: Do 12.11."
+        ],
+        "quellen": [
+          {
+            "name": "Yahoo Nachrichten (Haushalt 2027)",
+            "url": "https://de.nachrichten.yahoo.com/merz-regierung-clinch-um-haushalt-094312360.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Wirtschaft & Verbraucher",
+      "artikel": [
+        {
+          "titel": "IW-Umfrage: Fast jeder dritte Betrieb plant 2027 Stellenabbau",
+          "unterzeile": "„Strohfeuer der Konjunktur“",
+          "text": "Die Konjunkturumfrage des Instituts der deutschen Wirtschaft (rund 1.000 Unternehmen, Oktober) fällt für 2027 düster aus: Etwa ein Drittel der Betriebe erwartet weniger Beschäftigte, nur ein Sechstel plant mehr. 39 Prozent wollen weniger investieren.\n\nIW-Konjunkturchef Michael Grömling spricht von einem „Strohfeuer der Konjunktur“. Im Bau rechnen 26 Prozent mit einem Rückgang 2027, 15 Prozent mit Wachstum – steigende Finanzierungskosten und Materialpreise bremsen.",
+          "quellen": [
+            {
+              "name": "honnef-heute: IW-Konjunkturumfrage",
+              "url": "https://honnef-heute.de/konjunkturumfrage-des-iw-fast-jedes-dritte-unternehmen-plant-2027-stellenabbau-39-prozent-wollen-weniger-investieren/"
+            }
+          ]
+        },
+        {
+          "titel": "Vodafone streicht in Deutschland rund 2.300 Stellen",
+          "unterzeile": "Fast jeder fünfte Job betroffen",
+          "text": "Vodafone baut in Deutschland etwa 2.300 Stellen ab oder verlagert sie, rund 19 Prozent der Belegschaft von etwa 12.000. Die Maßnahmen sollen über zwei Jahre laufen. Als Gründe nennt das Unternehmen den harten Wettbewerb, Kundenverluste und das Ende des Nebenkostenprivilegs beim Kabel-TV, das rund 400 Millionen Euro Umsatz gekostet hat. Künftig soll mehr automatisiert und KI genutzt werden.",
+          "quellen": [
+            {
+              "name": "heise online: Vodafone baut rund 2300 Stellen ab",
+              "url": "https://www.heise.de/news/Vodafone-baut-in-Deutschland-rund-2300-Stellen-ab-11517302.html"
+            }
+          ]
+        },
+        {
+          "titel": "Inflation: Mittwoch kommen die endgültigen Oktober-Zahlen",
+          "unterzeile": "Vorläufig 2,8 Prozent, Energie bleibt der Treiber",
+          "text": "Das Statistische Bundesamt veröffentlicht am 11. November die endgültigen Oktober-Werte. Vorläufig lag die Inflation bei 2,8 Prozent (September: 3,3), gegenüber dem Vormonat sanken die Preise um 0,2 Prozent. Energie war 12,2 Prozent teurer als vor einem Jahr, Nahrungsmittel nur 0,4 Prozent, Dienstleistungen 2,5 Prozent. Berichten zufolge hat auch der erneute Tankrabatt seit 1. Oktober gedämpft.",
+          "quellen": [
+            {
+              "name": "Destatis: Inflationsrate Oktober 2026",
+              "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_382_611.html"
+            },
+            {
+              "name": "web.de: Tankrabatt dämpft Inflation",
+              "url": "https://web.de/magazine/wirtschaft/tankrabatt-daempft-inflation-entwarnung-42893468"
+            }
+          ]
+        },
+        {
+          "titel": "Kartellamt fragt den Markt zu Googles Kartendiensten im Auto",
+          "unterzeile": "Marktbefragung gestartet",
+          "text": "Das Bundeskartellamt hat eine Marktbefragung zu Googles Kartendiensten im Automobilbereich gestartet. Geprüft werden mögliche Wettbewerbsbeschränkungen. Mehr Details nennt die heise-Meldung vom Montag in der frei lesbaren Zusammenfassung nicht.",
+          "quellen": [
+            {
+              "name": "heise online: Kartellamt Marktbefragung Google",
+              "url": "https://www.heise.de/news/Bundeskartellamt-startet-Marktbefragung-zu-Googles-Autodiensten-11517806.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Inflation Oktober (vorläufig)",
+        "punkte": [
+          "Gesamt: +2,8 %",
+          "Kernrate: +2,1 %",
+          "Energie: +12,2 %",
+          "Nahrung: +0,4 %",
+          "Dienstleistungen: +2,5 %"
+        ],
+        "quellen": [
+          {
+            "name": "Destatis",
+            "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_382_611.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Politik & Recht",
+      "artikel": [
+        {
+          "titel": "Pflegereform: Erste Lesung im Bundestag, Defizit von 7,6 Milliarden droht",
+          "unterzeile": "Ausschüsse beraten, Start am 1. Januar 2027",
+          "text": "Der Bundestag hat das Pflegeneuordnungsgesetz am 5. November in erster Lesung beraten; jetzt arbeiten die Ausschüsse, federführend der Gesundheitsausschuss. Ohne Reform droht der sozialen Pflegeversicherung ein Defizit von rund 7,6 Milliarden Euro 2027 und mehr als 15 Milliarden 2028.\n\nGeplant sind unter anderem Pflegebegleitung für zu Hause Gepflegte und ein digitales „Pflege-Cockpit“ der Kassen. Leistungen werden in neue Budgets gebündelt: Entlastungs-, Sachleistungs- und Sozialraumbudget, dazu ein Überbrückungsbudget für Notfälle.",
+          "quellen": [
+            {
+              "name": "cash-online: Pflegereform 2027",
+              "url": "https://www.cash-online.de/a/pflegereform-2027-bundestag-beraet-ueber-hoehere-beitraege-und-neue-pflegeleistungen-729560/"
+            }
+          ]
+        },
+        {
+          "titel": "Beiträge: Kinderlose zahlen ab Januar mehr",
+          "unterzeile": "Beitragsbemessungsgrenze steigt um 300 Euro",
+          "text": "Der allgemeine Beitragssatz bleibt 2027 bei 3,6 Prozent. Der Zuschlag für Kinderlose steigt ab 1. Januar um 0,3 Punkte auf 0,9 Prozent. Die Beitragsbemessungsgrenze soll um 300 Euro im Monat steigen – weniger als die ursprünglich geplanten 1.000 Euro.",
+          "quellen": [
+            {
+              "name": "cash-online: Pflegereform 2027",
+              "url": "https://www.cash-online.de/a/pflegereform-2027-bundestag-beraet-ueber-hoehere-beitraege-und-neue-pflegeleistungen-729560/"
+            }
+          ]
+        },
+        {
+          "titel": "Kritik von Kassen, DGB, Linken und PKV",
+          "unterzeile": "Jeder will etwas anderes",
+          "text": "Der GKV-Spitzenverband beklagt eine ungerechte Lastenverteilung, der Bund erfülle seinen Anteil nicht, etwa bei Corona-Schulden und Rentenbeiträgen pflegender Angehöriger. Der DGB will einen gesetzlichen Deckel für Heim-Eigenanteile und schätzt die Entlastung bei Bundesübernahme von Altlasten auf rund 10 Milliarden Euro. Die Linke will Verhinderungspflege als eigene Leistung und den Entlastungsbetrag für Pflegegrad 1 erhalten. Der PKV-Verband fordert mehr Kapitaldeckung.",
+          "quellen": [
+            {
+              "name": "cash-online: Pflegereform 2027",
+              "url": "https://www.cash-online.de/a/pflegereform-2027-bundestag-beraet-ueber-hoehere-beitraege-und-neue-pflegeleistungen-729560/"
+            }
+          ]
+        },
+        {
+          "titel": "Was der Kabinettsentwurf gegenüber dem Referentenentwurf gestrichen hat",
+          "unterzeile": "Weniger Härten, aber kein Eigenanteil-Deckel",
+          "text": "Laut pflege.de fielen im Kabinettsentwurf die Halbierung des Entlastungsbudgets in den ersten drei Monaten, die 30-Prozent-Kürzung der Rentenpunkte für pflegende Angehörige und schlechtere Heimzuschläge weg. Einen gesetzlichen Eigenanteil-Deckel gibt es nicht: Das Thema liegt bei der neuen Pflegestrukturkommission, die bis Ende Januar 2027 Vorschläge vorlegen soll; Reformen sollen ab 1. Juli 2027 greifen.",
+          "quellen": [
+            {
+              "name": "pflege.de: PNOG",
+              "url": "https://www.pflege.de/pflegegesetz-pflegerecht/pflegeneuordnungsgesetz-pnog/"
+            },
+            {
+              "name": "cash-online: Pflegereform 2027",
+              "url": "https://www.cash-online.de/a/pflegereform-2027-bundestag-beraet-ueber-hoehere-beitraege-und-neue-pflegeleistungen-729560/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Fahrplan",
+        "punkte": [
+          "5.11.: 1. Lesung Bundestag",
+          "14.10.: Pflegekommission eingesetzt",
+          "Ende Jan. 2027: Vorschläge der Strukturkommission",
+          "1.1.2027: erste Teile treten in Kraft",
+          "1.7.2027: weitere Reformen geplant"
+        ],
+        "quellen": [
+          {
+            "name": "cash-online: Pflegereform 2027",
+            "url": "https://www.cash-online.de/a/pflegereform-2027-bundestag-beraet-ueber-hoehere-beitraege-und-neue-pflegeleistungen-729560/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Praxis & Fachwissen",
+      "artikel": [
+        {
+          "titel": "Demenz und Weglauftendenz: Pflegeplatz oft erst nach acht Wochen",
+          "unterzeile": "Studie aus Schleswig-Holstein, Fachtag am 12. November",
+          "text": "Menschen mit Weglauftendenz finden schwerer einen Pflegeplatz oder verlieren ihn. Das zeigt eine Studie von Prof. Anke Erdmann (HAW Kiel) im Auftrag des Kompetenzzentrums Demenz Schleswig-Holstein mit 106 Angehörigen und 58 Einrichtungen.\n\nDie Zusage dauerte im Schnitt acht Wochen, zwei mehr als in früheren Befragungen; danach kamen im Schnitt drei Wochen bis zum Einzug. Häufigste Ablehnungsgründe: fehlende geschützte und ungeschützte Plätze und begrenzte Kompetenz im Umgang mit dem Verhalten. Empfohlen werden mehr Angebote für unruhige, aber nicht aggressive Menschen und Schulungen mit regelmäßigen Fallbesprechungen. Am 12. November wird die Studie beim Fachtag „Kein Platz für Unruhe!?“ vorgestellt.",
+          "quellen": [
+            {
+              "name": "Gesund aktiv älter werden: Wenn Demenz nicht ins System passt",
+              "url": "https://www.gesund-aktiv-aelter-werden.de/aktuelles-presse/aktuelle-meldungen/2026-07-20-wenn-demenz-nicht-ins-system-passt/"
+            }
+          ]
+        },
+        {
+          "titel": "WIdO: Mehr Pflegepersonal in Kliniken, Heime haben das Nachsehen",
+          "unterzeile": "Studie vom Februar bleibt aktuell",
+          "text": "Eine Studie des AOK-Instituts WIdO (Februar 2026) zeigt: Die Vollzeitstellen in der Krankenhauspflege stiegen von 2019 bis 2024 um mehr als 50.000 auf rund 350.600. In Pflegeheimen wuchs das Personal seit Einführung des Pflegebudgets nur noch um 0,8 Prozent pro Jahr, davor um 2,6 Prozent. Die Zahl der Pflegefachkräfte sank in Heimen sogar. Die AOK zieht eine „desaströse Bilanz“ und will die Kostensteigerungen deckeln – das ist eine Kassenposition.",
+          "quellen": [
+            {
+              "name": "altenheim.net: Studie WIdO",
+              "url": "https://www.altenheim.net/studie-mehr-personal-in-kliniken-heime-haben-das-nachsehen/"
+            }
+          ]
+        },
+        {
+          "titel": "Heimkosten: Eigenanteil liegt im ersten Jahr bei rund 3.245 Euro",
+          "unterzeile": "Neun Prozent mehr als im Vorjahr",
+          "text": "Laut vdek liegt der durchschnittliche Eigenanteil im ersten Heimjahr bei rund 3.245 Euro im Monat, neun Prozent mehr als im Vorjahr. Ein gesetzlicher Deckel ist im aktuellen Reformentwurf nicht enthalten; das Thema liegt bei der Strukturkommission. Die Zahl stammt aus einem Ratgeberbericht, der den vdek zitiert.",
+          "quellen": [
+            {
+              "name": "Bürgergeld.org: Eigenanteil im Pflegeheim 2027",
+              "url": "https://www.buerger-geld.org/news/pflege/eigenanteil-im-pflegeheim-2027-warum-familien-trotz-pflegereform-mehr-zahlen-muessen"
+            }
+          ]
+        },
+        {
+          "titel": "Personalbemessung: Die 50-Prozent-Fachkraftquote war politisch gesetzt",
+          "unterzeile": "Hintergrund zum Verfahren nach § 113c SGB XI",
+          "text": "Grundlage des neuen Personalbemessungsverfahrens nach § 113c SGB XI ist die Rothgang-Studie. Sie zeigte laut einem Fachbeitrag, dass die bis dahin gültige Fachkraftquote von 50 Prozent nicht evidenzbasiert, sondern politisch festgelegt war. Ein Hintergrundstück, kein aktueller Beschluss.",
+          "quellen": [
+            {
+              "name": "carerockets: Personalbemessung",
+              "url": "https://carerockets.com/de/blog/personalbemessung-pflege-2023"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termin",
+        "punkte": [
+          "Do 12.11.: Fachtag „Kein Platz für Unruhe!?“ (Demenz, Schleswig-Holstein); Anmeldung über demenz-sh.de"
+        ],
+        "quellen": [
+          {
+            "name": "Gesund aktiv älter werden",
+            "url": "https://www.gesund-aktiv-aelter-werden.de/aktuelles-presse/aktuelle-meldungen/2026-07-20-wenn-demenz-nicht-ins-system-passt/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Gaming: Steam & PC",
+      "artikel": [
+        {
+          "titel": "Steam Frame taucht erstmals in der Hardware-Umfrage auf",
+          "unterzeile": "Backorder reicht bis 2027",
+          "text": "Valves VR-Headset Steam Frame ist im Oktober erstmals in der Steam-Hardware-Umfrage enthalten und landet laut Road to VR auf Platz fünf der genutzten Headsets. Der Anteil wird je nach Medium mit 4,13 bis 5,49 Prozent angegeben, die Zahlen widersprechen sich also.\n\nDas Gerät ist erst gut einen Monat im Verkauf und stark ausverkauft; Lieferungen reichen laut Warteschlange bis ins Jahr 2027. Der Quest-2-Anteil sank zugleich um 3,57 Prozentpunkte.",
+          "quellen": [
+            {
+              "name": "Road to VR",
+              "url": "https://roadtovr.com/valve-steam-frame-strong-start-survey-oct-26/"
+            },
+            {
+              "name": "VR.org",
+              "url": "https://vr.org/articles/steam-frame-october-survey-1-in-24-vr-headsets-language-swing-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Warhammer 40,000: Dark Heresy hat einen Termin",
+          "unterzeile": "28. Januar 2027 für PC und Konsolen",
+          "text": "Owlcats Rollenspiel erscheint am 28. Januar 2027 für PC (Steam, GOG, Epic), PS5 und Xbox Series X/S; eine Switch-2-Version ist geplant, aber ohne Datum. Du spielst einen Akolythen der Inquisition, ermittelst an Tatorten und verhörst Zeugen. Die Beta läuft bis 7. Januar 2027 für Founder's-Pack-Käufer.",
+          "quellen": [
+            {
+              "name": "PC Games",
+              "url": "https://www.pcgames.de/Warhammer-40-000-Dark-Heresy-Spiel-78081/News/hat-endlich-einen-Release-Termin-1559366/"
+            }
+          ]
+        },
+        {
+          "titel": "Kein großer Steam-Sale im November",
+          "unterzeile": "Winter Sale ab 17. Dezember",
+          "text": "Laut Terminübersichten gibt es im November keinen storewide Sale: Der Herbst-Sale lief vom 1. bis 8. Oktober. Im November steht das „Auto Battler RPG Fest“ vom 16. bis 23. November an. Der Winter Sale soll vom 17. Dezember bis 4. Januar 2027 laufen. Ein älterer PC-Gamer-Eintrag nennt noch einen Black-Friday-Sale; die übrigen Quellen sehen das nicht.",
+          "quellen": [
+            {
+              "name": "SteamDB-Hinweis via Suche (Steam-Sale-Termine)",
+              "url": "https://www.steamdb.com/en/tools/steam-sales"
+            },
+            {
+              "name": "PC Gamer: Steam sale dates",
+              "url": "https://www.pcgamer.com/steam-sale-dates/"
+            }
+          ]
+        },
+        {
+          "titel": "Neu auf Steam: Shrek 2 Remastered und Football Manager 27",
+          "unterzeile": "Kalender für die Woche",
+          "text": "Laut PC-Gamer-Kalender erscheinen am 10. November Shrek 2 Remastered (29,99 US-Dollar, 26,99 zum Vorbestellen) und Football Manager 27. In der Vorwoche kamen unter anderem Hull Rupture, Theos: Cities of Myth und Pool of Radiance: Ruins of Myth Drannor. Termine können sich ändern, etwa bei Warhammer Survivors, wo die Quellen auseinanderliegen.",
+          "quellen": [
+            {
+              "name": "PC Gamer: Neue PC-Spiele 2026",
+              "url": "https://www.pcgamer.com/games/new-pc-games-2026/"
+            },
+            {
+              "name": "GameGrin: Neue Steam-Spiele der Woche",
+              "url": "https://www.gamegrin.com/news/top-43-new-steam-games-this-week-2nd-of-november-to-the-8th-of-november-2026/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "10.11.: Shrek 2 Remastered, Football Manager 27",
+          "16.–23.11.: Auto Battler RPG Fest",
+          "17.12.–4.1.: Steam Winter Sale"
+        ],
+        "quellen": [
+          {
+            "name": "PC Gamer",
+            "url": "https://www.pcgamer.com/games/new-pc-games-2026/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Nintendo Switch 2 & Konsolen",
+      "artikel": [
+        {
+          "titel": "Zelda: Ocarina of Time startet auf Platz 1 der UK-Charts",
+          "unterzeile": "Zweitgrößter physischer Start der Reihe in Großbritannien",
+          "text": "Das Switch-2-Remake von Ocarina of Time landet in den britischen Retail-Charts (GfK) auf Platz 1, vor Call of Duty: Modern Warfare 4 und EA Sports FC 27. Laut Chris Dring von The Game Business ist es der zweitgrößte physische UK-Start der Zelda-Reihe.\n\nEs verkaufte demnach rund 35 Prozent mehr als Breath of the Wild, aber etwa halb so viel wie Tears of the Kingdom. Wie viel digital lief, ist unbekannt.",
+          "quellen": [
+            {
+              "name": "Nintendo Life",
+              "url": "https://www.nintendolife.com/news/2026/11/uk-charts-zelda-ocarina-of-time-is-the-second-biggest-uk-launch-in-franchise-history"
+            }
+          ]
+        },
+        {
+          "titel": "Speedrunner brechen Ocarina of Time schon nach wenigen Tagen",
+          "unterzeile": "Neue Glitches im Remake",
+          "text": "Speedrunner haben im Switch-2-Remake bereits neue Glitches gefunden, darunter einen Höhenstart bei den Magic-Bean-Blumen und schnelleres Rollen. Einer kam am Tag nach dem Release in etwa viereinhalb Stunden bis zum Abspann. Die Sprünge stören teils die neuen Zwischensequenzen, etwa mit dem falschen Link-Modell.",
+          "quellen": [
+            {
+              "name": "Nintendo Life",
+              "url": "https://www.nintendolife.com/news/2026/11/speedrunners-didnt-take-long-to-find-new-ways-to-break-ocarina-of-time"
+            }
+          ]
+        },
+        {
+          "titel": "Gerücht: Kommt eine „Switch 2 Lite“?",
+          "unterzeile": "Unbestätigt, Digital Foundry skeptisch",
+          "text": "Ein Gerücht um Samsungs neuen 8-nm-Prozess (8LPU+) hat Spekulationen über ein kleineres, günstigeres Switch-2-Modell ausgelöst. Nintendo hat dazu nichts bestätigt. Digital Foundry nennt die genannten Specs „eher Rätselraten“, 15 Prozent weniger Verbrauch reichten nicht für eine kleinere Handheld-Variante. Samsung soll Details im Dezember zeigen.",
+          "quellen": [
+            {
+              "name": "Nintendo Life",
+              "url": "https://www.nintendolife.com/news/2026/11/rumour-samsungs-new-chip-process-kicks-off-nintendo-switch-2-lite-speculation"
+            }
+          ]
+        },
+        {
+          "titel": "GTA VI: Preload startet heute, Release am 19. November",
+          "unterzeile": "PS5 und Xbox, PC nicht angekündigt",
+          "text": "Rockstar startet den Preload von GTA VI am 10. November, auf PS5 um Mitternacht Ortszeit. Laut einem Bericht erscheint das Spiel am 19. November für PS5 und Xbox Series X/S und braucht bis zu 212 GB Speicher; andere Angaben nennen bis zu 230 GB. Eine PC-Version hat Rockstar nicht angekündigt.",
+          "quellen": [
+            {
+              "name": "Rockstar Games",
+              "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10"
+            },
+            {
+              "name": "it-boltwise",
+              "url": "https://www.it-boltwise.de/gta-6-fuer-ps5-und-xbox-release-am-19-november-2026-preload-ab-10-november.html"
+            }
+          ]
+        },
+        {
+          "titel": "PS5: 97,9 Millionen ausgeliefert, PS6-Vorbereitung läuft",
+          "unterzeile": "Sony-Zahlen bis 30. September",
+          "text": "Sony meldet 97,9 Millionen ausgelieferte PS5, davon 2,6 Millionen im Juli bis September – das sind Auslieferungen an den Handel, keine Verkäufe an Kunden. Finanzchef Lin Tao sagt, die Vorbereitung der nächsten PlayStation laufe planmäßig; ab April 2027 will Sony mehr investieren. Ein Releasetermin ist nicht bestätigt.",
+          "quellen": [
+            {
+              "name": "playstationinfo.de",
+              "url": "https://www.playstationinfo.de/2026/11/05/playstation-6-sony-bestaetigt-planmaessige-entwicklung-und-die-ps5-steht-vor-einem-riesigen-meilenstein/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Neu & aktuell",
+        "punkte": [
+          "A Little to the Left: Switch-2-Edition mit 120 fps, Gratis-Upgrade für Switch-1-Besitzer",
+          "Queen's Domain (Switch 2): Nintendo Life lobt es als FromSoft-Hommage",
+          "Godzilla: Destroy All Monsters Melee Remastered: Platz 9 der UK-Charts",
+          "19.11.: GTA VI (PS5, Xbox)"
+        ],
+        "quellen": [
+          {
+            "name": "Nintendo Life",
+            "url": "https://www.nintendolife.com/news/2026/11/delightful-tidying-up-indie-gets-a-surprise-switch-2-edition-today-complete-with-120fps"
+          },
+          {
+            "name": "Nintendo Life: Queen's Domain",
+            "url": "https://www.nintendolife.com/reviews/nintendo-switch-2/queens-domain"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Tech & Netz",
+      "artikel": [
+        {
+          "titel": "KI-Coding-Agenten legen Zugangsdaten in öffentlichen Repos ab",
+          "unterzeile": "Apiiro fand über 1.100 betroffene Repositories",
+          "text": "Die Firma Apiiro hat mehr als 100.000 öffentliche GitHub-Kopien einer Claude-Code-Konfigurationsdatei geprüft und in über 1.100 echte Zugangsdaten gefunden. Wer bei einer Rückfrage „Yes, and don't ask again“ wählt, speichert den Befehl samt Zugangsdaten in `.claude/settings.local.json`.\n\nDer Schutz per Git-Ignore greift nicht, wenn der Ordner erst später zum Repository wird oder die Datei schon eingecheckt war. Apiiro rät, nach den Dateien zu suchen und offengelegte Zugangsdaten zu erneuern. Anthropic prüft Gegenmaßnahmen, so Claude-Code-Chef Boris Cherny.",
+          "quellen": [
+            {
+              "name": "heise online: KI-Coding-Agenten verfrachten Zugangsdaten",
+              "url": "https://www.heise.de/news/KI-Coding-Agenten-verfrachten-Zugangsdaten-in-oeffentliche-Repositories-11517278.html"
+            }
+          ]
+        },
+        {
+          "titel": "Outlook.com weist Mails kleiner Absender ohne DMARC ab",
+          "unterzeile": "Microsoft prüft, Ursache unklar",
+          "text": "Seit Anfang November melden Betroffene, dass Outlook.com Mails kleiner Absender ohne DMARC-Eintrag ablehnt, auch wenn SPF und DKIM stimmen. Die Fehler sind uneinheitlich, ein Retry kann klappen. Microsoft untersucht; die offiziellen Regeln für große Absender gelten erst ab 5.000 Mails pro Tag.",
+          "quellen": [
+            {
+              "name": "heise online: Outlook.com: Die Mail ist echt",
+              "url": "https://www.heise.de/news/Outlook-com-Die-Mail-ist-echt-und-sie-kommt-trotzdem-nicht-an-11517776.html"
+            }
+          ]
+        },
+        {
+          "titel": "Updates: SonicWall unter Beschuss, 7-Zip stopft stille Lücken",
+          "unterzeile": "Notepad++ 8.9.9 schließt sechs Lücken",
+          "text": "Angreifer nutzen eine Lücke im SSLVPN von SonicOS aus; SonicWall rät zum schnellen Update, auch die US-Behörde CISA warnt. 7-Zip 26.06 behebt Schwachstellen, die nicht im Changelog stehen, und muss von Hand installiert werden. Notepad++ 8.9.9 schließt sechs Lücken.",
+          "quellen": [
+            {
+              "name": "heise online: SonicWall SSLVPN",
+              "url": "https://www.heise.de/news/Angriffswarnung-Luecke-in-SonicWall-SSLVPN-wird-attackiert-11516825.html"
+            },
+            {
+              "name": "heise online: 7-Zip-Update",
+              "url": "https://www.heise.de/news/7-Zip-Update-schliesst-nicht-genannte-Sicherheitsluecken-11516845.html"
+            },
+            {
+              "name": "heise online: Notepad++",
+              "url": "https://www.heise.de/news/Notepad-Update-schliesst-Rechteausweitungsluecke-und-mehr-11517053.html"
+            }
+          ]
+        },
+        {
+          "titel": "Gehirndaten aus Neurotech-Geräten trainieren heimlich KI",
+          "unterzeile": "Science-Recherche zu 57 Firmen",
+          "text": "Eine Recherche des Magazins Science zeigt: Von 57 untersuchten Neurotech-Firmen sammeln die meisten Gehirndaten ihrer Nutzer, teils für KI-Training, und das steht meist nicht in den Datenschutzhinweisen. Interaxon hat rund 50.000 Stunden Gehirnaktivität und ergänzte nach der Berichterstattung seine Dokumente. Experten streiten, wie viel sich aus Consumer-Geräten ablesen lässt.",
+          "quellen": [
+            {
+              "name": "heise online: Gehirndaten",
+              "url": "https://www.heise.de/news/Gehirndaten-von-Neurotech-Nutzern-werden-heimlich-fuer-KI-Training-genutzt-11513876.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Ein DMARC-Eintrag für deine Domain",
+    "text": "Wenn du eine eigene Domain hast und von ihr Mails verschickst: Leg zur Sicherheit einen minimalen DMARC-Eintrag an (TXT-Eintrag bei _dmarc.deinedomain mit dem Wert v=DMARC1; p=none). Hintergrund ist die aktuelle Outlook.com-Ablehnung kleiner Absender (siehe Tech & Netz). Eine Garantie für die Zustellung ist das nicht, aber ein guter Anfang. Das ist ein eigener Tipp nach heise-Hinweisen, keine Garantie."
+  }
+}
