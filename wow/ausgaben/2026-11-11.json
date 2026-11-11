@@ -1,0 +1,551 @@
+{
+  "gruss": "Seid gegrüßt, Abenteurer! Der Montagabend ging mit einem Notfall-Shutdown zu Ende, Blizzard dreht an der Fraktionsbalance, und die Hotfix-Liste vom 9. November hat es in sich.",
+  "aufmacher": {
+    "rubrik": "Server & Hotfixes",
+    "titel": "Notfall-Wartung am Montagabend: Spieler berichten von Rollback, Blizzard schweigt bislang",
+    "unterzeile": "Gleichzeitig kam am 9. November ein großer Hotfix – mit 50 % mehr Dungeon-XP schon seit dem 8.",
+    "text": "Am Abend des 9. November wurden die WoW-Forever-Server nach Spielerberichten ohne Vorwarnung heruntergefahren. Laut einem Bericht von Timesaver erschien gegen 21:49 UTC die In-Game-Meldung „Sorry, we have to take the servers down briefly“, danach folgte ein 15-Minuten-Countdown, den die Server aber offenbar unterliefen. Gegen 22:42 UTC waren die Server laut Spielern wieder erreichbar.\n\nSpieler in US und EU berichten von einem Rollback: Zuletzt gelootete Items, Quest-Gegenstände und teils erlernte Fertigkeiten oder Berufs-Skill-ups fehlten, während ausgegebenes Gold weg blieb. Das stammt aus Foren-Threads, die die Seite zusammenfasst – Blizzard hat sich laut dieser Quelle bis zum letzten Check am Abend des 10. November weder zu Ursache noch zu einer möglichen Wiedergutmachung geäußert. Gerüchte über einen Hack gelten dort ausdrücklich als unbelegt.\n\nParallel erschien am 9. November ein umfangreicher offizieller Hotfix für Klassen, Dungeons, Quests und Items, der außerdem die Spielerzahl in überfüllten Zonen senkt. Wer gestern Abend Fortschritt verloren hat, sollte ihn im offiziellen Forum melden und die Entwicklung dort verfolgen.",
+    "quellen": [
+      {
+        "name": "Timesaver: Is WoW Forever down?",
+        "url": "https://timesaver.gg/blog/is-wow-forever-down"
+      },
+      {
+        "name": "Blizzard News: Hotfixes 9. November 2026",
+        "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-9-2026"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Hotfix 9. November: Das steht auf der offiziellen Liste",
+          "unterzeile": "Klassen, Dungeons, Quests, Items und Welt in einem Rutsch",
+          "text": "Blizzards Hotfix-Notes vom 9. November sind lang: Sie reichen von Klassen-Bugs über Dungeon-Anpassungen bis zu Dutzenden Quest-Fixes. Den Anfang machen die Klassen, darunter Fixes für Druide, Hunter, Mage, Paladin, Priester, Schamane, Krieger und Hexenmeister. Bei den Dungeons sticht die auf 50 % erhöhte Kill-Erfahrung heraus. Hinzu kommen Korrekturen an Spawns, Respawn-Zeiten und Loot in mehreren Zonen.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 9. November 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-9-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Welt-Hotfix: Weniger Spieler in überfüllten Zonen",
+          "unterzeile": "Auf dem PvP-Ruleset fällt die Änderung größer aus",
+          "text": "Im Abschnitt „World“ der Notes vom 9. November steht, dass die Spielerzahl in Zonen mit starker Überfüllung gesenkt wurde. Auf dem PvP-Ruleset fiel die Anpassung größer aus, weitere Justierungen sollen folgen. Außerdem wurde der Flugpfad von Camp Taurajo nach Thunder Bluff repariert, der durch Objekte führte.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 9. November 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-9-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Items: Berdun's Trusty Rifle verliert Zufallswerte",
+          "unterzeile": "Auch die Nifty Stopwatch und der Pouch of Violet Dust wurden angefasst",
+          "text": "Berdun's Trusty Rifle hat keine zufälligen Werte mehr und ist nicht mehr Bind on Equip. Die Nifty Stopwatch teilt sich keinen Cooldown mehr mit Dash, Blink, Sprint und anderen Bewegungsfähigkeiten. Der Pouch of Violet Dust gibt jetzt wie vorgesehen die zusätzliche Stunde des Camp-Benefits-Auras. Waylaid Crates und Craftsman's Writs können nun auch in Dungeons droppen.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 9. November 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-9-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Class Tuning vom 10. November: Live-Status weiter unklar",
+          "unterzeile": "Blizzard hatte Pets, Affliction und Enhancement für Dienstag angekündigt",
+          "text": "Der Community-Manager Kaivax hatte im Forum für Dienstag, den 10. November, Klassen-Hotfixes angekündigt. Suchergebnisse vom Morgen zeigen, dass kein Blizzard-Post bestätigt, dass die Änderungen live gingen; eine Drittseite schreibt sogar, der Client vom 10. November enthalte sie nicht. Konkrete Zahlen hat Blizzard bislang nicht genannt. Wer Hunter-Pet-Tank oder Voidwalker spielt, behält die offiziellen Notes im Blick.",
+          "quellen": [
+            {
+              "name": "Blizzard Forum (EU): Class Tuning Incoming – 10 November",
+              "url": "https://eu.forums.blizzard.com/en/wow/t/class-tuning-incoming-10-november/640100"
+            },
+            {
+              "name": "allthings.how: Class Tuning 10 November",
+              "url": "https://allthings.how/wow-forever-class-tuning-november-10/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Hotfix-Stand",
+        "punkte": [
+          "Build-Nummer: in den ausgewerteten Quellen nicht genannt",
+          "9. Nov: Dungeon-Kill-XP +50 % (laut Blizzard-Notes)",
+          "9. Nov: Weniger Spieler in überfüllten Zonen",
+          "9. Nov: Warlock: Felsteed-Quest gibt Riding-Skill",
+          "10. Nov: Class Tuning angekündigt, Live-Bestätigung fehlt"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard News: Hotfixes 9. November 2026",
+            "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-9-2026"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Mage: Flamestrike frisst kein Clearcasting mehr",
+          "unterzeile": "Und Arcane Concentration wird anders gewürfelt",
+          "text": "Laut Hotfix vom 9. November verbrauchen die Ground-Ticks von Flamestrike kein Clearcasting mehr. Die Chance von Arcane Concentration wurde zudem auf den Cast und die einzelnen Bolts aufgeteilt, statt 10 % auf den Cast und auf jeden Bolt zu geben. Das ist eine Änderung, die sich auf die Proc-Rate pro Zauber auswirkt.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 9. November 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-9-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Priester und Hexenmeister: Shadowform, Power Infusion, Felsteed",
+          "unterzeile": "Mehrere ärgerliche Bugs sind raus",
+          "text": "Shadowform bricht nicht mehr beim Wirken von Fear Ward. Power Infusion bleibt bestehen, wenn es auf Verbündete gewirkt wird. Beim Hexenmeister gibt die abgeschlossene Felsteed-Quest nun korrekt den Riding-Skill; wer die Quest vorher schon hatte, bekommt Apprentice Riding, indem er das Felsteed einmal beschwört. Incinerate steht Nicht-Destruction-Specs nicht mehr zur Verfügung.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 9. November 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-9-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Druide: Feral-Fixes und Cooldown-Manager",
+          "unterzeile": "Feral Charge versetzt jetzt sofort in den Kampf",
+          "text": "Feral Charge (Cat) versetzt den Druiden sofort in den Kampf, Natural Instinct wirkt korrekt auf Lacerate und Pounce, und der Pounce-Stun erscheint in den Debuffs des Gegners. Der Cooldown Manager zeigt Berserk nicht mehr fälschlich an und zeigt Lacerate, sobald es gelernt ist. Idol of Ferocity listet Mangle nicht mehr als verbilligte Fähigkeit.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 9. November 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-9-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Tier-Listen: Wer ist der beste Tank?",
+          "unterzeile": "Die Rankings widersprechen sich – Raid-Daten fehlen noch",
+          "text": "Mehrere Guide-Seiten setzen Protection Paladin an die Spitze der Tanks, andere sehen Protection Warrior oder Feral-Bär vorn. Bei den Heilern streiten sich Discipline Priest, Holy Priest und Restoration Druid. Mehrere Seiten räumen ein, dass ihre Tiers auf Beta-Wissen und Classic-Erfahrung beruhen, nicht auf Live-Raid-Logs. Betrachtet das als Meinung, nicht als Meta.",
+          "quellen": [
+            {
+              "name": "Axeetech: Tier List November 2026",
+              "url": "https://axeetech.com/wow-forever-dps-healer-tank-tier-list/"
+            },
+            {
+              "name": "Conquest Capped: Healer Tier List",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-healer-tier-list/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Dungeon-XP +50 %: Was der Hotfix wirklich bringt",
+          "unterzeile": "Quest-Belohnungen bleiben unverändert",
+          "text": "Blizzard hat die Erfahrung aus Kills in Dungeons um 50 % erhöht, der Hotfix wurde am 8. November aufgespielt. Quest-Belohnungen in Dungeons sind davon laut MMOExp nicht betroffen, der echte Gewinn hängt also davon ab, wie viele Gegner ein Run enthält. Die Änderung steht auch in den offiziellen Notes vom 9. November.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 9. November 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-9-2026"
+            },
+            {
+              "name": "MMOExp: WoW Forever News (Fan-/Händlerseite)",
+              "url": "https://www.mmoexp.com/News/wow-forever-news-50-dungeon-xp-buff-gilneas-tease-darkmoon-faire-and-more.html"
+            }
+          ]
+        },
+        {
+          "titel": "Drowned City und Deathless Marrow entschärft",
+          "unterzeile": "Gegner dort schlugen zu hart zu",
+          "text": "In The Drowned City verursachten Kreaturen etwa 30 % mehr Schaden als gewollt – das ist behoben. In Deathless Marrow wurde die Gegnergesundheit um 25 % gesenkt, der Fireball des Deathless Sorcerer um 25 % und die Charge des Deathless Watcher um 50 % geschwächt. Der Deathless Guardian wirkt Shield Slam etwa 50 % seltener.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 9. November 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-9-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Blackrock Depths, Blackfathom und Stratholme: Dungeon-Fixes",
+          "unterzeile": "Von Thaurissan-Türen bis Reittier-Verbot",
+          "text": "In Blackrock Depths öffnen sich die Türen des Thronsaals nach einem Wipe gegen Imperator Thaurissan wieder, und das Heart of the Mountain kann mehrfach geplündert werden. In Blackfathom Deeps ist der Bug behoben, der das Freilassen des Geistes verhindern konnte. In Stratholme kann man nicht mehr aufsitzen. Zarla Ober in Alcaz Prison und Vitrix, Snowtalon und Cinder im Shaper's Terrace droppen nun Loot.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 9. November 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-9-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Die ersten drei Raids im Detail",
+          "unterzeile": "Barrow Deeps (10), Hyjal Summit (20), Onyxia (40) am 9. Dezember",
+          "text": "Laut Raid-Übersicht und Guide-Seiten öffnen am 9. Dezember Barrow Deeps als 10er-Raid, Hyjal Summit als 20er-Raid und Onyxia's Lair als 40er-Raid. Für Onyxia muss das Drakefire Amulet im Inventar liegen, ausgerüstet werden muss es nicht. Die Boss-Anzahlen (acht in Barrow Deeps, 13 in Hyjal Summit) stammen aus Fan-Guides und sind nicht offiziell bestätigt.",
+          "quellen": [
+            {
+              "name": "Blizzard: Raid Overview",
+              "url": "http://worldofwarcraft.blizzard.com/en-us/news/24303009"
+            },
+            {
+              "name": "Maxroll: Erste Raids am 9. Dezember",
+              "url": "https://maxroll.gg/wow-forever/news/wow-forevers-first-raids-open-on-december-9"
+            },
+            {
+              "name": "lfcarry: Raids Guide (Fan-Seite)",
+              "url": "https://lfcarry.com/guides/wow-forever-raids"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Quest-Fixes vom 9. November: Von Jom-jom bis Fetch 'n' Fletch",
+          "unterzeile": "Viele Blocker sind beseitigt",
+          "text": "Fix-Liste unter anderem: Jom-jom setzt seine Flucht fort, die Tür nach „Ever After“ teleportiert Spieler, und „Fetch 'n' Fletch“ lässt sich wieder abschließen. „Find Bingles“ wird nun unter Loch Modan geführt statt unter Ironforge. Bei „Feathers in Flight“ können Spieler unter Level 60 die Hyjal Owl Nests plündern. Quest-Items zu „The Monster Surfaces“, „Croaky's Head“ und „Elmpaw's Head“ sind für alle Gruppenmitglieder verfügbar.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 9. November 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-9-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Un'Goro, Silverpine, Teldrassil: Spawns korrigiert",
+          "unterzeile": "Junge Diemetradons stehen nicht mehr auf Level 58",
+          "text": "In Un'Goro Crater spawnen Young Diemetradons nun auf den vorgesehenen Levels 51 bis 52 statt 58. In Silverpine Forest wurde der Respawn von Ivar the Foul gefixt, in Teldrassil die Spawn-Zeit von Ferocitas the Dream Eater verkürzt. In Zephras respawnt Malduko Cloudcrush langsamer.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 9. November 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-9-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire in Elwynn: Die Quests",
+          "unterzeile": "46 Quests laut Fan-Datenbank",
+          "text": "Laut MMOExp öffnete der Darkmoon Faire am 9. November für eine Woche im Elwynn Forest. Eine Fan-Datenbank listet 46 Darkmoon-Faire-Quests mit Levels und Belohnungen. Der 10-%-Schadensbuff wirkt laut MMOExp in der offenen Welt, aber nicht in Raids. Die Angaben stammen aus Fan-Quellen.",
+          "quellen": [
+            {
+              "name": "MMOExp: WoW Forever News (Fan-/Händlerseite)",
+              "url": "https://www.mmoexp.com/News/wow-forever-news-50-dungeon-xp-buff-gilneas-tease-darkmoon-faire-and-more.html"
+            },
+            {
+              "name": "ForeverChanges: Darkmoon-Faire-Quests",
+              "url": "https://foreverchanges.pro/quests/darkmoon-faire"
+            }
+          ]
+        },
+        {
+          "titel": "Gilneas am Horizont – aber noch gesperrt",
+          "unterzeile": "Absichtlicher Teaser von Entwickler Josh Greenfield",
+          "text": "Gilneas ist in der Ferne sichtbar, aber nicht betretbar. In einem Interview mit Mr. GM habe Josh Greenfield gesagt, das sei Absicht, damit Spieler über unerforschte Gebiete rätseln. Laut MMOExp gibt es weder Datum noch Details. Als Spekulation behandeln.",
+          "quellen": [
+            {
+              "name": "MMOExp: WoW Forever News (Fan-/Händlerseite)",
+              "url": "https://www.mmoexp.com/News/wow-forever-news-50-dungeon-xp-buff-gilneas-tease-darkmoon-faire-and-more.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Rollback-Folgen: Gold weg, Skill-ups weg",
+          "unterzeile": "Spielerberichte nach der Notfall-Wartung",
+          "text": "Spieler berichten nach dem Rollback vom Montagabend, dass ausgegebenes Gold von etwa 2 bis 8 Gold pro Fall nicht zurückkam und Blacksmithing- sowie Tailoring-Skill-ups zurückgesetzt wurden. Ein Spieler meldete 35 verlorene Berufspunkte bei verbrauchten Materialien. Blizzard hat sich laut Quelle nicht zu einer Erstattung geäußert. Nur Foren-Berichte, keine offizielle Bestätigung.",
+          "quellen": [
+            {
+              "name": "Timesaver: Is WoW Forever down?",
+              "url": "https://timesaver.gg/blog/is-wow-forever-down"
+            }
+          ]
+        },
+        {
+          "titel": "AH-Gebühren: 5 % Fraktion, 15 % neutral",
+          "unterzeile": "Das kostet der Verkauf",
+          "text": "Laut einem Gold-Guide behält das Fraktions-Auktionshaus 5 % des Verkaufspreises, das neutrale Haus 15 %. Die Gebühr ist eine der Goldsenken der Wirtschaft, ebenso wie das Reit-Training. Guide-Seiten raten Neulingen, lieber Sammelberufe zu nutzen als riskante AH-Spekulationen zu machen.",
+          "quellen": [
+            {
+              "name": "lfcarry: Gold & Economy Guide",
+              "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+            },
+            {
+              "name": "AccountShark: Economy",
+              "url": "https://accountshark.net/blog/wow-forever-economy-launch-professions-gold"
+            }
+          ]
+        },
+        {
+          "titel": "Berufe-Leveln 1–300: Preis-Snapshot vom 11. November",
+          "unterzeile": "Cooking und First Aid am günstigsten",
+          "text": "Ein Rechner listet für das US-Alliance-AH am 11. November Cooking ab 4 Gold 5 Silber, First Aid ab 23 Gold 43 Silber und Alchemy ab 33 Gold 14 Silber als günstigste Crafting-Berufe von 1 bis 300. Eine andere Auswertung mit Daten vom 8. November nennt für Alchemy 39 Gold 73 Silber – die Preise schwanken stark.",
+          "quellen": [
+            {
+              "name": "Timesaver: Profession Calculator",
+              "url": "https://timesaver.gg/tools/wow-forever/professions"
+            },
+            {
+              "name": "Timesaver: Best Professions",
+              "url": "https://timesaver.gg/blog/wow-forever-best-professions-to-pick"
+            }
+          ]
+        },
+        {
+          "titel": "Kein Gold mehr für Level-60-Quests?",
+          "unterzeile": "Community diskutiert die Goldquellen am Cap",
+          "text": "MMOExp berichtet, Quests am Levelcap gäben nicht mehr das Bonus-Gold, das sonst Erfahrung ersetzt. Ob auch reguläres Quest-Gold betroffen ist, bleibe offen; Gerüchte über eine wöchentliche Gold-Quest sind unbestätigt. Wowhead hat laut Suchergebnissen dazu einen Beitrag.",
+          "quellen": [
+            {
+              "name": "MMOExp: WoW Forever News (Fan-/Händlerseite)",
+              "url": "https://www.mmoexp.com/News/wow-forever-news-50-dungeon-xp-buff-gilneas-tease-darkmoon-faire-and-more.html"
+            },
+            {
+              "name": "Wowhead: Forever",
+              "url": "https://www.wowhead.com/forever"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Community",
+      "artikel": [
+        {
+          "titel": "55/45: Blizzard zieht bei PvP-Charaktererstellung die Zügel an",
+          "unterzeile": "Fraktionsbalance soll möglichst nahe 50/50 liegen",
+          "text": "Blizzard hat am 10. November angekündigt, die Limits für die Charaktererstellung auf PvP-Rulesets zu verschärfen. Die extremste Region liegt laut Blizzard bei etwa 55/45. Es zählt künftig die Gesamtbalance einer Region statt kurzfristiger Momentaufnahmen. Gerüchte, Friend-Code-Missbrauch oder Trial-Charaktere seien schuld, weist Blizzard zurück.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern: PvP-Fraktionsbalance",
+              "url": "https://warcrafttavern.com/forever/news/blizzard-addresses-pvp-faction-balance-concerns-in-wow-forever"
+            }
+          ]
+        },
+        {
+          "titel": "Olympus: Asmongolds Gilde bei über 74.000 Spielern",
+          "unterzeile": "Zahl stammt aus der Beta",
+          "text": "GameSpot berichtet, Asmongolds Allianz-Gilde Olympus habe auf dem Beta-PvP-Server über 74.000 Spieler. Viele Spieler seien unzufrieden mit der Streamer-Dominanz auf dem einzigen PvP-Server. Einige Streamer nutzen ihre Communities für Vorteile wie Material- oder Gold-Spenden.",
+          "quellen": [
+            {
+              "name": "GameSpot: WoW Forever Has A Streamer Problem",
+              "url": "https://www.gamespot.com/articles/wow-forever-has-a-streamer-problem/"
+            }
+          ]
+        },
+        {
+          "titel": "Zweite PvP-Server-Option nach Community-Wunsch",
+          "unterzeile": "Namensreservierung ab 27. Oktober",
+          "text": "Blizzard hat laut GameSpot eine weitere PvP-Server-Option auf Zuruf der Community eingeführt. Namensreservierungen waren ab dem 27. Oktober möglich.",
+          "quellen": [
+            {
+              "name": "GameSpot: Neue Server-Option",
+              "url": "https://www.gamespot.com/articles/wow-forever-is-getting-a-new-server-option-by-popular-demand/"
+            }
+          ]
+        },
+        {
+          "titel": "Forever Community: Ehrenamtlicher Hub",
+          "unterzeile": "Gilden, Profile, Streams und Events",
+          "text": "Die Seite forevercommunity.org beschreibt sich als ehrenamtlich betriebenen Hub mit Gildenseiten, Spielerprofilen, News und Events. Auch Stream-Listen werden dort geführt. Eine Fan-Seite, keine offizielle Blizzard-Plattform.",
+          "quellen": [
+            {
+              "name": "Forever Community",
+              "url": "https://forevercommunity.org/streams"
+            },
+            {
+              "name": "GuildsOfWoW: Live Streamers",
+              "url": "https://guildsofwow.com/live-streamers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Legacy-System: 65 Challenges, 16 ausgebbare Punkte",
+          "unterzeile": "Belohnungen bei 15, 25, 40 und 55 Punkten",
+          "text": "Das Legacy-System ist accountweit: Jede der 65 Challenges bringt einen Punkt, pro Charakter lassen sich zum Start bis zu 16 Punkte in Perks stecken. Gesammelte Punkte schalten Belohnungen bei 15, 25, 40 und 55 frei; die letzte angekündigte ist die Spectral-Bear-Reins. Hardcore soll später 12 eigene Challenges bekommen.",
+          "quellen": [
+            {
+              "name": "Leprestore: Legacy System",
+              "url": "https://leprestore.com/guides/world-of-warcraft-forever/wow-forever-legacy-system-guide/"
+            },
+            {
+              "name": "Wow4ever: Legacy System",
+              "url": "https://wow4ever.quest/en/articles/sistema-de-legado-wow-forever"
+            }
+          ]
+        },
+        {
+          "titel": "Dual-Spec ab Level 40 für 50 Gold",
+          "unterzeile": "Für Tanks und Heiler besonders relevant",
+          "text": "Dual Specialization schaltet laut MMOExp bei Level 40 frei und kostet 50 Gold. Manche sehen die Kosten als Hürde für Heiler und Tanks, andere als lohnende dauerhafte Aufwertung.",
+          "quellen": [
+            {
+              "name": "MMOExp: WoW Forever News (Fan-/Händlerseite)",
+              "url": "https://www.mmoexp.com/News/wow-forever-news-50-dungeon-xp-buff-gilneas-tease-darkmoon-faire-and-more.html"
+            }
+          ]
+        },
+        {
+          "titel": "Login-Fehler „No realms are currently available“",
+          "unterzeile": "Was Guide-Seiten empfehlen",
+          "text": "Die Meldung bedeutet laut Guide, dass ein Ruleset gerade nicht erreichbar ist. Empfohlen: anderes Ruleset testen, kurz warten und erneut einreihen. Das Problem mit Invite-a-Friend wurde laut derselben Seite am 5. November per Hotfix behoben.",
+          "quellen": [
+            {
+              "name": "WoW Forever Leveling: Login Queue Issues",
+              "url": "https://wowforeverleveling.com/guides/wow-forever-login-queue-issues"
+            }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire: Tickets und Preise",
+          "unterzeile": "Amulet und Orb kosten je 1.200 Tickets",
+          "text": "Auf dem Darkmoon Faire kosten das Amulet und der Orb of the Darkmoon laut Guide je 1.200 Prize Tickets, die Darkmoon Storage Box (14 Slots) 50 Tickets. Das Legacy-Talent Diplomat kann den Darkmoon-Ruf beschleunigen.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern: Darkmoon Faire Guide",
+              "url": "https://www.warcrafttavern.com/forever/guides/darkmoon-faire/"
+            },
+            {
+              "name": "PlayHub: Darkmoon Guide",
+              "url": "https://playhub.com/blog/wow-forever/darkmoon-faire-guide-383973"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen & Interviews",
+      "artikel": [
+        {
+          "titel": "Kaivax zur Fraktionsbalance und Zonen-Überfüllung",
+          "unterzeile": "Blizzard will weiter nachjustieren",
+          "text": "Community-Manager Kaivax erklärte am 10. November, die Zahl der Spieler in stark überfüllten Zonen sei gesenkt worden, auf dem PvP-Ruleset stärker. Blizzard wolle die Lage beobachten und weiter anpassen. Zur Balance nennt Blizzard als Ziel „as close to 50/50 as possible“.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern: PvP-Fraktionsbalance",
+              "url": "https://warcrafttavern.com/forever/news/blizzard-addresses-pvp-faction-balance-concerns-in-wow-forever"
+            },
+            {
+              "name": "Outputlag: Blizzard sagt 55/45",
+              "url": "https://outputlag.com/news/wow-forever-level-1-trial-alts-unlocking-horde-alliance-fleeing-pvp"
+            }
+          ]
+        },
+        {
+          "titel": "Nuthals und Jones zur Economy-Gesundheit",
+          "unterzeile": "Interview bei But Why Tho",
+          "text": "Mike Nuthals und Tim Jones sprachen laut But Why Tho über neue Inhalte im Classic-Stil und die Gesundheit der Wirtschaft. Details sind im Interview selbst nachzulesen.",
+          "quellen": [
+            {
+              "name": "But Why Tho: WoW Forever Interview",
+              "url": "https://butwhytho.net/2026/11/wow-forever-interview/"
+            },
+            {
+              "name": "esports.gg: Interview mit Michael Nuthals",
+              "url": "https://esports.gg/interviews/world-of-warcraft/wow-forever-interview/"
+            }
+          ]
+        },
+        {
+          "titel": "Zwei große Updates pro Jahr, nicht nur für Raider",
+          "unterzeile": "Aussage im Raider.IO-Interview",
+          "text": "Laut MMOExp haben Entwickler im Raider.IO-Interview gesagt, kommende Updates sollten über Raiding hinausgehen – mit Arbeit an Leveln, Berufen, Battlegrounds und Endgame. Etwa zwei große Updates pro Jahr seien geplant, inklusive 10er- und 20er-Raids.",
+          "quellen": [
+            {
+              "name": "MMOExp: WoW Forever News (Fan-/Händlerseite)",
+              "url": "https://www.mmoexp.com/News/wow-forever-news-50-dungeon-xp-buff-gilneas-tease-darkmoon-faire-and-more.html"
+            }
+          ]
+        },
+        {
+          "titel": "Release-Takt: MMORPG.com spricht mit Clay Stone und Nora Mills",
+          "unterzeile": "Wie das Team die Kadenz austarieren will",
+          "text": "MMORPG.com hat ein Interview mit Clay Stone und Nora Mills veröffentlicht, in dem es um den Ansatz zur neuen Version und das Balancing der Release-Kadenzen geht. Die Details stehen im Interview.",
+          "quellen": [
+            {
+              "name": "MMORPG.com: Interview",
+              "url": "https://www.mmorpg.com/interviews/world-of-warcraft-forever-interview-how-blizzard-approached-the-new-version-balancing-release-cadences-and-more-2000139240"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Nächster Patch-Dienstag: 17. November",
+          "unterzeile": "Blizzard hält weitere Dienstags-Änderungen offen",
+          "text": "Blizzard hat laut Kaivax Klassen-Hotfixes für Dienstage angekündigt und ließ offen, bei Bedarf weitere folgen zu lassen. Ob am 17. November etwas ansteht, ist nicht bestätigt.",
+          "quellen": [
+            {
+              "name": "Blizzard Forum (EU): Class Tuning Incoming – 10 November",
+              "url": "https://eu.forums.blizzard.com/en/wow/t/class-tuning-incoming-10-november/640100"
+            }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire: Eine Woche in Elwynn",
+          "unterzeile": "Seit 9. November, laut MMOExp",
+          "text": "MMOExp zufolge läuft der Darkmoon Faire seit dem 9. November eine Woche lang im Elwynn Forest, Allianz zuerst. Angabe aus einer Fan-/Händlerseite; Datum bitte im Spiel prüfen.",
+          "quellen": [
+            {
+              "name": "MMOExp: WoW Forever News (Fan-/Händlerseite)",
+              "url": "https://www.mmoexp.com/News/wow-forever-news-50-dungeon-xp-buff-gilneas-tease-darkmoon-faire-and-more.html"
+            }
+          ]
+        },
+        {
+          "titel": "9. Dezember: Raids; Winter: Hardcore; 2027: Updates",
+          "unterzeile": "Roadmap-Überblick",
+          "text": "Am 9. Dezember öffnen Barrow Deeps, Hyjal Summit und Onyxia. Hardcore ist für den Winter vorgesehen, ein Datum nennt Blizzard nicht. Für 2027 sehen Roadmap-Zusammenfassungen große Updates vor, etwa im Frühjahr.",
+          "quellen": [
+            {
+              "name": "GameRant: WoW Forever Roadmap",
+              "url": "https://gamerant.com/wow-forever-roadmap-future-updates-release-date"
+            },
+            {
+              "name": "Allthings: Hardcore",
+              "url": "https://allthings.how/wow-forever-hardcore/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine im Überblick",
+        "punkte": [
+          "Laufend: Darkmoon Faire in Elwynn (laut MMOExp seit 9. Nov, 1 Woche)",
+          "Di 17. Nov: möglicher nächster Hotfix-Dienstag",
+          "Mi 9. Dez: Barrow Deeps, Hyjal Summit, Onyxia",
+          "Winter: Hardcore (kein Datum)",
+          "2027: große Updates"
+        ],
+        "quellen": [
+          {
+            "name": "Maxroll: Erste Raids am 9. Dezember",
+            "url": "https://maxroll.gg/wow-forever/news/wow-forevers-first-raids-open-on-december-9"
+          },
+          {
+            "name": "GameRant: WoW Forever Roadmap",
+            "url": "https://gamerant.com/wow-forever-roadmap-future-updates-release-date"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Nach dem Rollback prüfen",
+    "text": "Wer am Montagabend gespielt hat: Kurz Aktionsleisten, Zauberbuch und Berufe kontrollieren, fehlende Fertigkeiten beim Lehrer nachprüfen und Screenshots machen, bevor ihr im Forum meldet."
+  }
+}
