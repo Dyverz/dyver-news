@@ -38,6 +38,7 @@
     if (letzte && seiten.length >= 9) letzte.zumSchluss = a.zumSchluss;
     else seiten.push({ titel: a.zumSchluss.titel || "Zum Schluss", artikel: [], zumSchluss: a.zumSchluss });
   }
+  if (cfg.sudoku && window.Sudoku) seiten.push({ titel: "Rätsel: Sudoku", sudoku: true, teaser: "Dein tägliches Sudoku zum Mitspielen" });
   const gesamt = seiten.length + 1; // Seite 1 = Titelseite
 
   const kopf = `
@@ -69,11 +70,12 @@
         </article>` : ""}
       <section class="inhalt"><h3 class="rubrikname">Heute in dieser Ausgabe</h3>
         <ol>${seiten.map((s, i) => `<li><a href="#s${i + 2}"><span class="snr">Seite ${i + 2}</span>
-          <strong>${esc(s.titel)}</strong><span class="teaser">${esc((s.artikel && s.artikel[0] && s.artikel[0].titel) || (s.zumSchluss && s.zumSchluss.titel) || "")}</span></a></li>`).join("")}</ol>
+          <strong>${esc(s.titel)}</strong><span class="teaser">${esc((s.artikel && s.artikel[0] && s.artikel[0].titel) || (s.zumSchluss && s.zumSchluss.titel) || s.teaser || "")}</span></a></li>`).join("")}</ol>
       </section>`;
   }
   function seite(i) { // i = 0-basiert in seiten[]
     const s = seiten[i];
+    if (s.sudoku) return `<h2 class="seitentitel"><span>Seite ${i + 2}</span>${esc(s.titel)}</h2><div id="sudoku-platz"></div>`;
     const art = s.artikel || [];
     return `
       <h2 class="seitentitel"><span>Seite ${i + 2}</span>${esc(s.titel)}</h2>
@@ -114,14 +116,16 @@
     if (location.hash !== `#s${n}`) history.replaceState(null, "", n === 1 ? location.pathname + location.search : `#s${n}`);
     if (!ohneScroll) document.querySelector(".blaettern.oben").scrollIntoView({ behavior: "smooth", block: "start" });
     if (n === 1) wetter();
+    const platz = document.getElementById("sudoku-platz");
+    if (platz) window.Sudoku.mount(platz, datum, document.body.className);
   }
   addEventListener("hashchange", () => { const m = location.hash.match(/^#s(\d+)$/); if (m && +m[1] !== aktuell) gehe(+m[1]); });
   addEventListener("keydown", e => {
-    if (e.target.closest("select, input, textarea")) return;
+    if (e.target.closest("select, input, textarea, .sudoku")) return;
     if (e.key === "ArrowRight") gehe(aktuell + 1); else if (e.key === "ArrowLeft") gehe(aktuell - 1);
   });
   let x0 = null, y0 = null;
-  box.addEventListener("touchstart", e => { x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; }, { passive: true });
+  box.addEventListener("touchstart", e => { if (e.target.closest(".sudoku")) { x0 = null; return; } x0 = e.touches[0].clientX; y0 = e.touches[0].clientY; }, { passive: true });
   box.addEventListener("touchend", e => {
     if (x0 == null) return;
     const dx = e.changedTouches[0].clientX - x0, dy = e.changedTouches[0].clientY - y0;

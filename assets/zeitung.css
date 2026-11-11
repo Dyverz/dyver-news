@@ -110,3 +110,38 @@ body.wow .rubrikname { color: #ff8000; }
 .archivliste .adatum { font-family: var(--ui-font); color: var(--accent); font-size: .85em; min-width: 7em; flex: none; }
 .archivliste a:hover .aschlag { color: var(--accent); }
 body.mama .blaettern button { font-size: 1.6em; }
+
+/* ---------- Sudoku (Rätsel-Seite) ---------- */
+.sudoku { --sd-rand: var(--line-strong); --sd-dünn: var(--line); --sd-wahl: color-mix(in srgb, var(--accent) 28%, var(--card));
+  --sd-verwandt: color-mix(in srgb, var(--accent) 8%, var(--card)); --sd-gleich: color-mix(in srgb, var(--accent) 18%, var(--card)); }
+.sd-info { margin: 0 0 14px; color: var(--muted); }
+.sd-spiel { display: flex; flex-wrap: wrap; gap: 18px; align-items: flex-start; justify-content: center; }
+.sd-brett { container-type: inline-size; width: min(100%, 520px, calc(100vh - 130px)); min-width: min(100%, 300px); aspect-ratio: 1;
+  display: grid; grid-template-columns: repeat(9, 1fr); border: 3px solid var(--sd-rand); border-radius: 4px; background: var(--card);
+  touch-action: manipulation; user-select: none; -webkit-user-select: none; }
+.sd-zelle { all: unset; box-sizing: border-box; display: flex; align-items: center; justify-content: center; cursor: pointer;
+  border-right: 1px solid var(--sd-dünn); border-bottom: 1px solid var(--sd-dünn); font-family: var(--ui-font); font-size: 6.4cqi;
+  color: var(--accent); -webkit-tap-highlight-color: transparent; }
+.sd-zelle:nth-child(9n) { border-right: 0; }
+.sd-zelle:nth-child(n+73) { border-bottom: 0; }
+.sd-zelle.rechts { border-right: 2px solid var(--sd-rand); }
+.sd-zelle.unten { border-bottom: 2px solid var(--sd-rand); }
+.sd-zelle.vorgabe { color: var(--ink); font-weight: 700; }
+.sd-zelle.verwandt { background: var(--sd-verwandt); }
+.sd-zelle.gleich { background: var(--sd-gleich); }
+.sd-zelle.gewaehlt { background: var(--sd-wahl); }
+.sd-zelle:focus-visible { outline: 3px solid var(--accent); outline-offset: -3px; }
+.sd-zelle.konflikt { color: #c62828; }
+.sd-zelle.falsch { color: #fff; background: #c62828; }
+.sd-seite { flex: 1 1 210px; max-width: 420px; display: flex; flex-direction: column; gap: 12px; }
+.sd-tasten { display: grid; grid-template-columns: repeat(9, 1fr); gap: 6px; }
+@media (min-width: 700px) { .sd-tasten { grid-template-columns: repeat(3, 1fr); } }
+.sd-tasten button, .sd-aktionen button { font: inherit; font-family: var(--ui-font); border: 1px solid var(--line); background: var(--card); color: var(--ink);
+  border-radius: 8px; cursor: pointer; touch-action: manipulation; }
+.sd-tasten button { font-size: 1.5em; padding: 10px 0; min-height: 52px; }
+.sd-tasten button.voll { opacity: .3; }
+.sd-aktionen { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; }
+.sd-aktionen button { padding: 10px 6px; font-size: .9em; }
+.sd-tasten button:active, .sd-aktionen button:active { background: var(--sd-wahl); }
+.sd-meldung { margin: 0; min-height: 1.5em; }
+.sudoku.geloest .sd-brett { border-color: #2e7d32; }
