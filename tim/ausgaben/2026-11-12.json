@@ -1,0 +1,449 @@
+{
+  "gruss": "Guten Morgen, Tim! Donnerstag, der 12. November – heute tagt der Haushaltsausschuss zur Schlussrunde, in Mülheim stehen die Weihnachtsmärkte vor der Tür, und Valve zeigt dir jetzt echte Steam-Deck-Framerates. Hier ist dein Kurier.",
+  "aufmacher": {
+    "rubrik": "Deutschland",
+    "titel": "Haushalt 2027: Koalition räumt Streitpunkte ab – Stromsteuer bleibt ungelöst",
+    "unterzeile": "Vor der Schlusssitzung im Haushaltsausschuss: Plastiksteuer 2027 vom Tisch, Zuckersteuer erst 2028",
+    "text": "Die schwarz-rote Koalition hat vor der heutigen Bereinigungssitzung im Haushaltsausschuss mehrere Streitpunkte für den Bundeshaushalt 2027 geklärt. Die Plastiksteuer wird 2027 nicht erhoben, die Zuckersteuer startet nicht wie geplant am 1. Juli 2027, sondern laut Berichten erst am 1. Januar 2028 und in drei statt zwei Stufen. Auch die geplante Erhöhung der Schaumweinsteuer kommt nicht.\n\nBei den Sozialleistungen hat die Koalition nachgebessert: Laut Euronews bleiben die Regelsätze der Grundsicherung bis zum 30. Juni 2028 unverändert, der Sofortzuschlag von 25 Euro für Kinder aus einkommensschwachen Familien bleibt erhalten. Zum Wohngeld berichten die Quellen unterschiedlich (geringere Einsparungen bzw. ausgesetzte Anpassung) – hier lohnt der Blick auf das endgültige Ergebnis.\n\nOffen bleibt vor allem die Stromsteuersenkung für alle, die rund 5,4 Milliarden Euro kosten würde und für die laut Unionsfraktionschef Thorsten Frei noch keine Gegenfinanzierung gefunden ist. Der Bundestag soll den Haushalt laut dpa-Roundup Ende November beschließen.",
+    "quellen": [
+      { "name": "Euronews: Zuckersteuer 2028, Plastiksteuer fällt vorerst weg", "url": "https://de.euronews.com/2026/11/11/zuckersteuer-2028-plastiksteuer-fallt-vorerst-weg-koalition-geeinigt" },
+      { "name": "ARIVA/dpa: Koalition findet Kompromisse für Etat – Stromsteuer ungelöst", "url": "https://www.ariva.de/news/roundup-koalition-findet-kompromisse-fuer-etat-stromsteuer-12204017" }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Mülheim an der Ruhr",
+      "artikel": [
+        {
+          "titel": "Weihnachtsmärkte in Mülheim: Das sind die Termine",
+          "unterzeile": "Schiffsweihnacht ab 20. November, Weihnachtstreff ab 23. November, Altstadt-Adventsmarkt ab 27. November",
+          "text": "Auch in Mülheim geht die Weihnachtsmarkt-Saison bald los. Laut einem Marktverzeichnis gibt es drei Märkte: die Schiffsweihnacht (20. bis 29. November, Schleuseninsel), den Weihnachtstreff am Forum (23. November bis 23. Dezember) und den Altstadt-Adventsmarkt (27. November bis 13. Dezember).\n\nDie Schiffsweihnacht findet 2026 laut t-online erstmals an zwei Wochenenden statt: am 20. und 21. November sowie vom 27. bis 29. November, der Eintritt ist frei. Die Verzeichnisse weisen selbst darauf hin, dass sich Termine und Öffnungszeiten kurzfristig ändern können – schau vor dem Besuch beim Veranstalter nach.",
+          "quellen": [
+            { "name": "alle-weihnachtsmaerkte.de: Mülheim an der Ruhr", "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/" },
+            { "name": "t-online: Schiffsweihnacht Mülheim 2026", "url": "https://essen.t-online.de/region/essen/id_101503290/schiffsweihnacht-muelheim-2026-weihnachtsmarkt-auf-schiffen.html" }
+          ]
+        },
+        {
+          "titel": "Volkstrauertag: Kranzniederlegung am Ehrenmal",
+          "unterzeile": "Sonntag, 15. November, 11.30 Uhr",
+          "text": "Zum Volkstrauertag werden am Sonntag, 15. November, um 11.30 Uhr am Ehrenmal Kränze zum Gedenken an die Opfer beider Weltkriege niedergelegt. Das meldet die Stadt Mülheim.",
+          "quellen": [
+            { "name": "Stadt Mülheim: Aktuelle Meldungen", "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen" }
+          ]
+        },
+        {
+          "titel": "A40: Tagesbaustelle am Samstag zwischen Styrum und Dümpten",
+          "unterzeile": "14. November, 8 bis 17 Uhr, Richtung Essen",
+          "text": "Wenn du am Samstag auf der A40 Richtung Essen unterwegs bist, plane etwas Puffer ein: Laut einer Verkehrsmeldung gibt es am 14. November zwischen 8 und 17 Uhr eine Tagesbaustelle auf Höhe Rechtsruhr-Nord (zwischen Styrum und Dümpten). Staugefahr ist möglich.\n\nAußerdem meldet die Stadt, dass der Ruhrinselweg zwischen Kahlenbergwehr und Florabrücke wegen einer Fahrbahnerneuerung gesperrt ist. Die Arbeiten sollen kurz vor Weihnachten enden; die Stadtseite trägt allerdings ein älteres Datum, prüf den Stand also vorher.",
+          "quellen": [
+            { "name": "news.de: Tagesbaustelle A40 Rechtsruhr-Nord, 14.11.2026", "url": "https://www.news.de/auto/860180926/verkehrsmeldung-nw-muelheim-an-der-ruhr-zur-verkehrsstoerung-wegen-baustelle-am-14-11-2026-beschraenkungen-im-verkehr-nordrhein-westfalen-staugefahr-in-rechtsruhr-nord-auf-a40/1/" },
+            { "name": "Stadt Mülheim: Sperrung Ruhrinselweg", "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/sperrung-wegen-baumassnahme-instandsetzung-des-ruhrinselwegs" }
+          ]
+        },
+        {
+          "titel": "Menden-Holthausen: 80-jähriger Radfahrer schwer gestürzt",
+          "unterzeile": "Polizei sucht Zeugen",
+          "text": "Ein 80-jähriger Radfahrer ist laut Polizeimeldung am Montagabend, 9. November, auf der Straße Gracht in Menden-Holthausen aus bislang ungeklärter Ursache gestürzt und schwer verletzt worden. Die Polizei Essen, die auch für Mülheim zuständig ist, sucht Zeugen.",
+          "quellen": [
+            { "name": "Polizei Essen: Pressemeldungen (Presseportal)", "url": "https://www.presseportal.de/blaulicht/nr/11562" },
+            { "name": "meinestadt.de: Polizeimeldungen Mülheim", "url": "https://aktuell.meinestadt.de/muelheim-an-der-ruhr/polizeimeldungen?page=0" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Radio Mülheim: Drei Vereinsprojekte für Umwelt- und Klimaschutz wurden ausgezeichnet.",
+          "Radio Mülheim: Der Brand im St. Marien-Hospital vom 27. Oktober wurde als abgeschlossen gemeldet; 32 Betroffene.",
+          "S1: Am 27. November nachts (4.45 bis 4.55 Uhr) Zugausfälle wegen Oberleitungsarbeiten."
+        ],
+        "quellen": [
+          { "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/" },
+          { "name": "Baustellen-Suche (Treffer: A40, S1)", "url": "https://www.news.de/auto/860180926/verkehrsmeldung-nw-muelheim-an-der-ruhr-zur-verkehrsstoerung-wegen-baustelle-am-14-11-2026-beschraenkungen-im-verkehr-nordrhein-westfalen-staugefahr-in-rechtsruhr-nord-auf-a40/1/" }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim & Ruhrgebiet",
+      "artikel": [
+        {
+          "titel": "Oberhausen-Osterfeld: Knallkörper in Schulumkleide, zehn Verletzte",
+          "unterzeile": "Einsatz am 3. November an einer weiterführenden Schule",
+          "text": "Am Dienstag, 3. November, wurden Feuerwehr und Polizei Oberhausen gegen 9.40 Uhr zu einer weiterführenden Schule in Osterfeld gerufen. Jemand hatte laut Polizei einen Knallkörper in eine Schulumkleide geworfen, zehn Schülerinnen und Schüler wurden verletzt. Die Ermittlungen laufen; Details zu Tatverdächtigen nennt die Übersicht nicht.",
+          "quellen": [
+            { "name": "Presseportal: Oberhausen 2026", "url": "https://www.presseportal.de/blaulicht/r/Oberhausen" }
+          ]
+        },
+        {
+          "titel": "Zoll Duisburg: Großkontrollen gegen Schwarzarbeit",
+          "unterzeile": "Aktion vom 5. bis 7. November, Zollbeamter leicht verletzt",
+          "text": "Das Hauptzollamt Duisburg ist vom 5. bis 7. November verstärkt gegen Schwarzarbeit und illegale Beschäftigung im Zusammenhang mit Clankriminalität vorgegangen. Bei einer Prüfung in Essen wurden Einsatzkräfte angegriffen, ein Zöllner verletzte sich leicht.",
+          "quellen": [
+            { "name": "Presseportal / Radio Essen (Suchtreffer)", "url": "https://www.radioessen.de/nachrichten/nachrichten-aus-essen" }
+          ]
+        },
+        {
+          "titel": "A59 in Duisburg-Meiderich: Rodungen für Bodenerkundung",
+          "unterzeile": "Vorarbeiten für den Ausbau, Meldung vom November",
+          "text": "Beim Ausbau der A59 in Duisburg-Meiderich beginnen Rodungen für Bodenerkundungen. Die Meldung ist nur mit „November 2026“ datiert; genaue Zeiträume und Umfang stehen im Original.",
+          "quellen": [
+            { "name": "meinestadt.de: Aktuelles aus Duisburg", "url": "https://aktuell.meinestadt.de/duisburg" }
+          ]
+        },
+        {
+          "titel": "Essen-Kray: Bus brennt an Kreuzung",
+          "unterzeile": "Feuerwehr am Montag, 9. November, im Einsatz",
+          "text": "Die Feuerwehr Essen wurde am Montag um 12.21 Uhr zu einem brennenden Bus im Kreuzungsbereich Eckenbergstraße / Pramenweg in Essen-Kray gerufen. Zu Verletzten oder zur Ursache nennt die Kurzmeldung nichts.",
+          "quellen": [
+            { "name": "Radio Essen: Nachrichten aus Essen", "url": "https://www.radioessen.de/nachrichten/nachrichten-aus-essen" }
+          ]
+        },
+        {
+          "titel": "Wochenende: Biber-Exkursion in Xanten, Tribute-Konzert in Hemer",
+          "unterzeile": "Sonntag, 15. November, und Samstag, 14. November",
+          "text": "Naturfreunde können am Sonntag, 15. November, an einer Biberexkursion am NaturForum Bislicher Insel in Xanten teilnehmen (8 Euro). Wer Musik will: Laut einem Veranstaltungskalender tritt am 14. November um 20 Uhr ein Bon-Jovi-Tribute-Act im Alten Casino des Sauerlandparks Hemer auf. Die Kalender sind unterschiedlich aktuell – Uhrzeiten beim Veranstalter prüfen.",
+          "quellen": [
+            { "name": "Veranstaltungen des RVR", "url": "https://www.rvr.ruhr/service/veranstaltungen-des-rvr/" },
+            { "name": "Veranstaltungen Ruhrgebiet 2026", "url": "https://steinkunstwerk.de/blogs/ruhrgebiet-kalender/veranstaltungen-ruhrgebiet-2026" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine der Woche",
+        "punkte": [
+          "12.–15. November: Tage Alter Musik in Herne",
+          "Sa/So 14./15. November: Designmarkt „Handverlesen“ auf Zollverein, 12–18 Uhr, Eintritt frei",
+          "So 15. November: „Markt der schönen Dinge“ (Zollverein), Volkstrauertag-Gedenken am Mülheimer Ehrenmal um 11.30 Uhr",
+          "20./21. November: Schiffsweihnacht Mülheim (1. Wochenende)",
+          "23. November: Start des Mülheimer Weihnachtstreffs am Forum"
+        ],
+        "quellen": [
+          { "name": "Veranstaltungen Ruhrgebiet 2026", "url": "https://steinkunstwerk.de/blogs/ruhrgebiet-kalender/veranstaltungen-ruhrgebiet-2026" },
+          { "name": "alle-weihnachtsmaerkte.de: Mülheim", "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/" },
+          { "name": "Stadt Mülheim: Aktuelle Meldungen", "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen" }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Politik",
+      "artikel": [
+        {
+          "titel": "Haushalt: Was die Koalition vor der Schlusssitzung beschlossen hat",
+          "unterzeile": "Sozialkürzungen teilweise zurückgenommen, mehr Stellenabbau in der Bundesverwaltung",
+          "text": "Laut ARIVA/dpa hat die Koalition unter anderem beschlossen, dass die Plastiksteuer 2027 nicht erhoben wird, die Schaumweinsteuer nicht steigt und der Kinderzuschlag für Geringverdiener bei der ursprünglichen Regelung bleibt. Zur Gegenfinanzierung soll der Personalabbau in der Bundesverwaltung ambitionierter ausfallen.\n\nEuronews berichtet zusätzlich, dass die Regelsätze der Grundsicherung bis zum 30. Juni 2028 eingefroren bleiben und eine zunächst erwogene Absenkung um 5 bis 7 Euro entfällt. Die Zahlen stammen teils aus Koalitionskreisen und BILD-Berichten und sind nicht offiziell bestätigt.",
+          "quellen": [
+            { "name": "ARIVA/dpa-Roundup", "url": "https://www.ariva.de/news/roundup-koalition-findet-kompromisse-fuer-etat-stromsteuer-12204017" },
+            { "name": "Euronews", "url": "https://de.euronews.com/2026/11/11/zuckersteuer-2028-plastiksteuer-fallt-vorerst-weg-koalition-geeinigt" }
+          ]
+        },
+        {
+          "titel": "Stromsteuer und Tankrabatt: Die offenen Baustellen",
+          "unterzeile": "5,4 Milliarden Euro ohne Gegenfinanzierung",
+          "text": "Die Stromsteuersenkung auf das EU-Mindestmaß für alle würde 5,4 Milliarden Euro kosten; bisher gilt sie nur für das produzierende Gewerbe sowie Land- und Forstwirtschaft. Unionsfraktionschef Frei nennt sie „oberste Priorität“, eine Gegenfinanzierung fehlt aber. Theoretisch ließe sich das Geld noch in der Sitzung auftreiben, ein Erfolg gilt laut dpa als unwahrscheinlich.\n\nOffen ist auch, was nach dem Auslaufen des Tankrabatts zum Jahresende kommt: Die SPD setzt auf einen Spritpreisdeckel, der den Staat nichts kostet. Beim Ausgleich der kalten Progression (Kosten bei vollem Ausgleich: 4,2 Milliarden Euro) hält die Union an ihrem Ziel fest.",
+          "quellen": [
+            { "name": "ARIVA/dpa-Roundup", "url": "https://www.ariva.de/news/roundup-koalition-findet-kompromisse-fuer-etat-stromsteuer-12204017" },
+            { "name": "WirtschaftsWoche: Kein Geld für Stromsteuer-Senkung", "url": "https://www.wiwo.de/politik/deutschland/haushalt-koalition-findet-bisher-kein-geld-fuer-stromsteuer-senkung/100269236.html" }
+          ]
+        },
+        {
+          "titel": "Zuckersteuer: Start erst 2028, drei Stufen",
+          "unterzeile": "Schwellen laut BILD bei 5, 7 und 9 Gramm pro Getränk",
+          "text": "Die Zuckersteuer soll laut Berichten erst am 1. Januar 2028 starten statt am 1. Juli 2027 und in drei statt zwei Stufen erhoben werden. Betroffen sind unter anderem Limonaden, Eistees, Energydrinks und Fruchtsaftgetränke mit Zuckerzusatz, reine Fruchtsäfte nicht. Die Schwellenwerte (5, 7 und 9 Gramm) stammen aus BILD-Berichten und sind nicht offiziell bestätigt.",
+          "quellen": [
+            { "name": "Euronews", "url": "https://de.euronews.com/2026/11/11/zuckersteuer-2028-plastiksteuer-fallt-vorerst-weg-koalition-geeinigt" },
+            { "name": "WirtschaftsWoche: Koalition findet Haushalts-Kompromisse", "url": "https://www.wiwo.de/politik/deutschland/finanzen-koalition-findet-haushalts-kompromisse-zuckersteuer-spaeter/100269234.html" }
+          ]
+        },
+        {
+          "titel": "Bundestag diese Woche: Bundeswehr-Bauten, Gewalt gegen Frauen",
+          "unterzeile": "Abstimmung zum Infrastrukturbeschleunigungsgesetz am Donnerstag",
+          "text": "Der Bundestag stimmt laut Wochenübersicht am Donnerstag, 12. November, über den Regierungsentwurf eines Bundeswehr-Infrastrukturbeschleunigungsgesetzes ab, das der Bundeswehr schnellere Strukturanpassungen ermöglichen soll. Außerdem geht es um die Abschaffung des Hochschulrahmengesetzes und des Graduiertenförderungsgesetzes zur Rechtsvereinfachung sowie um die Bekämpfung von Gewalt gegen Frauen. Die verbindliche Tagesordnung steht auf bundestag.de.",
+          "quellen": [
+            { "name": "mitmischen.de: Diese Woche im Bundestag (KW 46)", "url": "https://www.mitmischen.de/parlament/diese-woche-im-bundestag-ueberblick/diese-woche-im-bundestag-kw46-2026" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Deutschland: Wirtschaft & Verbraucher",
+      "artikel": [
+        {
+          "titel": "Inflation bestätigt: 2,8 Prozent im Oktober",
+          "unterzeile": "Sprit 28,9 Prozent teurer als vor einem Jahr, Heizöl +84,5 Prozent",
+          "text": "Das Statistische Bundesamt hat die Oktober-Inflation bestätigt: Die Verbraucherpreise lagen 2,8 Prozent über dem Vorjahr (September: 3,3 Prozent), gegenüber dem Vormonat sanken sie um 0,2 Prozent. Energie war 12,2 Prozent teurer als im Vorjahr, nach 14,9 Prozent im September.\n\nKraftstoffe lagen 28,9 Prozent über dem Vorjahr, fielen aber gegenüber September um 5,5 Prozent, nachdem am 1. Oktober ein neuer Tankrabatt in Kraft trat. Heizöl kostete 84,5 Prozent mehr. Nahrungsmittel stiegen nur um 0,4 Prozent, Dienstleistungen um 2,5 Prozent, die Kerninflation liegt bei 2,1 Prozent.",
+          "quellen": [
+            { "name": "Destatis: Inflationsrate im Oktober 2026 bei +2,8 %", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_392_611.html" }
+          ]
+        },
+        {
+          "titel": "EnBW erhöht zum 1. Januar Strom- und Gaspreise",
+          "unterzeile": "Strom +3,3 Prozent, Gas +8,4 Prozent in der Grund- und Ersatzversorgung",
+          "text": "EnBW hebt zum 1. Januar 2027 die Preise in der Grund- und Ersatzversorgung an: Strom um 3,3 Prozent, Gas um 8,4 Prozent. Der Versorger will staatlich regulierte Änderungen bis dahin noch in die Kalkulation einfließen lassen. Bei einer Preiserhöhung kannst du in der Regel ohne Vertragsfrist kündigen; die Kündigung muss meist bis zum 31. Dezember beim Versorger sein. Das gilt für EnBW-Kunden – bei anderen Anbietern kommen laut Vergleichsportalen teils höhere Erhöhungen, verbindlich ist das noch nicht.",
+          "quellen": [
+            { "name": "EnBW: Preisanpassung 2027", "url": "https://www.enbw.com/presse/enbw-strompreis-gaspreis-anpassung-2027.html" },
+            { "name": "netz-trends.de: Strom und Gas 2027 teurer", "url": "https://www.netz-trends.de/strom-und-gas-2027-teurer-enbw-und-ewe-erho-hen-ku-ndigungsfrist-bis-31-dezember/" }
+          ]
+        },
+        {
+          "titel": "Phishing-Radar: Diese Fake-Mails kursieren gerade",
+          "unterzeile": "Banken, PayPal, ELSTER und angebliche Verbraucherzentrale-Anrufe",
+          "text": "Das Phishing-Radar der Verbraucherzentrale (Stand 11. November) warnt vor Mails im Namen von easybank, PayPal, Deutsche Bank, Volksbanken Raiffeisenbanken und ELSTER. Typisch sind kurze Fristen und Drohungen mit Kontosperrung; eine Mail versprach eine Rückerstattung von 102,99 Euro mit Frist bis 12. November. Dazu kommen laut Verbraucherzentrale Niedersachsen mehrere Fakeshops und Anrufe von angeblichen Verbraucherzentralen, die Datenlöschung oder Abo-Kündigung anbieten. Faustregel: Keine Links aus Mails anklicken, nicht unter Zeitdruck handeln.",
+          "quellen": [
+            { "name": "Verbraucherzentrale: Phishing-Radar", "url": "https://www.verbraucherzentrale.de/wissen/digitale-welt/phishingradar/phishingradar-aktuelle-warnungen-6059" },
+            { "name": "Verbraucherzentrale Niedersachsen: Vorsicht Falle", "url": "https://www.verbraucherzentrale-niedersachsen.de/vorsicht-falle" }
+          ]
+        },
+        {
+          "titel": "Arbeitsmarkt und Konjunktur: Zarte Erholung",
+          "unterzeile": "Arbeitslosenquote 6,3 Prozent im Oktober, ifo-Index bei 90,2",
+          "text": "Laut einem Konjunkturbrief sank die Arbeitslosenquote im Oktober um 0,1 Punkte auf 6,3 Prozent. Der ifo-Geschäftsklimaindex stieg von 89,9 auf 90,2 Punkte. Die ifo-Herbstprognose sieht eine fortgesetzte Erholung, wobei der Arbeitsmarkt erst verzögert profitieren soll; für 2026 erwartet ifo eine Arbeitslosenquote von 6,3 Prozent, bis 2028 sinkend auf 5,4 Prozent. Die Angaben stammen aus Sekundärquellen und sollten bei Bedarf bei BA und ifo nachgeprüft werden.",
+          "quellen": [
+            { "name": "MIT-Konjunkturbrief November 2026", "url": "https://www.mit-bund.de/content/mit-konjunkturbrief-mittelstand-aktuell-november-2026" },
+            { "name": "ifo Konjunkturprognose Herbst 2026", "url": "https://www.ifo.de/en/facts/2026-09-03/ifo-economic-forecast-autumn-2026-recovery-forces-gain-upper-hand" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Inflation Oktober 2026 in Zahlen",
+        "punkte": [
+          "Gesamt: +2,8 % (Sept. +3,3 %)",
+          "Energie: +12,2 %",
+          "Kraftstoffe: +28,9 %",
+          "Nahrungsmittel: +0,4 %",
+          "Dienstleistungen: +2,5 %, Nettokaltmieten +1,9 %",
+          "Kerninflation: +2,1 %"
+        ],
+        "quellen": [
+          { "name": "Destatis", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_392_611.html" }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Politik & Recht",
+      "artikel": [
+        {
+          "titel": "Pflegereform: Streit ums Sozialraumbudget",
+          "unterzeile": "Caritas und Pflegerat warnen vor Folgen für ambulante Dienste",
+          "text": "Nach der ersten Lesung der Pflegereform im Bundestag geht die Kritik weiter. Der Entlastungsbetrag von bis zu 131 Euro soll laut taz durch ein Budget von bis zu 175 Euro für die Pflegegrade 2 bis 5 ersetzt werden. Ambulante Dienste sowie Tages-, Nacht- und Kurzzeitpflege dürften damit nicht mehr finanziert werden, warnt der VKAD und sieht Existenzen von Diensten gefährdet.\n\nCaritas-Präsidentin Eva Welskop-Deffaa fürchtet, dass ambulante Dienste niedrigschwellige Alltagsangebote nicht mehr anbieten dürfen. Deutscher Pflegerat-Präsidentin Christine Vogler verlangt, höhere Hürden bei den Pflegegraden zu streichen, Entlastungsleistungen zu erhalten und Personalkosten voll zu refinanzieren.",
+          "quellen": [
+            { "name": "taz: Erste Lesung – Bundestag debattiert über Pflegereform", "url": "https://taz.de/Erste-Lesung/!6227525/" }
+          ]
+        },
+        {
+          "titel": "Expertenkommission soll Streitfragen bis Ende Dezember klären",
+          "unterzeile": "Große Strukturreform erst im neuen Jahr",
+          "text": "Strittige Fragen hat die Koalition laut taz an eine Expertenkommission verwiesen, die bis Ende Dezember Vorschläge machen soll. Die große Strukturreform folgt erst im neuen Jahr. Das jetzige Gesetz soll zum 1. Januar in Kraft treten, das Entlastungsbudget für Pflegegrad 1 wird trotz Kritik gestrichen, und geplante Rentenkürzungen für Pflegende sind vom Tisch. Ein Ratgeberportal nennt den 18. Dezember als Termin für den zweiten Durchgang im Bundesrat – eine einzelne, nicht amtlich bestätigte Angabe.",
+          "quellen": [
+            { "name": "taz", "url": "https://taz.de/Erste-Lesung/!6227525/" },
+            { "name": "pflege.de: Pflegeneuordnungsgesetz (PNOG)", "url": "https://www.pflege.de/pflegegesetz-pflegerecht/pflegeneuordnungsgesetz-pnog/" }
+          ]
+        },
+        {
+          "titel": "Heim-Eigenanteile: Zuschläge bleiben, ein Deckel nicht in Sicht",
+          "unterzeile": "Strukturkommission soll sich um die Begrenzung kümmern",
+          "text": "Laut Ratgeberseiten sollen die Leistungszuschläge nach § 43c SGB XI (15 Prozent im ersten Jahr, danach steigend) laut Entwurf unverändert bleiben. Ein Deckel für Eigenanteile ist nicht im Gesetz vorgesehen und wird einer Strukturkommission überlassen. Für neue Heimbewohner mit Pflegegrad 1 soll der Heimzuschuss entfallen, Bestandsfälle behalten ihn. Die Angaben stammen von Ratgeberportalen, nicht aus dem Gesetzestext – verbindlich ist erst das verkündete Gesetz.",
+          "quellen": [
+            { "name": "Deutscher Pflegebeistand: Pflegeheim-Eigenanteil 2027", "url": "https://www.deutscherpflegebeistand.de/pflegeheim-eigenanteil-2027/" },
+            { "name": "pflege.de: PNOG", "url": "https://www.pflege.de/pflegegesetz-pflegerecht/pflegeneuordnungsgesetz-pnog/" }
+          ]
+        },
+        {
+          "titel": "Pflegegeld: Was heute gilt und was im Entwurf steht",
+          "unterzeile": "Bis zur Verkündung gilt das bisherige Recht",
+          "text": "Aktuell gelten 2026 unverändert diese Pflegegeld-Beträge: 347 Euro (Pflegegrad 2), 599 Euro (PG 3), 800 Euro (PG 4) und 990 Euro (PG 5). Ratgeberportale berichten, der Entwurf wolle das Pflegegeld ab 2027 in ein Entlastungsbudget mit höheren Beträgen (380 bis 1.080 Euro) überführen. Die Quellen beschreiben die Konstruktion uneinheitlich; bis zur Verkündung des Gesetzes ändert sich für dich nichts.",
+          "quellen": [
+            { "name": "pflege.de: Pflegeneuordnungsgesetz (PNOG)", "url": "https://www.pflege.de/pflegegesetz-pflegerecht/pflegeneuordnungsgesetz-pnog/" },
+            { "name": "pflegekosten-berechnen.de: Pflegereform 2026", "url": "https://www.pflegekosten-berechnen.de/pflegereform-2026" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Pflegegeld 2026 (aktuell)",
+        "punkte": [
+          "Pflegegrad 2: 347 €",
+          "Pflegegrad 3: 599 €",
+          "Pflegegrad 4: 800 €",
+          "Pflegegrad 5: 990 €"
+        ],
+        "quellen": [
+          { "name": "pflege.de", "url": "https://www.pflege.de/pflegegesetz-pflegerecht/pflegeneuordnungsgesetz-pnog/" }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Praxis & Fachwissen",
+      "artikel": [
+        {
+          "titel": "Demenz: Pflegefachpersonen mit erweiterten Kompetenzen verbessern die Versorgung",
+          "unterzeile": "DZNE-Studie, G-BA-Innovationsausschuss empfiehlt Regelversorgung",
+          "text": "Pflegefachpersonen mit erweiterten Kompetenzen verbessern die Versorgung von Menschen mit Demenz deutlich. Das zeigt eine vom DZNE koordinierte Studie mit über 400 Teilnehmenden. Der Innovationsausschuss im G-BA empfiehlt deshalb, das Dementia Care Management in die Regelversorgung zu überführen. Wichtig: Die Studie betraf Menschen mit Demenz, die zu Hause leben, nicht in Pflegeheimen.",
+          "quellen": [
+            { "name": "BibliomedPflege: G-BA empfiehlt Dementia Care Management", "url": "https://www.bibliomed-pflege.de/news/pflegekonzept-demenz-regelversorgung" }
+          ]
+        },
+        {
+          "titel": "Expertenstandard Demenz wird überarbeitet",
+          "unterzeile": "Finale Fassung laut Ratgeber für Herbst 2026 erwartet",
+          "text": "Laut einem Ratgeberbeitrag hat das DNQP im März 2026 eine erste Überarbeitung des Expertenstandards Demenz vorgelegt, die finale Fassung wurde für Herbst 2026 erwartet. Die Grundstruktur ändere sich nicht. Für die Dokumentation heißt es: Maßnahmen müssen erfasst und begründet werden, und es ist zu beschreiben, welche beziehungsfördernde Wirkung sie hatten. Ob die finale Fassung schon vorliegt, prüf bitte auf der DNQP-Seite.",
+          "quellen": [
+            { "name": "FORUM Verlag: Expertenstandard Demenz 2026", "url": "https://www.forum-verlag.com/fachwissen/gesundheitswesen-und-pflege/expertenstandard-demenz/" }
+          ]
+        },
+        {
+          "titel": "Personalbemessung: 36 Prozent mehr Personal laut Rothgang-Studie",
+          "unterzeile": "Hintergrund zum neuen Verfahren in Pflegeheimen",
+          "text": "Die Studie des Gesundheitsökonomen Heinz Rothgang (Uni Bremen) bildet die Grundlage der neuen Personalbemessung in der stationären Altenpflege. Sie kommt auf einen Mehrbedarf von mehr als 100.000 Vollzeitäquivalenten, also 36 Prozent mehr Personal als heute. Bei Pflegefachkräften liegt der Mehrbedarf bei 3,5 Prozent, bei Pflegeassistenzkräften bei 69 Prozent. Das Verfahren sollte laut einem Fachartikel von 2023 bis Ende 2025 umgesetzt werden; den heutigen Umsetzungsstand haben wir nicht geprüft.",
+          "quellen": [
+            { "name": "Medi-Karriere: Neue Personalbemessung in der Altenpflege", "url": "https://www.medi-karriere.de/magazin/neue-personalbemessung-altenpflege/" },
+            { "name": "IW: Neue Personalbemessung, und nun?", "url": "https://www.iwkoeln.de/studien/susanna-kochskaemper-susanne-seyda-neue-personalbemessung-und-nun-461203.html" }
+          ]
+        },
+        {
+          "titel": "Ausbildung: Hohe Abbruchquoten in der Pflege",
+          "unterzeile": "Blog-Angaben, nicht amtlich bestätigt",
+          "text": "Mehrere Fachblogs nennen, dass rund 30 Prozent der Pflegefachkraft-Ausbildungen und bis zu 50 Prozent der Assistenzausbildungen vorzeitig beendet werden. Die Zahlen stammen aus Sekundärquellen ohne Primärbeleg; für belastbare Werte sind Berichte der Bundesagentur für Arbeit, des DKG-Fachkräftemonitorings oder des WIdO-Pflegereports die bessere Adresse.",
+          "quellen": [
+            { "name": "Personalmangel Pflege 2026 (pflegenot-deutschland.de)", "url": "https://www.pflegenot-deutschland.de/ct/personalmangel-pflege/" },
+            { "name": "Fachkräftemangel Pflege Statistik 2026", "url": "https://mission-personal.de/blog/fachkraeftemangel-pflege-statistik-2026-recruiting-loesungen/" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Gaming: Steam & PC",
+      "artikel": [
+        {
+          "titel": "Steam Deck: Valve zeigt jetzt echte Framerates im Store",
+          "unterzeile": "Durchschnitts-FPS und Histogramm auf der Store-Seite, seit 10. November",
+          "text": "Auf Steam-Store-Seiten siehst du jetzt die durchschnittliche Framerate, die andere Steam-Deck-Spieler in einem Spiel erreichen. Bisher gab es nur die Siegel Verified oder Playable. Die Daten stehen im Abschnitt zur Deck-Kompatibilität („Learn more“), ein ausklappbares Histogramm zeigt, wie oft welche Framerate gemessen wurde – so erkennst du auch Ruckler. Im Steam-Client-Beta tauchen sie ebenfalls in der Bibliothek auf.\n\nDie Zahlen kommen von Spielern, die anonyme Framerate-Daten freigegeben haben, laut Valve bereits eine Mehrheit. Berücksichtigt werden nur Standard-Limits: 90 fps beim OLED, 60 fps beim LCD. Spiele brauchen eine Mindestanzahl an Messungen. Valve sieht das als Schritt hin zu Framerate-Daten für weitere Geräte; ob Steam Machine oder andere Hardware folgt, ist nicht bestätigt.",
+          "quellen": [
+            { "name": "Gaming On Steam: Valve zeigt Framerate-Daten", "url": "https://gamingonsteam.com/2026/11/10/steam-deck-news-framerate-data" },
+            { "name": "heise: Valve adds average frame rates to store pages", "url": "https://www.heise.de/en/news/Steam-Deck-Valve-adds-average-frame-rates-to-store-pages-11520367.html" }
+          ]
+        },
+        {
+          "titel": "Kein Black-Friday-Sale auf Steam – dafür ein Auto-Battler-Fest",
+          "unterzeile": "Auto-Battler RPG Fest vom 16. bis 23. November, Winter Sale ab 17. Dezember",
+          "text": "Laut Valves Eventplan gibt es 2026 keinen Steam-Sale zum Black Friday (27. November). Im Kalender stehen stattdessen das Auto-Battler RPG Fest (16. bis 23. November) und der Winter Sale vom 17. Dezember bis 4. Januar. Die Startuhrzeit des Winter Sales ist laut den Quellen wahrscheinlich 10 Uhr Pazifischer Zeit, aber nicht bestätigt.",
+          "quellen": [
+            { "name": "GameRant: Valve Has Revealed All Steam Sale Event Dates for 2026", "url": "https://gamerant.com/steam-sale-events-2026/" },
+            { "name": "SteamDB: Steam Sale Dates", "url": "https://steamdb.info/sales/history/" }
+          ]
+        },
+        {
+          "titel": "Neu auf Steam: Dreadmoor und The Citadel Project im Early Access",
+          "unterzeile": "Survival-Horror und Aufbau-Survival, dazu Releases am 12. November",
+          "text": "Am 9. November startete das Survival-Horror-Spiel Dreadmoor von Dream Dock im Early Access, am Mittwoch, 11. November, folgte The Citadel Project. Für den 12. November führt die Steam-Seite unter anderem Malignus, Barbie Rewind, Sonic Pico Park und Derelikt; der Store-Cache kann veraltet sein, prüf die Termine direkt bei Steam.",
+          "quellen": [
+            { "name": "GameStar: Neu bei Steam", "url": "https://www.gamestar.de/artikel/neu-bei-steam,3462647.html" },
+            { "name": "Steam: Bevorstehende Veröffentlichungen", "url": "https://store.steampowered.com/explore/upcoming/?l=german" }
+          ]
+        },
+        {
+          "titel": "Steam Frame: SteamOS-Beta bringt Room View fürs PC-Streaming",
+          "unterzeile": "Beta 0.5.8, laut Roundup",
+          "text": "Laut einem Roundup bringt eine SteamOS-Beta 0.5.8 für die Steam Frame Room View ins PC-Streaming, dazu SteamVR-Fixes und ein Update für Frame Cinema. Die Steam Frame ist laut Wikipedia seit dem 18. September 2026 erhältlich (Einführungspreis 1.059 US-Dollar für 256 GB, gemischte Kritiken). Die Beta-Angaben stammen aus einer einzelnen Zusammenfassung.",
+          "quellen": [
+            { "name": "Gaming On Steam", "url": "https://gamingonsteam.com/2026/11/10/steam-deck-news-framerate-data" },
+            { "name": "Wikipedia: Steam Frame", "url": "https://en.wikipedia.org/wiki/Steam_Frame" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Nintendo Switch 2 & Konsolen",
+      "artikel": [
+        {
+          "titel": "Pikmin 4 kommt als Switch-2-Edition mit Dandori Academy",
+          "unterzeile": "Laut Nintendo UK am 12. November",
+          "text": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy erscheint laut Nintendos UK-Liste am 12. November. Nintendo hatte rund um den neu ausgerufenen „Pikmin Day“ (1. November) in einem kurzen Direct unter anderem eine kostenlose Pikmin-4-Demo für Switch 2 und Pikmin Bloom Secret Caves für den Winter 2026 angekündigt. Quellen nennen teils abweichende Termine für verschiedene Regionen – prüf den Nintendo Store deines Landes.",
+          "quellen": [
+            { "name": "Nintendo UK: Upcoming Games November 2026", "url": "https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html" },
+            { "name": "GameRant: Nintendo Direct (Pikmin Day)", "url": "https://gamerant.com/nintendo-direct-november-2026-pikmin-day/" }
+          ]
+        },
+        {
+          "titel": "Metaphor: ReFantazio und Sonic Pico Park erscheinen heute",
+          "unterzeile": "Beide am 12. November laut Nintendo UK",
+          "text": "Laut Nintendo UK erscheinen heute Metaphor: ReFantazio für Switch 2 sowie Sonic Pico Park für Switch 2 und Switch. Das Switch-2-Release von Metaphor war bereits in einem Direct im Juni angekündigt worden. Kommende Woche folgen Disney Dreamlight Valley: The Keepsake Sea (18. November) und The Binding of Isaac: Repentance+ (19. November).",
+          "quellen": [
+            { "name": "Nintendo UK: Upcoming Games November 2026", "url": "https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html" }
+          ]
+        },
+        {
+          "titel": "Mario-Kart-World-Bundle für Switch 2 am 26. November",
+          "unterzeile": "Noch ein Hardware-Bundle",
+          "text": "Nintendo hat ein weiteres Switch-2-Hardwarebundle angekündigt: Das Nintendo Switch 2 + Mario Kart World Bundle erscheint laut Suchergebnissen am 26. November. Preis und Händlerdetails stehen im Original nicht in unserer Übersicht – schau bei deinem Händler.",
+          "quellen": [
+            { "name": "Nintendo Life: Nintendo Announces Another Switch 2 Hardware Bundle", "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-another-switch-2-hardware-bundle" }
+          ]
+        },
+        {
+          "titel": "GTA VI: 30 fps auf allen Konsolen, PS5 Pro mit Extras",
+          "unterzeile": "Launch am 19. November, Preload läuft",
+          "text": "GTA VI läuft laut Game Informer auf PS5 und Xbox Series X/S mit 30 Bildern pro Sekunde. Die PS5 Pro bekommt „verbesserte Klarheit“ per PSSR und Raytracing-Schatten. Alle PS5-Versionen profitieren von DualSense-Haptik, besserem 3D-Audio und kürzeren Ladezeiten. Zu Xbox-Performance äußert sich Rockstar nicht, hebt aber Xbox Cloud Gaming hervor. Preload ist seit dem 10. November möglich (ein Bericht nennt für Disc-Käufer den 12. November), der Release ist am 19. November, eine PC-Version ist nicht angekündigt.",
+          "quellen": [
+            { "name": "Game Informer: GTA VI läuft mit 30 fps", "url": "https://gameinformer.com/2026/11/10/grand-theft-auto-vi-will-run-at-30-fps-on-all-consoles-but-ps5-pro-will-feature-improved" },
+            { "name": "Rockstar Games: GTA VI Launch 19. November", "url": "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Neue Spiele der Woche (Nintendo)",
+        "punkte": [
+          "12.11.: Pikmin 4 – Switch 2 Edition + Dandori Academy (Switch 2)",
+          "12.11.: Metaphor: ReFantazio (Switch 2)",
+          "12.11.: Sonic Pico Park (Switch 2 und Switch)",
+          "18.11.: Disney Dreamlight Valley: The Keepsake Sea",
+          "19.11.: The Binding of Isaac: Repentance+ (Switch 2)"
+        ],
+        "quellen": [
+          { "name": "Nintendo UK: Upcoming Games November 2026", "url": "https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html" }
+        ]
+      }
+    },
+    {
+      "titel": "Tech & Netz",
+      "artikel": [
+        {
+          "titel": "Patchday: Outlook-Lücke wird bereits ausgenutzt",
+          "unterzeile": "Microsoft schließt über 1.200 Lücken, laut Quellen 1.235 bis 1.260",
+          "text": "Microsoft hat am Patchday (10. November) sehr viele Lücken geschlossen; die Zahl schwankt je nach Quelle zwischen 1.235 und 1.260. Besonders heikel: CVE-2026-124194 in Outlook wird bereits ausgenutzt. Beim Öffnen einer präparierten Nachricht verbindet sich Outlook ohne Warnung mit einem Angreifer-Server und gibt den NTLMv2-Hash preis – die reine Vorschau löst den Fehler laut heise nicht aus.\n\nKritisch ist auch CVE-2026-116928 in der Windows-Suche: Auf Exchange-Servern reicht eine präparierte Mail. Empfohlen werden die Updates KB5132061 (Windows 11) und KB5131096 (Windows 10 mit erweitertem Support) sowie Office-Updates; zusätzlich sollten ausgehende SMB-Verbindungen ins Internet an der Firewall gesperrt werden. Exchange 2016 und 2019 bekommen keine Updates mehr.",
+          "quellen": [
+            { "name": "Security-Briefing 11.11.2026 (nbreview.de)", "url": "https://nbreview.de/security-briefing-11-11-2026-patchday-mit-ausgenutzter-outlook-luecke-angriffe-auf-xen-orchestra-ki-agenten-pluendern-railway/" },
+            { "name": "All About Security: Patch Tuesday November 2026", "url": "https://www.all-about-security.de/patch-tuesday-november-2026-microsoft-schliesst-1-260-sicherheitsluecken/" }
+          ]
+        },
+        {
+          "titel": "Chrome-Update schließt aktiv ausgenutzte Lücke",
+          "unterzeile": "Chrome 157.0.8103.50, Edge und Brave ziehen nach",
+          "text": "Google hat ein Chrome-Update veröffentlicht, das neun Lücken schließt, darunter eine bereits angegriffene (CVE-2026-125350, Use-after-free in XML). Die Fixes stecken in Chrome 157.0.8103.50 (Android, Linux) bzw. .50/.51 (macOS, Windows). Auf dem Desktop findest du das Update unter Einstellungen > Hilfe > Über Google Chrome, danach den Browser neu starten. Microsoft arbeitet laut heise an einem Edge-Fix.",
+          "quellen": [
+            { "name": "heise: Chrome update patches actively exploited security flaw", "url": "https://www.heise.de/en/news/Chrome-update-patches-actively-exploited-security-flaw-11518289.html" }
+          ]
+        },
+        {
+          "titel": "Railway-Einbruch: Angreifer und Verteidiger setzen KI-Agenten ein",
+          "unterzeile": "Rund 740.000 US-Dollar KI-Kosten, bis zu 100.000 Workspaces betroffen",
+          "text": "Der Cloud-Anbieter Railway hat am 10. November einen Bericht zu einem Einbruch vom 20. Oktober veröffentlicht. Die Angreifer nutzten eine unbekannte Lücke in der Build-Umgebung und griffen entschlüsselte Umgebungsvariablen ab, gezielt auf der Suche nach KI-Anbieter-Schlüsseln. Betroffen sind höchstens rund 100.000 Kunden-Workspaces; der Schaden durch betrügerische KI-Nutzung beträgt rund 740.000 US-Dollar. Der Vorfall dauerte etwa 26 Stunden, in denen Angreifer und Verteidiger parallel mit KI-Agenten arbeiteten. Tipp: Schlüssel erneuern und bei KI-Anbietern Ausgabelimits setzen.",
+          "quellen": [
+            { "name": "Security-Briefing 11.11.2026 (nbreview.de)", "url": "https://nbreview.de/security-briefing-11-11-2026-patchday-mit-ausgenutzter-outlook-luecke-angriffe-auf-xen-orchestra-ki-agenten-pluendern-railway/" }
+          ]
+        },
+        {
+          "titel": "Firefox-VPN: Datenlimit bis 31. Januar aufgehoben",
+          "unterzeile": "Unbegrenztes Volumen ab 10. November, Mozilla-Konto nötig",
+          "text": "Mozilla hat das 50-GB-Monatslimit des kostenlosen, in Firefox eingebauten VPNs vom 10. November bis zum 31. Januar 2027 aufgehoben. Voraussetzung ist ein Mozilla-Konto. Das VPN schützt nur den Datenverkehr innerhalb von Firefox; für den ganzen Rechner verweist Mozilla auf das kostenpflichtige Mozilla VPN.",
+          "quellen": [
+            { "name": "heise: Mozilla hebt VPN-Datenlimit in Firefox bis Ende Januar auf", "url": "https://www.heise.de/news/Mozilla-hebt-VPN-Datenlimit-in-Firefox-bis-Ende-Januar-auf-11520640.html" },
+            { "name": "Help Net Security", "url": "https://www.helpnetsecurity.com/2026/11/10/firefox-free-vpn-data/" }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Browser-Update prüfen",
+    "text": "Nach so einer Woche mit ausgenutzten Lücken lohnt sich eine Minute: Öffne Chrome, geh auf Einstellungen > Hilfe > Über Google Chrome und starte den Browser neu, wenn ein Update bereitliegt. Gleiches gilt für Windows-Updates und Outlook. Ein Neustart ist oft der Schritt, der vergessen wird."
+  }
+}
