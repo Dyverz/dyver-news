@@ -1,0 +1,603 @@
+{
+  "gruss": "Seid gegrüßt, Abenteurer! Der Hotfix vom 11. November ist da, das Class Tuning vom 10. ist bestätigt live, und Item Restoration ist vorerst offline.",
+  "aufmacher": {
+    "rubrik": "Hotfixes & Klassen",
+    "titel": "Enhancement und Affliction im Umbau: Blizzard bestätigt das Class Tuning",
+    "unterzeile": "Gleichzeitig ist der Item-Restoration-Service wegen eines kritischen Bugs deaktiviert",
+    "text": "Blizzards Hotfix-Liste für WoW: Forever führt jetzt auch das Class Tuning vom 10. November, über dessen Live-Status wir gestern noch berichteten. Stormstrike macht nur noch 100 % Waffenschaden bei 8 Sekunden Cooldown, Maelstrom Weapon wurde komplett umgebaut, und Wrack beim Affliction-Hexenmeister beschleunigt jetzt die Ticks der DoTs, statt deren Schaden zu erhöhen.\n\nDie Developer-Notes begründen den Enhancement-Nerf damit, dass die Beta-Änderungen den Spec zu Spell Power und Intellect geschoben hätten. Das solle vor dem Raid-Start korrigiert werden, damit hart umkämpfte Ausrüstung später nicht an Wert verliert.\n\nAm 11. November kamen weitere Fixes dazu, darunter Paladin, Hunter und Priester sowie Tailoring-Taschen. Zudem ist der Item-Restoration-Service deaktiviert, bis ein kritischer Bug untersucht ist. Einen Termin nennt Blizzard nicht.",
+    "quellen": [
+      {
+        "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+        "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+      },
+      {
+        "name": "Wowhead: Hunter Pet Nerf and Enhancement Shaman Changes",
+        "url": "https://www.wowhead.com/forever/news/hunter-pet-nerf-and-enhancement-shaman-changes-wow-forever-hotfixes-for-november-383837"
+      },
+      {
+        "name": "Timesaver: Nov 10 Class Changes",
+        "url": "https://timesaver.gg/blog/wow-forever-class-changes-november-10"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Hotfix-Notes bis 11. November: Klassen, Items, Quests und Welt",
+          "unterzeile": "Blizzards Sammelliste führt jetzt Änderungen vom 5. bis 11. November",
+          "text": "Blizzard pflegt die Hotfixes von WoW: Forever in einem einzigen Beitrag, und der Eintrag vom 11. November ist der neueste. Er enthält Klassenänderungen für Feral-Druide, Hunter, Paladin, Priester und Schamane, dazu Item-Anpassungen, Tailoring-Rezepte, Quest-Fixes und einen Welt-Fix.\n\nDarunter fällt etwa: Rend and Tear wirkt jetzt auch auf den Pounce-Bleed, Volley löst keine Procs mehr aus und der Hunter unterbricht den Channel, sobald er sich bewegt. Der Paladin-Judgement zählt jetzt als Ranged-Angriff, nutzt die Ranged-Trefferchance und löst keine Nahkampf-Procs mehr aus.\n\nDie Notes vom 10. November (Enhancement-Nerf, Affliction-Rework, Berufe, Quest-Gold) stehen im selben Beitrag. Damit ist klar, dass das Class Tuning vom 10. November live ist, über dessen Status wir gestern noch berichteten.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            },
+            {
+              "name": "Blue Tracker: Hotfixes-Thread",
+              "url": "https://www.bluetracker.gg/wow/topic/us-en/24315281-wow-forever-hotfixes-november-11-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "Item Restoration vorübergehend abgeschaltet",
+          "unterzeile": "Ein „kritischer Bug“ wird untersucht – Details nennt Blizzard nicht",
+          "text": "Unter „Customer Support“ steht in den Hotfix-Notes vom 11. November: Der Item-Restoration-Service ist deaktiviert, solange ein kritischer Bug untersucht wird. Zum Bug selbst und zu einem Termin für die Rückkehr macht Blizzard in den Notes keine Angaben. Wer ein Item versehentlich verkauft hat, kann es also vorerst nicht zurückholen lassen.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Tailoring: Taschen kosten mehr Stoff",
+          "unterzeile": "Fünf Rezepte betroffen, Platzangaben bleiben",
+          "text": "Laut den Notes vom 11. November brauchen fünf Taschenrezepte jeweils einen Ballen mehr. Red Mageweave Bag: 5 Mageweave-Ballen statt 4 (14 Slots). Green Silk Pack: 5 Seidenballen statt 4 (12 Slots). Black Silk Pack: 6 statt 5 (12 Slots). Green Woolen Bag und Red Woolen Bag: je 5 Wollballen statt 4 (10 Slots).",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Riverglades: Twilight-Gegner entschärft",
+          "unterzeile": "Smash und Mark of Flames deutlich schwächer",
+          "text": "In Riverglades hat Blizzard drei Gegner abgeschwächt: Der Smash des Twilight Enforcer macht deutlich weniger Schaden, Executioner Morgs Schaden wurde gesenkt, und Twilight Forgemasters Mark of Flames erhöht den Schaden nur noch um 50 (vorher 1000). Zusätzlich wurde das Mount-Verbot in benannten Gebieten von Shen'dralas behoben.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Hotfix-Stand 11. November",
+        "punkte": [
+          "Build-Nummer: In den Notes nicht genannt",
+          "Class Tuning vom 10.11. ist in der Hotfix-Liste enthalten",
+          "Item Restoration: deaktiviert (kritischer Bug)",
+          "Tailoring-Taschen: je 1 Ballen mehr",
+          "Riverglades: Twilight Forgemaster Mark of Flames +50 statt +1000"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+            "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Enhancement-Schamane: Stormstrike-Nerf soll Windfury wieder in den Mittelpunkt rücken",
+          "unterzeile": "Stormstrike 100 % statt 150 % Waffenschaden, Cooldown 8 statt 6 Sekunden",
+          "text": "Die Hotfixes vom 10. November treffen Enhancement am härtesten. Stormstrike macht nur noch 100 % Waffenschaden (vorher 150 %) und hat 8 Sekunden Cooldown (vorher 6). Mental Dexterity wandelt Intellect nur noch zu 33/66/100 % in Attack Power um (vorher 50/100/150 %).\n\nMaelstrom Weapon gibt pro Stack 20 % weniger Zauberzeit und Manakosten auf allen Rängen. Die Proc-Chance steigt mit dem Rang: 6/7/8/9/10 Procs pro Minute statt pauschal 20. Das Tooltip zeigt die Chance jetzt abhängig von der Waffengeschwindigkeit, laut Blizzard etwa 60 % pro Schlag bei 5 Punkten mit einer 3,6er-Waffe und 33 % mit einer 2,0er-Waffe.\n\nIn den Developer-Notes erklärt Blizzard: Die Beta-Änderungen hätten Enhancement zu Spell Power und Intellect geschoben, weg von Windfury. Viele Änderungen machen das rückgängig, bewusst vor dem Raid-Start, damit umkämpfte Ausrüstung später nicht an Wert verliert.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            },
+            {
+              "name": "Wowhead: Hunter Pet Nerf and Enhancement Shaman Changes",
+              "url": "https://www.wowhead.com/forever/news/hunter-pet-nerf-and-enhancement-shaman-changes-wow-forever-hotfixes-for-november-383837"
+            }
+          ]
+        },
+        {
+          "titel": "Affliction-Hexenmeister: Wrack beschleunigt jetzt Ticks",
+          "unterzeile": "30 % weniger Wrack-Schaden, Soul Siphon zählt nur noch drei DoTs",
+          "text": "Wrack macht 30 % weniger Schaden und erhöht den Schaden periodischer Effekte nicht mehr. Stattdessen laufen Siphon Life, Corruption und Bane of Agony während des Channels 100 % schneller. Wrack hält 6 Sekunden und tickt jede Sekunde. Die Dauer der DoTs bleibt gleich, übersprungene Zeit wird auch bei Abbruch des Channels mitgenommen.\n\nSoul Siphon verstärkt Drain Life, Drain Soul und Wrack nur noch pro aktivem Corruption, Siphon Life oder Bane of Agony um 4/8/12 %, maximal 36 %. Bane of Havoc löst jetzt einen Global Cooldown aus.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            },
+            {
+              "name": "Hotspawn: WoW Forever Hotfixes November 11",
+              "url": "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-hotfixes-november-11"
+            }
+          ]
+        },
+        {
+          "titel": "Hunter und Hexenmeister-Pets: Hunter-Pets runter, Dämonen rauf",
+          "unterzeile": "Pet-Leben von 150 % auf 115 % korrigiert",
+          "text": "Hunter-Pets hatten durch einen Bug 150 % der normalen Gesundheit, jetzt sind es 115 %. Arcane Shot und Summon Hawk kosten auf allen Rängen 11 % des Basis-Manas, der Nahkampfschaden des Hawk steigt um rund 80 %. Bei den Hexenmeistern bekommen Voidwalker, Incubus und Succubus etwa 15 % mehr Basisleben, der Imp zusätzlich mehr Firebolt-Schaden auf den ersten vier Rängen.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Paladin, Priester, Druide: Die Fixes vom 10. und 11. November",
+          "unterzeile": "Judgement jetzt Ranged, Shadowform-Verbesserungen",
+          "text": "Der Paladin-Judgement ist ein Ranged-Angriff und löst keine Nahkampf-Procs mehr aus. Retribution: Unsealed Fury erzeugt keine Windfury-Totem-Echos mehr. Priester: Confounding Flash (Gnom) und das Holy-Talent Twilight Focus funktionieren in Shadowform. Restoration-Druide: Nature's Swiftness macht Wild Growth sofort wirksam. Arms-Krieger: Sweeping Strikes verliert keine Ladungen mehr, wenn kein zweites Ziel getroffen wird.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Wo steht Enhancement nach dem Nerf? Guide-Seiten uneins, Zahlen vorläufig",
+          "unterzeile": "B-Tier bei wow-forever.gg, Simulation sieht Platz 5",
+          "text": "Die Guide-Seite wow-forever.gg führt Enhancement derzeit mit B für Endgame-PvE und A für PvP. Eine ältere Einschätzung auf lfcarry hatte den Schamanen noch bei S für DPS. Brokenmeta rechnet in Simulationen einen fünften Platz unter 20 DPS-Specs aus. Das sind Fan- und Guide-Seiten, keine offiziellen Werte, und ohne offene Raids bleiben Raid-Rankings Schätzungen.",
+          "quellen": [
+            {
+              "name": "wow-forever.gg: Enhancement Shaman",
+              "url": "https://wow-forever.gg/classes/shaman/enhancement/"
+            },
+            {
+              "name": "Brokenmeta: Enhancement Shaman Guide",
+              "url": "https://brokenmeta.gg/en/wow-forever/guides/shaman/enhancement/"
+            },
+            {
+              "name": "LFCarry: Enhancement PvE",
+              "url": "https://lfcarry.com/guides/wow-forever-enhancement-shaman-pve"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Neue Dungeons im Überblick: Level-Spannen laut Guide-Seiten",
+          "unterzeile": "Drowned City 35–40, Krol'dok 40–45, Alcaz Prison 48–53, Blackmaw Hold 55–60",
+          "text": "Mehrere Guide-Seiten nennen für die neuen Dungeons übereinstimmend diese Bereiche: The Drowned City (35–40, vor der Küste von Stranglethorn), Krol'dok Stronghold (40–45, Riverglades), Alcaz Prison (48–53, Alcaz Island im Dustwallow Marsh) und Blackmaw Hold (55–60, nördliches Azshara). Auch der Shaper's Terrace (58–60) wird als Hochlevel-Dungeon in Kalimdor genannt.\n\nEine Seite führt für Krol'dok abweichend 40–55. Diese Angaben stammen von Fan- und Guide-Seiten, nicht von Blizzard, prüft die Zahlen daher im Spiel.",
+          "quellen": [
+            {
+              "name": "AllThings: All 9 New Dungeons",
+              "url": "https://allthings.how/wow-forever-new-dungeons/"
+            },
+            {
+              "name": "LFCarry: Dungeons Guide",
+              "url": "https://lfcarry.com/guides/wow-forever-dungeons"
+            }
+          ]
+        },
+        {
+          "titel": "Raid-Start am 9. Dezember: Drei Raids, drei Größen",
+          "unterzeile": "Barrow Deeps (10), Hyjal Summit (20), Onyxia (40)",
+          "text": "Laut Guide-Seiten öffnen am 9. Dezember 2026 drei Raids gleichzeitig: Barrow Deeps als 10er mit acht Bossen, Hyjal Summit als 20er mit 13 Bossen und Onyxia's Lair als 40er. Eine Seite nennt den 10. Dezember, schaut also im Zweifel auf den offiziellen Zeitplan. Barrow Deeps erreicht man laut denselben Guides über drei Eingänge: vom Mount Hyjal, von Winterspring und aus Blackmaw Hold.",
+          "quellen": [
+            {
+              "name": "LFCarry: Raids Guide",
+              "url": "https://lfcarry.com/guides/wow-forever-raids"
+            },
+            {
+              "name": "ChaosBoost: Raids Guide",
+              "url": "https://www.chaosboost.com/articles/wow-forever-raids-guide"
+            },
+            {
+              "name": "MMonster: Barrow Deeps",
+              "url": "https://mmonster.co/wow-forever/guides/raids/the-barrow-deeps"
+            }
+          ]
+        },
+        {
+          "titel": "Jeder neue Raid-Release bringt einen 10er und einen 20er",
+          "unterzeile": "Aussage von Tim Jones im Interview",
+          "text": "Im Interview mit But Why Tho sagte Tim Jones, dass jeder neue Raid-Release in WoW: Forever einen 10-Spieler- und einen 20-Spieler-Raid enthalten werde. Im selben Gespräch ging es auch um Economy-Gesundheit und das Vorgehen gegen den Verkauf von Gold für echtes Geld.",
+          "quellen": [
+            {
+              "name": "But Why Tho: WoW Forever Interview",
+              "url": "https://butwhytho.net/2026/11/wow-forever-interview/"
+            }
+          ]
+        },
+        {
+          "titel": "Swiftstrike Shot und Swiftfeather Arrow: Nicht mehr Bind-on-Pickup",
+          "unterzeile": "Entwickler warnen vor Einfluss auf die Berufewahl",
+          "text": "Blizzard hat die beiden Engineering-Munitionsitems vom Bind-on-Pickup befreit. Laut Developer-Notes sind sie erst verfügbar, wenn die Raids freigeschaltet sind, die Änderung könne aber die Berufswahl beeinflussen. Wer vor dem 9. Dezember plant, sollte das einkalkulieren.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Quests ab Level 48 geben jetzt Gold",
+          "unterzeile": "Kein XP-zu-Gold-Umtausch wie im Original-WoW auf 60",
+          "text": "Laut den Developer-Notes vom 10. November belohnen die meisten Quests ab Level 48 jetzt zusätzlich Gold. WoW: Forever enthält die XP-zu-Gold-Umwandlung für Level-60-Quests aus dem ursprünglichen WoW ausdrücklich nicht. Nicht betroffen sind Quests mit wertvollen Item-Belohnungen, wiederholbare und triviale Quests.\n\nHotspawn berichtet dasselbe und nennt dabei einen anderen Einstiegslevel. Maßgeblich ist die Blizzard-Angabe: Level 48.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            },
+            {
+              "name": "Hotspawn: WoW Forever Hotfixes November 11",
+              "url": "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-hotfixes-november-11"
+            }
+          ]
+        },
+        {
+          "titel": "Riverglades: Mehr Spawns für Poison Tips und Worgen in the Woods",
+          "unterzeile": "Kleine Quest-Fixes mit großem Effekt",
+          "text": "In Riverglades erscheinen mehr Glade Vipers für „Poison Tips“. Im Duskwood spawnen mehr Nightbane Vile Fang und Nightbane Tainted Ones für „Worgen in the Woods“. Murloc Tideskimmers lassen Saltwater Murloc Eyes für „A Taste of the Sea“ fallen. Außerdem können Spieler „Rescue OOX-22/FE!“ in Feralas wieder starten.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Quest-Fixes vom 11. November",
+          "unterzeile": "Western Plaguelands, Arathi Highlands und Feralas",
+          "text": "In den Western Plaguelands lässt sich das Command Tent bei „Scarlet Diversions“ jetzt nutzen. In den Arathi Highlands ist das Witherbark Mallet repariert, damit es mit „The Giant in the Den“ weitergeht. In Feralas setzt sich die Cage Door bei „Freedom for All Creatures“ jetzt zurück.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Wie viel XP bis 60? Guide nennt 4.084.700",
+          "unterzeile": "Gleiche Summe wie im Classic",
+          "text": "Ein Guide gibt die XP-Gesamtsumme bis zum Level-Cap mit 4.084.700 an, dieselbe wie im Classic. Weiter heißt es dort, Blizzard habe in der Beta den Bonus für Dungeon-Quests um 50 % gesenkt und später die XP aus Dungeon-Kills um etwa 20 % angehoben. Nach dem Hotfix vom 9. November sind es nun +50 % auf Kills. Zonenangaben sind teils Schätzungen aus Fan-Guides.",
+          "quellen": [
+            {
+              "name": "Output Lag: Leveling Guide 1–60",
+              "url": "https://outputlag.com/guides/wow-forever-leveling-guide-1-60"
+            },
+            {
+              "name": "Conquest Capped: Leveling",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-leveling/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Berufe-Änderungen: Grinding Stone, Campfire Kit, Arcane Salvager",
+          "unterzeile": "Kleine Anpassungen, die das Leveln erleichtern",
+          "text": "Aus den Hotfixes vom 10. November: Coarse Grinding Stone gibt Schmieden-Skillups bis 90 (vorher 75). Das Journeyman Campfire Kit lässt sich ab Cooking 90 aufstellen (vorher 140). Der Arcane Salvager braucht einen Runed Golden Rod statt eines Runed Truesilver Rod, sein Disenchant-Bonus wirkt für niedrigstufigere Verzauberer. Die Boots- und Bracer-Verzauberung Lesser Spirit gibt Spirit statt Resist All.\n\nAußerdem sinkt der Verkaufspreis von Minor Arcane Elixir auf 5 Kupfer (vorher 25), und Iron Grenades kosten beim Händler 1 Silber 25 Kupfer (vorher 5 Silber). Fishing Racks verteilen Lures zuverlässiger, andere Probleme wie „There is no loot“ werden noch untersucht.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Auktionshaus: Mindestgebühr soll auf 1 Kupfer sinken",
+          "unterzeile": "Kris Zierhut: „Coming“, aber noch nicht live",
+          "text": "Blizzard hat bestätigt, dass die Mindestgebühr für Auktionen von 1 Silber wieder auf 1 Kupfer sinken soll. Laut Icy Veins sagte Kris Zierhut, das sei „coming“, aber noch nicht live. Hotspawn meldet dagegen, die Änderung greife mit Realm-Neustarts. Wann genau, geben die Quellen nicht übereinstimmend an. Die 1 Kupfer sind nur das Minimum, die Gebühr hängt weiter von Verkaufspreis und Laufzeit ab.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Cheaper AH Deposit",
+              "url": "https://www.icy-veins.com/wow-forever/news/wow-forever-players-are-getting-a-99-cheaper-auction-house-deposit/"
+            },
+            {
+              "name": "Wowhead: Minimum Deposit 1 Copper",
+              "url": "https://www.wowhead.com/forever/news/minimum-deposit-on-ah-being-reduced-to-1-copper-soon-in-wow-forever-383786"
+            },
+            {
+              "name": "Hotspawn: WoW Forever Hotfixes November 11",
+              "url": "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-hotfixes-november-11"
+            }
+          ]
+        },
+        {
+          "titel": "Post kommt in 2 Minuten statt 60?",
+          "unterzeile": "Nur eine Quelle meldet die Änderung",
+          "text": "Hotspawn nennt in seiner Hotfix-Zusammenfassung, Post komme jetzt nach 2 statt 60 Minuten an und ungelesene Post werde nicht mehr als vom Stormwind-Auktionshaus angezeigt. Diese Angaben stehen nicht in Blizzards Notes, die wir lesen konnten. Behandelt sie als unbestätigt.",
+          "quellen": [
+            {
+              "name": "Hotspawn: WoW Forever Hotfixes November 11",
+              "url": "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-hotfixes-november-11"
+            },
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Welche Berufe lohnen sich? Guides empfehlen Herbalism und Mining",
+          "unterzeile": "Enchanting wird für Level 60 hoch eingestuft",
+          "text": "Guide-Seiten sind sich weitgehend einig: Herbalism und Mining gelten als starke frühe Goldberufe, Enchanting als stark auf Level 60, Skinning als gut beim Leveln. Raid-Tier-Teile sollen laut Guide Malleable Essence of Nature brauchen, das man durch Entzaubern von Raid-Loot bekommt. Bei den empfohlenen Berufspaaren gibt es keinen Konsens, alles sind Guide-Meinungen.",
+          "quellen": [
+            {
+              "name": "LFCarry: Gold & Economy",
+              "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+            },
+            {
+              "name": "Overgear: Best Professions",
+              "url": "https://overgear.com/guides/wow-forever/best-professions-tier-list/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Community",
+      "artikel": [
+        {
+          "titel": "Fünf Spieler erreichen gleichzeitig Level 60",
+          "unterzeile": "Team Jokerd auf einem EU-Normal-Realm, rund 52 Stunden nach dem Launch",
+          "text": "Fünf Horde-Charaktere der Streamer-Gruppe um Jokerd erreichten laut Berichten gleichzeitig Level 60, knapp 52 Stunden nach dem Launch, auf einem EU-Normal-Realm. Ein Community-Tracker verzeichnet den ersten 60er um 03:10 UTC am 7. November, die anderen vier innerhalb von zwei Minuten.\n\nDie Zeiten sind inoffiziell, Blizzard hat keine Zeit veröffentlicht, und ein zweites Register zeigt spätere Zeiten. Die letzten 4 % von Level 59 seien der schwierigste Teil gewesen, die Gruppe habe ausgerechnet, welche Monster sie wann töten müssen. Andere Firsts wie Americas oder Alliance gelten im Tracker als unbestätigt.",
+          "quellen": [
+            {
+              "name": "WoW Forever: Five players hit level 60",
+              "url": "https://wowforever.be/news/five-players-hit-level-60-in-a-record-launch/"
+            },
+            {
+              "name": "Forever Guides: World First 60 Tracker",
+              "url": "https://theforeverguides.com/news/world-first-60/"
+            }
+          ]
+        },
+        {
+          "titel": "Jokerd im PULL-10-Podcast über Pläne und Geheimnisse hinter dem World First",
+          "unterzeile": "Wowhead hat die Folge veröffentlicht",
+          "text": "Wowhead verlinkt eine Folge des Podcasts „The PULL 10“, in der Jokerd über Geheimnisse und Pläne hinter dem World-First-60-Lauf spricht. Mehr als Titel und Thema war auf der Seite nicht abrufbar, Details müsst ihr in der Folge selbst hören.",
+          "quellen": [
+            {
+              "name": "Wowhead: Jokerd Talks World First 60",
+              "url": "https://www.wowhead.com/forever/news/jokerd-talks-secrets-and-plans-behind-world-first-60-the-pull-10-podcast-383843"
+            }
+          ]
+        },
+        {
+          "titel": "Größter Launch der WoW-Geschichte laut Blizzard",
+          "unterzeile": "Windows Central bezieht sich auf Blizzards Bestätigung",
+          "text": "Windows Central titelt, Blizzard habe bestätigt, dass World of Warcraft: Forever der größte Launch der WoW-Geschichte sei und selbst Wrath of the Lich King übertreffe. Konkrete Zahlen waren im abrufbaren Teil des Artikels nicht zu lesen. Der Launch war am 4. November 2026 weltweit um 15 Uhr laut Blizzards Ankündigung.",
+          "quellen": [
+            {
+              "name": "Windows Central: Biggest launch in WoW history",
+              "url": "https://www.windowscentral.com/gaming/blizzard/blizzard-confirms-world-of-warcraft-forever-is-the-biggest-launch-in-wow-history-beating-wrath-of-the-lich-king-is-wow-retail-cooked"
+            },
+            {
+              "name": "Blizzard News: Carve a New Path",
+              "url": "https://news.blizzard.com/en-us/article/24302093/carve-a-new-path-with-world-of-warcraft-forever"
+            }
+          ]
+        },
+        {
+          "titel": "Gildenverzeichnisse füllen sich, Level 60 fehlt noch",
+          "unterzeile": "Listings zeigen einige hundert Spieler pro Gilde",
+          "text": "Auf dem Verzeichnis guildsforever.com stehen Gilden mit einigen hundert Spielern. Keine davon hatte zum Zeitpunkt der Suche Spieler auf Level 60, ein Beispiel führt 280 Mitglieder im Spiel und null auf 60. Livestreams zu Forever listet wowforever.be gesammelt auf.",
+          "quellen": [
+            {
+              "name": "Guilds Forever: Recruitment",
+              "url": "https://guildsforever.com/guilds"
+            },
+            {
+              "name": "WoW Forever: Streams",
+              "url": "https://wowforever.be/streams/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Enhancement-Waffen nach dem 10. November: Rage of the Storm jetzt mit Stärke",
+          "unterzeile": "Quest-Waffe von Intellect auf 16 Strength, Tempo 3,6",
+          "text": "Die Quest-Belohnung Rage of the Storm für Schamanen gibt jetzt 16 Strength statt Intellect, die Waffengeschwindigkeit steigt von 3,2 auf 3,6. Da Maelstrom Weapon jetzt von der Waffengeschwindigkeit abhängt, lohnt sich ein Blick aufs Tooltip. Ein Timesaver-Guide hat die besten Zweihänder 1–60 neu zusammengestellt.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            },
+            {
+              "name": "Timesaver: Shaman Weapons After Nov 10",
+              "url": "https://timesaver.gg/blog/wow-forever-enhancement-shaman-leveling-weapons"
+            }
+          ]
+        },
+        {
+          "titel": "Tipp: Campfire Kit schon ab Cooking 90",
+          "unterzeile": "Weniger Skill nötig als zuvor",
+          "text": "Das Journeyman Campfire Kit lässt sich nach den Hotfixes ab Cooking 90 aufstellen, vorher waren es 140. Wer Camp Benefits nutzt, kann es also früher einplanen.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Tailoring-Taschen vor dem Craften neu kalkulieren",
+          "unterzeile": "Je ein Ballen mehr pro Rezept",
+          "text": "Wer Taschen für die Gilde vorbereitet: Die fünf betroffenen Rezepte (Red Mageweave Bag, Green Silk Pack, Black Silk Pack, Green Woolen Bag, Red Woolen Bag) kosten seit dem 11. November je einen Ballen mehr. Plant die Materialmenge entsprechend.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-Planung: Level-Spannen vergleichen",
+          "unterzeile": "Fan-Guides sind nicht offiziell",
+          "text": "Wer Dungeons plant, kann die Level-Spannen der Guide-Seiten als Anhalt nehmen (zum Beispiel Alcaz Prison 48–53). Die Angaben stammen aber nicht von Blizzard, zwischen den Seiten gibt es Abweichungen. Im Spiel ist die Dungeon-Anzeige maßgeblich.",
+          "quellen": [
+            {
+              "name": "AllThings: All 9 New Dungeons",
+              "url": "https://allthings.how/wow-forever-new-dungeons/"
+            },
+            {
+              "name": "Games.gg: Dungeons Guide",
+              "url": "https://games.gg/world-of-warcraft/guides/wow-forever-dungeons-guide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen & Interviews",
+      "artikel": [
+        {
+          "titel": "Entwickler: Enhancement-Nerf kommt bewusst vor dem Raid-Start",
+          "unterzeile": "Begründung in den Developer-Notes",
+          "text": "Blizzard begründet die Enhancement-Änderungen damit, dass hart umkämpfte Ausrüstung nicht später an Wert verlieren soll. Die Beta-Änderungen hatten den Spec in Richtung Spell Power und Intellect verschoben, die neuen Werte stellen den Windfury-Fokus wieder her. Die Anpassungen kommen vor dem Raid am 9. Dezember (laut Guides).",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            },
+            {
+              "name": "Blue Tracker: Hotfixes-Thread (Blizzard-Forum)",
+              "url": "https://www.bluetracker.gg/wow/topic/us-en/24315281-wow-forever-hotfixes-november-11-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "Warum es kein XP-zu-Gold gibt",
+          "unterzeile": "Blizzard zur Quest-Belohnung",
+          "text": "Blizzards Notes halten fest, dass die Level-60-Umwandlung von XP in Gold nicht Teil von WoW: Forever ist. Stattdessen zahlen die meisten Quests ab Level 48 Gold. Nicht betroffen sind Quests mit wertvollen Items, wiederholbare und triviale Quests.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        },
+        {
+          "titel": "„Meaningful friction“: Clay Stone und Holly Longdale im GamesRadar-Interview",
+          "unterzeile": "Beta, Controller-Support und Launch-Plan",
+          "text": "GamesRadar sprach mit Holly Longdale und Clay Stone über Beta-Resonanz, Controller-Support und den Launch. Stone betonte laut Zusammenfassung, wo möglich „meaningful friction“ zu erhalten.",
+          "quellen": [
+            {
+              "name": "GamesRadar: Devs preserving meaningful friction",
+              "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-devs-are-preserving-meaningful-friction-big-preview-interview/"
+            }
+          ]
+        },
+        {
+          "titel": "Engadget: Team musste Designgewohnheiten „verlernen“",
+          "unterzeile": "Interview mit Michael Nuthals",
+          "text": "Engadget berichtet, dass ein großer Teil des Teams Designgewohnheiten ablegen musste, die über die Jahre entstanden sind. Michael Nuthals sprach außerdem mit esports.gg über die Balance zwischen Classic-Gefühl und modernen Erwartungen.",
+          "quellen": [
+            {
+              "name": "Engadget: Reconnect with what made WoW great",
+              "url": "https://www.engadget.com/2305373/world-of-warcraft-forever-blizzard-had-to-reconnect-with-what-made-wow-great-in-the-first-place/"
+            },
+            {
+              "name": "esports.gg: Michael Nuthals Interview",
+              "url": "https://esports.gg/interviews/world-of-warcraft/wow-forever-interview/"
+            }
+          ]
+        },
+        {
+          "titel": "PvP-Fraktionsbeschränkungen: Blizzard hält fest",
+          "unterzeile": "„Frustrating“, aber gewollt",
+          "text": "GamesRadar zitiert Blizzard: Die Fraktionsbeschränkungen im PvP seien „frustrating“, würden aber umgesetzt, weil PvP am besten sei, wenn Allianz und Horde auf Augenhöhe stehen. Zahlen nennt der abrufbare Teil des Artikels nicht.",
+          "quellen": [
+            {
+              "name": "GamesRadar: Faction restrictions",
+              "url": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-knows-world-of-warcraft-forevers-faction-restrictions-in-pvp-are-frustrating-is-doing-them-anyway-because-pvp-is-at-its-best-when-the-alliance-and-horde-are-on-equal-footing/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "9. Dezember: Barrow Deeps, Hyjal Summit und Onyxia",
+          "unterzeile": "Noch knapp vier Wochen",
+          "text": "Laut Guide-Seiten öffnen die ersten drei Raids am 9. Dezember 2026. Eine Seite nennt den 10. Dezember, im Zweifel gilt der offizielle Zeitplan von Blizzard. Bis dahin gelten die Class-Tuning-Änderungen als Vorbereitung.",
+          "quellen": [
+            {
+              "name": "LFCarry: Raids Guide",
+              "url": "https://lfcarry.com/guides/wow-forever-raids"
+            },
+            {
+              "name": "ChaosBoost: Raids Guide",
+              "url": "https://www.chaosboost.com/articles/wow-forever-raids-guide"
+            }
+          ]
+        },
+        {
+          "titel": "Item Restoration: Rückkehr offen",
+          "unterzeile": "Kein Termin",
+          "text": "Der Service bleibt abgeschaltet, bis ein kritischer Bug behoben ist. Einen Termin nennt Blizzard nicht.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        },
+        {
+          "titel": "AH-Mindestgebühr: Start noch unklar",
+          "unterzeile": "Quellen uneinig",
+          "text": "Die Senkung der Mindestgebühr auf 1 Kupfer ist angekündigt. Ob sie schon mit Realm-Neustarts greift (Hotspawn) oder noch ohne Termin aussteht (Icy Veins), ist offen.",
+          "quellen": [
+            {
+              "name": "Hotspawn: WoW Forever Hotfixes November 11",
+              "url": "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-hotfixes-november-11"
+            },
+            {
+              "name": "Icy Veins: Cheaper AH Deposit",
+              "url": "https://www.icy-veins.com/wow-forever/news/wow-forever-players-are-getting-a-99-cheaper-auction-house-deposit/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine im Überblick",
+        "punkte": [
+          "9.12.: Barrow Deeps (10), Hyjal Summit (20), Onyxia (40) laut Guides",
+          "Item Restoration: offline, kein Datum",
+          "AH-Mindestgebühr 1 Kupfer: Start unklar"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard News: WoW Forever Hotfixes (5.–11. November 2026)",
+            "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Maelstrom Weapon neu lesen",
+    "text": "Schamanen sollten das Tooltip von Maelstrom Weapon nach dem Hotfix neu ansehen: Die Proc-Chance hängt jetzt von der Waffengeschwindigkeit ab. Und wer etwas versehentlich verkauft hat: Bis Item Restoration wieder läuft, lieber nichts Wertvolles voreilig verkaufen."
+  }
+}
