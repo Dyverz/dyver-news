@@ -1,0 +1,367 @@
+{
+  "gruss": "Guten Morgen, Mama! Heute ist Freitag, der 13. November. Draußen ist es kühl und oft glatt, drinnen darf es gemütlich sein. Hol dir eine Tasse Tee und nimm dir Zeit. Hier ist deine Zeitung für heute.",
+  "aufmacher": {
+    "rubrik": "Aus aller Welt",
+    "titel": "Freitag, der 13.: Die Welt geht heute nicht unter",
+    "unterzeile": "Eine alte Rechnung aus dem Jahr 1960 nannte genau diesen Tag",
+    "text": "Heute ist Freitag, der 13. November 2026. Und ausgerechnet auf diesen Tag fiel einmal ein berühmter „Weltuntergang“. Im Jahr 1960 schrieb der Forscher Heinz von Foerster mit Kollegen einen Aufsatz in der Fachzeitschrift „Science“. Der Titel lautete: „Doomsday: Friday, 13 November, A.D. 2026“.\n\nKeine Sorge: Es ging dabei nicht um Krieg, Feuer oder eine Katastrophe. Die Forscher hatten nur gerechnet, wie schnell die Menschen auf der Erde mehr werden. Nach ihrer Rechnung hätte es an diesem Tag unendlich viele Menschen gegeben. Das ist natürlich nicht eingetreten. In vielen Ländern kommen heute weniger Kinder zur Welt, und das Wachstum wird langsamer.\n\nIn Wien treffen sich heute trotzdem Fachleute zu einer „Weltuntergangskonferenz“. Sie sprechen darüber, was an solchen Vorhersagen Sinn macht und was Unsinn ist. Du kannst also ganz ruhig frühstücken.",
+    "quellen": [
+      { "name": "Tiroler Tageszeitung", "url": "https://www.tt.com/artikel/30945730/warum-am-13-november-2026-die-welt-doch-nicht-untergeht" },
+      { "name": "netzwelt.de", "url": "https://netzwelt.de/news/260640-weltuntergang-freitag-physiker-ende-welt-13-november-2026-berechnet.html" },
+      { "name": "Sciencing", "url": "https://www.sciencing.com/2138206/how-1960-physicist-predicted-world-end-november-13-2026/" }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Aus Mülheim",
+      "artikel": [
+        {
+          "titel": "Sandstraße und Walkmühlenstraße: Hier wird es eng",
+          "unterzeile": "Zwei Straßen sind wegen Bauarbeiten gesperrt",
+          "text": "In Mülheim wird gerade an mehreren Straßen gebaut. Auf der Sandstraße ist zwischen Wiesenstraße und Friedrich-Ebert-Straße nur noch die Fahrt Richtung Oberhausen erlaubt. Der Grund sind Arbeiten der Bahn an einer Brücke.\n\nDie Walkmühlenstraße ist seit dem 9. November zwischen der B1-Brücke und der Essener Straße ganz gesperrt. Dort wird die Fahrbahn erneuert. Die Arbeiten sollen bis zum 27. November dauern. Plane für diese Wege am besten etwas mehr Zeit ein.",
+          "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" }]
+        },
+        {
+          "titel": "Ein Kreisverkehr statt Ampel in Fulerum",
+          "unterzeile": "Die Kreuzung soll 2027 sicherer werden",
+          "text": "An der Kreuzung Velauer Straße und Gneisenaustraße am Fulerumer Feld soll im Jahr 2027 ein Kreisverkehr entstehen. Heute gibt es dort eine Ampel. Die Stadt will mit dem Umbau die Gefahr von Unfällen senken.",
+          "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" }]
+        },
+        {
+          "titel": "Mülheim bekommt mehr Geld vom Land",
+          "unterzeile": "Ein neues Finanzpaket aus NRW hilft der Stadtkasse",
+          "text": "Das Land Nordrhein-Westfalen hat ein neues Finanzpaket beschlossen. Davon bekommt auch Mülheim im Jahr 2027 deutlich mehr Geld. Wofür die Stadt das Geld einsetzt, ist noch offen.",
+          "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" }]
+        },
+        {
+          "titel": "Mülheimer App hilft blinden Menschen",
+          "unterzeile": "„SenseTap“ gewinnt einen Innovationspreis",
+          "text": "Die Mülheimer Firma NFC21 hat einen Preis für ihre App „SenseTap“ bekommen. Die App soll blinden und sehbehinderten Menschen im Alltag helfen. Eine schöne Nachricht aus unserer Stadt.",
+          "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" }]
+        },
+        {
+          "titel": "Das Rote Kreuz bittet um Blutspenden",
+          "unterzeile": "Vor der Erkältungszeit wird Blut gebraucht",
+          "text": "Das Deutsche Rote Kreuz ruft vor der Erkältungszeit zur Blutspende auf. Gebraucht wird Blut von gesunden Menschen. Wer spenden möchte, kann sich beim DRK nach dem nächsten Termin erkundigen.",
+          "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" }]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Bus 139: Wegen eines Wasserrohrbruchs an der Brüsseler Allee in Saarn fährt der Bus seit dem 5. November eine Umleitung.",
+          "Mülheimer Vereine wurden für Umwelt- und Klimaschutz ausgezeichnet. Platz eins ging an einen Verein, der kaputte Dinge repariert.",
+          "Der Kinderflohmarkt „Piratini“ im Rhein-Ruhr-Zentrum öffnet am Sonntag wegen des Volkstrauertags später."
+        ],
+        "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" }]
+      }
+    },
+    {
+      "titel": "Mülheim erleben",
+      "artikel": [
+        {
+          "titel": "Kerzenlicht-Konzerte in der Stadthalle",
+          "unterzeile": "Heute Abend: Phil Collins und Sezen Aksu",
+          "text": "In der Stadthalle gibt es heute zwei Konzerte bei Kerzenlicht im Kammermusiksaal. Es spielt ein „Tribut an Phil Collins“ und ein Konzert für die türkische Sängerin Sezen Aksu. Am 29. November folgen noch „Das Beste der 80er“ und ein Tribut an Hans Zimmer.",
+          "quellen": [{ "name": "Stadthalle Mülheim", "url": "https://www.stadthalle-muelheim.de/veranstaltung-besuchen/veranstaltungskalender" }]
+        },
+        {
+          "titel": "Schiffsweihnacht: Das ist auf der Bühne los",
+          "unterzeile": "Singen, Tanzen und Musik auf der Schleuseninsel",
+          "text": "Die Schiffsweihnacht startet am 20. November auf der Schleuseninsel. Der Eintritt ist frei. Am Eröffnungsabend singt der Shantychor Kormoran, danach spielt das Knappenquartett und später singt ein Gospelchor. Am 28. November tritt unter anderem die Ballettschule Spohr auf, und es gibt ein Programm für Kinder. Das Programm kann sich noch ändern.",
+          "quellen": [{ "name": "mein-muelheim.de", "url": "https://www.mein-muelheim.de/event/muelheimer-schiffsweihnacht-2026" }]
+        },
+        {
+          "titel": "Lachen im Ringlokschuppen",
+          "unterzeile": "Comedy und Kabarett im November",
+          "text": "Im Ringlokschuppen wird im November noch viel gelacht. Am 15. November tritt Jonas Greiner mit „Auf Augenhöhe“ auf. Am 21. November kommt David Kebekus mit „Sensible Inhalte“. Die Termine stammen von Ticket-Seiten. Bitte prüfe sie vor dem Besuch noch einmal.",
+          "quellen": [{ "name": "Eventim", "url": "https://www.eventim.de/en/city/muelheim-an-der-ruhr-75/venue/ringlokschuppen-muelheim-an-der-ruhr-6803/" }]
+        },
+        {
+          "titel": "Die Ruhrkultur.Card für 2027",
+          "unterzeile": "Ein Jahr lang günstig in Museen und Theater",
+          "text": "Seit dem 10. November gibt es die Ruhrkultur.Card für das Jahr 2027. Mit ihr kommst du das ganze Jahr zu ermäßigtem oder freiem Eintritt in Museen, Theater und Industriedenkmäler im Ruhrgebiet. Vielleicht eine Idee als Geschenk?",
+          "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" }]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "Fr 13.11., Stadthalle: Kerzenlicht-Konzerte „Phil Collins“ und „Sezen Aksu“",
+          "Sa 14.11., Stadthalle: Gänseessen (Caruso Spezial)",
+          "So 15.11., Ringlokschuppen, 20 Uhr: Jonas Greiner, „Auf Augenhöhe“",
+          "Fr 20.11., 15 bis 21 Uhr: Schiffsweihnacht startet, Eintritt frei",
+          "Fr 20.11., Stadthalle: Sinfoniekonzert mit dem Lithuanian State Symphony Orchestra",
+          "Sa 21.11., Stadthalle: Klaus Hoffmann, „Ich bin“",
+          "So 29.11., Stadthalle: Kreativ-Markt mit Bastelideen und Geschenktipps"
+        ],
+        "quellen": [
+          { "name": "Stadthalle Mülheim", "url": "https://www.stadthalle-muelheim.de/veranstaltung-besuchen/veranstaltungskalender" },
+          { "name": "mein-muelheim.de", "url": "https://www.mein-muelheim.de/event/muelheimer-schiffsweihnacht-2026" }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland",
+      "artikel": [
+        {
+          "titel": "Die Rentenreform soll vor Weihnachten kommen",
+          "unterzeile": "Der Entwurf ist laut Minister fast fertig",
+          "text": "Die Regierung will große Teile der Rentenreform noch vor Weihnachten im Kabinett beschließen. Arbeitsminister Alexander Schweitzer sagte Anfang November, der Gesetzentwurf sei zu 95 Prozent fertig. Es fehlt aber noch die Einigung in der Politik.\n\nEine Kommission hat vorgeschlagen, die Rente mit 63 ohne Abschläge abzuschaffen. Außerdem soll das Rentenalter nach 2031 an die Lebenserwartung gekoppelt werden. Das sind nur Vorschläge. Beschlossen ist dazu noch nichts. Für heutige Rentner ändert sich durch diese Pläne nichts.",
+          "quellen": [{ "name": "gegen-hartz.de", "url": "https://www.gegen-hartz.de/news" }, { "name": "buerger-geld.org", "url": "https://www.buerger-geld.org/news/rente/rente-was-kuenftigen-rentnern-im-november-2026-unter-den-naegeln-brennt/" }]
+        },
+        {
+          "titel": "Neue Gasreserve beschlossen",
+          "unterzeile": "Sie soll vor Engpässen schützen",
+          "text": "Das Bundeskabinett hat am 11. November ein Gesetz für eine Gasreserve auf den Weg gebracht. Sie soll helfen, wenn einmal nicht genug Gas da ist. Gegen hohe Preise hilft sie nicht. Laut Bericht sollen Haushalte dafür voraussichtlich vier bis sieben Euro im Jahr zahlen. Der Bundestag muss noch darüber beraten.",
+          "quellen": [{ "name": "netz-trends.de", "url": "https://www.netz-trends.de/gasreserve-was-sie-fuer-haushalte-kostet/" }]
+        },
+        {
+          "titel": "Mercedes will keine neuen Investitionen in Deutschland",
+          "unterzeile": "Auch Werksschließungen werden geprüft",
+          "text": "Laut ZDFheute hat Mercedes alle neuen Investitionen in Deutschland gestoppt. Auch Werksschließungen werden demnach geprüft. Schon im September hatte ein Vorstand gesagt, dass zwei Werke in Gefahr sind, wenn die Kosten nicht sinken. Der Betriebsrat wies das zurück. Betriebsbedingte Kündigungen sind nach einer Vereinbarung bis Ende 2034 ausgeschlossen.",
+          "quellen": [{ "name": "ZDFheute", "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html" }, { "name": "Stuttgarter Zeitung", "url": "https://www.stuttgarter-zeitung.de/wirtschaft/streit-um-arbeitskosten-mercedes-vorstand-ohne-einsparungen-werden-werke-geschlossen-79490169.html" }]
+        },
+        {
+          "titel": "Strom: Der Bund will weiter beim Netzentgelt helfen",
+          "unterzeile": "Rund 5,5 Milliarden Euro im Jahr bis 2029",
+          "text": "Der Bund will die Stromkosten weiter dämpfen. Das Kabinett will dafür bis 2029 jedes Jahr gut 5,5 Milliarden Euro zuschießen. Das senkt die Gebühr für die Stromleitungen. Für einen Haushalt mit 3.500 Kilowattstunden Verbrauch rechnet die Regierung 2026 mit etwa 100 Euro weniger. Bundestag und Bundesrat müssen noch zustimmen.",
+          "quellen": [{ "name": "NWB Experten-Blog", "url": "https://www.nwb-experten-blog.de/entlastung-von-stromkosten-bundeskabinett-will-zuschuss-zu-netzentgelten-bis-2029-fortsetzen/" }, { "name": "Bundesregierung", "url": "https://bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/niedrigere-netzentgelte-2382396" }]
+        },
+        {
+          "titel": "Neue Regeln für kleine Kredite",
+          "unterzeile": "Mehr Schutz für Verbraucher",
+          "text": "Im November tritt ein neues Gesetz für Verbraucherkredite in Kraft. Es soll Kunden besser schützen, auch bei kleinen Krediten. Das gilt auch für „Kaufen jetzt, zahlen später“ im Internet. Wer sich Geld leihen möchte, hat damit mehr Rechte.",
+          "quellen": [{ "name": "Bundesregierung", "url": "https://www.bundesregierung.de/breg-de/aktuelles/schutz-kreditvertraege-2382528" }]
+        }
+      ]
+    },
+    {
+      "titel": "Aus aller Welt",
+      "artikel": [
+        {
+          "titel": "Gute Nachrichten für Tiere",
+          "unterzeile": "Bär Yavor und ein Elefantenbaby haben ein neues Zuhause",
+          "text": "Der 22 Jahre alte Bär Yavor lebte in einem Zoo in Bulgarien. Jetzt zieht er in den Bärenwald Belitsa der Organisation Vier Pfoten. In Thailand hat die Elefantenmutter Tato mit ihrem sieben Monate alten Jungen Ariya im Elephant Nature Park ein neues Zuhause gefunden.",
+          "quellen": [{ "name": "oe24.at", "url": "https://www.oe24.at/a/gute-nachrichten-aus-dem-tierschutz-900131582" }, { "name": "oe24.at (Elefanten)", "url": "https://www.oe24.at/a/gute-nachrichten-aus-dem-tierschutz-900131822" }]
+        },
+        {
+          "titel": "Mehr Wald für Gorillas, mehr Tiger in Thailand",
+          "unterzeile": "Naturschützer melden Erfolge",
+          "text": "Im Kongo steht jetzt ein weiteres Waldstück von 445 Quadratkilometern unter Schutz. Dort leben Gorillas. In Thailand gibt es laut WWF seit 2024 etwa 16 Prozent mehr Tiger. In Botswana sollen umgesiedelte Spitzmaulnashörner den kleinen Bestand fast verdoppeln.",
+          "quellen": [{ "name": "oe24.at", "url": "https://www.oe24.at/a/gute-nachrichten-aus-dem-tierschutz-900131822" }, { "name": "WWF Österreich", "url": "https://www.wwf.at/goodnews/" }]
+        },
+        {
+          "titel": "Wochenende: Kalt, aber meist trocken",
+          "unterzeile": "Heute Abend kann es glatt werden",
+          "text": "Der Deutsche Wetterdienst warnt in NRW vor Glätte durch Reif und überfrierende Nässe. Spätestens am Freitagabend kann es rutschig werden. Am Wochenende bleibt es nach den bisherigen Vorhersagen weitgehend trocken. Am Morgen kann es aber Frost geben. Im Süden kann am Freitag Schnee fallen, vor allem in höheren Lagen. Die Vorhersagen ändern sich, schau also noch einmal in die Wetterwarnungen.",
+          "quellen": [{ "name": "Ruhr Nachrichten", "url": "https://www.ruhrnachrichten.de/regionales/nrw-wetterwechsel-regenfront-schnee-frost-dwd-rutschige-strassen-wettermodell-ecmwf-11-november-w1270987-2002288647" }, { "name": "Schwarzwälder Bote", "url": "https://www.schwarzwaelder-bote.de/panorama/dwd-rechnet-mit-schnee-karte-zeigt-wo-es-diese-woche-schneien-kann-79684129.html" }]
+        },
+        {
+          "titel": "Papst Leo in Peru",
+          "unterzeile": "Er wünscht sich mehr Rechte für Frauen",
+          "text": "Papst Leo XIV. ist in Peru. Dort rief er dazu auf, die „Macho-Haltung“ in Südamerika zu beenden. Er wünscht sich, dass Frauen mehr mitbestimmen können.",
+          "quellen": [{ "name": "ZDFheute Newsticker", "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html" }]
+        },
+        {
+          "titel": "Großbritannien will näher an die EU",
+          "unterzeile": "Gipfel in Brüssel am 20. November",
+          "text": "Der britische Premierminister Andy Burnham hofft auf ein Abkommen, das sein Land der EU wieder näher bringt. Dazu gibt es am 20. November ein Treffen in Brüssel. Burnham ist seit Juli im Amt.",
+          "quellen": [{ "name": "ZDFheute Newsticker", "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html" }, { "name": "Promiflash", "url": "https://www.promiflash.de/news/2026/11/12/gedenkfeier-charles-vereint-royals-zu-bewegendem-anlass.html" }]
+        }
+      ]
+    },
+    {
+      "titel": "Sport: Fußball-Bundesliga",
+      "artikel": [
+        {
+          "titel": "Heute Abend: Deutschland spielt in Belgrad",
+          "unterzeile": "Anstoß gegen Serbien ist um 20:45 Uhr",
+          "text": "Die Bundesliga macht Pause, denn es ist Länderspielzeit. Heute Abend spielt die deutsche Nationalmannschaft in der Nations League in Belgrad gegen Serbien. Anstoß ist um 20:45 Uhr, das Spiel läuft bei RTL. Im ersten Spiel gegen Serbien hat Deutschland mit 2:0 gewonnen. Nach einem Bericht der UEFA geht es für das Team um den Einzug in die nächste Runde.",
+          "quellen": [{ "name": "UEFA", "url": "https://de.uefa.com/uefanationsleague/news/02ab-2207ad77827a-e3d63ac0a911-1000--uefa-nations-league-vorschau-auf-den-5-spieltag-dfb-team-in-/" }, { "name": "fussballnationalmannschaft.net", "url": "https://www.fussballnationalmannschaft.net/fussball-heute-am-13-11-2026-123331142.html" }]
+        },
+        {
+          "titel": "Bayern und Dortmund liegen vorn",
+          "unterzeile": "Nach neun Spieltagen sind beide gleichauf bei 21 Punkten",
+          "text": "Vor der Pause führt Bayern München die Tabelle an. Dortmund liegt knapp dahinter. Bayern hat den besten Angriff der Liga. Zuletzt gewann der Rekordmeister mit 2:1 in Mainz. Die Angaben stammen aus Berichten zum 9. Spieltag.",
+          "quellen": [{ "name": "diebewertung.de", "url": "https://www.diebewertung.de/bundesliga-aktuell-bayern-und-dortmund-liefern-sich-spitzenduell-leipzig-begeistert-gladbach-bleibt-schlusslicht/" }, { "name": "sportal.de", "url": "https://sportal.de/fussball/bundesliga/spielplan/spielplan-spieltag-11-saison-2026-2027" }]
+        },
+        {
+          "titel": "So geht es nach der Pause weiter",
+          "unterzeile": "Am Freitag, 20. November, spielt Bayern gegen Köln",
+          "text": "Der nächste Spieltag beginnt am Freitag, dem 20. November. Bayern München spielt zu Hause gegen den 1. FC Köln. Am Samstag, dem 21. November, reist Dortmund zu Borussia Mönchengladbach.",
+          "quellen": [{ "name": "Sportschau", "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/spiele-und-ergebnisse" }, { "name": "fussballdaten.de", "url": "https://www.fussballdaten.de/bundesliga/spielplan/" }]
+        },
+        {
+          "titel": "Die Frauen spielen weiter",
+          "unterzeile": "Heute Abend: Hamburg gegen Mainz",
+          "text": "Auch wenn die Männer pausieren, spielen die Frauen in der Bundesliga. Der 10. Spieltag läuft von Freitag bis Montag. Heute um 18:30 Uhr spielt der Hamburger SV gegen den FSV Mainz 05. Das Spiel kann man bei DAZN und MagentaSport sehen.",
+          "quellen": [{ "name": "Ruhr Nachrichten", "url": "https://www.ruhrnachrichten.de/service/frauen-bundesliga-zehnter-spieltag-saison-2026-2027-vereine-uebertragung-tv-w1271789-2002294185/" }]
+        }
+      ],
+      "kasten": {
+        "titel": "Tabellenspitze und Termine",
+        "punkte": [
+          "Nach 9 Spieltagen: Bayern München und Borussia Dortmund je 21 Punkte, Bayern vorn",
+          "Heute, 20:45 Uhr: Serbien – Deutschland (Nations League, RTL)",
+          "Fr 20.11., 20:30 Uhr: Bayern München – 1. FC Köln",
+          "Sa 21.11., 15:30 Uhr: Mönchengladbach – Dortmund"
+        ],
+        "quellen": [
+          { "name": "diebewertung.de", "url": "https://www.diebewertung.de/bundesliga-aktuell-bayern-und-dortmund-liefern-sich-spitzenduell-leipzig-begeistert-gladbach-bleibt-schlusslicht/" },
+          { "name": "Sportschau", "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/spiele-und-ergebnisse" }
+        ]
+      }
+    },
+    {
+      "titel": "Sport: Vereine und mehr",
+      "artikel": [
+        {
+          "titel": "Eishockey: Deutschland wird Zweiter beim Deutschland Cup",
+          "unterzeile": "Lettland gewinnt das Turnier in Düsseldorf",
+          "text": "Beim Deutschland Cup in Düsseldorf hat Lettland gewonnen. Es war der zweite Turniersieg für die Letten. Das deutsche Team wurde Zweiter. Zum Schluss gewann es am 8. November mit 4:3 gegen die Slowakei, obwohl es 0:3 hinten lag. Zwei Spieler trafen zum ersten Mal in einem Länderspiel.",
+          "quellen": [{ "name": "Sport1", "url": "https://www.sport1.de/news/eishockey/deutschlandcup/2026/11/deutschland-cup-lettland-sichert-sich-turniersieg" }, { "name": "Deutscher Eishockey-Bund", "url": "https://www.deb-online.de/2026/11/08/gersvk/" }]
+        },
+        {
+          "titel": "Frauen-Eishockey: Sieg gegen Tschechien",
+          "unterzeile": "Bei der WM in Dänemark gab es auch eine hohe Niederlage",
+          "text": "Die deutschen Eishockey-Frauen haben bei der WM in Dänemark gegen Tschechien gewonnen. Gegen die USA gab es dagegen eine deutliche Niederlage mit 1:11. Das war aber auch ein sehr starker Gegner.",
+          "quellen": [{ "name": "frauen-eishockey.com", "url": "https://www.frauen-eishockey.com/nachwuchs-teams-schliessen-laenderspiel-massnahmen-im-november-ab/" }]
+        },
+        {
+          "titel": "Rot-Weiss Essen: Nächstes Spiel in Verl",
+          "unterzeile": "Der Verein steht in der 3. Liga weit oben",
+          "text": "Rot-Weiss Essen steht in der 3. Liga nach dem 13. Spieltag auf Platz drei. Am 21. November um 14 Uhr spielt der Verein auswärts beim SC Verl. Am 12. Dezember kommt der MSV Duisburg nach Essen.",
+          "quellen": [{ "name": "news.de", "url": "https://www.news.de/sport/860169277/rot-weiss-essen-ergebnis-aktuell-1-0-gegen-alemannia-aachen-tabelle-und-statistik/1/" }, { "name": "Sportschau", "url": "https://www.sportschau.de/live-und-ergebnisse/verein/te1583/rot-weiss-essen/spielplan-team" }]
+        },
+        {
+          "titel": "Tennis: Davis Cup in Bologna",
+          "unterzeile": "Zverev und Struff spielen für Deutschland",
+          "text": "Die Endrunde im Davis Cup findet vom 24. bis 29. November in Bologna statt. Für Deutschland treten Alexander Zverev und Jan-Lennard Struff an. Im Viertelfinale wartet am 26. November Großbritannien. Das Endspiel ist am 29. November.",
+          "quellen": [{ "name": "Deutscher Tennis Bund", "url": "https://www.tennis.de/dtb/verband/presse/2026/davis-cup-final-8--mit-zverev-und-struff-nach-bologna.html" }, { "name": "ran.de", "url": "https://ran.joyn.de/sports/tennis/davis-cup/davis-cup-finale2026-live-mit-alexander-zverev-und-deutschland-wann-und-wo-steigt-die-finalrunde-189445" }]
+        }
+      ]
+    },
+    {
+      "titel": "Klatsch & Tratsch",
+      "artikel": [
+        {
+          "titel": "Janosch ist tot",
+          "unterzeile": "Der Vater der Tigerente wurde 95 Jahre alt",
+          "text": "Der Kinderbuchautor Janosch ist gestorben. Er wurde 95 Jahre alt und starb am 3. November auf Teneriffa. Sein Verleger gab die Nachricht einen Tag später bekannt. Janosch erfand den kleinen Tiger, den kleinen Bären und die Tigerente. Sein Buch „Oh, wie schön ist Panama“ kennen viele Kinder und Eltern. Mit bürgerlichem Namen hieß er Horst Eckert.",
+          "quellen": [{ "name": "evangelisch.de", "url": "https://www.evangelisch.de/inhalte/260652/04-11-2026/kinderbuchautor-janosch-mit-95-jahren-gestorben" }, { "name": "Stuttgarter Zeitung", "url": "https://www.stuttgarter-zeitung.de/panorama/literatur-schriftsteller-und-kuenstler-janosch-ist-tot-79662755.html" }]
+        },
+        {
+          "titel": "Ella Endlich bringt eine neue Single",
+          "unterzeile": "„Hin und her“ erscheint am Freitag",
+          "text": "Die Sängerin Ella Endlich hat eine neue Single angekündigt. Das Lied heißt „Hin und her“. Es soll am Freitag erscheinen.",
+          "quellen": [{ "name": "Schlagerprofis", "url": "https://schlagerprofis.de/" }]
+        },
+        {
+          "titel": "Matthias Reim schreibt ein neues Buch",
+          "unterzeile": "Die Lebensgeschichte soll 2027 erscheinen",
+          "text": "Schlagersänger Matthias Reim bringt eine neue Autobiografie heraus. Sie soll im Jahr 2027 erscheinen. Stefan Mross ist laut Bericht bei der ZDF-Weihnachtsshow von Giovanni Zarrella zu Gast.",
+          "quellen": [{ "name": "Schlagerprofis", "url": "https://schlagerprofis.de/" }]
+        },
+        {
+          "titel": "Lilly Becker spricht über schwere Zeiten",
+          "unterzeile": "Es geht um die Zeit nach der Trennung von Boris Becker",
+          "text": "Lilly Becker hat über ihre schwere Zeit nach der Trennung von Boris Becker gesprochen. Wir kennen den genauen Wortlaut nicht. Mehr steht bei Klatsch-Tratsch.",
+          "quellen": [{ "name": "klatsch-tratsch.de", "url": "https://www.klatsch-tratsch.de/" }]
+        },
+        {
+          "titel": "Schlager-Abende im Fernsehen",
+          "unterzeile": "Zarrella und das Adventsfest kommen bald",
+          "text": "Im November gibt es wieder große Schlager-Shows. Die Giovanni Zarrella Show läuft am 21. November im ZDF. Das „Adventsfest der 100.000 Lichter“ mit Florian Silbereisen folgt am 28. November im Ersten.",
+          "quellen": [{ "name": "Schlagerpuls", "url": "https://www.schlagerpuls.com/news/schlager-shows-im-november-2026-im-ueberblick-adventsfest-giovanni-zarrella-show-weitere-tv-highlights/" }]
+        }
+      ]
+    },
+    {
+      "titel": "Klatsch & Tratsch: TV, Shows und Stars der Welt",
+      "artikel": [
+        {
+          "titel": "Die Königsfamilie erinnert an die Soldaten",
+          "unterzeile": "Charles führt die Royals beim „Festival of Remembrance“ an",
+          "text": "König Charles III. hat die Königsfamilie beim jährlichen Festival of Remembrance angeführt. Die Feier erinnert an Soldaten und ihre Familien. Dabei waren Königin Camilla, Prinz William, Prinzessin Kate und Prinzessin Anne. Briefe zwischen Soldaten und ihren Familien wurden vorgelesen. Premierminister Andy Burnham war zum ersten Mal als Regierungschef dabei. Charles war kurz zuvor von einer Reise in die Karibik zurückgekommen.",
+          "quellen": [{ "name": "Promiflash", "url": "https://www.promiflash.de/news/2026/11/12/gedenkfeier-charles-vereint-royals-zu-bewegendem-anlass.html" }]
+        },
+        {
+          "titel": "Kate besucht junge Familien in Bordon",
+          "unterzeile": "Es ging um die ersten Lebensjahre von Kindern",
+          "text": "Prinzessin Kate war an einem Krankenhaus in Bordon. Dort besuchte sie ein Angebot für die frühe Kindheit. Sie sprach mit jungen Familien, die dort Rat bekommen.",
+          "quellen": [{ "name": "news.de", "url": "https://www.news.de/promis/860182072/prinzessin-kate-im-baby-fieber-bei-krankenhaus-besuch-in-bordon-prinzessin-von-wales-ganz-vernarrt-in-kleinkinder-bei-klinik-termin/1/" }, { "name": "Royal News Recap", "url": "https://www.unofficialroyalty.com/royal-news-recap-for-wednesday-november-11-2026/" }]
+        },
+        {
+          "titel": "Gerücht: Weihnachten ohne Sandringham?",
+          "unterzeile": "Das ist nicht bestätigt",
+          "text": "Eine britische Zeitung schreibt, William und Kate würden Weihnachten vielleicht bei Kates Familie feiern. Das Fest in Sandringham würde dann ausfallen. Das ist ein Gerücht. Bestätigt ist es nicht.",
+          "quellen": [{ "name": "news.de", "url": "https://www.news.de/promis/860161648/rinzessin-kate-und-prinz-william-planen-familien-flucht-kate-und-william-drohen-koenig-charles-mit-weihnachts-absage/1/" }]
+        },
+        {
+          "titel": "Taylor Swift bekommt einen Preis",
+          "unterzeile": "Greta Gerwig überreicht die Auszeichnung",
+          "text": "Sängerin Taylor Swift bekommt den „Sherry Lansing Leadership Award“. Die Schauspielerin und Regisseurin Greta Gerwig überreicht ihn bei einer Gala für Frauen in der Unterhaltungsbranche. Das meldet das Magazin Billboard.",
+          "quellen": [{ "name": "Billboard", "url": "https://billboard.com/culture/events/taylor-swift-2026-sherry-lansing-leadership-award-greta-gerwig-1236379462" }]
+        }
+      ],
+      "kasten": {
+        "titel": "TV-Tipps für heute Abend",
+        "punkte": [
+          "20:15 Uhr, RTL II: „Catch Me If You Can“ (Film von Steven Spielberg)",
+          "22:40 Uhr, Arte: „Talking Heads – Stop Making Sense“ (Konzertfilm)",
+          "22:50 Uhr, BR: „Little Big Man“ (Western von 1970)",
+          "20:45 Uhr, RTL: Fußball, Serbien – Deutschland"
+        ],
+        "quellen": [
+          { "name": "kino-zeit.de", "url": "https://www.kino-zeit.de/news-features/empfehlungen-tv-tipps/die-tv-tipps-fuer-freitag-den-13-11-2026" },
+          { "name": "fussballnationalmannschaft.net", "url": "https://www.fussballnationalmannschaft.net/fussball-heute-am-13-11-2026-123331142.html" }
+        ]
+      }
+    },
+    {
+      "titel": "Zum Schluss",
+      "artikel": [
+        {
+          "titel": "Erkältungen: Viele sind krank, aber es ist normal",
+          "unterzeile": "Rund 5,2 Millionen neue Fälle in einer Woche",
+          "text": "In der Woche vom 19. bis 25. Oktober hatten rund 5,2 Millionen Menschen in Deutschland einen neuen Infekt der Atemwege. Das ist für die Jahreszeit typisch, sagt das Robert Koch-Institut. Am häufigsten sind einfache Erkältungsviren. Grippe und Corona spielen bisher nur eine kleine Rolle. Die großen Wellen kamen in den letzten Jahren meist erst im Dezember oder Januar.",
+          "quellen": [{ "name": "Apotheken Umschau", "url": "https://www.apotheken-umschau.de/krankheiten-symptome/infektionskrankheiten/erkaeltung/erkaeltungssaison-2026-2027-diese-viren-sind-besonders-verbreitet-1422553.html" }]
+        },
+        {
+          "titel": "Impfwoche: Grippe-Impfung in der Apotheke",
+          "unterzeile": "Die Aktionswoche läuft noch bis Sonntag",
+          "text": "Gestern war die „Lange Nacht des Impfens“. Die Aktionswoche läuft noch bis zum 15. November. Viele Apotheken, Arztpraxen und Gesundheitsämter impfen mit. Bring deinen Impfpass und die Gesundheitskarte mit. Die Krankenkassen zahlen die Grippe-Impfung. Frag am besten vorher nach, ob du einen Termin brauchst.",
+          "quellen": [{ "name": "Apotheken Umschau", "url": "https://www.apotheken-umschau.de/krankheiten-symptome/infektionskrankheiten/lange-nacht-des-impfens-grippeimpfung-1598205.html" }]
+        },
+        {
+          "titel": "Schlaf schützt vor Erkältung",
+          "unterzeile": "Wer wenig schläft, wird eher krank",
+          "text": "In einer Studie bekamen Menschen, die weniger als sechs Stunden schliefen, eher eine Erkältung. Das Risiko war etwa viermal so hoch wie bei Menschen mit mehr als sieben Stunden Schlaf. Vitamin C verhindert Erkältungen laut einer großen Übersicht nicht. Es kann die Krankheit aber um etwa zehn Prozent verkürzen. Die Angaben stammen aus einem Bericht, der ältere Studien zusammenfasst.",
+          "quellen": [{ "name": "optimum-performance.de", "url": "https://optimum-performance.de/blogs/wissen/erkaeltung-vorbeugen" }]
+        },
+        {
+          "titel": "Tipp: Richtig heizen und lüften",
+          "unterzeile": "So sparst du Geld und Schimmel hat keine Chance",
+          "text": "Die Verbraucherzentrale rät: Lüfte mehrmals am Tag kurz mit weit offenem Fenster, statt es dauernd zu kippen. Fünf bis zehn Minuten reichen. Im Wohnzimmer sind etwa 20 Grad gut, im Schlafzimmer etwa 17 Grad. Lass die Heizkörper frei, damit die Wärme in den Raum kommt.",
+          "quellen": [{ "name": "Verbraucherzentrale", "url": "https://www.verbraucherzentrale.de/wissen/energie/heizen-und-warmwasser/heizung-10-einfache-tipps-zum-heizkosten-sparen-13892" }, { "name": "Finanztip", "url": "https://www.finanztip.de/heizkosten-sparen/" }]
+        },
+        {
+          "titel": "Mülheim: Geschenke für Ältere",
+          "unterzeile": "Wer mitmachen will, kann Geschenkboxen packen",
+          "text": "Die Aktion „GeMHeinsam statt EinsaMH“ sammelt Geschenkboxen für ältere Menschen zu Weihnachten. Es ist eine schöne Idee, einem Menschen eine Freude zu machen. Mehr zur Aktion steht bei Radio Mülheim.",
+          "quellen": [{ "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" }]
+        }
+      ],
+      "kasten": {
+        "titel": "Heizen und Lüften in Zahlen",
+        "punkte": ["Wohnzimmer: etwa 20 Grad", "Schlafzimmer: etwa 17 Grad", "Flur: etwa 15 Grad", "Lüften: mehrmals täglich 5 bis 10 Minuten, Fenster ganz auf"],
+        "quellen": [{ "name": "Verbraucherzentrale", "url": "https://www.verbraucherzentrale.de/wissen/energie/heizen-und-warmwasser/heizung-10-einfache-tipps-zum-heizkosten-sparen-13892" }]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Der Wollschal",
+    "text": "Es war ein grauer Freitagnachmittag im November. Oma Hanni saß am Fenster und strickte an einem langen blauen Schal. Der Wind pfiff um das Haus, und die letzten Blätter tanzten über die Straße. Drinnen duftete es nach Tee und nach Äpfeln.\n\nDa klingelte es. Draußen stand der kleine Nachbarsjunge Ben. Seine Nase war ganz rot. „Mir ist so kalt“, sagte er und lachte trotzdem. Hanni sah ihn an und lächelte. „Komm herein, du Frosch. Wir machen dir etwas Warmes.“\n\nSie gab ihm einen Becher Kakao und legte ihm die Decke um die Schultern. Ben schaute auf den Schal. „Für wen ist der?“, fragte er. „Das weiß ich noch nicht“, sagte Hanni. „Ich stricke gern. Und irgendwann findet sich immer jemand, der ihn braucht.“\n\nBen überlegte einen Moment. Dann sagte er ganz leise: „Ich glaube, er passt gut zu mir.“ Hanni lachte laut. Sie legte ihm den halbfertigen Schal um den Hals. Er reichte zwei Mal herum. „Noch ein paar Reihen“, sagte sie, „dann ist er ganz deiner.“\n\nAls Ben nach Hause ging, schneite es ein ganz kleines bisschen. Hanni sah ihm nach und nahm die Stricknadeln wieder in die Hand. Draußen war es kalt. Aber in der Stube war es warm, und das Herz auch."
+  }
+}
