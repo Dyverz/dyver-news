@@ -1,0 +1,606 @@
+{
+  "gruss": "Guten Morgen, Abenteurer! Der Freitag bringt Shaman-Tuning, Wartungstermine und ein Auktionshaus im Wartestand.",
+  "aufmacher": {
+    "titel": "Shaman-Tuning live, Auktionshaus-Änderungen vertagt",
+    "unterzeile": "Blizzard liefert Enhancement-Anpassungen früher aus; die AH-Änderungen kommen erst mit der Wartung am 17. November",
+    "text": "Die Enhancement-Shaman-Änderungen aus den Hotfix-Notes vom 10. November sind live. Laut Blizzard-Forum gingen sie am 12. November um 10:45 Uhr PST (18:45 UTC) in allen Regionen online, weil sich die Auslieferung verzögert hatte. Entwickler Kaivax schrieb dazu, die Änderungen hätten nicht im ursprünglichen Zeitplan gestanden.\n\nZum Paket gehören Imbues und Totems gleichzeitig nutzbar, die Stormstrike-Änderungen, die Mental-Dexterity-Skalierung und die Anpassungen an Maelstrom Weapon. Nach der Repost-Fassung der Notes fehlen der Eintrag zum Maelstrom-Cooldown-Manager und die Entwickler-Kommentare. Laut Icy Veins sind die Shaman-Änderungen der Kern der Hotfixes vom 12. November.",
+    "quellen": [
+      {
+        "name": "Blizzard-Forum: Hotfixes 11. November",
+        "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+      },
+      {
+        "name": "Icy Veins: Shaman Class Tuning Went Live",
+        "url": "https://icy-veins.com/wow-forever/news/shaman-class-tuning-went-live-wow-forever-hotfixes-november-12th"
+      }
+    ],
+    "rubrik": "Hotfixes"
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Shaman-Tuning ist live: Enhancement-Änderungen kamen früher als geplant",
+          "unterzeile": "Wegen einer verzögerten Auslieferung gingen die Anpassungen am 12. November in allen Regionen online",
+          "text": "Die Enhancement-Shaman-Änderungen aus den Hotfix-Notes vom 10. November sind live. Laut Blizzard-Forum gingen sie am 12. November um 10:45 Uhr PST (18:45 UTC) in allen Regionen online, weil sich die Auslieferung verzögert hatte. Entwickler Kaivax schrieb dazu, die Änderungen hätten nicht im ursprünglichen Zeitplan gestanden.\n\nZum Paket gehören Imbues und Totems gleichzeitig nutzbar, die Stormstrike-Änderungen, die Mental-Dexterity-Skalierung und die Anpassungen an Maelstrom Weapon. Nach der Repost-Fassung der Notes fehlen der Eintrag zum Maelstrom-Cooldown-Manager und die Entwickler-Kommentare. Laut Icy Veins sind die Shaman-Änderungen der Kern der Hotfixes vom 12. November.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 11. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+            },
+            {
+              "name": "Icy Veins: Shaman Class Tuning Went Live",
+              "url": "https://icy-veins.com/wow-forever/news/shaman-class-tuning-went-live-wow-forever-hotfixes-november-12th"
+            }
+          ]
+        },
+        {
+          "titel": "Auktionshaus-Änderungen vorerst zurückgezogen",
+          "unterzeile": "Kommen mit der Wartung am 17. November – EU-Quelle nennt den 18.",
+          "text": "Kaivax hat im Blizzard-Forum bestätigt, dass die Auktionshaus-Änderungen aus dem Update vom 11. November vorübergehend entfernt wurden. Sie sollen mit der regulären wöchentlichen Wartung am 17. November live gehen; die Hotfix-Notes werden dann nachgetragen. Die EU-Kopie im Blue Tracker nennt dagegen den 18. November – die Quellen widersprechen sich also beim Datum.\n\nWelche Einträge genau betroffen sind, steht auf der Forenseite nicht. Fan-Berichte nennen als Teil des Pakets eine auf 1 Kupfer gesenkte Mindestgebühr beim Einstellen; das ist nicht von Blizzard bestätigt.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 11. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+            },
+            {
+              "name": "Blue Tracker (EU): Hotfixes 11. November",
+              "url": "https://www.bluetracker.gg/wow/topic/eu-en/639885-wow-forever-hotfixes-november-11-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "Hotfixes vom 10. November: Pet-Gesundheit und Wrack",
+          "unterzeile": "Hunter-Pets von 150 auf 115 Prozent, Dämonen etwa 15 Prozent mehr Leben",
+          "text": "Blizzard hat die Gesundheit von Hunter-Pets von versehentlich 150 auf 115 Prozent des normalen Werts korrigiert. Die Warlock-Dämonen (Imp, Voidwalker, Incubus, Succubus) bekommen laut Notes rund 15 Prozent mehr Basis-Gesundheit. Affliction-Wrack wurde umgebaut: 30 Prozent weniger Schaden, dafür beschleunigt es periodische Effekte, solange es kanalisiert wird. Arcane Shot und Summon Hawk kosten nun 11 Prozent des Basis-Manas, Hawk-Nahkampfschaden steigt um etwa 80 Prozent.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 11. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+            },
+            {
+              "name": "MMOHuts: Hotfixes für Enhancement, Hunter-Pets, Dämonen",
+              "url": "https://mmohuts.com/news/wow-forever-hotfixes-hit-enhancement-shaman-hunter-pets-and-warlock-demons"
+            }
+          ]
+        },
+        {
+          "titel": "Items vom 10. November: Rassen-Reittiere werden Bind-on-Pickup",
+          "unterzeile": "Außerdem: Sparklance Wand macht Arcane-Schaden, günstigere Vendor-Rüstung",
+          "text": "Laut Hotfix-Notes sind die Rassen-Reittiere der Händler jetzt Bind-on-Pickup. Die Sparklance Wand verursacht Arcane-Schaden, Rage of the Storm bekam Stat- und Geschwindigkeitsänderungen, und einige gecraftete Rüstungen haben niedrigere Vendor-Preise. Am 11. November folgten kleinere Fixes: Bloody Claws of Attack gibt Fist-Skill, bei Earthen Silk Slippers wurde der Zauberschaden korrigiert.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 11. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Hotfix-Stand 12. November",
+        "punkte": [
+          "Build-Nummer: in den ausgewerteten Quellen nicht genannt",
+          "Live seit 12.11., 18:45 UTC: Enhancement-Shaman-Paket",
+          "Zurückgezogen: Auktionshaus-Änderungen, neuer Termin 17. (EU-Quelle: 18.) November",
+          "Item Restoration seit 11.11. wegen kritischem Bug deaktiviert",
+          "Pet-Gesundheit Hunter: 115 % statt 150 %"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard-Forum: Hotfixes 11. November",
+            "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+          },
+          {
+            "name": "Blue Tracker (EU): Hotfixes 11. November",
+            "url": "https://www.bluetracker.gg/wow/topic/eu-en/639885-wow-forever-hotfixes-november-11-2026/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Enhancement nach dem Update: Stärke statt Intellekt, Windfury stackt",
+          "unterzeile": "Stormstrike 100 % Waffenschaden, Cooldown 8 Sekunden",
+          "text": "Mit dem Live-Gang vom 12. November sinkt Stormstrike laut Berichten von 150 auf 100 Prozent Waffenschaden, der Cooldown steigt von 6 auf 8 Sekunden. Windfury Weapon und Windfury Totem können jetzt beide auf deine Angriffe auslösen. Als Hauptwerte gelten für Enhancement nun Stärke und Attack Power statt Intellekt und Spell Power. Die Zahlen stammen aus Drittquellen und der Notes-Zusammenfassung; prüfe sie im Spiel.",
+          "quellen": [
+            {
+              "name": "Output Lag: Stormstrike-Nerf, Windfury stackt",
+              "url": "https://outputlag.com/news/wow-forever-nerfs-enhancement-shamans-stormstrike-but-windfury-weapon-and-windfury-totem-now-stack/"
+            },
+            {
+              "name": "Icy Veins: Shaman Class Tuning Went Live",
+              "url": "https://icy-veins.com/wow-forever/news/shaman-class-tuning-went-live-wow-forever-hotfixes-november-12th"
+            }
+          ]
+        },
+        {
+          "titel": "Blizzard: Bis zum Raid-Start keine großen Balance-Änderungen mehr",
+          "unterzeile": "Größere Runde erst, wenn genug Spieler über Level 30 sind",
+          "text": "Laut GameSpot will Blizzard vor dem Raid-Start am 9. Dezember keine großen Tuning-Änderungen mehr vornehmen – außer bei Bugs oder gravierenden Ausreißern. Eine größere Anpassungsrunde ist geplant, wenn genug Spieler über Level 30 hinaus gelevelt haben und mehr Content spielen. Im Forum hat Blizzard das finale Class Tuning vorab ausführlich beschrieben.",
+          "quellen": [
+            {
+              "name": "GameSpot: Keine weiteren Balance-Änderungen in Sicht",
+              "url": "https://www.gamespot.com/articles/wow-forever-wont-get-more-class-balance-changes-any-time-soon/"
+            },
+            {
+              "name": "Yahoo Tech (GameSpot-Meldung)",
+              "url": "https://tech.yahoo.com/gaming/articles/wow-forever-won-t-more-193130497.html"
+            },
+            {
+              "name": "Blizzard-Forum: Major Class Final Tuning",
+              "url": "https://us.forums.blizzard.com/en/wow/t/major-class-final-tuning/2399448"
+            }
+          ]
+        },
+        {
+          "titel": "Wands skalieren mit Spell Power – Beta-Beobachtung",
+          "unterzeile": "Community-Fund aus der Beta, aktueller Stand ungeprüft",
+          "text": "Ein Mage meldete am 21. September im Blizzard-Forum, dass Wands mit Spell Power skalieren und damit manaffrei Schaden wie direkte Zauber machen. YouTuber Scriblet zeigte einen Level-20-Caster mit Wand-Crits von 152. Mages haben zwei Arcane-Talentpunkte für Wand-Schaden. Das ist eine Spieler-Beobachtung aus der Beta-Zeit; ob sie im Live-Spiel noch gilt, bestätigt die Quelle nicht.",
+          "quellen": [
+            {
+              "name": "Kami-Labs: WoW Forever Recap",
+              "url": "https://kami-labs.fr/en/wow-forever/wow-forever-recap-semaine/"
+            }
+          ]
+        },
+        {
+          "titel": "Druiden-Thorns: Spell-Power-Skalierung und möglicher Exploit",
+          "unterzeile": "Spekulation der Community, offiziell nicht bestätigt",
+          "text": "Laut Kami-Labs skaliert Thorns mit Spell Power und kann in Bärengestalt bei mehreren Gegnern zur zweiten oder sogar ersten Schadensquelle werden. Spieler könnten Spell Power buffen, in Tank-Ausrüstung zurückwechseln und den erhöhten Thorns-Schaden behalten. Die Autoren halten das für unbeabsichtigt und erwarten einen Fix. Von Blizzard gibt es dazu in den Quellen keine Aussage – nimm es als Gerücht.",
+          "quellen": [
+            {
+              "name": "Kami-Labs: WoW Forever Recap",
+              "url": "https://kami-labs.fr/en/wow-forever/wow-forever-recap-semaine/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Attunements zum Raid-Start: Nur Onyxia verlangt eine Vorquest",
+          "unterzeile": "Hyjal Summit und Barrow Deeps laut Guide-Seiten ohne Attunement",
+          "text": "Zum Start am 9. Dezember öffnen drei Raids. Guide-Seiten melden übereinstimmend, dass Hyjal Summit (20 Spieler, 13 Bosse) und Barrow Deeps (10 Spieler, acht Bosse) keine Attunement brauchen. Für Onyxia's Lair soll der Drakefire-Amulet-Weg gelten. Das stammt aus Drittquellen; ein älterer Guide führte Hyjal noch als offen (TBD) – wahrscheinlich überholt.",
+          "quellen": [
+            {
+              "name": "Conquest Capped: Attunements",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-attunements/"
+            },
+            {
+              "name": "MMonster: Hyjal Summit",
+              "url": "https://mmonster.co/wow-forever/guides/raids/hyjal-summit"
+            },
+            {
+              "name": "Conquest Capped: Raids-Überblick",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-raids-overview/"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-XP: Was Blizzard zur Anpassung sagt",
+          "unterzeile": "40 auf 60 Prozent der Classic-Era-Werte, Spieler rechnen anders",
+          "text": "In einem Forenbeitrag sagte ein Blizzard-Entwickler laut Blue-Tracker-Spiegel, der Hotfix vom Sonntag, 8. November, habe die Dungeon-Kill-XP von 40 auf 60 Prozent der Classic-Era-Werte angehoben; das Team halte die Anpassung für gelungen. Ein Spieler im Thread rechnete dagegen 24 auf 36 Prozent – die Zahlen sind umstritten. Die Original-Wortlaute solltest du im Forum selbst prüfen.",
+          "quellen": [
+            {
+              "name": "Blue Tracker: Beta Development Notes",
+              "url": "https://www.bluetracker.gg/wow/topic/us-en/2360696-wow-forever-beta-development-notes-updated-november-2/"
+            },
+            {
+              "name": "Seramate: Beta Development Notes (2. November)",
+              "url": "https://seramate.com/blue-tracker/wow-forever-beta-development-notes-updated-november-2-26a0f2b4"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-Quests geben seit den Beta-Notes weniger Bonus-XP",
+          "unterzeile": "Teil des Launch-Pakets vom 2. November",
+          "text": "In den Entwicklungsnotes vom 2. November steht, dass die XP aus Dungeon-Quests reduziert wurden: Sie geben 50 Prozent weniger zusätzliche Erfahrung über die normalen Quest-Werte hinaus. Zusammen mit der späteren Anhebung der Kill-XP verschiebt sich der Fokus beim Dungeon-Leveln also vom Quest-Abgeben zum Mob-Kill.",
+          "quellen": [
+            {
+              "name": "Seramate: Beta Development Notes (2. November)",
+              "url": "https://seramate.com/blue-tracker/wow-forever-beta-development-notes-updated-november-2-26a0f2b4"
+            },
+            {
+              "name": "Blue Tracker: Beta Development Notes",
+              "url": "https://www.bluetracker.gg/wow/topic/us-en/2360696-wow-forever-beta-development-notes-updated-november-2/"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-Fixes vom 6. und 9. November im Überblick",
+          "unterzeile": "Maraudon, Blackmaw Hold, Shaper's Terrace und mehr",
+          "text": "Blizzard hat in Maraudon den Spawn von Zaetar's Spirit korrigiert und in Blackmaw Hold sowie The Drowned City Disengage-Probleme behoben. Zarla Ober lässt jetzt Beute fallen, Shaper's Terrace bekam Loot- und Cinder-Spawn-Fixes. Waylaid Crates und Craftsman's Writs droppen nun in Dungeons.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 11. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Level-30+-Zonen: Spieler klagen über langsame Respawns und volle Layer",
+          "unterzeile": "Von Blizzard gibt es bislang keine direkte Antwort",
+          "text": "In mehreren Forenthreads vom 9. November beschreiben Spieler, dass Mobs in Zonen ab Level 30 teils 10 Minuten und länger zum Respawnen brauchen, während unter Level 30 meist unter einer Minute reicht. Genannt werden überfüllte Gebiete wie Stranglethorn, Arathi und Desolace. Das sind Spielerangaben, keine Messwerte.\n\nBlizzard schrieb in den Notes vom 2. November, die Respawn-Raten seien in Startgebieten am schnellsten und sänken mit dem Level. Ein Eingehen auf die 30+-Beschwerden fand sich in den Quellen nicht; der Hotfix vom 9. November senkte die Spielerzahlen in überfüllten Zonen.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Fix the layering in 30+ zones",
+              "url": "https://us.forums.blizzard.com/en/wow/t/fix-the-layering-in-30-zones/2407729"
+            },
+            {
+              "name": "Blizzard-Forum: Questing in level 30+ zones",
+              "url": "https://us.forums.blizzard.com/en/wow/t/questing-in-level-30-zones-is-miserable-here-is-why/2406075"
+            },
+            {
+              "name": "Timesaver.gg: Layering (Fan-Seite)",
+              "url": "https://timesaver.gg/blog/wow-forever-layering-sharding-explained"
+            }
+          ]
+        },
+        {
+          "titel": "Start-Content: drei neue Zonen und über 1.000 Quests",
+          "unterzeile": "Neun Dungeons, vier Rulesets statt klassischer Realms",
+          "text": "Laut Downbeach brachte Forever drei neue Zonen, mehr als 1.000 Quests und neun Dungeons. Statt Realms gibt es vier Rulesets: Normal, PvP, Roleplay und Roleplay-PvP. Das Level-Cap liegt bei 60. Die Quelle weist darauf hin, dass sich Details noch ändern können.",
+          "quellen": [
+            {
+              "name": "Downbeach: Die ersten 48 Stunden",
+              "url": "https://downbeach.com/news/2026/nov/11/wow-forevers-first-48-hours-smooth-launch-first-hotfix-and-a-layering-debate/"
+            }
+          ]
+        },
+        {
+          "titel": "Quest-Fixes vom 6. November",
+          "unterzeile": "Vorsha the Lasher, Kerlonian Evershade, Horn of Awakening",
+          "text": "Zu den Quest-Fixes vom 6. November gehören Vorsha the Lasher, Kerlonian Evershade und Horn of Awakening. Mehr Never-Saddle-on-Quality-Spawns sollen die Wartezeit senken, die Drop-Rate der Damp Note wurde erhöht. Rough Wolf Pelts wird abgebrochen, wenn du Skinning verlernst. Mehrere Party- und Drop-Fixes ergänzen die Liste.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 11. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Was Reiten und Klassentraining kosten",
+          "unterzeile": "Rund 206 Gold bis Level 60, Reiten 100 und 1.000 Gold",
+          "text": "Das Training aller Klassenfähigkeiten von Level 1 bis 60 kostet laut Downbeach etwa 206 Gold. Apprentice Riding auf Level 40 liegt bei 100 Gold, Journeyman Riding auf Level 60 bei 1.000 Gold. Eine Guide-Seite nennt 90 Gold bei Honored mit der Heimatfraktion und zusätzlich rund 20 Gold fürs Reittier; dort ist unklar, welche Preise exakt aus dem Client stammen. Plane also etwa 120 Gold ein.",
+          "quellen": [
+            {
+              "name": "Downbeach: Die ersten 48 Stunden",
+              "url": "https://downbeach.com/news/2026/nov/11/wow-forevers-first-48-hours-smooth-launch-first-hotfix-and-a-layering-debate/"
+            },
+            {
+              "name": "The Forever Guides: Mount Gold",
+              "url": "https://theforeverguides.com/gold-making/mount-gold/"
+            },
+            {
+              "name": "Conquest Capped: Mount Cost",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-mount-cost/"
+            }
+          ]
+        },
+        {
+          "titel": "Berufe-Regeln: Guide-Seiten widersprechen sich",
+          "unterzeile": "Zwei Hauptberufe plus Secondary – aber Details strittig",
+          "text": "Overgear beschreibt: zwei Hauptberufe plus alle drei Nebenberufe (Cooking, Fishing, First Aid), Skill-Cap 300. Destructoid schreibt dagegen, dass du auf Level 60 einen Sammelberuf gegen einen Handwerksberuf tauschst. Die Regeln lassen sich aus diesen Quellen nicht abschließend klären; schau vor einer Entscheidung ins Spiel oder in offizielle Notes. Einig sind sich die Guides, dass Enchanting, Alchemy und Engineering stark sind – Daten nach dem Launch fehlen aber noch.",
+          "quellen": [
+            {
+              "name": "Overgear: Beste Berufe",
+              "url": "https://overgear.com/guides/wow-forever/best-professions-tier-list/"
+            },
+            {
+              "name": "Destructoid: WoW Forever Professions",
+              "url": "https://www.destructoid.com/wow-forever-professions-explained/"
+            },
+            {
+              "name": "Icy Veins: Profession Guide",
+              "url": "https://www.icy-veins.com/wow-forever/professions-overview"
+            }
+          ]
+        },
+        {
+          "titel": "RMT-Crackdown: Bans, Trade-Warnung und Fehlalarme",
+          "unterzeile": "Zahlen stammen aus der Beta",
+          "text": "Blizzard hat in der Beta laut Aggrend über 2.100 Gold-Käufer-Accounts und fast 1.600 Verkäufer- oder Bot-Accounts geschlossen. Dazu kommen eine Trade-Warnung bei verdächtigem Gold und ein „Temporary Economy Hold“, der Handel, Post, Gildenbank und AH einschränkt, ohne dauerhaften Strike. Icy Veins berichtet von Spielern, die offenbar zu Unrecht betroffen sind, etwa beim Transfer zwischen eigenen Charakteren. Offizielle Launch-Zahlen gibt es nicht.",
+          "quellen": [
+            {
+              "name": "Icy Veins: RMT-Bansystem erwischt Unschuldige",
+              "url": "https://www.icy-veins.com/wow-forever/news/wow-forevers-rmt-ban-system-is-catching-innocent-players/"
+            },
+            {
+              "name": "Wowhead: 2.100+ Gold-Käufer gebannt (Beta)",
+              "url": "https://www.wowhead.com/forever/news/2-100-gold-buying-accounts-have-been-banned-on-wow-forever-beta-383310"
+            },
+            {
+              "name": "GamesRadar: Blizzards RMT-Haltung",
+              "url": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-warns-wow-forever-players-that-its-stance-on-real-money-trading-is-crystal-clear-following-beta-ban-spree-we-will-continue-to-take-action/"
+            }
+          ]
+        },
+        {
+          "titel": "Auktionshaus: So werden Gebühren berechnet",
+          "unterzeile": "Kaution aus Vendorwert und Dauer, Rückgabe bei Verkauf",
+          "text": "Eine Fan-Guide-Seite beschreibt, dass die Kaution aus Vendorwert und Laufzeit berechnet und bei Verkauf zurückgegeben wird; weitere Raten hat Blizzard demnach nicht veröffentlicht. Die vom Hotfix angekündigten Änderungen am Auktionshaus sind erst mit der Wartung am 17. November zu erwarten. Behandle die Details als Fan-Angaben.",
+          "quellen": [
+            {
+              "name": "Hearthproof: Auction House (Fan-Guide)",
+              "url": "https://hearthproof.com/economy/auction-house/"
+            },
+            {
+              "name": "Blizzard-Forum: Hotfixes 11. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kosten auf einen Blick (Guide-Angaben)",
+        "punkte": [
+          "Klassentraining 1–60: ca. 206 Gold",
+          "Apprentice Riding (Level 40): 100 Gold",
+          "Journeyman Riding (Level 60): 1.000 Gold",
+          "Skill-Cap Berufe: 300"
+        ],
+        "quellen": [
+          {
+            "name": "Downbeach: Die ersten 48 Stunden",
+            "url": "https://downbeach.com/news/2026/nov/11/wow-forevers-first-48-hours-smooth-launch-first-hotfix-and-a-layering-debate/"
+          },
+          {
+            "name": "Conquest Capped: Mount Cost",
+            "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-mount-cost/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Community",
+      "artikel": [
+        {
+          "titel": "Twitch-Peak von 1,12 Millionen zum Launch",
+          "unterzeile": "Zweithöchster WoW-Wert aller Zeiten, knapp unter Classic",
+          "text": "Streams Charts zählte am 4. November 1.119.734 Peak-Zuschauer für WoW-Streams – der zweithöchste Wert überhaupt und der beste seit 2019. Nur der Classic-Launch liegt mit etwa 1,13 Millionen höher. Die BlizzCon-Enthüllung kam auf 807.000, der Beta-Start auf rund 600.000. Reine Zuschauerzahlen sagen nichts über Spielerzahlen aus; die hat Blizzard nicht veröffentlicht.",
+          "quellen": [
+            {
+              "name": "Streams Charts: 1,12 Mio. Peak-Zuschauer",
+              "url": "https://streamscharts.com/news/world-warcraft-forever-launch-viewership"
+            },
+            {
+              "name": "Kami-Labs: Twitch-Rekord",
+              "url": "https://kami-labs.fr/en/wow-forever/record-lancement-wow-forever/"
+            }
+          ]
+        },
+        {
+          "titel": "Launch-Abend: Queues, graue Rulesets und Wartezeiten",
+          "unterzeile": "Rund 30 Minuten Probleme, dann fünf bis neun Minuten Wartezeit",
+          "text": "Laut Downbeach startete Forever am 4. November um 15 Uhr PT. Login-Queues und ausgegraute Rulesets hielten etwa 30 Minuten an, einige Spieler flogen aus der Warteschlange. Queue-Positionen reichten von unter 100 bis ca. 2.200 mit geschätzten Wartezeiten von meist fünf bis neun Minuten. Offizielle Spielerzahlen gibt es nicht.",
+          "quellen": [
+            {
+              "name": "Downbeach: Die ersten 48 Stunden",
+              "url": "https://downbeach.com/news/2026/nov/11/wow-forevers-first-48-hours-smooth-launch-first-hotfix-and-a-layering-debate/"
+            }
+          ]
+        },
+        {
+          "titel": "Große PvP-Events mit ASM Gold, Savix und Xariu",
+          "unterzeile": "Server hielten laut Kami-Labs, Mikro-Lags in der Hauptstadt",
+          "text": "Kami-Labs berichtet von mehreren großen PvP-Events von ASM Gold, Savix und Xariu, die die Server gut verkraftet hätten. In einer vollen Hauptstadt gab es Mikro-Lags, Raids blieben stabil. Das ist eine Fan-Seite und keine Blizzard-Angabe.",
+          "quellen": [
+            {
+              "name": "Kami-Labs: WoW Forever Recap",
+              "url": "https://kami-labs.fr/en/wow-forever/wow-forever-recap-semaine/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen",
+        "punkte": [
+          "Twitch-Peak 4.11.: 1.119.734",
+          "BlizzCon-Reveal: 807.000",
+          "Beta-Start: ca. 600.000"
+        ],
+        "quellen": [
+          {
+            "name": "Streams Charts: 1,12 Mio. Peak-Zuschauer",
+            "url": "https://streamscharts.com/news/world-warcraft-forever-launch-viewership"
+          },
+          {
+            "name": "Kami-Labs: WoW Forever Recap",
+            "url": "https://kami-labs.fr/en/wow-forever/wow-forever-recap-semaine/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Überfüllte Layer: So levelst du trotzdem",
+          "unterzeile": "Kein Layer-Wechsel im Spiel – Gruppe, Randzeiten, Dungeons",
+          "text": "Laut wowguide.net gibt es in Forever keinen offiziellen Weg, Layer zu wechseln. Empfohlen werden: in einer Gruppe spielen (Tags und Quest-Credit werden geteilt), zu ruhigeren Zeiten spielen, Dungeons nutzen (Kill-XP wurde angehoben) und in eine zweite Zone ausweichen. Ob eine Gruppe dich auf denselben Layer bringt, ist offen.",
+          "quellen": [
+            {
+              "name": "wowguide.net: How to change layers",
+              "url": "https://wowguide.net/en/guides/wow-forever-how-to-change-layers"
+            }
+          ]
+        },
+        {
+          "titel": "Gold für das Level-40-Mount früh einplanen",
+          "unterzeile": "Etwa 100 Gold Training plus Mount",
+          "text": "Guide-Seiten nennen für Apprentice Riding auf Level 40 100 Gold, dazu rund 20 Gold fürs Reittier. Wer früh spart, vermeidet Stress beim Level-Up. Die Zahlen sind Fan-Angaben, bestätigt von mehreren Seiten, aber nicht direkt von Blizzard.",
+          "quellen": [
+            {
+              "name": "The Forever Guides: Mount Gold",
+              "url": "https://theforeverguides.com/gold-making/mount-gold/"
+            },
+            {
+              "name": "Conquest Capped: Mount Cost",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-mount-cost/"
+            }
+          ]
+        },
+        {
+          "titel": "Icy-Veins-Levelguides: Lücke bei Level 30+",
+          "unterzeile": "Beta endete bei Level 30",
+          "text": "Icy Veins führt Forever-Levelguides für mehrere Klassen. Zonen-Empfehlungen enden meist bei Level 30, weil die Beta nur bis dahin reichte; der Destruction-Warlock-Guide verweist auf spätere Updates. Für 30–40 musst du dich derzeit noch auf Spielerberichte stützen.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Destruction Warlock Leveling",
+              "url": "https://www.icy-veins.com/wow-forever/destruction-warlock-leveling"
+            },
+            {
+              "name": "Icy Veins: Frost Mage Leveling",
+              "url": "https://www.icy-veins.com/wow-forever/frost-mage-leveling"
+            }
+          ]
+        },
+        {
+          "titel": "Level-30-Meilensteine: Windfury, Blade Flurry, Mage-Wand-Quest",
+          "unterzeile": "Aus den Icy-Veins-Guides",
+          "text": "Level 30 gilt als Kraftsprung: Enhancement bekommt Windfury Weapon, Combat Rogue Blade Flurry. Mages brauchen für die Wand-Questreihe auf Level 30 laut Icy Veins den Scarlet Monastery und Mobs auf Level 38 in Arathi Highlands. Level 40 bringt Mounts und große Fähigkeiten für mehrere Specs.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Enhancement Shaman Leveling",
+              "url": "https://www.icy-veins.com/wow-forever/enhancement-shaman-leveling"
+            },
+            {
+              "name": "Icy Veins: Combat Rogue Leveling",
+              "url": "https://www.icy-veins.com/wow-forever/combat-rogue-leveling"
+            },
+            {
+              "name": "Icy Veins: Frost Mage Leveling",
+              "url": "https://www.icy-veins.com/wow-forever/frost-mage-leveling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen & Interviews",
+      "artikel": [
+        {
+          "titel": "Klassendesign: „nicht perfekte numerische Gleichheit“",
+          "unterzeile": "Mehr Schaden für alle, dafür mehr Gegner-HP",
+          "text": "Blizzard betont, dass das Klassendesign nicht auf perfekte numerische Gleichheit zielt (GamesRadar). Laut Icy Veins zu den Notes vom 2. November wurde der Schaden aller Klassen erhöht und die Gegner-Gesundheit im Ausgleich angehoben. Ziel ist, dass Klassen in Gruppen wertvoll wirken statt exakt gleich stark zu sein.",
+          "quellen": [
+            {
+              "name": "GamesRadar: „not perfect numerical equality“",
+              "url": "https://www.gamesradar.com/games/world-of-warcraft/with-world-of-warcraft-forever-blizzard-promises-our-aim-in-class-design-is-not-perfect-numerical-equality/"
+            },
+            {
+              "name": "Icy Veins: Class Tuning, Enemy HP",
+              "url": "https://www.icy-veins.com/wow-forever/news/class-power-and-enemy-hp-increased-in-massive-class-tuning-wow-forever-development-notes-november-2nd/"
+            }
+          ]
+        },
+        {
+          "titel": "Aggrend zu Layering und Bugs",
+          "unterzeile": "Zahlen werden angepasst; Boot- und Hauptstadt-Probleme",
+          "text": "Laut Downbeach sagte Aggrend am 5. November, einige Gebiete fühlten sich nicht ausreichend bevölkert an; Blizzard werde die Layer-Zahlen anpassen. Es werde immer etwas Layering geben und weitere Verbesserungen folgen. Beta-Probleme mit verschwindenden Spielern auf Booten und zerfallenden Gruppen in Hauptstädten würden behoben.",
+          "quellen": [
+            {
+              "name": "Downbeach: Die ersten 48 Stunden",
+              "url": "https://downbeach.com/news/2026/nov/11/wow-forevers-first-48-hours-smooth-launch-first-hotfix-and-a-layering-debate/"
+            }
+          ]
+        },
+        {
+          "titel": "Pets sollen so tanken wie in Classic Era",
+          "unterzeile": "Warlock-Voidwalker und Hunter-Pets zu fragil",
+          "text": "Laut MMOHuts begründet Blizzard die Hotfixes damit, dass Hunter-Pets und Voidwalker etwa so gut tanken sollen wie in Classic Era und zu wenig Haltbarkeit hatten. Die Quelle ist eine Newsseite; die Formulierung sollte mit dem Original-Post abgeglichen werden.",
+          "quellen": [
+            {
+              "name": "MMOHuts: Hotfixes für Enhancement, Hunter-Pets, Dämonen",
+              "url": "https://mmohuts.com/news/wow-forever-hotfixes-hit-enhancement-shaman-hunter-pets-and-warlock-demons"
+            },
+            {
+              "name": "Blizzard-Forum: Hotfixes 11. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "17. November: Wöchentliche Wartung und Auktionshaus-Update",
+          "unterzeile": "EU-Quelle nennt den 18. November",
+          "text": "Die Auktionshaus-Änderungen sollen mit der Wartung am 17. November live gehen. Der Blue-Tracker-Eintrag der EU nennt den 18. November. Plane daher für beide Tage Ausfälle ein. Die Notes sollen nachgetragen werden.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 11. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+            },
+            {
+              "name": "Blue Tracker (EU): Hotfixes 11. November",
+              "url": "https://www.bluetracker.gg/wow/topic/eu-en/639885-wow-forever-hotfixes-november-11-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "9. Dezember: Barrow Deeps, Hyjal Summit, Onyxia",
+          "unterzeile": "Dazu: Update im Frühjahr 2027",
+          "text": "Am 9. Dezember öffnen die ersten Raids: Barrow Deeps (10 Spieler), Hyjal Summit (20) und Onyxia's Lair (40). Für Frühjahr 2027 ist ein Update mit zwei neuen Raids und zwei neuen Dungeons angekündigt; ein Icy-Veins-Fahrplan erwähnt Hardcore-Server im Winter 2026.",
+          "quellen": [
+            {
+              "name": "Downbeach: Die ersten 48 Stunden",
+              "url": "https://downbeach.com/news/2026/nov/11/wow-forevers-first-48-hours-smooth-launch-first-hotfix-and-a-layering-debate/"
+            }
+          ]
+        },
+        {
+          "titel": "Item Restoration weiter offline",
+          "unterzeile": "Seit 11. November wegen kritischem Bug abgeschaltet",
+          "text": "Der Customer-Support-Service Item Restoration ist laut Hotfix-Notes vom 11. November deaktiviert, während ein kritischer Bug untersucht wird. Einen Wiederkehrtermin nennt Blizzard nicht.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 11. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine im Überblick",
+        "punkte": [
+          "17.11. (EU lt. Blue Tracker: 18.11.): Wartung, AH-Änderungen",
+          "9.12.: Barrow Deeps, Hyjal Summit, Onyxia",
+          "Frühjahr 2027: Update mit zwei Raids, zwei Dungeons",
+          "Winter 2026: Hardcore (Fahrplan, Quelle sekundär)"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard-Forum: Hotfixes 11. November",
+            "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+          },
+          {
+            "name": "Downbeach: Die ersten 48 Stunden",
+            "url": "https://downbeach.com/news/2026/nov/11/wow-forevers-first-48-hours-smooth-launch-first-hotfix-and-a-layering-debate/"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages",
+    "text": "Du steckst in einer vollen Zone fest? Such dir eine Gruppe, wechsle die Zone oder geh in einen Dungeon – das spart Wartezeit. Und leg schon jetzt Gold für das Level-40-Mount zurück."
+  }
+}
