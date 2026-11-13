@@ -1,0 +1,615 @@
+{
+  "gruss": "Guten Morgen, Tim! Freitag, der 13. November – die Pflegereform bekommt ihren Fahrplan bis zum 1. Januar, die Koalition sucht weiter Geld für die Stromsteuer, und in Mülheim läuft am Wochenende einiges. Hier ist dein Kurier.",
+  "aufmacher": {
+    "titel": "Pflegereform: Der Fahrplan bis zum 1. Januar – und warum die Branche Alarm schlägt",
+    "unterzeile": "Bundesrat, Anhörung, Abstimmung: Für das Pflegeneuordnungsgesetz bleiben nur gut sechs Wochen",
+    "text": "Das Pflegeneuordnungsgesetz (PNOG) ist seit der ersten Lesung am 5. November im Gesundheitsausschuss des Bundestags. Der Zeitplan ist eng: Am 20. November befasst sich der Bundesrat zum ersten Mal damit, am 25. November folgt die öffentliche Sachverständigenanhörung, am 11. Dezember sollen zweite und dritte Lesung im Bundestag stattfinden, am 18. Dezember der zweite Durchgang im Bundesrat. Inkrafttreten soll das Gesetz am 1. Januar 2027. Ohne Reform fehlen der Pflegeversicherung 2027 laut Gesundheitsminister Carsten Linnemann (CDU) rund acht Milliarden Euro; für 2028 nannte Hendrik Streeck (CDU) eine Lücke von 15,4 Milliarden.\n\nGroßer Streitpunkt ist das neue Sozialraumbudget (bis zu 175 Euro im Monat), in dem der Entlastungsbetrag für die Pflegegrade 2 bis 5 aufgehen soll. Abrechnen dürfen laut Entwurf nur bestimmte anerkannte Angebote – viele Pflegedienste fürchten, Pflege und Haushaltshilfe nicht mehr aus einer Hand anbieten zu können. Der Verband bpa warnt nach einer Umfrage unter über 2.000 Einrichtungen vor mehr als 50.000 gefährdeten Arbeitsplätzen in der ambulanten Versorgung. Für Pflegegrad 1 entfällt der Entlastungsbetrag von bis zu 131 Euro ganz.\n\nDie Koalition signalisiert Bewegung: CDU-Politikerin Simone Borchardt sagte „werden wir nachbessern“, auch bereits vor Ort tätige Anbieter wie Pflegedienste, Caritas und Diakonie sollen weiter abrechnen dürfen. Die Kürzung der Rentenbeiträge für pflegende Angehörige kommt laut Linnemann nicht. Wie die Änderungen genau aussehen, ist offen – das entscheidet sich in den nächsten Wochen.",
+    "quellen": [
+      {
+        "name": "Deutscher Bundestag: Debatte zum PNOG",
+        "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-pflegeneuordnungsgesetz-1225076"
+      },
+      {
+        "name": "Altenheim: Koalition will beim Sozialraumbudget nachbessern",
+        "url": "https://www.altenheim.net/pnog-koalition-will-beim-sozialraumbudget-nachbessern/"
+      },
+      {
+        "name": "Bibliomed Pflege: Kritik an PNOG wächst",
+        "url": "https://www.bibliomed-pflege.de/news/pflegereform-bundestag-kritik-pnog-proteste"
+      }
+    ],
+    "rubrik": "Altenpflege"
+  },
+  "seiten": [
+    {
+      "titel": "Mülheim an der Ruhr",
+      "artikel": [
+        {
+          "titel": "Mülheim buddelt: Kuhlenstraße und Wasserstraße",
+          "unterzeile": "Fernwärme, Kanal und Glasfaser sorgen für Sperrungen",
+          "text": "Der Energieversorger medl listet aktuelle Baustellen in Mülheim. An der Kuhlenstraße (zwischen Hornstraße und Kuhlenstraße 60) gilt wegen Fernwärme- und Leitungsarbeiten eine Vollsperrung, die vom 12. Oktober bis 13. November angesetzt ist – heute sollte sie also enden. Auf der Wasserstraße laufen Kanalarbeiten vom 2. bis 30. November, laut Liste ruht die Baustelle aktuell. Dazu kommen mehrere wandernde Glasfaser-Baustellen in der Woche 9. bis 15. November, etwa an der Folkenbornstraße. Wer unterwegs ist, schaut vorher in die medl-Übersicht.",
+          "quellen": [
+            {
+              "name": "medl: Aktuelle Baustellen in Mülheim",
+              "url": "https://www.medl.de/netze/baustellen/"
+            }
+          ]
+        },
+        {
+          "titel": "14-Jähriger flüchtet mit gestohlenem Mercedes",
+          "unterzeile": "Flucht begann in Mülheim, Ende in Essen-Schönebeck",
+          "text": "Ein 14-Jähriger ist am 7. November mit einem in Duisburg gestohlenen Mercedes vor der Polizei geflüchtet. Die Flucht begann in Mülheim und endete laut Polizei Essen mit einem Verkehrsunfall in Essen-Schönebeck. Die Meldung wurde am 9. November veröffentlicht; weitere Details stehen in der Pressemitteilung.",
+          "quellen": [
+            {
+              "name": "Polizei Essen auf Presseportal",
+              "url": "https://www.presseportal.de/blaulicht/pm/11562/6387107"
+            }
+          ]
+        },
+        {
+          "titel": "A52-Ruhrtalbrücke: Glätte, fünf Unfälle",
+          "unterzeile": "Polizei Düsseldorf meldet drei Leichtverletzte",
+          "text": "Die Polizei Düsseldorf meldete fünf Unfälle durch Glatteis auf der A 52 bei Mülheim in Fahrtrichtung Essen (Ruhrtalbrücke), drei Personen wurden leicht verletzt. Die Meldung ist auf den 9. November datiert. Der Winter lässt grüßen: Brücken frieren zuerst zu, also Tempo anpassen und Abstand halten.",
+          "quellen": [
+            {
+              "name": "Polizei NRW: Pressemitteilungen",
+              "url": "https://polizei.nrw/presse/pressemitteilungen"
+            }
+          ]
+        },
+        {
+          "titel": "Doppelhaushalt 2026/27: Genehmigt, aber auf Pump",
+          "unterzeile": "Steuerzahlerbund kritisiert die Schulden",
+          "text": "Mülheims Doppelhaushalt 2026/2027 hat der Rat am 21. Mai beschlossen, die Bezirksregierung Düsseldorf genehmigte ihn am 26. August. Damit können laut Stadt geplante Investitionen in Schulen, Sport, Kultur und Verkehr starten. Der Bund der Steuerzahler kritisiert, dass die Stadt von 2025 bis 2027 jedes Jahr Defizite von mehr als 40 Millionen Euro plane. Für 2027 liegt die Kreditermächtigung für Liquiditätskredite bei 950 Millionen Euro.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Haushalt 2026/2027 genehmigt",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/haushalt-20262027-genehmigt-stadt-kann-geplante-ausgaben"
+            },
+            {
+              "name": "Amtsblatt Mülheim: Haushaltssatzung",
+              "url": "https://amtsblatt.muelheim-ruhr.de/node/5735"
+            },
+            {
+              "name": "Bund der Steuerzahler: Steuerwehr-Tour Mülheim",
+              "url": "https://www.steuerzahler.de/aktuelles/detail/auf-steuerwehr-tour-in-muelheim-adr/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Mülheim & Ruhrgebiet",
+      "artikel": [
+        {
+          "titel": "Wochenende in Mülheim: Kabarett, Schloss im Mondschein, Kinderflohmarkt",
+          "unterzeile": "Das steht am Samstag und Sonntag an",
+          "text": "Am Samstag (14.11.) gibt es um 10:30 Uhr ein Repair Café mit Linuxtreff und Freifunk in der Stadtbibliothek im MedienHaus, abends eine Schlager-&-Discofox-Party im Schilderhaus (20 Uhr). Am Sonntag (15.11.) tritt Jonas Greiner mit dem Kabarett „Auf Augenhöhe“ im Ringlokschuppen Ruhr auf (Tickets ab 28 Euro). Um 19 Uhr führt der Stadtrundgang „Schloß Broich im Mondschein“, und im Rhein-Ruhr Zentrum findet der piratini-markt statt, ein Secondhand-Markt rund ums Kind. Angaben stammen aus Veranstaltungsportalen – vor dem Besuch beim Veranstalter prüfen.",
+          "quellen": [
+            {
+              "name": "Veranstaltungskalender Stadt Mülheim",
+              "url": "https://www1.muelheim-ruhr.de/veranstaltungen"
+            },
+            {
+              "name": "regioactive: Veranstaltungen Mülheim",
+              "url": "https://www.regioactive.de/events/21167/muelheim/veranstaltungen-party-konzerte"
+            },
+            {
+              "name": "mvp.de: Veranstaltungen Mülheim",
+              "url": "https://www.mvp.de/muelheim-an-der-ruhr/veranstaltungen/"
+            }
+          ]
+        },
+        {
+          "titel": "Broicher Schlossweihnacht: Termine stehen",
+          "unterzeile": "Drei Advents-Wochenenden am Schloss Broich",
+          "text": "Die mittelalterliche Broicher Schlossweihnacht läuft laut Veranstaltungsportal an drei Wochenenden: 6./7. Dezember, 12./13. Dezember und 20./21. Dezember 2026. Der Eintritt ist mit 10 Euro für Erwachsene, 6 Euro für Kinder unter 14 und 29 Euro für Familien angegeben. Der kleine Mülheimer Weihnachtstreff im FORUM Stadtmitte (Schloßstraße) soll vom 14. bis 17. Dezember laufen, Eintritt frei. Die Daten stammen von Aggregator-Seiten, Bestätigung gibt die Touristinfo (0208 / 960 960).",
+          "quellen": [
+            {
+              "name": "festivalsindeutschland: Broicher Schlossweihnacht",
+              "url": "https://www.festivalsindeutschland.de/festival/broicher-schlossweihnacht-muelheim"
+            },
+            {
+              "name": "festivalsindeutschland: Mülheimer Weihnachtstreff",
+              "url": "https://www.festivalsindeutschland.de/festival/muelheimer-weihnachtstreff"
+            }
+          ]
+        },
+        {
+          "titel": "Bahn im Revier: Bergbauschäden in Essen, RE 2 fällt aus",
+          "unterzeile": "Wo es am Wochenende und ab Montag hakt",
+          "text": "Laut zuginfo.nrw sind im Großraum Essen wegen Bergbauschäden nicht alle Gleise befahrbar, die Einschränkung war bis voraussichtlich 15. November, 3 Uhr, angesetzt – betroffen sind unter anderem S 1, S 3, RE 1, RE 6 und RE 42. In der Nacht vom 13. auf den 14. November gibt es nächtliche Sperrungen zwischen Essen West und Duisburg-Großenbaum. Ab dem 16. November (21 Uhr) fallen die Züge der RE 2 zwischen Essen Hbf und Düsseldorf Hbf wegen einer Streckenreparatur aus. Aktuelle Lage vor der Fahrt prüfen.",
+          "quellen": [
+            {
+              "name": "zuginfo.nrw",
+              "url": "https://www.zuginfo.nrw/"
+            },
+            {
+              "name": "VRR: Baustellen im SPNV",
+              "url": "https://www.vrr.de/fahrplan-mobilitaet/baustellen-im-spnv/"
+            }
+          ]
+        },
+        {
+          "titel": "Landtag NRW: Haushalt 2027 und Faires-Wohnen-Gesetz",
+          "unterzeile": "Anhörungen und Ausschusstermine",
+          "text": "Zum Haushaltsgesetz 2027 des Landes gab es am 5. November eine Anhörung, der Haushalts- und Finanzausschuss tagt wieder am 19. November. Das Faires-Wohnen-Gesetz (FwoG NRW) stand am 12. November im Bauausschuss auf dem Programm. Bereits beschlossen sind laut Gesetzgebungsübersicht das Klimaanpassungsgesetz und das Pflegefachassistenzgesetz (14. Oktober).",
+          "quellen": [
+            {
+              "name": "Landtag NRW: Terminplan Haushalts- und Finanzausschuss",
+              "url": "https://www.landtag.nrw.de/home/der-landtag/ausschusse-und-gremien-1/fachausschusse-1/a07-haushalts--und-finanzausschu/terminplan-2.html"
+            },
+            {
+              "name": "Landtag NRW: Aktuelle Gesetzgebung",
+              "url": "https://www.landtag.nrw.de/home/dokumente/dokumentensuche/gesetzgebungsportal/aktuelle-gesetzgebungsverfahr.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine der Woche",
+        "punkte": [
+          "Sa 14.11., 8–17 Uhr: A40-Tagesbaustelle zwischen Styrum und Dümpten (Richtung Essen)",
+          "Sa 14.11., 10:30 Uhr: Repair Café, Stadtbibliothek im MedienHaus",
+          "So 15.11., Kabarett Jonas Greiner im Ringlokschuppen Ruhr",
+          "So 15.11., 19 Uhr: Stadtrundgang „Schloß Broich im Mondschein“",
+          "Mo 16.11., 21 Uhr: RE 2 fällt zwischen Essen und Düsseldorf aus",
+          "Fr 20.11.: Bundesrat berät erstmals zur Pflegereform"
+        ],
+        "quellen": [
+          {
+            "name": "news.de: A40-Tagesbaustelle 14.11.",
+            "url": "https://www.news.de/auto/860180926/verkehrsmeldung-nw-muelheim-an-der-ruhr-zur-verkehrsstoerung-wegen-baustelle-am-14-11-2026-beschraenkungen-im-verkehr-nordrhein-westfalen-staugefahr-in-rechtsruhr-nord-auf-a40/1/"
+          },
+          {
+            "name": "regioactive Mülheim",
+            "url": "https://www.regioactive.de/events/21167/muelheim/veranstaltungen-party-konzerte"
+          },
+          {
+            "name": "zuginfo.nrw",
+            "url": "https://www.zuginfo.nrw/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Politik",
+      "artikel": [
+        {
+          "titel": "Koalitionsausschuss am Dienstag: Stromsteuer und Tankrabatt",
+          "unterzeile": "Geld für 5,4 Milliarden Euro gesucht",
+          "text": "Die Senkung der Stromsteuer für alle würde rund 5,4 Milliarden Euro kosten, eine Gegenfinanzierung fehlt. Unionsfraktionschef Thorsten Frei sagte: „Es ist bislang nicht gelungen, dafür eine entsprechende Gegenfinanzierung im Haushalt zu finden.“ Der Koalitionsausschuss soll am kommenden Dienstag (17.11.) nach einer Lösung suchen. Dort geht es auch um den Tankrabatt, der zum Jahresende ausläuft; die SPD setzt auf einen Spritpreisdeckel, der den Staat nichts kostet. Bisher profitieren nur das produzierende Gewerbe sowie Land- und Forstwirtschaft von der niedrigeren Stromsteuer.",
+          "quellen": [
+            {
+              "name": "dpa-AFX auf ARIVA: Koalition findet Kompromisse für Etat",
+              "url": "https://www.ariva.de/news/roundup-koalition-findet-kompromisse-fuer-etat-stromsteuer-12204017"
+            },
+            {
+              "name": "ZDFheute: Haushalt, Zuckersteuer, Stromsteuer",
+              "url": "https://www.zdfheute.de/politik/deutschland/haushalt-zuckersteuer-plastiksteuer-stromsteuer-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Sozialleistungen: Was gekürzt wurde und was bleibt",
+          "unterzeile": "Wohngeld-Dynamisierung ausgesetzt, Kinderzuschlag bleibt",
+          "text": "Im Haushaltskompromiss wurden Sozialkürzungen teilweise zurückgenommen: Beim Kinderzuschlag für Geringverdiener bleibt es laut dpa-AFX bei der ursprünglichen Regelung, Asylbewerber sind ausgenommen. Die für 2027 vorgesehene Wohngeld-Dynamisierung wird ausgesetzt. Bei Unterhaltsvorschuss und Elterngeld laufen noch Verhandlungen. SPD-Fraktionschef Matthias Miersch sagte: „Der Kern bleibt erhalten.“ In der Unionsfraktion soll die Stimmung „mau“ gewesen sein.",
+          "quellen": [
+            {
+              "name": "dpa-AFX auf ARIVA: Koalition findet Kompromisse für Etat",
+              "url": "https://www.ariva.de/news/roundup-koalition-findet-kompromisse-fuer-etat-stromsteuer-12204017"
+            },
+            {
+              "name": "ZDFheute: Haushalt, Zuckersteuer, Stromsteuer",
+              "url": "https://www.zdfheute.de/politik/deutschland/haushalt-zuckersteuer-plastiksteuer-stromsteuer-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Einkommensteuerreform und kalte Progression",
+          "unterzeile": "Entlastung ab 2028, Streit um den Ausgleich",
+          "text": "Der Gesetzentwurf von Finanzminister Lars Klingbeil (SPD) zur Einkommensteuerreform soll Anfang 2027 in Kraft treten, die Entlastungen von jährlich rund 10 Milliarden Euro greifen ab 2028. Die „Reichensteuer“ soll für sehr hohe Einkommen früher greifen. Die Union will die kalte Progression weiter vollständig ausgleichen – Kosten laut früheren Angaben 4,2 Milliarden Euro für Bund, Länder und Kommunen – notfalls rückwirkend.",
+          "quellen": [
+            {
+              "name": "dpa-AFX auf ARIVA: Koalition findet Kompromisse für Etat",
+              "url": "https://www.ariva.de/news/roundup-koalition-findet-kompromisse-fuer-etat-stromsteuer-12204017"
+            }
+          ]
+        },
+        {
+          "titel": "Etat 2027: So geht es weiter",
+          "unterzeile": "Schlussrunde im Ausschuss, Bundestag in der Woche ab 23. November",
+          "text": "Der Haushaltsausschuss beriet am Donnerstag abschließend über den Etat 2027; ein Ergebnis der Sitzung lag bei Redaktionsschluss nicht vor. Der Bundestag soll den Haushalt in der Woche ab dem 23. November beschließen. Das Ausgabevolumen des Regierungsentwurfs liegt bei rund 555 Milliarden Euro, ZDFheute nennt für 2027 neue Schulden von mehr als 200 Milliarden Euro. Der Finanzausschuss des Bundestags berät diese Woche außerdem zum Haushaltsbegleitgesetz und zur Zuckergetränkesteuer.",
+          "quellen": [
+            {
+              "name": "ZDFheute",
+              "url": "https://www.zdfheute.de/politik/deutschland/haushalt-zuckersteuer-plastiksteuer-stromsteuer-100.html"
+            },
+            {
+              "name": "Bundestag: Haushaltsausschuss legt letzte Hand an",
+              "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1231740"
+            },
+            {
+              "name": "mitmischen.de: Diese Woche im Bundestag",
+              "url": "https://www.mitmischen.de/parlament/diese-woche-im-bundestag-ueberblick/diese-woche-im-bundestag-kw46-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Deutschland: Wirtschaft, Gesellschaft, Verbraucher",
+      "artikel": [
+        {
+          "titel": "Inflation im Oktober: Sprit bleibt der Preistreiber",
+          "unterzeile": "Gesamt 2,8 Prozent, Kraftstoffe plus 28,9 Prozent",
+          "text": "Die Verbraucherpreise lagen im Oktober 2026 laut Statistischem Bundesamt um 2,8 Prozent über dem Vorjahresmonat, nach 3,3 Prozent im September. Gegenüber dem Vormonat gingen die Preise um 0,2 Prozent zurück. Kraftstoffe waren im Jahresvergleich 28,9 Prozent teurer, Dienstleistungen 2,5 Prozent. Nahrungsmittel blieben im Monatsvergleich nahezu unverändert.",
+          "quellen": [
+            {
+              "name": "Destatis: Inflationsrate im Oktober 2026",
+              "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_392_611.html"
+            }
+          ]
+        },
+        {
+          "titel": "Ratenkauf: Strengere Regeln ab 20. November",
+          "unterzeile": "„Kauf jetzt, zahl später“ wird reguliert",
+          "text": "Laut Berliner Kurier gilt das Verbraucherkreditrecht ab dem 20. November auch für Finanzierungen unterhalb der bisherigen Bagatellgrenze – etwa bei „Buy now, pay later“-Angeboten. Anbieter müssen dann auch bei kleinen Beträgen die Bonität prüfen. Der Bericht stützt sich auf einen Artikel vom 31. Oktober, der größtenteils hinter einer Bezahlschranke liegt; die Details solltest du bei der Verbraucherzentrale gegenprüfen. Praktisch für den Black-Friday-Rummel in zwei Wochen.",
+          "quellen": [
+            {
+              "name": "Berliner Kurier: Änderungen im November 2026",
+              "url": "https://www.berliner-kurier.de/article/verbraucher-aenderungen-november-2026-10545767"
+            }
+          ]
+        },
+        {
+          "titel": "Konjunktur: Zarte Erholung, kein Boom",
+          "unterzeile": "IW Köln sieht 2026 bei knapp 1,2 Prozent",
+          "text": "Das IW Köln erwartet laut seinem Bericht vom 10. November für 2026 ein Wachstum von knapp 1,2 Prozent, sieht aber vorerst keine dauerhafte, breit angelegte Erholung. Das ifo Institut hatte seine Prognose im September auf 1,4 Prozent für 2026 und 1,2 Prozent für 2027 angehoben; die Zahl der Erwerbstätigen soll 2026 im Jahresdurchschnitt weiter sinken. Die Inflation sieht ifo bei 2,8 Prozent (2026) und 3,0 Prozent (2027). Die Zahlen stammen aus Prognosen und können sich ändern.",
+          "quellen": [
+            {
+              "name": "IW Köln: Konjunkturprognosen",
+              "url": "https://www.iwkoeln.de/themen/wachstum-und-konjunktur/konjunkturprognosen.html"
+            },
+            {
+              "name": "retail-news: ifo hebt Wachstumsprognose an",
+              "url": "https://retail-news.de/ifo-konjunkturprognose-deutschland-wachstum-2026/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Altenpflege: Politik, Recht, Pflegeversicherung",
+      "artikel": [
+        {
+          "titel": "PNOG in Zahlen: Budgets, Beiträge, Cockpit",
+          "unterzeile": "Was im Entwurf steht",
+          "text": "Der Entwurf (Drucksache 21/8869) bündelt Leistungen in vier Budgets: Sachleistungs-, Entlastungs- (mit Pflegegeld), Sozialraum- und Überbrückungsbudget. Die Leistungsdynamisierung für 2028 entfällt, ab 2029 sollen Leistungen jährlich an die Inflation angepasst werden. Auf der Einnahmenseite steigt die Beitragsbemessungsgrenze um 300 Euro im Monat, der Kinderlosenzuschlag auf 0,9 Prozent, für mitversicherte Ehepartner kommt ab 2028 ein Zuschlag von 0,52 Prozent. Für das „Pflege-Cockpit“ und die Digitalisierung stellt der Bund 1,6 Milliarden Euro bereit, die Länder 400 Millionen.",
+          "quellen": [
+            {
+              "name": "Deutscher Bundestag: Debatte zum PNOG",
+              "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-pflegeneuordnungsgesetz-1225076"
+            }
+          ]
+        },
+        {
+          "titel": "Proteste und Petition: 88.000 Unterschriften",
+          "unterzeile": "Pflegerat demonstrierte in Berlin",
+          "text": "Der Deutsche Pflegerat rief am 11. November zu einer Demonstration vom Kanzleramt zum Gesundheitsministerium auf; in Düsseldorf gab es einen Autokorso, weitere Aktionen sind in mehreren Städten geplant. Die Vereine „wir pflegen“ und „Pflegende Angehörige“ übergaben eine Petition mit über 88.000 Unterschriften. Auch die Pflegebevollmächtigte Katrin Staffler (CDU) und der GKV-Spitzenverband fordern Nachbesserungen.",
+          "quellen": [
+            {
+              "name": "Bibliomed Pflege: Kritik an PNOG wächst",
+              "url": "https://www.bibliomed-pflege.de/news/pflegereform-bundestag-kritik-pnog-proteste"
+            },
+            {
+              "name": "Altenheim: Pflegeverbände mobilisieren",
+              "url": "https://www.altenheim.net/pnog-im-bundestag-pflegeverbaende-mobilisieren-bundesweit-zu-protesten/"
+            }
+          ]
+        },
+        {
+          "titel": "Pflegegrad 1 und Verhinderungspflege: Wo die Parteien stehen",
+          "unterzeile": "Grüne: „Streichen ist keine Reform“",
+          "text": "Die Grünen warnen vor einer Lücke bei Pflegegrad 1, weil die neue Pflegebegleitung erst 2029 startet, und fordern einen eigenständigen Anspruch auf Verhinderungspflege. Die Linke will in zwei Anträgen Verhinderungspflege und Entlastungsbetrag erhalten, auch für Pflegegrad 1. SPD und Union wollen Übergangsfristen; die SPD stellt langfristig eine Bürgerversicherung in der Pflege in den Raum. Linnemann hält am Sparvolumen fest, will aber bei Entlastungsbetrag und Verhinderungspflege nachbessern.",
+          "quellen": [
+            {
+              "name": "Deutscher Bundestag: Debatte zum PNOG",
+              "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw45-de-pflegeneuordnungsgesetz-1225076"
+            },
+            {
+              "name": "Altenheim: Koalition will nachbessern",
+              "url": "https://www.altenheim.net/pnog-koalition-will-beim-sozialraumbudget-nachbessern/"
+            }
+          ]
+        },
+        {
+          "titel": "Pflegefachassistenz in NRW: Landesgesetz beschlossen",
+          "unterzeile": "Ausbildung wird landesrechtlich geregelt",
+          "text": "Laut Gesetzgebungsübersicht des Landtags NRW ist das Pflegefachassistenzgesetz am 14. Oktober 2026 beschlossen worden. Details zum Inhalt stehen in der Übersicht nicht; wer in der Pflege arbeitet oder ausbildet, sollte die Landtagsdrucksache prüfen.",
+          "quellen": [
+            {
+              "name": "Landtag NRW: Aktuelle Gesetzgebung",
+              "url": "https://www.landtag.nrw.de/home/dokumente/dokumentensuche/gesetzgebungsportal/aktuelle-gesetzgebungsverfahr.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Altenpflege: Praxis, Studien, Fachwissen",
+      "artikel": [
+        {
+          "titel": "Allensbach-Studie: Pflegekräfte in NRW zufriedener",
+          "unterzeile": "63 Prozent in der Altenpflege bewerten ihre Lage positiv",
+          "text": "Eine Allensbach-Befragung im Auftrag der Pflegekammer NRW (2.880 Befragte) zeigt laut Bericht eine deutliche Verbesserung gegenüber 2023. In der Altenpflege bewerten 63 Prozent der Pflegefachpersonen ihre Situation positiv, 12 Punkte mehr als 2023. Handlungsbedarf bleibt beim Schichtdienst und in der Altenpflege.",
+          "quellen": [
+            {
+              "name": "KU Gesundheitsmanagement: Allensbach-Studie 2026",
+              "url": "https://ku-gesundheitsmanagement.de/aus-der-praxis/berufszufriedenheit-pflege-nrw-allensbach-studie-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Digitalisierung entlastet nicht automatisch",
+          "unterzeile": "Trendstudie: Gewonnene Zeit wird sofort verbraucht",
+          "text": "In der Trendstudie Pflege & Soziales 2026 von myneva berichten 80,6 Prozent der Befragten, dass eingesparte Zeit unmittelbar von anderen Aufgaben beansprucht wird. Ein Trendreport zur KI in der Pflege kommt zu einem ähnlichen Schluss: Digitale Werkzeuge müssen Abläufe spürbar entlasten, sonst verlieren Einrichtungen Fachkräfte.",
+          "quellen": [
+            {
+              "name": "myneva: Trendstudie Pflege & Soziales 2026",
+              "url": "https://www.myneva.eu/de/blog/trendstudie-pflege-soziales-2026"
+            },
+            {
+              "name": "Altenpflege: Wie KI die Pflegepraxis verändert",
+              "url": "https://www.altenpflege-online.net/altenpflege-2026-wie-kuenstliche-intelligenz-die-pflegepraxis-veraendert/"
+            }
+          ]
+        },
+        {
+          "titel": "Fachkräftelücke: Über 17.600 Stellen in der Altenpflege",
+          "unterzeile": "Übersicht nach Daten der Bundesagentur",
+          "text": "Laut einer Übersicht zum Fachkräftemangel, die Daten der Bundesagentur für Arbeit zitiert, fehlen in der Altenpflege über 17.600 examinierte Fachkräfte, Tendenz steigend. Eine weitere Quelle nennt für 2026 rund 40.000 unbesetzte Stellen im Pflegesektor insgesamt. Die Zahlen stammen aus Zusammenstellungen Dritter, nicht aus einer neuen Erhebung.",
+          "quellen": [
+            {
+              "name": "BKV Firmenservice: Fachkräftemangel in der Pflege",
+              "url": "https://bkvfirmenservice.de/statistiken/fachkraeftemangel-in-der-pflege/"
+            },
+            {
+              "name": "Reichweite Akademie: Pflegeberufe 2026",
+              "url": "https://reichweite-akademie.de/ratgeber/pflegeberufe-2026-bedarfscheck/"
+            }
+          ]
+        },
+        {
+          "titel": "Gewalt in der Pflege: Forschung läuft",
+          "unterzeile": "Verbundprojekt GeViP bis Mitte 2028",
+          "text": "Das Verbundprojekt GeViP untersucht Gewalt und Vernachlässigung in der häuslichen Pflege und läuft bis Mitte 2028; es soll praxistaugliche Empfehlungen für Pflegebegutachtung und -beratung liefern. Für Heime zeigte eine ZQP-Befragung von 1.000 Leitungspersonen (2023), dass sich fast jeder Fünfte an mindestens einen Fall von Gewalt durch Mitarbeitende gegen Bewohner in den letzten 12 Monaten erinnert. Aktuellere, belastbare Heimzahlen für 2026 habe ich nicht gefunden.",
+          "quellen": [
+            {
+              "name": "KH Freiburg: Forschung Gewalt in Pflege",
+              "url": "https://www.kh-freiburg.de/de/hochschule/news/2026/07-15-forschung-gewalt-in-pflege"
+            },
+            {
+              "name": "ZQP-Report: Gewalt in der stationären Langzeitpflege",
+              "url": "https://www.zqp.de/wp-content/uploads/ZQP_Report_Gewalt_stationaere_Langzeitpflege.pdf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Gaming: Steam & PC",
+      "artikel": [
+        {
+          "titel": "Steam Winter Sale: 17. Dezember bis 4. Januar",
+          "unterzeile": "Der längste Sale im Kalender",
+          "text": "Laut mehreren Terminübersichten läuft der Steam Winter Sale 2026 vom 17. Dezember bis 4. Januar 2027, Start 19 Uhr deutscher Zeit. Der Herbst-Sale lief schon vom 1. bis 8. Oktober. Weitere Termine: Steam Next Fest vom 22. Februar bis 1. März 2027, Spring Sale 18. bis 25. März, Summer Sale 24. Juni bis 8. Juli. Die Termine stammen aus Drittseiten – Valve bestätigt sie meist erst kurz vorher.",
+          "quellen": [
+            {
+              "name": "SteamDB: Sale-Termine",
+              "url": "https://steamdb.info/sales/history/"
+            },
+            {
+              "name": "GameWatcher: Steam Sale List 2026",
+              "url": "https://www.gamewatcher.com/steam-sale-list-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Grafikkarten und RAM: Preise steigen weiter",
+          "unterzeile": "Speicherkrise trifft den PC-Markt",
+          "text": "Berichte sehen die Preise für Grafikkarten und Arbeitsspeicher Ende 2026 weiter steigend: Nvidia soll in diesem Jahr zum dritten Mal erhöht haben, AMD hebt Radeon-RX-9000-Preise um bis zu 20 Prozent an, eine vierte AMD-Erhöhung für November wird erwartet (bislang nur Prognose). Die genannten Preise sind meist US-Dollar-Listenpreise und Händlerschnappschüsse – nimm die Zahlen als Trend, nicht als Preisliste.",
+          "quellen": [
+            {
+              "name": "Tom's Hardware: GPU-Deals",
+              "url": "https://www.tomshardware.com/pc-components/gpus/best-gaming-graphics-card-gpu-deals"
+            },
+            {
+              "name": "eTeknix: RAM & GPU Prices",
+              "url": "https://www.eteknix.com/hub/ram-gpu-prices/"
+            },
+            {
+              "name": "Tech Insider: AMD Radeon Price Hike",
+              "url": "https://tech-insider.org/amd-radeon-price-hike-november-gddr6-kits-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "Steam Machine & Steam Frame: Verified-Programm erweitert",
+          "unterzeile": "Lieferstatus uneinheitlich berichtet",
+          "text": "Valve hat das Verified-Programm auf Steam Machine und Steam Frame ausgeweitet; beide wurden für den Sommer 2026 angekündigt. Zum Lieferstand widersprechen sich die Quellen: Wikipedia nennt für die Steam Machine den 29. Juni, für die Steam Frame den 18. September, eine weniger verlässliche Seite berichtet von Bestellfristen bis Dezember bzw. 2027. Preise sind nicht eindeutig bestätigt – im Zweifel auf Valves Seite schauen.",
+          "quellen": [
+            {
+              "name": "VGC: Steam Machine und Steam Frame für Sommer 2026",
+              "url": "https://www.videogameschronicle.com/news/steam-machine-and-steam-frame-confirmed-for-summer-2026-by-valve/"
+            },
+            {
+              "name": "Wikipedia: Steam Frame",
+              "url": "https://en.wikipedia.org/wiki/Steam_Frame"
+            },
+            {
+              "name": "Wikipedia: Steam Machine",
+              "url": "https://en.wikipedia.org/wiki/Steam_Machine"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Steam-Termine",
+        "punkte": [
+          "17.12.–4.1.: Winter Sale",
+          "22.2.–1.3.2027: Next Fest",
+          "18.–25.3.2027: Spring Sale",
+          "24.6.–8.7.2027: Summer Sale"
+        ],
+        "quellen": [
+          {
+            "name": "SteamDB",
+            "url": "https://steamdb.info/sales/history/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Nintendo Switch 2 & Konsolen",
+      "artikel": [
+        {
+          "titel": "Zelda: Ocarina of Time – Rekordstart auf Switch 2",
+          "unterzeile": "5,2 Millionen Verkäufe in vier Tagen",
+          "text": "Das Zelda-Ocarina-of-Time-Remake hat laut GamesRadar innerhalb von vier Tagen nach Start 5,2 Millionen Verkäufe erreicht und damit einen Nintendo-Rekord auf der Switch 2 aufgestellt; Pokémon Pokopia komme nicht annähernd heran. Nach Berichten stammen 810.000 Verkäufe aus Japan. Der Artikeltext war nur teilweise abrufbar, die Überschrift nennt die Kernzahl.",
+          "quellen": [
+            {
+              "name": "GamesRadar: Zelda Ocarina of Time Remake",
+              "url": "https://www.gamesradar.com/games/the-legend-of-zelda/zelda-ocarina-of-time-remake-sets-a-nintendo-record-for-the-switch-2-with-5-2-million-sales-in-4-days-not-even-pokemon-pokopia-comes-close/"
+            }
+          ]
+        },
+        {
+          "titel": "Nintendo-Zahlen: Hardware schwächelt, Spiele wachsen",
+          "unterzeile": "Umsatz unter den Erwartungen, Prognose bleibt",
+          "text": "Im Quartal Juli bis September verkaufte Nintendo laut CNBC 2,67 Millionen Switch 2 (minus 41 Prozent). Als Gründe nennt der Bericht Preiserhöhungen und steigende Speicherchip-Kosten. Der Umsatz lag bei 448,2 Milliarden Yen (erwartet: 481,4), der Nettogewinn bei 73,5 Milliarden Yen. Die Prognose von 16,5 Millionen Switch 2 bis März 2027 bleibt. Andere Berichte nennen abweichende Halbjahreszahlen – Details im Originalbericht.",
+          "quellen": [
+            {
+              "name": "CNBC: Nintendo Earnings",
+              "url": "https://www.cnbc.com/2026/11/05/nintendo-earnings-switch-2-sales.html"
+            },
+            {
+              "name": "Anime News Network: Switch 2 über 26 Mio.",
+              "url": "https://www.animenewsnetwork.com/news/2026-11-05/nintendo-switch-2-sells-over-26-million-units/.243567"
+            }
+          ]
+        },
+        {
+          "titel": "Sony erhöht PS5-Preise, PS5 Pro knapp",
+          "unterzeile": "GTA VI erscheint am 19. November",
+          "text": "Berichten zufolge hat Sony Anfang November neue Preise für PS5, PS5 Pro und PlayStation Portal angekündigt – höhere Speicherkosten werden als Grund genannt; neue Preise nennen die Quellen nicht. Laut mydealz ist die PS5 Pro kaum noch zur UVP zu bekommen, auch wegen des Starts von GTA VI am 19. November (nur PS5 und Xbox Series X|S). PCGH meldete zudem einen drastischen, womöglich fehlerhaften Preissprung der PS5 Pro bei Amazon.",
+          "quellen": [
+            {
+              "name": "mydealz: PS5 Pro vergriffen",
+              "url": "https://www.mydealz.de/magazin/ps5-pro-vergriffen-warum-wo-kaufen-gta-6-speicherknappheit-71759"
+            },
+            {
+              "name": "PCGH: PS5 Pro bei Amazon",
+              "url": "https://pcgameshardware.de/Playstation-5-Pro-Konsolen-280829/News/Wucher-wegen-GTA-6-Amazon-erhoeht-Preis-der-PS5-Pro-drastisch-1559584"
+            }
+          ]
+        },
+        {
+          "titel": "Konsolenmarkt 2026: Speicherkrise drückt Auslieferungen",
+          "unterzeile": "Marktforscher erwarten fast 20 Prozent weniger",
+          "text": "Laut einem Bericht erwarten Marktforscher für 2026 rund 20 Prozent weniger ausgelieferte Spielekonsolen, weil die Speicherkrise Preise und Produktion belastet. Dieselbe Quelle verweist auf Circana-Zahlen mit stark rückläufigen Xbox-Hardwareverkäufen in den USA. Die Angaben stammen aus Sekundärquellen und sind nicht unabhängig geprüft.",
+          "quellen": [
+            {
+              "name": "IT-Boltwise: Speicherkrise drückt Auslieferungen",
+              "url": "https://www.it-boltwise.de/spielekonsolen-speicherkrise-drueckt-auslieferungen-2026-um-fast-20.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Neue Spiele der Woche",
+        "punkte": [
+          "Mi 18.11.: Disney Dreamlight Valley – The Keepsake Sea (Switch 2 und Switch)",
+          "Do 19.11.: The Binding of Isaac: Repentance+ (Switch 2)",
+          "Do 19.11.: GTA VI (PS5, Xbox Series X|S)",
+          "Bereits erschienen am 12.11.: Pikmin 4 Switch-2-Edition, Metaphor: ReFantazio, Sonic Pico Park"
+        ],
+        "quellen": [
+          {
+            "name": "Nintendo: Spiele im November 2026",
+            "url": "https://www.nintendo.com/de-de/News/2026/November/Diese-Spiele-erscheinen-im-November-2026--3229019.html"
+          },
+          {
+            "name": "mydealz",
+            "url": "https://www.mydealz.de/magazin/ps5-pro-vergriffen-warum-wo-kaufen-gta-6-speicherknappheit-71759"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Tech & Netz",
+      "artikel": [
+        {
+          "titel": "Firefox 160: Mini-Fenster und lokale Spracherkennung",
+          "unterzeile": "Neue Funktionen im Browser",
+          "text": "Mozilla hat laut heise und Linux-Magazin Firefox 160 freigegeben. Neu sind anheftbare Mini-Fenster, eine lokale Spracherkennung für die Web Speech API und flexiblere Wiedergabegeschwindigkeit im Bild-in-Bild-Modus. Firefox für Android steht laut Wikipedia noch bei 159.0.1 – die 160 könnte dort noch folgen.",
+          "quellen": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/en"
+            },
+            {
+              "name": "Linux-Magazin",
+              "url": "https://www.linux-magazin.de/"
+            },
+            {
+              "name": "Wikipedia: Firefox for Android",
+              "url": "https://en.wikipedia.org/wiki/Firefox_for_Android"
+            }
+          ]
+        },
+        {
+          "titel": "Kmorph: Zweiter Linux-Kernel fängt Abstürze auf",
+          "unterzeile": "System läuft nach Crash in Sekunden weiter",
+          "text": "Laut iX (heise) übernimmt bei Kmorph ein zweiter Linux-Kernel im Absturzfall in Sekunden das System, sodass es weiterläuft. Der Bericht vom 11. November beschreibt das Konzept; für den Alltag ist das noch Forschung, nichts zum Installieren.",
+          "quellen": [
+            {
+              "name": "heise iX Newsticker",
+              "url": "https://www.heise.de/ix/newsticker"
+            }
+          ]
+        },
+        {
+          "titel": "Gemini Robotics bei Mercedes: 96 Prozent Erfolgsquote",
+          "unterzeile": "Test mit Googles Robotik-KI",
+          "text": "Heise berichtet über einen Versuch mit Googles Gemini Robotics 2.5 bei Mercedes-Benz, bei dem der Roboter auf eine Erfolgsrate von 96 Prozent kam. Was genau getestet wurde, steht im Original; es handelt sich um einen Test, nicht um einen Serieneinsatz.",
+          "quellen": [
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/en"
+            }
+          ]
+        },
+        {
+          "titel": "OpenAI sucht Lücken im Linux-Kernel",
+          "unterzeile": "Prototyp in kontrollierter Forschungsumgebung",
+          "text": "Laut Linux-Magazin hat OpenAI in einem Blogbeitrag einen Prototyp vorgestellt, der in einer kontrollierten Forschungsumgebung nach Sicherheitslücken im Linux-Kernel sucht. Passend dazu: heise hatte berichtet, dass Anthropics Claude eine elf Jahre unentdeckte Lücke im TCP/IP-Stack fand.",
+          "quellen": [
+            {
+              "name": "Linux-Magazin",
+              "url": "https://www.linux-magazin.de/"
+            },
+            {
+              "name": "heise online",
+              "url": "https://www.heise.de/en"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Brückenglätte",
+    "text": "Bei Temperaturen um den Gefrierpunkt frieren Brücken wie die A52-Ruhrtalbrücke zuerst zu, weil sie von unten auskühlen. Faustregel: früh vom Gas, nicht bremsen auf der Brücke, Abstand verdoppeln. Wer auf Nummer sicher geht, schaut vorher in die Verkehrsmeldungen."
+  }
+}
