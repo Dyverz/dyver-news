@@ -1,0 +1,621 @@
+{
+  "gruss": "Guten Morgen, Abenteurer! Der Samstag bringt Rückblick auf die Notfallwartung, Klassen-Tuning und einen Blick auf den Dezember.",
+  "aufmacher": {
+    "rubrik": "Hotfixes & Patches",
+    "titel": "Notfallwartung: Blizzard fährt Realms wegen Server-Crash herunter",
+    "unterzeile": "Zweite ungeplante Wartung binnen einer Woche – offizielle Ursache steht aus",
+    "text": "Blizzard hat am 13. November die WoW-Forever-Realms mit kurzem Vorlauf für eine Notfallwartung abgeschaltet. Laut Wowhead sollte ein dringender Server-Crash behoben werden, Mein-MMO zitiert die Ingame-Meldung mit einem kritischen Crash, der durch Neustarts gelöst werden müsse.\n\nZeitangaben und Dauer variieren je nach Quelle, eine Blizzard-Erklärung zur Ursache haben wir nicht gefunden. Bereits am 9. November gab es laut Sekundärquellen eine ungeplante Wartung. Die nächste reguläre Wartung ist in Amerika für den 17. und in Europa für den 18. November genannt; dann soll auch die Auktionshaus-Änderung folgen.",
+    "quellen": [
+      {
+        "name": "Wowhead: Realms offline wegen Server-Crash",
+        "url": "https://www.wowhead.com/forever/news/blizzard-taking-down-wow-forever-realms-in-30-minutes-to-fix-urgent-server-crash-383870"
+      },
+      {
+        "name": "Mein-MMO: Server Down am 13. November",
+        "url": "https://mein-mmo.de/en/wow-forever-server-down-on-november-13-in-live-ticker-start-time-status-duration,1596404/"
+      },
+      {
+        "name": "Space4Games: WoW Forever News (13.11.)",
+        "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Emergency-Wartung am 13. November: Realms für einen kritischen Server-Crash offline",
+          "unterzeile": "Blizzard kündigte die Abschaltung mit rund 30 Minuten Vorlauf an",
+          "text": "Blizzard hat am 13. November die WoW-Forever-Realms kurzfristig für eine Notfallwartung heruntergefahren. Wowhead meldet, Blizzard habe mit etwa 30 Minuten Vorlauf angekündigt, einen dringenden Server-Crash beheben zu wollen. Laut Mein-MMO lautete die Ingame-Meldung, man habe einen kritischen Server-Crash entdeckt, der über Neustarts behoben werden müsse; der Launcher nannte etwa eine Stunde.\n\nBei den Uhrzeiten widersprechen sich die Quellen: Seramate nennt 11:00 bis etwa 12:00 Uhr PST, Mein-MMO 20:00 Uhr MEZ. Eine offizielle Aussage zur Ursache oder zur genauen Rückkehr der Realms haben wir nicht gefunden.",
+          "quellen": [
+            {
+              "name": "Wowhead: Realms offline wegen Server-Crash",
+              "url": "https://www.wowhead.com/forever/news/blizzard-taking-down-wow-forever-realms-in-30-minutes-to-fix-urgent-server-crash-383870"
+            },
+            {
+              "name": "Mein-MMO: Server Down am 13. November",
+              "url": "https://mein-mmo.de/en/wow-forever-server-down-on-november-13-in-live-ticker-start-time-status-duration,1596404/"
+            },
+            {
+              "name": "Seramate: Emergency Maintenance",
+              "url": "https://seramate.com/news/forever/2026/11/13/forever-emergency-realm-maintenance-crash-4f8fae1b"
+            }
+          ]
+        },
+        {
+          "titel": "Nicht der erste Crash: Ausfall am 9. November und Disconnect-Welle am 12.",
+          "unterzeile": "Sekundärquellen zeichnen eine holprige erste Woche nach",
+          "text": "Laut allthings.how und IGGM gab es bereits am 9. November eine ungeplante Notfallwartung nach Login-Problemen. Timesaver.gg berichtet, die Server seien an dem Abend gegen 22:42 UTC ohne Blizzard-ETA zurückgekommen. Dieselbe Seite meldet außerdem eine neue Disconnect-Welle in den USA seit dem 12. November, 21:15 UTC, und schreibt, Blizzard habe dazu nichts gepostet. Das sind Spielerberichte und Tracker-Angaben, keine Blizzard-Bestätigung.",
+          "quellen": [
+            {
+              "name": "IGGM: Emergency Maintenance nach Login-Problemen",
+              "url": "https://www.iggm.com/news/wow-forever-servers-emergency-maintenance-outage"
+            },
+            {
+              "name": "Timesaver: Is WoW Forever Down?",
+              "url": "https://timesaver.gg/blog/is-wow-forever-down"
+            }
+          ]
+        },
+        {
+          "titel": "Build 1.60.1.70938 gesichtet",
+          "unterzeile": "Tracker-Seite will die neue Version am 13. November entdeckt haben",
+          "text": "The Forever Era führt in ihrem Blue Tracker den Build 1.60.1.70938 und gibt als Erkennungsdatum den 13. November 2026 an. Eine offizielle Blizzard-Bestätigung der Build-Nummer fanden wir nicht; die Zahl stammt von einer Fan-Seite. Ob der Build mit der Notfallwartung zusammenhängt, ist nicht belegt.",
+          "quellen": [
+            {
+              "name": "The Forever Era: Blue Tracker",
+              "url": "https://theforeverera.com/en/blue/"
+            }
+          ]
+        },
+        {
+          "titel": "Auktionshaus-Mindestgebühr bleibt vorerst bei 1 Silber",
+          "unterzeile": "Die Senkung auf 1 Kupfer kommt mit der Wartung: Amerika 17., Europa laut Quellen 18. November",
+          "text": "Space4Games fasst zusammen: Der Hotfix vom 10. November hätte die Mindest-Einstellgebühr im Auktionshaus von 1 Silber auf 1 Kupfer gesenkt. Blizzard hat das zurückgenommen, bis dahin gilt weiter 1 Silber. Die Änderung soll mit der wöchentlichen Wartung kommen, in Amerika am 17. und in Europa am 18. November. Zur Verkaufsgebühr schweigen die Notes.",
+          "quellen": [
+            {
+              "name": "Space4Games: WoW Forever News (13.11.)",
+              "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+            },
+            {
+              "name": "Blizzard-Forum: Hotfixes 11. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-11-2026/2403040"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Stand der Hotfixes",
+        "punkte": [
+          "13.11.: Notfallwartung wegen Server-Crash (Wowhead, Mein-MMO)",
+          "12.11.: Shaman-Tuning in allen Regionen live (Space4Games)",
+          "11.11.: Item Restoration deaktiviert, Judgement zählt als Ranged Attack",
+          "Build 1.60.1.70938: nur laut Fan-Tracker, unbestätigt",
+          "Nächste Wartung: Mo 17.11. (Amerika) / Di 18.11. (Europa)"
+        ],
+        "quellen": [
+          {
+            "name": "Space4Games: WoW Forever News (13.11.)",
+            "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+          },
+          {
+            "name": "Blizzard News: Hotfixes 11. November",
+            "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+          },
+          {
+            "name": "The Forever Era: Blue Tracker",
+            "url": "https://theforeverera.com/en/blue/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Hunter: Pets zurück auf 115 Prozent, Hawk-Schaden steigt",
+          "unterzeile": "Ein Bug hatte die Pet-Gesundheit auf 150 Prozent gesetzt",
+          "text": "Laut Space4Games wurde die Pet-Gesundheit der Hunter von versehentlichen 150 auf 115 Prozent gesenkt. Arcane Shot kostet auf allen Rängen 11 Prozent des Basis-Manas, und der Nahkampfschaden der Hawk steigt um rund 80 Prozent. Die Notes sind vom 10. November.",
+          "quellen": [
+            {
+              "name": "Space4Games: WoW Forever News (13.11.)",
+              "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+            },
+            {
+              "name": "PC Games Hardware: Patchnotes 10. November",
+              "url": "https://www.pcgameshardware.de/World-of-Warcraft-Forever-Spiel-78891/News/WoW-Forever-Patchnotes-Hotfixes-10-November-2026-Klassen-Gold-1559544/"
+            }
+          ]
+        },
+        {
+          "titel": "Warlock: Dämonen mit mehr Leben, Wrack beschleunigt DoTs",
+          "unterzeile": "Soul Siphon stärkt jetzt auch Drain Life, Drain Soul und Wrack",
+          "text": "Imp, Voidwalker, Incubus und Succubus bekommen rund 15 Prozent mehr Basis-Gesundheit. Bei Affliction verstärkt Soul Siphon nun Drain Life, Drain Soul und Wrack. Wrack beschleunigt DoTs, statt sie zu verstärken (Space4Games, Stand 10. November).",
+          "quellen": [
+            {
+              "name": "Space4Games: WoW Forever News (13.11.)",
+              "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+            },
+            {
+              "name": "PC Games Hardware: Patchnotes 10. November",
+              "url": "https://www.pcgameshardware.de/World-of-Warcraft-Forever-Spiel-78891/News/WoW-Forever-Patchnotes-Hotfixes-10-November-2026-Klassen-Gold-1559544/"
+            }
+          ]
+        },
+        {
+          "titel": "Shaman: Stormstrike auf 100 Prozent, Cooldown 8 Sekunden",
+          "unterzeile": "Waffen-Imbues und Waffen-Totems lassen sich jetzt parallel nutzen",
+          "text": "Seit dem 12. November gilt in allen Regionen: Stormstrike verursacht 100 statt 150 Prozent Waffenschaden und hat 8 statt 6 Sekunden Cooldown. Blizzard will Windfury wieder ins Zentrum der Spezialisierung rücken. Eine Überarbeitung der Shaman-Talente kommt laut Space4Games frühestens Anfang 2027 mit einem Patch.",
+          "quellen": [
+            {
+              "name": "Space4Games: WoW Forever News (13.11.)",
+              "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+            },
+            {
+              "name": "Space4Games: Patch Notes",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Paladin: Judgement ist jetzt ein Ranged Attack",
+          "unterzeile": "Kein Proc mehr für Melee-Effekte, dafür Ranged-Hit-Chance",
+          "text": "Laut den Hotfix-Notes vom 11. November zählt Judgement jetzt als Ranged Attack. Damit löst es keine auf Nahkampf basierenden Item- und Effekt-Trigger mehr aus und nutzt die Ranged-Hit-Chance des Paladins. Zudem verhindert ein Fix, dass Unsealed Fury Windfury-Totem-Echos erzeugt.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 11. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Mage: Arcane Blast hält 18 Sekunden",
+          "Mage: Spell Explore entfernt, nur Study nach der Quest",
+          "Alle Klassen: Legacy-Talent The Quick and the Dead wirkt wieder zuverlässig"
+        ],
+        "quellen": [
+          {
+            "name": "Space4Games: WoW Forever News (13.11.)",
+            "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Dezember-Raids im Überblick: 10, 20 und 40 Spieler",
+          "unterzeile": "Barrow Deeps, Hyjal Summit und Onyxia am 9. Dezember",
+          "text": "Am 9. Dezember öffnen für Level-60-Charaktere drei Raids: Barrow Deeps als 10er mit acht Bossen, Hyjal Summit als 20er mit 13 Bossen und Onyxia’s Lair als 40er. Die Größenangaben stammen aus Blizzards Raid-Übersicht; eine Drittquelle nennt für Barrow Deeps abweichend 20 Spieler, die übrigen Quellen 10.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Raid Overview",
+              "url": "https://news.blizzard.com/en-gb/article/24303009"
+            },
+            {
+              "name": "Warcraft Tavern: Three New Raids",
+              "url": "https://www.warcrafttavern.com/forever/news/three-new-raids-coming-to-world-of-warcraft-forever/"
+            }
+          ]
+        },
+        {
+          "titel": "Onyxia verlangt weiter die lange Attunement-Questreihe",
+          "unterzeile": "Die Vorquest ist nicht account-weit",
+          "text": "Wie Warcraft Tavern berichtet, gilt für Onyxia’s Lair weiterhin eine lange Questreihe, und jeder Raid-Teilnehmer braucht das Drakefire Amulet im Inventar. Das Attunement ist zumindest zum Start nicht account-weit. Für Barrow Deeps und Hyjal Summit nennt die Übersicht keine Vorquest; das ist ein Schluss aus dem Fehlen eines Eintrags, keine ausdrückliche Aussage.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern: Onyxia-Attunement",
+              "url": "https://www.warcrafttavern.com/forever/news/onyxias-lair-raid-will-still-require-attunement-in-wow-forever/"
+            },
+            {
+              "name": "Blizzard News: Raid Overview",
+              "url": "https://news.blizzard.com/en-gb/article/24303009"
+            }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire in Elwynn Forest: Buff und 14-Slot-Tasche",
+          "unterzeile": "Erstes Event bis zum 15. oder 16. November, Quellen uneins",
+          "text": "Die erste Darkmoon Faire steht seit dem 9. November südlich von Goldshire. Laut Icy Veins gibt Sayge einen Schadensbuff von 10 Prozent für zwei Stunden, der in Raids nicht greift; eine 14-Slot-Tasche kostet 50 Darkmoon Prize Tickets. Das Ende nennen Quellen unterschiedlich (15. oder 16. November), im Dezember soll die Faire nach Mulgore ziehen. Horde-Spieler müssen durch Allianz-Gebiet laufen.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Darkmoon Faire",
+              "url": "https://www.icy-veins.com/wow-forever/news/damage-buff-and-14-slot-bag-the-forever-darkmoon-faire-is-in-town/"
+            },
+            {
+              "name": "Mein-MMO: Darkmoon Faire",
+              "url": "https://mein-mmo.de/en/wow-forever-darkmoon-faire-has-started-for-the-first-time-everything-about-card-sets-world-buffs-dates-and-more,1595635/"
+            },
+            {
+              "name": "Warcraft Tavern: Darkmoon Faire Guide",
+              "url": "https://www.warcrafttavern.com/forever/guides/darkmoon-faire/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Riverglades, Mount Hyjal, Shen’dralas: die drei neuen Zonen",
+          "unterzeile": "Riverglades laut Guide für Level 30 bis 45",
+          "text": "Forever bringt drei neue Levelgebiete: The Riverglades, Mount Hyjal und Shen’dralas. Eine Guide-Seite nennt für Riverglades Level 30 bis 45; ein detaillierter Walkthrough fehlte in unseren Suchergebnissen. Blizzard hat dort laut Hotfix-Notes bereits mehrfach nachjustiert, etwa bei zu stark schlagenden Gegnern.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern: Skyborne",
+              "url": "https://www.warcrafttavern.com/forever/guides/skyborne/"
+            },
+            {
+              "name": "Blizzard News: Hotfixes 11. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-11-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Skyborne: Neutrale Elfen starten auf Zephras Isle",
+          "unterzeile": "Startgebiet für etwa Level 1 bis 12 oder 13, Hub ist Shen’dar Village",
+          "text": "Die Skyborne sind laut Gfinity neutrale Elfen und starten auf Zephras Isle, deren Level-Spanne Quellen mit 1 bis 12 bzw. bis 13 angeben. Hub ist Shen’dar Village; Skyborne-Shamans erhalten dort eigene Totem-Quests. Der Zugang ist laut Blizzard über die kostenpflichtigen Upgrade-Pakete möglich.",
+          "quellen": [
+            {
+              "name": "Gfinity: Skyborne & Zephras Isle",
+              "url": "https://www.gfinityesports.com/article/world-of-warcraft-forever-skyborne-race-zephras-isle-guide"
+            },
+            {
+              "name": "Icy Veins: Skyborne Official Info",
+              "url": "https://www.icy-veins.com/wow-forever/news/all-skyborne-official-info-customization-druid-forms-zones-classes-abilities-and-more/"
+            },
+            {
+              "name": "Blizzard News: Forever-Upgrades",
+              "url": "https://news.blizzard.com/en-us/article/24317866/purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth"
+            }
+          ]
+        },
+        {
+          "titel": "Quests ab Level 48 geben Gold, XP wird nicht in Gold gewandelt",
+          "unterzeile": "Beschluss aus den Hotfixes vom 10. November",
+          "text": "Die meisten Quests ab Level 48 zahlen seit dem 10. November zusätzlich Gold. Auf Level 60 bleibt es laut Space4Games bewusst dabei, dass Erfahrung nicht in Gold umgewandelt wird.",
+          "quellen": [
+            {
+              "name": "Space4Games: WoW Forever News (13.11.)",
+              "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeons geben 50 Prozent mehr XP",
+          "unterzeile": "Anpassung vom 8. November",
+          "text": "Gegner in Dungeons geben laut Space4Games seit dem 8. November 50 Prozent mehr Erfahrung. Das macht Dungeon-Leveln gegenüber dem Questen attraktiver; die Community diskutiert den Effekt weiter.",
+          "quellen": [
+            {
+              "name": "Space4Games: WoW Forever News (13.11.)",
+              "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Zwei Sammelberufe zum Start: Guides sind sich einig",
+          "unterzeile": "Mining plus Herbalism oder Skinning kosten fast nichts im Leveln",
+          "text": "Mehrere Gold-Guides empfehlen, mit zwei Sammelberufen zu starten, weil man sie beim Sammeln trainiert und sofort Auktionshaus-Ware erhält. Craftingberufe zahlen sich laut LFCarry später aus; wer auf Level 60 einen Sammelberuf gegen einen Craftingberuf tauscht, sammelt zudem Legacy Points. Die Gold-pro-Stunde-Zahlen der Seiten sind uneinheitlich und teils Verkaufsseiten entnommen.",
+          "quellen": [
+            {
+              "name": "Timesaver: Best Professions (Daten 8. Nov.)",
+              "url": "https://timesaver.gg/blog/wow-forever-best-professions-to-pick"
+            },
+            {
+              "name": "LFCarry: Gold Economy",
+              "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+            },
+            {
+              "name": "SkyCoach: Gold Farming",
+              "url": "https://skycoach.gg/blog/wow-forever/articles/how-to-farm-gold"
+            }
+          ]
+        },
+        {
+          "titel": "Was kostet Berufe-Leveln? Rechner nennt Live-Preise",
+          "unterzeile": "Cooking 4g 56s, Enchanting 55g 93s, Engineering 57g 49s",
+          "text": "Der Leveling-Rechner von Timesaver nennt für 1–300 auf dem US-Allianz-Auktionshaus: Cooking rund 4 Gold 56 Silber, First Aid ab 20 Gold 8 Silber. Enchanting liegt bei 55 Gold 93 Silber, Engineering bei 57 Gold 49 Silber. Das sind Leveling-Kosten, keine Gewinne, und sie schwanken mit dem Markt.",
+          "quellen": [
+            {
+              "name": "Timesaver: Profession Leveling Calculator",
+              "url": "https://timesaver.gg/tools/wow-forever/professions"
+            },
+            {
+              "name": "Timesaver: Best Professions (Daten 8. Nov.)",
+              "url": "https://timesaver.gg/blog/wow-forever-best-professions-to-pick"
+            }
+          ]
+        },
+        {
+          "titel": "Tailoring-Taschen: mehr Slots, mehr Stoff",
+          "unterzeile": "Fünf Taschen waren zu klein",
+          "text": "Laut Hotfix vom 11. November hatten fünf Taschen weniger Slots als beabsichtigt. Sie bieten jetzt mehr Platz und brauchen etwas mehr Stoff. Wer bereits Material auf Vorrat hat, sollte neu rechnen (Space4Games).",
+          "quellen": [
+            {
+              "name": "Space4Games: WoW Forever News (13.11.)",
+              "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+            }
+          ]
+        },
+        {
+          "titel": "Auktionshaus-Tipp: Nicht in der ersten Woche kaufen",
+          "unterzeile": "Guide warnt vor Launch-Wochen-Preisen",
+          "text": "Ein Gold-Guide rät, nicht in der Launch-Woche zu kaufen, weil alles überteuert ist, und nur zu handeln, wenn die Preisspanne Gebühren und Kosten deckt. Das ist eine Einschätzung der Guide-Seite.",
+          "quellen": [
+            {
+              "name": "LFCarry: Gold Economy",
+              "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Community",
+      "artikel": [
+        {
+          "titel": "Fünf Spieler zeitgleich auf Level 60 – nach rund 52 Stunden",
+          "unterzeile": "Horde-Gruppe auf dem Normal-Regelwerk in Europa, alle streamten",
+          "text": "Der World-First-Tracker sah Cloud Bells, einen untoten Paladin, am 7. November um 03:10 UTC auf Level 60. Die Magier Jokerd Prime, Vitochie Gofast und Burning Speed sowie der Troll-Schamane Lmgd Mmr folgten innerhalb von zwei Minuten. Laut Bericht zog der Paladin große Gegnergruppen, die Magier töteten sie mit Arcane Explosion; die letzten 4 Prozent von Level 59 seien am schwierigsten gewesen.",
+          "quellen": [
+            {
+              "name": "Wowhead: Erste Level-60-Spieler",
+              "url": "https://www.wowhead.com/forever/news/world-first-level-60s-in-wow-forever-in-less-than-three-days-383797"
+            },
+            {
+              "name": "guided.news: Fünf Spieler auf 60",
+              "url": "https://guided.news/en/news/wow-forever-first-group-level-60-52-hours/"
+            },
+            {
+              "name": "World First 60: Endstand",
+              "url": "https://worldfirst60.com/"
+            }
+          ]
+        },
+        {
+          "titel": "Auch US-PvP-Spieler erreichten Level 60",
+          "unterzeile": "aotc.gg führt Rangliste nach Abschluss durch Blizzard",
+          "text": "Laut aotc.gg erreichten auch Spieler auf US-PvP-Servern Level 60, etwa am 7. November um 16:58 UTC. Die Rangliste beruht auf dem Datum, an dem Blizzard den Abschluss verbucht hat.",
+          "quellen": [
+            {
+              "name": "aotc.gg: First to 60",
+              "url": "https://www.aotc.gg/forever/first-to-60"
+            }
+          ]
+        },
+        {
+          "titel": "PvP-Fraktionsbalance: Limits für Horde (NA) und Allianz (EU-RP)",
+          "unterzeile": "Kaivax: Ziel ist möglichst 50/50",
+          "text": "Blizzard-Community-Manager Kaivax schrieb am 10. November, man wolle die Fraktionen möglichst nah an 50/50 bringen. Eingeschränkt ist laut Forum die Charaktererstellung für Horde auf NA-PvP-Rulesets und für Allianz auf EU Roleplay-PvP. Die Prüfung schaut jetzt auf längere Trends. Zahlen sind überwiegend Fan-Tracker: einer sah am 8. November 58,6 Prozent Horde auf US-PvP, eine Zählung vom 29. Oktober 51,4 Prozent. Offizielle Zahlen gibt es nicht.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: PvP Faction Balance Updates",
+              "url": "https://us.forums.blizzard.com/en/wow/t/2408781/1"
+            },
+            {
+              "name": "Warcraft Tavern: PvP Faction Balance",
+              "url": "https://www.warcrafttavern.com/forever/news/blizzard-addresses-pvp-faction-balance-concerns-in-wow-forever/"
+            },
+            {
+              "name": "Mein-MMO: PvP-Beschränkungen",
+              "url": "https://mein-mmo.de/wow-forever-pvp-beschraenkungen-angepasst/"
+            },
+            {
+              "name": "Icy Veins: PvP-Realms und Fraktions-Limit",
+              "url": "https://www.icy-veins.com/wow-forever/news/wow-forevers-pvp-realms-come-with-a-major-faction-restriction/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Bestes Leveln: Hunter vorne, Warrior hinten – aber nur Projektion",
+          "unterzeile": "Beta ging nur bis Level 30",
+          "text": "Mehrere Leveling-Tier-Lists sehen Hunter an der Spitze, Frost Mage in S- oder A-Tier und Warrior als langsamsten Leveler. Die Listen weisen selbst darauf hin, dass die Beta nur bis Level 30 ging und Level 31–60 projiziert ist. Nimm sie als Orientierung, nicht als Gesetz.",
+          "quellen": [
+            {
+              "name": "NoobToBoss: Leveling Tier List",
+              "url": "https://noobtoboss.com/wowforever-leveling-tierlist/"
+            },
+            {
+              "name": "Mobalytics: Leveling Tier List",
+              "url": "https://mobalytics.gg/wow-forever/profile/mobalytics/tier-lists/wow-forever-leveling-class-tier-list"
+            },
+            {
+              "name": "Overgear: Best Leveling Class",
+              "url": "https://overgear.com/guides/wow-forever/best-leveling-class/"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-XP nutzen: Gruppen für Leveln",
+          "unterzeile": "Mit 50 Prozent Bonus lohnt sich die Gruppe",
+          "text": "Weil Dungeon-Gegner seit dem 8. November 50 Prozent mehr XP geben (Space4Games), kann sich eine feste Leveling-Gruppe lohnen. Das ist unsere Schlussfolgerung aus der Zahl; Blizzard gibt keine Empfehlung.",
+          "quellen": [
+            {
+              "name": "Space4Games: WoW Forever News (13.11.)",
+              "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+            }
+          ]
+        },
+        {
+          "titel": "Pouch of Violet Dust: Camp-Buffs für 2 Stunden",
+          "unterzeile": "Ephemeres Toy aus der Twitch-Aktion, Fenster ist vorbei",
+          "text": "Das Pouch of Violet Dust färbt das Lagerfeuer lila und verlängert alle Camp-Buffs um 1 Stunde auf insgesamt 2 Stunden; andere Spieler am Camp profitieren mit. Die Drop-Aktion lief bis 12. November 16:30 Uhr PST. Das Toy funktioniert nur während des Launch-Events, das Anfang Dezember endet, danach wird es aus der Sammlung entfernt.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Pouch of Violet Dust",
+              "url": "https://news.blizzard.com/en-us/article/24317678/set-your-campfire-ablaze-with-the-pouch-of-violet-dust"
+            },
+            {
+              "name": "Space4Games: WoW Forever News (13.11.)",
+              "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+            }
+          ]
+        },
+        {
+          "titel": "Gamepad-Support: So schaltest du ihn ein",
+          "unterzeile": "Beta-Funktion für alle XInput-Controller",
+          "text": "Escape, Options, Gameplay, Gamepad. Jede Trigger-Kombination öffnet eine eigene Leiste, drei Sets mit je vier Leisten und 28 Slots ergeben 84 Slots. LB+RB+B öffnet den Rucksack. Chat-Eingabe braucht noch eine Tastatur; Blizzard nennt das Feature Beta.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Gamepad",
+              "url": "https://news.blizzard.com/en-us/article/24316974/explore-wow-forever-with-a-gamepad"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Tipp: Gamepad-Shortcuts",
+        "punkte": [
+          "LB+RB+B: Backpack",
+          "LB+RB+Hoch: Quest Tracker",
+          "LB+RB+Runter: Chat",
+          "LB+RB+Y: Buffs"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard News: Gamepad",
+            "url": "https://news.blizzard.com/en-us/article/24316974/explore-wow-forever-with-a-gamepad"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Blizzard: Ankündigungen & Interviews",
+      "artikel": [
+        {
+          "titel": "Taldramir, the Whispering Wood: erstes Legendary, geschmiedet von Wētā",
+          "unterzeile": "Blizzard zeigt die Entstehung im Video „Forging Forever“",
+          "text": "Blizzard hat ein Video zur Entstehung von Taldramir veröffentlicht, dem ersten Legendary von WoW: Forever. Die Waffe wurde von Wētā geschmiedet, und Abenteurer sollen sie führen können. Details zum Erwerb nennt der Beitrag nicht.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Forging Forever",
+              "url": "https://news.blizzard.com/en-us/article/24317865/wow-forever-watch-forging-forever"
+            },
+            {
+              "name": "Blizzard News: WoW Weekly",
+              "url": "https://news.blizzard.com/en-us/article/24316097/the-adventure-begins-in-wow-forever-stay-connected-with-discord-and-taldramir-takes-shape-in-wow-weekly"
+            }
+          ]
+        },
+        {
+          "titel": "Podcast-Folge zur Lore mit Aggrend und Sean Copeland",
+          "unterzeile": "Senior Game Designer und Lore-Historian-Lead im Gespräch",
+          "text": "In der Lore-Folge des Forever-Podcasts sprechen Host Countdown To Classic und die Gäste PlatinumWoW und Nobbel mit Josh „Aggrend“ Greenfield und Sean Copeland über Story und Lore. Konkrete Aussagen listet die Blizzard-Seite nicht auf.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Podcast, Lore-Folge",
+              "url": "https://news.blizzard.com/en-us/article/24316981/watch-the-wow-forever-podcast-the-lore-episode"
+            }
+          ]
+        },
+        {
+          "titel": "Discord-Verknüpfung und Gilden-Chat-Spiegelung",
+          "unterzeile": "Gilden-Chat lässt sich mit Discord verbinden",
+          "text": "WoW Weekly: Moderne WoW und Forever unterstützen die Verknüpfung mit Discord und das Spiegeln des Gilden-Chats, etwa für Raid-Planung oder PvP-Rekrutierung.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW Weekly",
+              "url": "https://news.blizzard.com/en-us/article/24316097/the-adventure-begins-in-wow-forever-stay-connected-with-discord-and-taldramir-takes-shape-in-wow-weekly"
+            }
+          ]
+        },
+        {
+          "titel": "Upgrades: Skyborne-Pakete und Warcraft Forever Collection",
+          "unterzeile": "Collection bis 11. Januar 2027",
+          "text": "Forever ist mit Abo oder Spielzeit enthalten. Skyborne Heroic Pack bringt die Rasse, Zephras Isle, das Mount Cerulean Prideclaw und Kosmetik; das Epic Pack ergänzt 30 Tage Spielzeit. Die Warcraft Forever Collection enthält zusätzlich Warcraft III: Reforged und die Kampagne Forsaken Kingdom und ist bis 11. Januar 2027 erhältlich. Preise nennt Blizzard dort nicht; eine Drittseite nennt für das Heroic Pack 29,99 US-Dollar.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Forever-Upgrades",
+              "url": "https://news.blizzard.com/en-us/article/24317866/purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth"
+            },
+            {
+              "name": "Gfinity: Skyborne & Zephras Isle",
+              "url": "https://www.gfinityesports.com/article/world-of-warcraft-forever-skyborne-race-zephras-isle-guide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Wartung: 17. (Amerika) und 18. November (Europa)",
+          "unterzeile": "Dann soll die Auktionshaus-Änderung kommen",
+          "text": "Mit der wöchentlichen Wartung kehrt die Senkung der Mindestgebühr auf 1 Kupfer zurück. Space4Games nennt für Amerika den 17., für Europa den 18. November. Plane die Downtime ein.",
+          "quellen": [
+            {
+              "name": "Space4Games: WoW Forever News (13.11.)",
+              "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+            }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire läuft noch",
+          "unterzeile": "Ende 15. oder 16. November, danach Mulgore im Dezember",
+          "text": "Die Faire steht in Elwynn Forest; Buff und Taschen siehe Seite Dungeons & Raids. Wer die 14-Slot-Tasche will, sollte die Tickets noch dieses Wochenende einlösen.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Darkmoon Faire",
+              "url": "https://www.icy-veins.com/wow-forever/news/damage-buff-and-14-slot-bag-the-forever-darkmoon-faire-is-in-town/"
+            },
+            {
+              "name": "Warcraft Tavern: Darkmoon Faire Guide",
+              "url": "https://www.warcrafttavern.com/forever/guides/darkmoon-faire/"
+            }
+          ]
+        },
+        {
+          "titel": "9. Dezember: Drei Raids",
+          "unterzeile": "Barrow Deeps, Hyjal Summit, Onyxia",
+          "text": "Die drei Raids öffnen laut Blizzard am 9. Dezember für Level 60. Bis dahin plant Blizzard laut Space4Games keine großen Balance-Eingriffe mehr.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Raid Overview",
+              "url": "https://news.blizzard.com/en-gb/article/24303009"
+            },
+            {
+              "name": "Space4Games: WoW Forever News (13.11.)",
+              "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+            }
+          ]
+        },
+        {
+          "titel": "Pouch-Toy verschwindet Anfang Dezember",
+          "unterzeile": "Launch-Celebration-Event endet",
+          "text": "Das Toy aus der Twitch-Aktion wird nach dem Launch-Event Anfang Dezember aus den Sammlungen entfernt. Space4Games meldet, einige Spieler hätten den Drop nicht erhalten; eine Blizzard-Antwort fanden wir nicht.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Pouch of Violet Dust",
+              "url": "https://news.blizzard.com/en-us/article/24317678/set-your-campfire-ablaze-with-the-pouch-of-violet-dust"
+            },
+            {
+              "name": "Space4Games: WoW Forever News (13.11.)",
+              "url": "https://space4games.com/en/games-en/wow-forever-news-2026-11-13"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages",
+    "text": "Löse die 14-Slot-Tasche der Darkmoon Faire noch dieses Wochenende ein, und plane für Dienstag die Wartung ein."
+  }
+}
