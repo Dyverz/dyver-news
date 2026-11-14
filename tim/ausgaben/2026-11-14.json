@@ -1,0 +1,742 @@
+{
+  "gruss": "Guten Morgen, Tim! Samstag, 14. November: Der Haushalt 2027 hat die letzte Hürde im Ausschuss genommen, in Mülheim wird gebuddelt und gesperrt, und GTA VI rückt näher. Kaffee fertig? Dann los.",
+  "aufmacher": {
+    "rubrik": "Deutschland: Politik",
+    "titel": "Haushalt 2027: Rekordetat, 210 Milliarden neue Schulden und kein Geld für die Stromsteuer",
+    "unterzeile": "Der Haushaltsausschuss hat in einer 16-Stunden-Sitzung abgestimmt, am Dienstag treffen sich die Koalitionsspitzen",
+    "text": "In der Nacht zu Freitag hat der Haushaltsausschuss des Bundestags den Bundeshaushalt 2027 gebilligt. Der Kernhaushalt wächst auf rund 560,9 Milliarden Euro, ein Rekord. Zusammen mit den Sondervermögen für Infrastruktur und Bundeswehr kommen rund 210 Milliarden Euro neue Schulden zusammen, nur 2021 war es mit 215,4 Milliarden mehr. Der Verteidigungsetat steigt auf 109,7 Milliarden Euro.\n\nNicht drin ist die Stromsteuersenkung für alle: Die rund 5 Milliarden Euro im Jahr sind nicht gegenfinanziert. Kanzler Merz will sie ab 2027, die SPD ist bei den Finanzierungsvorschlägen skeptisch, am Dienstag reden die Koalitionsspitzen darüber. Gestrichen wurde dagegen die Plastiksteuer, die Zuckersteuer rutscht auf den 1. Januar 2028.\n\nDer Bundestag berät den Haushalt vom 24. bis 27. November. Ebenfalls im Zeitplan: die Pflegereform, bei der am 25. November die Expertenanhörung ansteht (Seite 6).",
+    "quellen": [
+      {
+        "name": "WirtschaftsWoche",
+        "url": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-steht-neuverschuldung-steigt-auf-210-milliarden-euro/100269598.html"
+      },
+      {
+        "name": "MarketScreener",
+        "url": "https://de.marketscreener.com/boerse-nachrichten/haushaltsausschuss-billigt-haushalt-fuer-2027-ce785ed9db8ef32c"
+      },
+      {
+        "name": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/politik/deutschland/bundestag-haushalt-bereit-fuer-bundestag-weiter-ohne-stromsteuer/100269597.html"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Mülheim an der Ruhr",
+      "artikel": [
+        {
+          "titel": "Frohnhauser Weg: BMW landet im Bach, drei Schwerverletzte",
+          "unterzeile": "Polizei prüft, ob ein illegales Autorennen dahintersteckt",
+          "text": "In der Nacht zu Donnerstag, genauer am späten Mittwochabend gegen 23.32 Uhr, ist in Mülheim-Heißen ein BMW von der Straße abgekommen. Der 20-jährige Fahrer war auf dem Frohnhauser Weg in Richtung Essen unterwegs, erkannte laut ersten Ermittlungen eine Kurve zu spät, touchierte eine Laterne, durchbrach einen Holzzaun und blieb in einem Bach liegen.\n\nIm Wagen saßen vier junge Männer aus Mülheim. Drei wurden schwer verletzt, ein 19-Jähriger leicht; alle kamen in Krankenhäuser. Auto und Führerschein des Fahrers hat die Polizei sichergestellt. Sie prüft den Verdacht eines verbotenen Kraftfahrzeugrennens und der Gefährdung des Straßenverkehrs. Die Ermittlungen laufen, die zu hohe Geschwindigkeit ist bisher nur eine erste Einschätzung.\n\nKleiner Hinweis: Die Quellen nennen den Wochentag unterschiedlich. Die Polizeimeldung selbst nennt keinen, Lokalklick und Radio Mülheim sprechen vom Mittwoch.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim",
+              "url": "https://www.radiomuelheim.de/artikel/der-tag-bei-uns-am-13-november-2806125"
+            },
+            {
+              "name": "Lokalklick",
+              "url": "https://lokalklick.eu/2026/11/13/muelheim-auto-landet-nach-unfall-im-bach-drei-schwerverletzte"
+            },
+            {
+              "name": "Polizei Essen (Presseportal)",
+              "url": "https://www.presseportal.de/blaulicht/pm/11562/6389899"
+            }
+          ]
+        },
+        {
+          "titel": "Walkmühlenstraße: Neue Decke, ab 23. November komplett dicht",
+          "unterzeile": "Bis 22. November Einbahnstraße, Buslinie 151 fährt Umleitung",
+          "text": "Die Walkmühlenstraße zwischen B1-Brücke und Essener Straße bekommt vom 9. bis 27. November eine neue Fahrbahndecke. Bis zum 22. November ist sie Einbahnstraße Richtung Essener Straße, Anwohner kommen noch durch. Ab dem 23. November ist die Straße für die Asphaltarbeiten komplett gesperrt, auch für Anwohner. Fußwege bleiben die ganze Zeit offen.\n\nDie Buslinie 151 fährt eine Umleitung; die Haltestellen Walkmühle, Fischenbeck und Fünter Weg entfallen, Ruhrbahn richtet eine Ersatzhaltestelle auf der Essener Straße ein.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim",
+              "url": "https://www.radiomuelheim.de/artikel/walkmuehlenstrasse-in-muelheim-vollsperrung-ab-9-november-2799703"
+            }
+          ]
+        },
+        {
+          "titel": "Samstag am Kreuz Kaiserberg: Baumschnitt sorgt für Sperrungen",
+          "unterzeile": "A3 Richtung Arnheim und A40 Richtung Venlo betroffen",
+          "text": "Die Autobahn GmbH schneidet am Samstag, 14. November, am Autobahnkreuz Kaiserberg Bäume und Büsche zurück. Auf der A3 Richtung Arnheim wird zwischen den Kreuzen Breitscheid und Kaiserberg gesperrt. Auf der A40 Richtung Venlo gibt es zwischen Mülheim-Dümpten und Kaiserberg Einschränkungen mit abwechselnden Spursperrungen. Plan lieber etwas mehr Zeit ein, wenn du Richtung Duisburg oder Oberhausen musst.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim",
+              "url": "https://www.radiomuelheim.de/artikel/der-tag-bei-uns-am-13-november-2806125"
+            },
+            {
+              "name": "news.de: A40-Tagesbaustelle",
+              "url": "https://www.news.de/auto/860180926/verkehrsmeldung-nw-muelheim-an-der-ruhr-zur-verkehrsstoerung-wegen-baustelle-am-14-11-2026-beschraenkungen-im-verkehr-nordrhein-westfalen-staugefahr-in-rechtsruhr-nord-auf-a40/1/"
+            }
+          ]
+        },
+        {
+          "titel": "Großübung am Samstag: Feuerwehr Mülheim übt den Ernstfall",
+          "unterzeile": "Simuliertes Zugunglück in Oberhausen, 8 bis 13 Uhr",
+          "text": "Am Samstag von 8 bis 13 Uhr üben Feuerwehr, Polizei, ASB, Malteser, DRK und THW einen Massenanfall von Verletzten. Angenommen wird ein Zugunglück in Oberhausen mit mindestens 20 Verletzten. Die Feuerwehr Mülheim stellt Rettungswagen, koordiniert und transportiert die Verletzten in Kliniken. Ziel ist, Abläufe und Zusammenarbeit zu trainieren. Es ist eine Übung, kein echter Einsatz.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim",
+              "url": "https://www.radiomuelheim.de/artikel/der-tag-bei-uns-am-13-november-2806125"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Baustellen im Blick",
+        "punkte": [
+          "Walkmühlenstraße: bis 22.11. Einbahnstraße, 23.–27.11. Vollsperrung",
+          "Sa 14.11., 8–17 Uhr: A40 Styrum–Dümpten, Spur gesperrt",
+          "Sa 14.11.: Kaiserberg, A3 und A40 mit Sperrungen",
+          "Bus 151: Umleitung, Ersatzhaltestelle Essener Straße"
+        ],
+        "quellen": [
+          {
+            "name": "Radio Mülheim",
+            "url": "https://www.radiomuelheim.de/artikel/walkmuehlenstrasse-in-muelheim-vollsperrung-ab-9-november-2799703"
+          },
+          {
+            "name": "news.de",
+            "url": "https://www.news.de/auto/860180926/verkehrsmeldung-nw-muelheim-an-der-ruhr-zur-verkehrsstoerung-wegen-baustelle-am-14-11-2026-beschraenkungen-im-verkehr-nordrhein-westfalen-staugefahr-in-rechtsruhr-nord-auf-a40/1/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim & Ruhrgebiet",
+      "artikel": [
+        {
+          "titel": "Wochenende im Revier: Designmarkt auf Zollverein und Trödel überall",
+          "unterzeile": "Handverlesen, Flohmärkte, Führung auf Halde Hoheward",
+          "text": "Auf Zeche Zollverein läuft am Samstag und Sonntag der Designmarkt „Handverlesen“ in einer historischen Industriehalle. Laut Ruhr Nachrichten ist der Eintritt frei. Wer eher auf Schnäppchen aus ist: In NRW gibt es am Wochenende viele Trödelmärkte, im Ruhrgebiet unter anderem an der Ruhr-Uni Bochum und in Dinslaken.\n\nDer RVR bietet am Samstag außerdem eine Kleinbus-Führung über die Halde Hoheward in Herten an (14 Uhr, 16 Euro). Abends listet ruhrgebiet-kultur.de „ÜberLeben! Erinnerungen an den letzten Schnee“ auf Zollverein (19 Uhr). Die Terminlisten sind unterschiedlich aktuell, schau vor dem Losfahren beim Veranstalter nach.",
+          "quellen": [
+            {
+              "name": "Ruhr Nachrichten",
+              "url": "https://www.ruhrnachrichten.de/regionales/troedelmarkt-nrw-14-und-15-november-2026-flohmarkt-samstag-sonntag-wochenende-w1269799-2002288381/"
+            },
+            {
+              "name": "RVR-Veranstaltungen",
+              "url": "https://www.rvr.ruhr/service/veranstaltungen-des-rvr/"
+            },
+            {
+              "name": "Ruhrgebiet-Kultur",
+              "url": "https://www.ruhrgebiet-kultur.de/"
+            }
+          ]
+        },
+        {
+          "titel": "In Mülheim: Jazz, Kabarett und Kindertrödel",
+          "unterzeile": "Was laut Veranstaltungsportalen am Wochenende läuft",
+          "text": "Laut regioactive spielt am Samstag „ME & THE GUYS“ in der SOL Kulturbar, im Schilderhaus steigt um 20 Uhr eine Schlager-&-Discofox-Party, im Phönix Club tritt um 21.30 Uhr LunaSquare auf. Am Sonntag um 20 Uhr gibt es in der SOL Kulturbar das Bruno Venturim Trio (Modern Jazz mit brasilianischer Seele). Im Ringlokschuppen Ruhr läuft „Auf Augenhöhe“ mit Jonas Greiner, der Termin ist in den Listen nicht eindeutig. Um 13 Uhr beginnt am Sonntag im Rhein-Ruhr Zentrum der Kindertrödel, und die Weiße Flotte fährt mit Martinsgans (12.30 Uhr). Das Portal wirkt teils veraltet, Zeiten bitte beim Veranstalter prüfen.",
+          "quellen": [
+            {
+              "name": "regioactive",
+              "url": "https://www.regioactive.de/events/21167/muelheim/veranstaltungen-party-konzerte"
+            },
+            {
+              "name": "mvp.de Mülheim",
+              "url": "https://www.mvp.de/muelheim-an-der-ruhr/veranstaltungen/"
+            }
+          ]
+        },
+        {
+          "titel": "Landtag NRW: Besoldung und Haushalt 2027 im Ausschuss",
+          "unterzeile": "Plus 1,68 Prozent für Beamte im Entwurf",
+          "text": "Die Landesregierung will die Grundgehälter der Landesbeamten laut Regierungsentwurf (Drucksache 18/21744) linear um 1,68 Prozent anheben, verbunden mit einer strukturellen Neuausrichtung des Besoldungs- und Versorgungsrechts. Der Unterausschuss Personal will am 17. November die Anhörung auswerten und eine Beschlussempfehlung an den Haushalts- und Finanzausschuss geben, der am 19. November tagt. Das Faires-Wohnen-Gesetz war am 12. November Thema einer Ausschuss-Anhörung. Das sind Entwürfe und Termine, noch keine Beschlüsse.",
+          "quellen": [
+            {
+              "name": "Landtag NRW, Drucksache 18/21744",
+              "url": "https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMD18-21744.pdf"
+            },
+            {
+              "name": "Landtag NRW: Terminplan HFA",
+              "url": "https://www.landtag.nrw.de/home/der-landtag/ausschusse-und-gremien-1/fachausschusse-1/a07-haushalts--und-finanzausschu/terminplan-2.html"
+            }
+          ]
+        },
+        {
+          "titel": "Dortmund: Unfall nach mutmaßlichem Autorennen am Schwanenwall",
+          "unterzeile": "Zwei Leichtverletzte",
+          "text": "Der Revierticker meldet für den 8. November einen Unfall nach einem mutmaßlichen Autorennen am Dortmunder Schwanenwall. Zwei Menschen wurden leicht verletzt. Mehr Details nennt die Kurzmeldung nicht. Wie bei dem Mülheimer Fall gilt: Ob es ein Rennen war, klären die Ermittlungen.",
+          "quellen": [
+            {
+              "name": "Revierticker",
+              "url": "https://revierticker.de/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine der Woche",
+        "punkte": [
+          "Sa 14.11., 8–13 Uhr: Großübung Rettungsdienste (Oberhausen)",
+          "Sa/So 14./15.11.: Designmarkt „Handverlesen“, Zeche Zollverein",
+          "So 15.11., 13 Uhr: Kindertrödel im Rhein-Ruhr Zentrum",
+          "So 15.11., 20 Uhr: Bruno Venturim Trio, SOL Kulturbar",
+          "Di 17.11.: Landtag, Unterausschuss Personal",
+          "Do 19.11.: Landtag, Haushalts- und Finanzausschuss"
+        ],
+        "quellen": [
+          {
+            "name": "Ruhr Nachrichten",
+            "url": "https://www.ruhrnachrichten.de/regionales/troedelmarkt-nrw-14-und-15-november-2026-flohmarkt-samstag-sonntag-wochenende-w1269799-2002288381/"
+          },
+          {
+            "name": "regioactive",
+            "url": "https://www.regioactive.de/events/21167/muelheim/veranstaltungen-party-konzerte"
+          },
+          {
+            "name": "Landtag NRW",
+            "url": "https://www.landtag.nrw.de/home/der-landtag/ausschusse-und-gremien-1/fachausschusse-1/a07-haushalts--und-finanzausschu/terminplan-2.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Politik",
+      "artikel": [
+        {
+          "titel": "Haushalt 2027 steht im Ausschuss: Rund 210 Milliarden neue Schulden",
+          "unterzeile": "Zweithöchste Neuverschuldung der Bundesrepublik",
+          "text": "Nach einer rund 16-stündigen Schlusssitzung hat der Haushaltsausschuss den Bundeshaushalt 2027 in der Nacht zu Freitag gebilligt. Der Kernhaushalt umfasst etwa 560,9 Milliarden Euro, ein Rekord und 5,5 Milliarden mehr als im Regierungsentwurf. Zusammen mit den Sondervermögen für Infrastruktur (57,8 Mrd.) und Bundeswehr (29,6 Mrd.) kommen rund 210 Milliarden Euro neue Schulden zusammen. Nur 2021 war es mit 215,4 Milliarden mehr.\n\nDer Verteidigungsetat steigt von 82,7 auf 109,7 Milliarden Euro, Arbeit und Soziales von 197,3 auf 203,3 Milliarden. Beim Verkehr sinkt er von 27,9 auf 25,3 Milliarden, die Investmittel der Autobahn GmbH werden um fast 2 Milliarden gekürzt. Der Bundestag soll den Haushalt vom 24. bis 27. November beraten und beschließen.",
+          "quellen": [
+            {
+              "name": "WirtschaftsWoche",
+              "url": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-steht-neuverschuldung-steigt-auf-210-milliarden-euro/100269598.html"
+            },
+            {
+              "name": "MarketScreener",
+              "url": "https://de.marketscreener.com/boerse-nachrichten/haushaltsausschuss-billigt-haushalt-fuer-2027-ce785ed9db8ef32c"
+            }
+          ]
+        },
+        {
+          "titel": "Was fliegt raus, was wird verschoben",
+          "unterzeile": "Plastiksteuer weg, Zuckersteuer erst 2028",
+          "text": "Die geplante Steuer auf Kunststoffverpackungen ist gestrichen; sie sollte 2027 rund 670 Millionen Euro bringen. Die Steuer auf gesüßte Getränke wird um sechs Monate auf den 1. Januar 2028 verschoben. Geplante Kürzungen bei Sozialleistungen wurden laut Bericht weitgehend zurückgenommen, der Bundeszuschuss zur Rente sinkt um 3 Milliarden Euro. Für die Bundesagentur für Arbeit ist ein Darlehen von 8,2 Milliarden Euro vorgesehen.",
+          "quellen": [
+            {
+              "name": "WirtschaftsWoche",
+              "url": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-steht-neuverschuldung-steigt-auf-210-milliarden-euro/100269598.html"
+            }
+          ]
+        },
+        {
+          "titel": "Stromsteuer für alle: Koalitionsrunde am Dienstag",
+          "unterzeile": "Rund 5 Milliarden Euro fehlen",
+          "text": "Die Senkung der Stromsteuer auf das EU-Minimum für alle bleibt im Haushalt vorerst aus, weil die rund 5 Milliarden Euro im Jahr nicht gegenfinanziert sind. Kanzler Merz will sie ab 2027, Finanzminister Klingbeil ist nur bei verlässlicher Finanzierung dabei. Vorschläge wie EEG-Überschüsse oder Kürzungen bei Klimaprogrammen sind umstritten, die SPD ist skeptisch. Die Koalitionsspitzen reden am Dienstag darüber; ein Kompromiss müsste in der Haushaltswoche nachgetragen werden.",
+          "quellen": [
+            {
+              "name": "WirtschaftsWoche",
+              "url": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-steht-neuverschuldung-steigt-auf-210-milliarden-euro/100269598.html"
+            },
+            {
+              "name": "Handelsblatt",
+              "url": "https://www.handelsblatt.com/politik/deutschland/bundestag-haushalt-bereit-fuer-bundestag-weiter-ohne-stromsteuer/100269597.html"
+            }
+          ]
+        },
+        {
+          "titel": "Jahressteuergesetz 2026 beschlossen",
+          "unterzeile": "Mehr Zinsen, Bescheide nur noch digital",
+          "text": "Der Bundestag hat am Donnerstag, 12. November, das Jahressteuergesetz 2026 beschlossen (Union und SPD dafür, AfD und Grüne dagegen, Linke enthalten). Der Zinssatz für Nachzahlungen und Erstattungen steigt ab 2027 von 0,15 auf 0,3 Prozent pro Monat. Einkommensteuerbescheide gibt es ab 2027 nur noch elektronisch, wenn du ein Elster-Konto hast. Gestrichen wurde im Ausschuss die geplante Verkürzung der Frist für die erste Tätigkeitsstätte von 48 auf 24 Monate.",
+          "quellen": [
+            {
+              "name": "Deutscher Bundestag",
+              "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw46-de-jahressteuergesetz-1232588"
+            }
+          ]
+        },
+        {
+          "titel": "Bundestag: Bundeswehr-Bauten, Mittelmeer-Mandat, Mietendeckel-Debatte",
+          "unterzeile": "Das lief in der Sitzungswoche",
+          "text": "Der Bundestag hat laut Bericht das Bundeswehr-Infrastrukturbeschleunigungsgesetz verabschiedet; es soll Planung und Bau militärischer Anlagen beschleunigen und braucht noch den Bundesrat. Für die NATO-Operation SEA GUARDIAN im Mittelmeer stimmte er die Fortsetzung mit bis zu 550 Soldaten zu. Am Freitag gab es erste Beratungen über einen bundesweiten Mietendeckel (Antrag der Linken) und strengere KI-Sicherheitsvorgaben (Antrag der Grünen).",
+          "quellen": [
+            {
+              "name": "mitmischen.de: Diese Woche im Bundestag",
+              "url": "https://www.mitmischen.de/parlament/diese-woche-im-bundestag-ueberblick/diese-woche-im-bundestag-kw46-2026"
+            },
+            {
+              "name": "Sicherheit & Verteidigung",
+              "url": "https://suv.report/bundestag-beschliesst-bundeswehr-infrastrukturbeschleunigungsgesetz/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Die nächsten Termine",
+        "punkte": [
+          "Di 17.11.: Koalitionsausschuss, Thema Stromsteuer",
+          "Fr 20.11.: Bundesrat, erster Durchgang Pflegereform",
+          "24.–27.11.: Haushaltswoche im Bundestag",
+          "11.12.: Pflegereform, 2./3. Lesung geplant"
+        ],
+        "quellen": [
+          {
+            "name": "WirtschaftsWoche",
+            "url": "https://www.wiwo.de/politik/deutschland/bundeshaushalt-2027-steht-neuverschuldung-steigt-auf-210-milliarden-euro/100269598.html"
+          },
+          {
+            "name": "AOK zur Pflegereform",
+            "url": "https://www.aok.de/pp/gesetz/pnog/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Wirtschaft, Gesellschaft, Verbraucher",
+      "artikel": [
+        {
+          "titel": "SchuldnerAtlas 2026: 7,36 Millionen Erwachsene überschuldet",
+          "unterzeile": "NRW hat die zweithöchste Quote aller Länder",
+          "text": "Creditreform zählt zum Stichtag 1. Oktober 7,36 Millionen Erwachsene mit Überschuldungsmerkmalen, das sind 293.000 mehr als im Vorjahr. Die Quote liegt bei 10,58 Prozent (Vorjahr 10,16). Nordrhein-Westfalen kommt auf 13,19 Prozent und liegt damit hinter Bremen (15,89) auf Platz zwei.\n\nAls Gründe nennt Creditreform hohe Lebenshaltungs-, Energie- und Wohnkosten, Stellenabbau in der Industrie und Konsum auf Pump, etwa Ratenkauf und „Buy now, pay later“. Am höchsten ist die Quote bei den 30- bis 39-Jährigen (17,04 Prozent). Die Datenbasis wurde erweitert, ein direkter Vergleich mit älteren Atlanten geht nicht.",
+          "quellen": [
+            {
+              "name": "Creditreform",
+              "url": "https://www.creditreform.de/aktuelles-wissen/pressemeldungen-fachbeitraege/news-details/show/schuldneratlas-2026-ueberschuldung-steigt-auf-736-millionen-betroffene"
+            }
+          ]
+        },
+        {
+          "titel": "Insolvenzen im Oktober: 1.683 Fälle, viele Jobs betroffen",
+          "unterzeile": "IWH: Entspannung zum Jahresende erwartet",
+          "text": "Das IWH zählt für Oktober 1.683 Insolvenzen von Personen- und Kapitalgesellschaften, 1 Prozent mehr als im September und 9 Prozent mehr als vor einem Jahr. Bei den größten zehn Prozent der Pleitefirmen waren rund 16.800 Arbeitsplätze betroffen, 45 Prozent mehr als im Vormonat. Allein im verarbeitenden Gewerbe ging es um etwa 9.400 Stellen. Das IWH erwartet im November und Dezember weniger Fälle. Der DIHK rechnet für 2026 insgesamt mit rund 26.000 Unternehmensinsolvenzen, dem höchsten Wert seit 2012.",
+          "quellen": [
+            {
+              "name": "retail-news.de (IWH-Zahlen)",
+              "url": "https://retail-news.de/firmeninsolvenzen-oktober-2026-mehr-jobs/"
+            },
+            {
+              "name": "Finanznachrichten (DIHK-Prognose)",
+              "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69943792-deutsche-insolvenzen-steigen-2026-um-8-auf-hoechsten-stand-seit-2013-und-bleiben-2027-unvermindert-hoch-007.htm"
+            }
+          ]
+        },
+        {
+          "titel": "Arbeitsmarkt und Stimmung: Quote 6,3 Prozent, Firmen skeptisch",
+          "unterzeile": "Industrie hat seit 2019 fast eine halbe Million Stellen verloren",
+          "text": "Die Arbeitslosenquote ist im Oktober laut Bundesagentur um 0,1 Punkte auf 6,3 Prozent gesunken. Das ifo-Beschäftigungsbarometer stieg leicht, die Firmen planen etwas weniger Stellenabbau. Die Stimmung bleibt trotzdem mau: In der DIHK-Umfrage erwarten 28 Prozent der Unternehmen schlechtere Geschäfte, nur 15 Prozent bessere. Laut MIT-Konjunkturbrief hat die Industrie seit 2019 fast eine halbe Million sozialversicherungspflichtige Jobs verloren. Die Zahlen stammen aus einem Verbandsbrief, bitte als Einordnung lesen.",
+          "quellen": [
+            {
+              "name": "MIT-Konjunkturbrief November 2026",
+              "url": "https://www.mit-bund.de/content/mit-konjunkturbrief-mittelstand-aktuell-november-2026"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen des Tages",
+        "punkte": [
+          "Inflation Oktober: 2,8 Prozent",
+          "Arbeitslosenquote Oktober: 6,3 Prozent",
+          "Überschuldungsquote NRW: 13,19 Prozent",
+          "Insolvenzen Oktober (IWH): 1.683"
+        ],
+        "quellen": [
+          {
+            "name": "Statistisches Bundesamt (via aktiencheck)",
+            "url": "https://aktiencheck.de/artikel/statistisches-bundesamt-inflationsrate-im-oktober-2026-bei-28"
+          },
+          {
+            "name": "Creditreform",
+            "url": "https://www.creditreform.de/aktuelles-wissen/pressemeldungen-fachbeitraege/news-details/show/schuldneratlas-2026-ueberschuldung-steigt-auf-736-millionen-betroffene"
+          },
+          {
+            "name": "retail-news.de",
+            "url": "https://retail-news.de/firmeninsolvenzen-oktober-2026-mehr-jobs/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Politik, Recht, Pflegeversicherung",
+      "artikel": [
+        {
+          "titel": "Pflegereform: Der Fahrplan bis Weihnachten",
+          "unterzeile": "Anhörung am 25. November, Bundestag am 11. Dezember",
+          "text": "Das Pflegeneuordnungsgesetz (PNOG) ist weiter im Verfahren: Kabinett am 30. September, erste Lesung im Bundestag am 5. November. Als Nächstes folgen der erste Durchgang im Bundesrat am 20. November, die Expertenanhörung im Bundestag am 25. November, die 2. und 3. Lesung am 11. Dezember und der zweite Bundesrat-Durchgang am 18. Dezember. In Kraft treten soll es gestaffelt zum 1. Januar 2027 und 1. Januar 2028. Die Koalitionsfraktionen verhandeln noch über Nachbesserungen, damit der Übergang nicht zu abrupt wird. Bis das Gesetz gilt, bleiben die aktuellen Regeln bestehen.",
+          "quellen": [
+            {
+              "name": "AOK-Bundesverband",
+              "url": "https://www.aok.de/pp/gesetz/pnog/"
+            },
+            {
+              "name": "Volksstimme",
+              "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/pflegereform-im-bundestag-was-soll-kommen-4350642"
+            },
+            {
+              "name": "Bundestag Drucksache 21/8869",
+              "url": "https://dserver.bundestag.de/btd/21/088/2108869.pdf"
+            }
+          ]
+        },
+        {
+          "titel": "Wer zahlt mehr: Beiträge im Entwurf",
+          "unterzeile": "Kinderlosenzuschlag, Bemessungsgrenze, Minijobs",
+          "text": "Nach den Berichten steigt der Beitragszuschlag für Kinderlose 2027 von 0,6 auf 0,9 Punkte, die Beitragsbemessungsgrenze wird angehoben (Volksstimme nennt 300 Euro). Ab 2028 sollen Arbeitgeber auch für Minijobber zahlen, und die kostenlose Mitversicherung von Ehepartnern wird eingeschränkt, außer sie erziehen Kinder oder pflegen. Für die Pflegekasse bringt das laut AOK 2027 etwa 7,6 Milliarden Euro Entlastung, bis 2030 17,4 Milliarden. Die Volksstimme nennt für 2027 dagegen 6,25 Milliarden Euro, die Zahlen unterscheiden sich je nach Quelle.",
+          "quellen": [
+            {
+              "name": "AOK-Bundesverband",
+              "url": "https://www.aok.de/pp/gesetz/pnog/"
+            },
+            {
+              "name": "Volksstimme",
+              "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/pflegereform-im-bundestag-was-soll-kommen-4350642"
+            }
+          ]
+        },
+        {
+          "titel": "Was sich bei den Leistungen ändern soll",
+          "unterzeile": "Budgets statt Einzelleistungen, Pflegegrad 1 verliert Entlastungsbetrag",
+          "text": "Geplant ist, Leistungen stärker in Budgets zu bündeln, etwa ein Sozialraumbudget ab Pflegegrad 2. Der Entlastungsbetrag für Pflegegrad 1 soll wegfallen, neu kommen ein Überbrückungsbudget für akute Notlagen und ein Anspruch auf Pflegebegleitung. Die zunächst geplante Halbierung des Pflegegelds bei Ersteinstufung in Pflegegrad 2 oder 3 ist laut AOK vom Tisch. Bei den Details widersprechen sich Berichte (zum Beispiel zur Verhinderungspflege und zum Start der Inflationsanpassung), deshalb gilt: Entwurf prüfen, nicht auf Schlagzeilen verlassen.",
+          "quellen": [
+            {
+              "name": "AOK-Bundesverband",
+              "url": "https://www.aok.de/pp/gesetz/pnog/"
+            },
+            {
+              "name": "Volksstimme",
+              "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/pflegereform-im-bundestag-was-soll-kommen-4350642"
+            }
+          ]
+        },
+        {
+          "titel": "Kritik von Kassen, Verbänden und Opposition",
+          "unterzeile": "„Minimalkompromiss“ bis „Mogelpackung“",
+          "text": "AOK-Chefin Carola Reimann nennt das Gesetz einen „Minimalkompromiss“ und kritisiert ungleiche Lastenverteilung und fehlende Bundesmittel für gesamtgesellschaftliche Aufgaben. Die Deutsche Stiftung Patientenschutz spricht von einer „Mogelpackung“, der DGB sieht das Armutsrisiko nicht gelöst. Die Grünen sagen, Streichen sei keine Reform. Eine Expertenkommission soll laut AOK bis Ende Januar 2027 Vorschläge zur Strukturreform vorlegen; frühere Meldungen nannten teils einen anderen Termin.",
+          "quellen": [
+            {
+              "name": "AOK-Bundesverband",
+              "url": "https://www.aok.de/pp/gesetz/pnog/"
+            },
+            {
+              "name": "Volksstimme",
+              "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/pflegereform-im-bundestag-was-soll-kommen-4350642"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Pflegereform: Termine",
+        "punkte": [
+          "20.11.: Bundesrat, erster Durchgang",
+          "25.11.: Expertenanhörung im Bundestag",
+          "11.12.: 2./3. Lesung Bundestag",
+          "18.12.: Bundesrat, zweiter Durchgang",
+          "1.1.2027: erste Teile in Kraft"
+        ],
+        "quellen": [
+          {
+            "name": "AOK-Bundesverband",
+            "url": "https://www.aok.de/pp/gesetz/pnog/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Praxis, Studien, Fachwissen",
+      "artikel": [
+        {
+          "titel": "Barmer-Studie: Viele Pflegekräfte denken früh ans Aufhören",
+          "unterzeile": "Jede dritte Kraft im ersten Berufsjahr mehrmals im Monat",
+          "text": "Laut einer Barmer-Analyse vom 12. November kündigen im Schnitt 15 Prozent der Pflegekräfte innerhalb der ersten drei Berufsjahre. Befragt wurden im April 1.083 Pflegekräfte aus Kliniken und Pflegeeinrichtungen. 33,3 Prozent dachten im ersten Berufsjahr einige Male im Monat ans Aufhören, 16,7 Prozent sogar einige Male pro Woche; 27,8 Prozent hatten solche Gedanken nie. Barmer-Chef Christoph Straub fordert von Diensten, Kliniken und Heimen stabile, unterstützende und wertschätzende Bedingungen gerade in den ersten Jahren.",
+          "quellen": [
+            {
+              "name": "journalmed.de",
+              "url": "https://www.journalmed.de/news/gesundheitspolitik/barmer-studie-pflegekraefte-zweifeln-frueh-an-ihrer-berufswahl"
+            },
+            {
+              "name": "onvista",
+              "url": "https://www.onvista.de/news/2026/11-12-barmer-pflegekraefte-zweifeln-frueh-an-ihrer-berufswahl-0-10-26575356"
+            }
+          ]
+        },
+        {
+          "titel": "Entlastungstage auf der Kippe: Verdi klagt in Hannover",
+          "unterzeile": "Streit um gekündigte Entlastungsvereinbarung",
+          "text": "An der Medizinischen Hochschule Hannover hat der Arbeitgeber eine Entlastungsvereinbarung für das Pflegepersonal gekündigt, die eigentlich freie Tage bei Überlastung sichern sollte. Verdi klagt dagegen, berichtet die taz am 11. November. Es geht um eine Klinik, nicht um ein Pflegeheim, der Streit zeigt aber, wie umkämpft Entlastung in der Pflege ist.",
+          "quellen": [
+            {
+              "name": "taz",
+              "url": "https://taz.de/Entlastung-fuer-Pflegepersonal/!6227565/"
+            }
+          ]
+        },
+        {
+          "titel": "Grippeimpfung im Heim: Bis Mitte Dezember ist ein guter Zeitpunkt",
+          "unterzeile": "STIKO empfiehlt sie ab 60 und für Heimbewohner",
+          "text": "Die STIKO empfiehlt die jährliche Grippeimpfung für Menschen ab 60, für Bewohner von Pflegeheimen und für medizinisches Personal. Der beste Zeitraum ist laut Ratgeberseiten Oktober bis Mitte Dezember, später kann es sich während der Grippesaison ebenfalls lohnen. Gesetzliche Kassen zahlen die Impfung für alle ab 60. Bis 18. Oktober waren etwa 18,8 Millionen Impfdosen freigegeben. Zu Corona und RSV unterscheiden sich die Angaben der Seiten; da zählt der Rat der Hausarztpraxis.",
+          "quellen": [
+            {
+              "name": "Aerzteverbund: Grippeimpfung 2026",
+              "url": "https://aerzteverbund.de/grippeimpfung-2026-kosten-termin/"
+            },
+            {
+              "name": "IAAI: Grippeimpfung 2026",
+              "url": "https://www.iaai.de/blog/grippeimpfung-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Blick in die Schweiz: Höchstarbeitszeit in der Pflege soll sinken",
+          "unterzeile": "Ständeratskommission will 45 statt 50 Stunden pro Woche",
+          "text": "Die Gesundheitskommission des Schweizer Ständerats hat ihre Beratungen zum Bundesgesetz über Arbeitsbedingungen in der Pflege abgeschlossen. Sie will die wöchentliche Höchstarbeitszeit von 50 auf 45 Stunden senken. Die Verbände ARTISET und CURAVIVA bedauern den Beschluss. Für Deutschland ist das nur ein Vergleich, aber er zeigt, wohin die Debatte anderswo geht.",
+          "quellen": [
+            {
+              "name": "ARTISET",
+              "url": "https://artiset.ch/de/aktuelles/sgk-s-beschliesst-weitere-massnahmen-zur-umsetzung-der-pflegeinitiative"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Tipp für die Praxis",
+        "punkte": [
+          "Grippeimpfung: Termin mit Hausarzt oder Heimarzt klären, Fenster Okt.–Mitte Dez.",
+          "Berufseinsteiger: feste Ansprechperson und Einarbeitungsplan einfordern (Barmer-Forderung)"
+        ],
+        "quellen": [
+          {
+            "name": "journalmed.de",
+            "url": "https://www.journalmed.de/news/gesundheitspolitik/barmer-studie-pflegekraefte-zweifeln-frueh-an-ihrer-berufswahl"
+          },
+          {
+            "name": "Aerzteverbund",
+            "url": "https://aerzteverbund.de/grippeimpfung-2026-kosten-termin/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Gaming: Steam & PC",
+      "artikel": [
+        {
+          "titel": "Steam Free Weekend: Vier Spiele gratis anzocken, bis Montag",
+          "unterzeile": "Deep Rock Galactic: Rogue Core, Company of Heroes 3, Cities: Skylines II, IL-2 Sturmovik",
+          "text": "Noch bis Montag, 16. November, 18 Uhr UTC (19 Uhr deutscher Zeit) kannst du vier Spiele auf Steam kostenlos testen: Deep Rock Galactic: Rogue Core, Company of Heroes 3, Cities: Skylines II und IL-2 Sturmovik: Battle of Stalingrad. Ein Teil der Quellen listet nur drei der vier Titel.\n\nWer hängen bleibt, kann zuschlagen: Laut gg.deals kostet Company of Heroes 3 in den US-Preisen 19,79 Dollar (minus 67 Prozent), Rogue Core 14,99 Dollar (minus 50 Prozent, bis 26. November) und Cities: Skylines II 34,99 Dollar (minus 30 Prozent, bis 19. November). Deutsche Preise können abweichen.",
+          "quellen": [
+            {
+              "name": "GamingHQ",
+              "url": "https://gaminghq.eu/2026/11/13/steam-free-weekend-4-games-november-16-2026/"
+            },
+            {
+              "name": "gg.deals",
+              "url": "https://gg.deals/news/steam-free-weekend/"
+            }
+          ]
+        },
+        {
+          "titel": "Steam Machine: Überhitzungswarnung löst zu früh aus",
+          "unterzeile": "Valve verspricht laut Bericht BIOS-Fix",
+          "text": "Laut Tom's Hardware hat Valve bestätigt, dass die rote Überhitzungs-Warnleuchte der Steam Machine zu früh anschlägt, ein BIOS-Update soll das beheben. Außerdem berichten Medien von einer Preiserhöhung beim Steam Deck OLED. Zu Preis und Verfügbarkeit der Steam Machine widersprechen sich die Quellen teils, hier lohnt der Blick in den Steam-Store.",
+          "quellen": [
+            {
+              "name": "Tom's Hardware: Valve",
+              "url": "https://www.tomshardware.com/tag/valve"
+            },
+            {
+              "name": "TweakTown",
+              "url": "https://www.tweaktown.com/news/112217/valve-rolls-out-update-for-steam-machine-release-following-steam-deck-price-hike/index.html"
+            },
+            {
+              "name": "steammachine.info",
+              "url": "https://steammachine.info/news"
+            }
+          ]
+        },
+        {
+          "titel": "Football Manager 27 ist da",
+          "unterzeile": "Seit 10. November für PC, Mac, PS5 und Xbox",
+          "text": "Football Manager 27 ist seit dem 10. November für PC, Mac, PS5 und Xbox Series X|S erhältlich. Am selben Tag erschien Warhammer Survivors. Für die nächsten Tage listen Release-Kalender unter anderem Moonlight Peaks (17. November, PS5); Gothic 3 Classic folgt am 24. November für Konsolen. Die Plattformangaben der Kalender weichen teils voneinander ab.",
+          "quellen": [
+            {
+              "name": "NME: Release-Kalender 2026",
+              "url": "https://www.nme.com/guides/gaming-guides/2026-game-release-dates-3920813"
+            },
+            {
+              "name": "Box.co.uk: November-Releases",
+              "url": "https://box.co.uk/blog/november-video-game-releases"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Steam kompakt",
+        "punkte": [
+          "Free Weekend endet Mo 16.11., 19 Uhr (MEZ)",
+          "Cities: Skylines II: Rabatt bis 19.11.",
+          "Deep Rock Galactic: Rogue Core: Rabatt bis 26.11."
+        ],
+        "quellen": [
+          {
+            "name": "gg.deals",
+            "url": "https://gg.deals/news/steam-free-weekend/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Nintendo Switch 2 & Konsolen",
+      "artikel": [
+        {
+          "titel": "GTA VI startet am 19. November",
+          "unterzeile": "Vorab-Download läuft, PC-Termin weiter offen",
+          "text": "Rockstar nennt auf seiner Store-Seite den 19. November 2026 als Starttermin für Grand Theft Auto VI auf PS5 und Xbox Series X|S. Vorbestellungen laufen seit dem 25. Juni, wer vor dem 20. November kauft, bekommt das „Vintage Vice City Pack“. Digitale Vorbesteller erhalten einen Monat GTA+. Zum Start des Preloads nennen Quellen unterschiedliche Daten (10. oder 12. November), ein Blick in den Store hilft. Einen Termin für den PC hat Rockstar bislang nicht genannt.",
+          "quellen": [
+            {
+              "name": "Rockstar Store",
+              "url": "https://store.rockstargames.com/game/buy-gta-vi"
+            },
+            {
+              "name": "Business Wire",
+              "url": "https://www.businesswire.com/news/home/20260624539426/en/Rockstar-Games-Announces-Pre-Orders-for-Grand-Theft-Auto-VI"
+            }
+          ]
+        },
+        {
+          "titel": "Nintendo schließt weitere Switch-2-Preiserhöhung aus",
+          "unterzeile": "Hardware-Absatz im Halbjahr um 37,4 Prozent gesunken",
+          "text": "Nintendo-Präsident Shuntaro Furukawa sagt, eine weitere Preisänderung für die Switch 2 sei kein Thema. Von April bis September lieferte Nintendo 6,49 Millionen Konsolen aus, nach 10,36 Millionen im Vorjahreszeitraum. Berichten zufolge hat sich das Unternehmen genug Speicherchips gesichert, um das Ziel von 16,5 Millionen Geräten im Geschäftsjahr zu erreichen. Die US-Preiserhöhung von 449,99 auf 499,99 Dollar gilt seit 1. September.",
+          "quellen": [
+            {
+              "name": "God is a Geek",
+              "url": "https://godisageek.com/2026/11/switch-2-price-hike-nintendo/"
+            },
+            {
+              "name": "TheGamer",
+              "url": "https://www.thegamer.com/nintendo-rules-out-another-switch-2-price-hike/"
+            }
+          ]
+        },
+        {
+          "titel": "Systemupdate 23.5.0: Geschenke aus dem eShop ab 17. November",
+          "unterzeile": "Auch Barrierefreiheit schon bei der Einrichtung",
+          "text": "Nintendo hat am 9. November die Firmware 23.5.0 für Switch 2 und Switch 1 veröffentlicht. Neu ist die Möglichkeit, eShop-Produkte an Mitglieder der Familiengruppe zu verschenken; die Funktion geht per eShop-Update am 17. November live. Außerdem lassen sich Barrierefreiheitseinstellungen jetzt schon bei der Ersteinrichtung vornehmen, und Portugiesisch (Portugal) kommt für Text-to-Speech und GameChat-Textumwandlung dazu. Dass das Update einen Jailbreak-Exploit schließt, wird nur als „angeblich“ gemeldet.",
+          "quellen": [
+            {
+              "name": "Nintendo Life",
+              "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes"
+            }
+          ]
+        },
+        {
+          "titel": "Neu auf der Switch 2 in dieser Woche",
+          "unterzeile": "Spirit Crossing, Binding of Isaac und mehr",
+          "text": "Die vergangenen Tage brachten Pikmin 4 als Switch-2-Edition, Metaphor: ReFantazio und Barbie Rewind (alle 12. November). Als Nächstes steht laut Übersichten Spirit Crossing, Netflix' erstes MMO, am 16. November an (in Japan teils 17.). Am 19. November erscheint The Binding of Isaac: Repentance+, am 26. November Marupoyo: The Round Chick's Adventure. Die Quellen weichen bei einzelnen Daten ab.",
+          "quellen": [
+            {
+              "name": "GameRant: November-Releases",
+              "url": "https://gamerant.com/nintendo-switch-2-new-games-coming-out-soon-list-november-oot-remake/"
+            },
+            {
+              "name": "GamesRadar: Upcoming Switch 2 games",
+              "url": "https://www.gamesradar.com/upcoming-switch-2-games/"
+            }
+          ]
+        },
+        {
+          "titel": "Gerücht: Tomb Raider: Catalyst für Switch 2?",
+          "unterzeile": "Amazon-Eintrag wurde wieder geändert",
+          "text": "Nintendo Everything berichtet, ein Amazon-Eintrag deute auf eine Switch-2-Version von Tomb Raider: Catalyst hin. Der Eintrag wurde später geändert. Das ist ein Gerücht ohne Bestätigung vom Publisher, nimm es entsprechend locker.",
+          "quellen": [
+            {
+              "name": "Nintendo Everything",
+              "url": "https://nintendoeverything.com/tomb-raider-catalyst-seemingly-coming-to-nintendo-switch-2"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Neue Spiele der Woche",
+        "punkte": [
+          "Mo 16.11.: Spirit Crossing (Switch 2, Netflix-MMO)",
+          "Di 17.11.: Moonlight Peaks (PS5); eShop-Geschenkfunktion",
+          "Do 19.11.: GTA VI (PS5, Xbox); The Binding of Isaac: Repentance+",
+          "Di 24.11.: Gothic 3 Classic (PS5, Xbox, Switch 2)",
+          "Do 26.11.: Marupoyo (Switch 2)"
+        ],
+        "quellen": [
+          {
+            "name": "GameRant",
+            "url": "https://gamerant.com/nintendo-switch-2-new-games-coming-out-soon-list-november-oot-remake/"
+          },
+          {
+            "name": "NME",
+            "url": "https://www.nme.com/guides/gaming-guides/2026-game-release-dates-3920813"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Tech & Netz",
+      "artikel": [
+        {
+          "titel": "Datenlecks bei Händlern: notebooksbilliger, Pÿur und Mindfactory",
+          "unterzeile": "Kunden bekommen Warn-Mails, achte auf Phishing",
+          "text": "Laut heise haben notebooksbilliger.de und Tele Columbus (Pÿur) am 2. November ihre Kunden per Mail über Datenabflüsse nach IT-Angriffen informiert. Auch bei Mindfactory wurde ein Cybervorfall bekannt (Born's IT- und Windows-Blog nennt den 6. November). Zu Loxone meldete heise am 19. Oktober einen IT-Vorfall, bei dem Täter Daten kopierten, Kundensysteme seien nicht betroffen gewesen.\n\nWenn du Kunde bist: Passwort ändern, wo du es mehrfach nutzt, und bei Mails mit Links zu angeblichen Rechnungen oder Gewinnen misstrauisch bleiben.",
+          "quellen": [
+            {
+              "name": "heise: Datenleck",
+              "url": "https://www.heise.de/thema/Datenleck"
+            },
+            {
+              "name": "Born's IT- und Windows-Blog",
+              "url": "https://borncity.com/blog/2026/11/07/cybervorfall-bei-mindfactory-zum-6-11-2026-bekannt-geworden/"
+            }
+          ]
+        },
+        {
+          "titel": "BKA-Herbsttagung: KI-Bedrohungen und die Hackback-Debatte",
+          "unterzeile": "Praktiker und Politiker diskutieren",
+          "text": "Auf der Herbsttagung des Bundeskriminalamts ging es laut heise (11. November) um neue Bedrohungen durch KI und um den alten Wunsch nach „Hackbacks“, also aktiven Gegenangriffen auf Täter-Infrastruktur. Konkrete Beschlüsse nennt die Meldung nicht, es war eine Diskussion unter Praktikern und Politikern.",
+          "quellen": [
+            {
+              "name": "heise: Cybersecurity",
+              "url": "https://www.heise.de/thema/Cybersecurity"
+            }
+          ]
+        },
+        {
+          "titel": "Propaganda in KI-Antworten: Recherche zu geleakten Dateien",
+          "unterzeile": "NewsGuard, CORRECTIV und The Insider",
+          "text": "Eine Recherche von NewsGuard (11. November), die auch CORRECTIV und The Insider auswerten, beschreibt, wie russische Propaganda über geleakte Dateien in Antworten von KI-Chatbots gelangen sollte. Die Details und Reaktionen der KI-Anbieter solltest du in der Originalrecherche nachlesen; hier gilt wie immer: KI-Antworten bei politischen Themen gegenchecken.",
+          "quellen": [
+            {
+              "name": "Mimikama",
+              "url": "https://www.mimikama.org/dougan-leak-propaganda-ki-antworten/"
+            }
+          ]
+        },
+        {
+          "titel": "Patch-Liste: SAP, Apache, Checkmk",
+          "unterzeile": "Kritische Lücken, Updates einspielen",
+          "text": "Der heise-Alert-Überblick nennt aktuell mehrere Updates: SAP schließt im November-Patchday neun kritische Lücken, bei Apache2 betrifft eine kritische Lücke zur Codeeinschleusung nur Server mit aktiviertem HTTP/2, und Checkmk-Updates schließen kritische Lücken, über die Schadcode eingeschleust werden kann. Wer diese Software betreibt, sollte die Updates zeitnah einspielen.",
+          "quellen": [
+            {
+              "name": "heise security: Alerts",
+              "url": "https://www.heise.de/security/Alerts"
+            }
+          ]
+        },
+        {
+          "titel": "Linux: Stable-Kernel 7.3.4 mit über 1.250 Patches",
+          "unterzeile": "Auch 6.18.63 und 6.12.117 erschienen",
+          "text": "Greg Kroah-Hartman hat am 10. November die Stable-Kernel 7.3.4, 6.18.63 und 6.12.117 veröffentlicht. Der 7.3.4 enthält mehr als 1.250 Patches. Wer Linux nutzt, bekommt die Updates in der Regel über seine Distribution.",
+          "quellen": [
+            {
+              "name": "Tux Machines",
+              "url": "https://news.tuxmachines.org/n/2026/11/13/Android_Leftovers.shtml"
+            },
+            {
+              "name": "LWN.net",
+              "url": "https://lwn.net/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: 5-Minuten-Check nach einer Datenleck-Mail",
+    "text": "Kommt eine Mail, dass dein Händler gehackt wurde: nicht auf Links in der Mail klicken, sondern die Seite selbst im Browser öffnen. Passwort ändern (und nirgends dasselbe nutzen), wenn möglich Zwei-Faktor-Login einschalten und die nächsten Wochen auf ungewöhnliche Abbuchungen achten."
+  }
+}
