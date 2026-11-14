@@ -1,0 +1,538 @@
+{
+  "gruss": "Guten Morgen, Mama! Heute ist Samstag, der 14. November. Draußen ist es frostig, aber die Sonne zeigt sich. Drinnen darfst du es dir gemütlich machen. Hol dir eine Tasse Tee und lies in Ruhe. Hier ist deine Zeitung für heute.",
+  "aufmacher": {
+    "rubrik": "Wetter",
+    "titel": "Frostiger Morgen, sonniger Samstag",
+    "unterzeile": "Am Sonntag kommen Wolken und Wind",
+    "text": "Die Nacht zum Samstag war kalt. Nach Angaben des Deutschen Wetterdienstes gab es Frost mit minus 1 bis minus 4 Grad. Hier und da war es neblig, und manchmal war es glatt. Wer früh aus dem Haus geht, sollte vorsichtig sein.\n\nAm Vormittag löst sich der Nebel auf. Dann zeigt sich vielerorts die Sonne. Nur im Norden bleibt es wechselhafter.\n\nAm Sonntag wird es wolkiger. Von Westen kommt Regen auf. Die Höchstwerte liegen je nach Gegend zwischen 3 und 10 Grad. Auf den Bergen und den Nordseeinseln kann es zeitweise stürmisch werden.",
+    "quellen": [
+      {
+        "name": "t-online",
+        "url": "https://www.t-online.de/nachrichten/panorama/wetter/id_101527652/wetter-in-deutschland-am-wochenende-erst-frost-dann-waerme-erwartet.html"
+      },
+      {
+        "name": "wetter.com",
+        "url": "https://wetter.com/news/wetterbericht-fuer-morgen-am-samstag-14-november-2026-verbreitet-reichlich-sonnenschein-nur-im-norden-bleibt-es-wechselhaft_aid_6af6b32533b657c37c03dd50.html"
+      },
+      {
+        "name": "Deutscher Wetterdienst",
+        "url": "https://dwd.de/DE/wetter/warnungen_aktuell/wochenvorhersage/wochenvorhersage_node.html"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Aus Mülheim",
+      "artikel": [
+        {
+          "titel": "Große Übung für den Ernstfall",
+          "unterzeile": "Auch die Feuerwehr aus Mülheim übt mit",
+          "text": "In Oberhausen üben Feuerwehr, Polizei und Hilfsorganisationen einen Zugunfall. In der Übung gibt es mindestens 20 Verletzte. Es ist also nur eine Probe, kein echter Unfall.\n\nAuch Einsatzkräfte aus Mülheim sind dabei. Sie trainieren, wie man vielen Verletzten gleichzeitig hilft. Wenn du heute Sirenen oder viele Einsatzwagen siehst, ist das vielleicht Teil der Übung.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim",
+              "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim"
+            }
+          ]
+        },
+        {
+          "titel": "Auf A3 und A40 wird es stellenweise eng",
+          "unterzeile": "Am Kreuz Kaiserberg werden Bäume und Büsche geschnitten",
+          "text": "Die Autobahn GmbH schneidet am Autobahnkreuz Kaiserberg Bäume und Büsche zurück. Das betrifft die A3 und die A40. Laut Radio Mülheim sind die Arbeiten für Sonntag angekündigt.\n\nWer dort mit dem Auto unterwegs ist, muss mit Engpässen rechnen. Plane am besten etwas mehr Zeit ein.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim",
+              "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim"
+            }
+          ]
+        },
+        {
+          "titel": "Rohrbruch in Saarn: Bus 139 fährt Umweg",
+          "unterzeile": "Fünf Haltestellen fallen aus",
+          "text": "Auf der Brüsseler Allee in Saarn ist ein Wasserrohr geplatzt. Zwei Abbiegespuren sind gesperrt. Die Linie 139 fährt deshalb seit dem 5. November eine Umleitung. Das gilt bis auf Weiteres.\n\nIn Richtung Frohnhausen fallen fünf Haltestellen ohne Ersatz aus: Selma-Lagerlöf-Straße, Brüsseler Allee, Weißdornbogen, Sanddornbogen und Kleefeld. Die Linie NE10 ist nicht betroffen.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Rohrbruch, Bus 139",
+              "url": "https://www.radiomuelheim.de/artikel/rohrbruch-in-muelheim-bus-139-muss-umleitung-fahren-2800113"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Mülheim erleben",
+      "artikel": [
+        {
+          "titel": "Piratini-Markt am Sonntag im Rhein-Ruhr-Zentrum",
+          "unterzeile": "Alles rund ums Kind, aus zweiter Hand",
+          "text": "Am Sonntag, 15. November, ist wieder der Piratini-Markt im Rhein-Ruhr-Zentrum. Dort gibt es gebrauchte Sachen für Kinder: Kleidung, Spielzeug, Bücher, Fahrräder und Kinderwagen.\n\nAchtung: Der Markt beginnt später als sonst, erst um 13 Uhr. Der Grund ist der Volkstrauertag. Er dauert bis 17.30 Uhr. Der Eintritt kostet 4,50 Euro, Kinder zahlen nichts.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim",
+              "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim"
+            },
+            {
+              "name": "Piratini Markt Mülheim",
+              "url": "https://muelheim.piratini-markt.de/"
+            }
+          ]
+        },
+        {
+          "titel": "Sinfoniekonzert in der Stadthalle",
+          "unterzeile": "Das Litauische Staatsorchester kommt",
+          "text": "Am Freitag, 20. November, gibt die Stadthalle ein Sinfoniekonzert. Es spielt das Lithuanian State Symphony Orchestra. Das ist ein Orchester aus Litauen.\n\nKarten gibt es über die Stadthalle und die bekannten Kartenseiten. Frag vor dem Besuch noch einmal nach der genauen Uhrzeit.",
+          "quellen": [
+            {
+              "name": "MVP: Konzerte in Mülheim",
+              "url": "https://www.mvp.de/muelheim-an-der-ruhr/veranstaltungen/konzerte/"
+            },
+            {
+              "name": "Stadthalle Mülheim: Veranstaltungskalender",
+              "url": "https://www.stadthalle-muelheim.de/veranstaltung-besuchen/veranstaltungskalender"
+            }
+          ]
+        },
+        {
+          "titel": "Bald ist Weihnachtsmarkt-Zeit",
+          "unterzeile": "Zwei Märkte beginnen noch im November",
+          "text": "Die Mülheimer Schiffsweihnacht auf der Schleuseninsel öffnet am 20. November. Sie dauert bis zum 29. November. Es gibt Blasmusik, einen Shantychor und einen Gospelchor.\n\nDer Altstadt-Adventsmarkt startet am 27. November und läuft bis zum 13. Dezember. Samstags ist er von 14 bis 21 Uhr offen, sonntags von 14 bis 20 Uhr. Der Eintritt ist frei.",
+          "quellen": [
+            {
+              "name": "Alle Weihnachtsmärkte: Mülheim",
+              "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/traditionell/muelheim-an-der-ruhr/"
+            },
+            {
+              "name": "Altstadt-Adventsmarkt",
+              "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/muelheimer-altstadt-adventsmarkt-804306.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "So 15.11., 13 bis 17.30 Uhr: Piratini-Markt im Rhein-Ruhr-Zentrum",
+          "Fr 20.11.: Sinfoniekonzert in der Stadthalle",
+          "20. bis 29.11.: Schiffsweihnacht auf der Schleuseninsel (Fr 15–21, Sa 13–21, So 11–20 Uhr)",
+          "27.11. bis 13.12.: Altstadt-Adventsmarkt (Sa 14–21, So 14–20 Uhr)"
+        ],
+        "quellen": [
+          {
+            "name": "Alle Weihnachtsmärkte: Mülheim",
+            "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/traditionell/muelheim-an-der-ruhr/"
+          },
+          {
+            "name": "Piratini Markt Mülheim",
+            "url": "https://muelheim.piratini-markt.de/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland",
+      "artikel": [
+        {
+          "titel": "Volkstrauertag: Gedenken im Bundestag",
+          "unterzeile": "Die Rede hält der österreichische Bundespräsident",
+          "text": "Morgen ist Volkstrauertag. An diesem Tag denken wir an die Opfer von Krieg und Gewalt. Die große Feier ist im Bundestag in Berlin. Sie beginnt um 13.30 Uhr.\n\nDie Gedenkrede hält Alexander Van der Bellen, der Bundespräsident von Österreich. Österreich ist in diesem Jahr Partnerland des Volksbunds. Bundespräsident Steinmeier spricht die Worte des Gedenkens. Das ZDF zeigt die Feier live.",
+          "quellen": [
+            {
+              "name": "Deutscher Bundestag",
+              "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw46-volkstrauertag-1222318"
+            },
+            {
+              "name": "Protokoll Inland der Bundesregierung",
+              "url": "https://www.protokoll-inland.de/SharedDocs/kurzmeldungen/Webs/PI/DE/nationale-gedenk-feiertage/volkstrauertag/volkstrauertag-2026.html"
+            }
+          ]
+        },
+        {
+          "titel": "Die Wirtschaftsweisen erwarten mehr Wachstum",
+          "unterzeile": "Aber sie warnen vor hohen Kosten für den Staat",
+          "text": "Fünf Fachleute beraten die Regierung in Wirtschaftsfragen. Man nennt sie die Wirtschaftsweisen. Sie haben ihr Jahresgutachten vorgelegt. Sie erwarten, dass die Wirtschaft in diesem Jahr um 1,3 Prozent wächst und im nächsten Jahr um 1,0 Prozent.\n\nDazu kommt eine Warnung. Die Beiträge für Rente, Kranken- und Pflegeversicherung könnten steigen. Heute liegen sie zusammen bei 42,3 Prozent vom Lohn. Bis 2030 könnten es 45,4 Prozent werden. Der Staat müsse entscheiden, was er noch bezahlen kann.",
+          "quellen": [
+            {
+              "name": "Sachverständigenrat Wirtschaft",
+              "url": "https://www.sachverstaendigenrat-wirtschaft.de/jahresgutachten-2026.html"
+            },
+            {
+              "name": "experten.de",
+              "url": "https://www.experten.de/id/4952996/jahresgutachten-2026-2027-wirtschaftsweise-gesamtanalyse/"
+            }
+          ]
+        },
+        {
+          "titel": "Strom: Streit um Entlastung",
+          "unterzeile": "Die Stromsteuer für Haushalte soll nicht sinken",
+          "text": "Die Regierung will die Stromnetze mit Steuergeld günstiger machen. Dafür gibt es einen Gesetzentwurf. In diesem Jahr sind es 6,5 Milliarden Euro. Ab 2027 sind im Entwurf 5,53 Milliarden Euro im Jahr vorgesehen.\n\nDie Verbraucherzentrale sagt: Das hilft Haushalten nur wenig. Eine niedrigere Stromsteuer wäre besser. Die ist im Entwurf aber nicht enthalten. SPD-Fraktionschef Miersch sieht bei diesem Thema Bewegung in den Gesprächen mit der Union.",
+          "quellen": [
+            {
+              "name": "Deutscher Bundestag (hib)",
+              "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1231670"
+            },
+            {
+              "name": "zfk",
+              "url": "https://www.zfk.de/politik/deutschland/strompreisentlastung-gesetzesentwurf-wirtschaftsministerium-netzentgelte-zuschuss-bne-kritik"
+            },
+            {
+              "name": "nachrichten-heute.net",
+              "url": "https://www.nachrichten-heute.net/1786683-miersch-sieht-bewegung-bei-stromsteuer-gespraechen-mit-union.html"
+            }
+          ]
+        },
+        {
+          "titel": "Illegales Online-Glücksspiel: Mehr als gedacht?",
+          "unterzeile": "Der Drogenbeauftragte schlägt Alarm",
+          "text": "Hendrik Streeck ist der Drogenbeauftragte der Bundesregierung. Er sagt: Der illegale Glücksspielmarkt im Internet ist wohl viel größer als angenommen. Das hat er der Redaktionsnetzwerk Deutschland gesagt.\n\nSpielen im Netz kann süchtig machen. Wer Hilfe braucht, kann sich an Beratungsstellen wenden.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net",
+              "url": "https://www.nachrichten-heute.net/1786671-streeck-haelt-illegalen-gluecksspielmarkt-fuer-groesser-als-gedacht.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Aus aller Welt",
+      "artikel": [
+        {
+          "titel": "Weltklimakonferenz in der Türkei läuft noch",
+          "unterzeile": "Es geht um Geld für arme Länder und weniger Abgase",
+          "text": "Seit dem 9. November treffen sich Politiker aus aller Welt in Antalya in der Türkei. Die Konferenz heißt COP31 und dauert bis zum 20. November. Es geht darum, wie man das Klima schützen kann.\n\nDeutschland hat angekündigt, über zehn Jahre eine Milliarde Euro für einen Fonds zum Schutz des Regenwalds zu geben. Es gibt auch Kritik: Viele fragen, warum so viele Vertreter von Öl-, Gas- und Kohlefirmen dabei sind.",
+          "quellen": [
+            {
+              "name": "Bundesumweltministerium",
+              "url": "https://www.bundesumweltministerium.de/klima-cop31"
+            },
+            {
+              "name": "wetter.com: COP31 im Ticker",
+              "url": "https://www.wetter.com/news/cop31-im-ticker-alle-news-von-der-weltklimakonferenz-in-antalya_aid_6af1b6db881ba442350a5c7e.html"
+            }
+          ]
+        },
+        {
+          "titel": "Roboter als Redner in Lissabon",
+          "unterzeile": "Beim Web Summit tanzen Maschinen",
+          "text": "In Lissabon ging gerade eine große Technik-Messe zu Ende, der Web Summit. Rund 70.000 Menschen waren dort. Zum ersten Mal traten Roboter, die wie Menschen aussehen, als Redner auf.\n\nNeun Roboter einer chinesischen Firma führten sogar einen Tanz vor. Tausende Gäste jubelten. Ein anderer Roboter auf Rädern kann zwei Arme benutzen. Er soll einmal in Läden, Apotheken oder Fabriken arbeiten.",
+          "quellen": [
+            {
+              "name": "Euronews",
+              "url": "https://www.euronews.com/2026/11/09/web-summit-2026-in-lisbon-highlights-record-china-presence-and-robot-speakers-debut"
+            },
+            {
+              "name": "Africanews",
+              "url": "https://www.africanews.com/2026/11/13/portugal-humanoid-robots-take-centre-stage-at-web-summit-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "Microsoft-Störung: Mails und Videotreffen fielen aus",
+          "unterzeile": "Weltweit gab es Probleme",
+          "text": "Seit Donnerstagabend gab es eine große Störung bei Microsoft. Betroffen waren das Mailprogramm Outlook, das Videoprogramm Teams und der Dienst Copilot. Meldungen kamen aus 74 Ländern.\n\nMicrosoft hat nach eigenen Angaben keine Hinweise auf einen Angriff von Hackern. Am Freitagnachmittag war die Störung noch nicht ganz behoben. Auf deinem Handy oder Tablet sollte alles normal laufen, wenn du diese Dienste nicht nutzt.",
+          "quellen": [
+            {
+              "name": "SRF",
+              "url": "https://www.srf.ch/news/wirtschaft/stoerung-bei-outlook-und-teams-das-ist-ueber-den-weltweiten-microsoft-ausfall-bekannt"
+            },
+            {
+              "name": "PC-Welt",
+              "url": "https://www.pcwelt.de/article/3284443/microsoft-365-outlook-teams-onedrive-und-copilot-weltweit-gestoert.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Sport: Fußball-Bundesliga",
+      "artikel": [
+        {
+          "titel": "Deutschland gewinnt in Belgrad 3:1",
+          "unterzeile": "Brajan Gruda trifft bei seinem Länderspiel-Debüt",
+          "text": "Die Nationalmannschaft hat in Serbien 3:1 gewonnen. Es war ein Spiel der Nations League. Es regnete stark, und das Spiel fand fast ohne Zuschauer statt.\n\nDas erste Tor war ein Eigentor von Serbiens Babic nach einem Kopfball von Kai Havertz. Danach traf Florian Wirtz. In der zweiten Halbzeit schoss Brajan Gruda sein erstes Tor für Deutschland. Für Bundestrainer Jürgen Klopp war es der erste Auswärtssieg.",
+          "quellen": [
+            {
+              "name": "ZDFheute",
+              "url": "https://www.zdfheute.de/sport/fussball-nations-league-serbien-deutschland-tore-ergebnis-100.html"
+            },
+            {
+              "name": "Eurosport: Pressestimmen",
+              "url": "https://www.eurosport.de/fussball/uefa-nations-league/2026-2027/pressestimmen-zum-deutschland-sieg-gegen-serbien-in-belgrad-klopps-schachzuege-greifen_sto23355106/story.shtml"
+            }
+          ]
+        },
+        {
+          "titel": "Montag in Berlin: Es geht um alles",
+          "unterzeile": "Deutschland spielt gegen die Niederlande",
+          "text": "Am Montag, 16. November, spielt Deutschland im Berliner Olympiastadion gegen die Niederlande. Es ist das letzte Spiel in der Gruppe.\n\nBei einem Sieg ist Deutschland sicher im Viertelfinale. Bei einem Unentschieden reicht es nur, wenn Griechenland gegen Serbien nicht gewinnt. Bei einer Niederlage wäre Deutschland ausgeschieden.",
+          "quellen": [
+            {
+              "name": "ZDFheute",
+              "url": "https://www.zdfheute.de/sport/fussball-nations-league-serbien-deutschland-tore-ergebnis-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Bundesliga macht Pause",
+          "unterzeile": "Am 21. November geht es weiter",
+          "text": "An diesem Wochenende spielt die Bundesliga nicht, denn es ist Länderspielpause. Am 7. November gewann Bayern in Mainz 2:1. Dortmund schlug Elversberg ebenfalls 2:1.\n\nDas nächste Bundesliga-Wochenende ist am 21. November. Dann spielt Borussia Mönchengladbach gegen Borussia Dortmund.",
+          "quellen": [
+            {
+              "name": "Fussballdaten",
+              "url": "https://www.fussballdaten.de/news/bayern-bvb-leipzig-vfb-siegen-bundesliga-ergebnisse-7-november-2026/"
+            },
+            {
+              "name": "Sky Sport: Spielplan",
+              "url": "https://sport.sky.de/bundesliga-spielplan-ergebnisse"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Die Spitze der Bundesliga",
+        "punkte": [
+          "Nach 9 Spieltagen führen Bayern und Dortmund mit je 21 Punkten.",
+          "Leipzig ist laut den Berichten Dritter.",
+          "Mainz – Bayern 1:2, Dortmund – Elversberg 2:1 (7. November)"
+        ],
+        "quellen": [
+          {
+            "name": "Fussballdaten",
+            "url": "https://www.fussballdaten.de/news/bayern-bvb-leipzig-vfb-siegen-bundesliga-ergebnisse-7-november-2026/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Sport: Vereine und mehr",
+      "artikel": [
+        {
+          "titel": "Handball: Füchse gegen Kiel im Fernsehen",
+          "unterzeile": "Spitzenspiel am Samstagnachmittag",
+          "text": "Heute spielen in der Handball-Bundesliga die Füchse Berlin gegen den THW Kiel. Anpfiff ist um 15.55 Uhr. Das Spiel läuft live beim Sender Dyn.\n\nAm Abend folgen weitere Spiele, etwa Erlangen gegen Hamburg um 19 Uhr. Um 20 Uhr spielen die Rhein-Neckar Löwen gegen Lemgo.",
+          "quellen": [
+            {
+              "name": "Sportschau: HBL",
+              "url": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/spiele-und-ergebnisse"
+            },
+            {
+              "name": "sport.de: Handball im TV",
+              "url": "https://www.sport.de/handball/im-tv-und-stream/"
+            }
+          ]
+        },
+        {
+          "titel": "Davis Cup: Deutschland trifft auf Großbritannien",
+          "unterzeile": "Das Finalturnier beginnt am 24. November",
+          "text": "Das deutsche Tennis-Team spielt beim Davis Cup in Bologna. Das Turnier läuft vom 24. bis 29. November. Im Viertelfinale trifft Deutschland am 26. November auf Großbritannien.\n\nIm Team sind Alexander Zverev, Jan-Lennard Struff und Yannick Hanfmann. Dazu kommen die Doppel-Spezialisten Kevin Krawietz und Tim Pütz.",
+          "quellen": [
+            {
+              "name": "tennis.de",
+              "url": "https://tennis.de/dtb/verband/presse/2026/hanfmann-komplettiert-deutsches-team-fuer-bologna.html"
+            },
+            {
+              "name": "Wikipedia: 2026 Davis Cup Finals",
+              "url": "https://en.wikipedia.org/wiki/2026_Davis_Cup_Finals"
+            }
+          ]
+        },
+        {
+          "titel": "Basketball: Bamberg gegen Bonn",
+          "unterzeile": "Spiel in der Bundesliga am Samstag",
+          "text": "In der Basketball-Bundesliga trifft am Samstag Bamberg auf die Telekom Baskets Bonn. Das steht im Spielplan von sport.de. Ein Ergebnis gab es beim Schreiben dieser Zeitung noch nicht. Du kannst es später auf den Sportseiten nachlesen.",
+          "quellen": [
+            {
+              "name": "sport.de: Heute live",
+              "url": "https://www.sport.de/heute-live/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Klatsch & Tratsch",
+      "artikel": [
+        {
+          "titel": "Schwarzeneggers Motorrad wird für den guten Zweck versteigert",
+          "unterzeile": "Der „Terminator“ hat unterschrieben",
+          "text": "Arnold Schwarzenegger hat ein besonderes Motorrad unterschrieben. Es heißt „Peace Bike Terminator“. Der Motorradclub „Jesus Biker“ hat es gebaut und ihm im Juni in Wien übergeben.\n\nJetzt wird es im Internet versteigert. Die Hälfte des Geldes geht an ein Kinderhilfsprojekt der Organisation Missio. Die andere Hälfte bekommt die Klimainitiative von Schwarzenegger. Die Versteigerung läuft bis zum 11. Januar.",
+          "quellen": [
+            {
+              "name": "Presseportal",
+              "url": "https://www.presseportal.de/pm/78160/6389882"
+            },
+            {
+              "name": "Kathpress",
+              "url": "https://www.kathpress.at/goto/meldung/2630204/schwarzenegger-harley-wird-fuer-missio-aufforstungsprojekt-versteigert"
+            }
+          ]
+        },
+        {
+          "titel": "NDR Talk Show: Olli Dittrich wird bald 70",
+          "unterzeile": "Gäste waren auch Axel Prahl und Mary Roos",
+          "text": "In der NDR Talk Show am Freitagabend war unter anderem Olli Dittrich zu Gast. Er wird am 20. November 70 Jahre alt. Der NDR zeigt dazu eine Dokumentation.\n\nMary Roos und Wolfgang Trepper beenden ihre gemeinsame Tour nach rund zehn Jahren. Ab 2027 tritt Stefanie Hertel an Treppers Seite auf. Die Sendung gibt es in der ARD Mediathek.",
+          "quellen": [
+            {
+              "name": "TV Movie",
+              "url": "https://www.tvmovie.de/news/ndr-talk-show-heute-13-november-2026-alle-gaeste-und-themen-im-ueberblick-162715"
+            }
+          ]
+        },
+        {
+          "titel": "Florian Silbereisens Adventsfest",
+          "unterzeile": "Viele bekannte Schlagerstars sollen kommen",
+          "text": "Am 28. November steigt in Suhl das „Adventsfest der 100.000 Lichter“ mit Florian Silbereisen. Laut Schlager Radio sollen unter anderem Vanessa Mai, DJ Ötzi, Nino de Angelo und Ella Endlich dabei sein.\n\nDas ist die Planung laut Berichten. Kurzfristig kann sich noch etwas ändern.",
+          "quellen": [
+            {
+              "name": "Schlager Radio",
+              "url": "https://schlagerradio.de/adventsfest-2026-gaeste-florian-silbereisen"
+            }
+          ]
+        },
+        {
+          "titel": "Bernhard Brink hat eine neue Heimat",
+          "unterzeile": "Der Sänger lebt jetzt auf Mallorca",
+          "text": "Der Schlagersänger Bernhard Brink ist 74 Jahre alt. Laut einem Schlager-Portal ist er mit seiner Frau nach Mallorca gezogen. Er habe dort eine neue Wahlheimat gefunden.",
+          "quellen": [
+            {
+              "name": "Schlager Radio",
+              "url": "https://www.schlagerradio.de/category/schlager-schlagzeilen/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Klatsch & Tratsch: TV, Shows und Stars der Welt",
+      "artikel": [
+        {
+          "titel": "„Schlag den Star“: Die Löwen treten an",
+          "unterzeile": "Frank Thelen und Ralf Dümmel im Duell",
+          "text": "Heute Abend um 20.15 Uhr zeigt ProSieben „Schlag den Star“. Es wird ein Duell der „Höhle der Löwen“. Nach Presseberichten treten Frank Thelen und Ralf Dümmel gegeneinander an. Thelen kommt mit seiner Frau Nathalie, Dümmel mit Anna Heesch.\n\nDer Sender hat die Paare zunächst nicht bestätigt. Die Show läuft live.",
+          "quellen": [
+            {
+              "name": "Presseportal (ProSieben)",
+              "url": "https://presseportal.de/pm/25171/6389083"
+            },
+            {
+              "name": "echo24",
+              "url": "https://www.echo24.de/people/diese-zwei-loewen-sollen-bei-schlag-den-star-antreten-zr-94557222.html"
+            },
+            {
+              "name": "Joyn",
+              "url": "https://www.joyn.de/bts/serien/schlag-den-star/frank-thelen-ralf-duemmel-nathalie-sattler-anna-heesch-november14-207436"
+            }
+          ]
+        },
+        {
+          "titel": "Charles bei Elton John im Radio",
+          "unterzeile": "Der König ist zu Gast in der „Rocket Hour“",
+          "text": "König Charles soll in der Radiosendung „Rocket Hour“ von Sir Elton John auftreten. Die Sendung läuft bei Apple Music. Außerdem besuchte der König eine große Forschungsstätte für Medizin und feierte zehn Jahre Forschung dort.\n\nAuch Prinzessin Kate war in den Medien. Sie sprach in einem Interview über die Natur und über ihre Zeit im Krankenhaus.",
+          "quellen": [
+            {
+              "name": "Royal News Recap (11. November)",
+              "url": "https://www.unofficialroyalty.com/royal-news-recap-for-wednesday-november-11-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "Fernsehabend mit Zauberei und Geigenklang",
+          "unterzeile": "Ehrlich Brothers und André Rieu",
+          "text": "Wer heute lieber Musik und Staunen möchte, hat Auswahl. Auf VOX laufen die „Ehrlich Brothers live!“. Das ist eine Zaubershow. Beim MDR gibt es um 20.15 Uhr ein Konzert von André Rieu aus Maastricht.\n\nRTL zeigt zur gleichen Zeit „Harry Potter und der Orden des Phönix“.",
+          "quellen": [
+            {
+              "name": "TVinfo",
+              "url": "https://www.tvinfo.de/fernsehprogramm/14.11.2026"
+            },
+            {
+              "name": "kultur4all",
+              "url": "https://www.kultur4all.de/veranstaltung/fernsehprogramm-samstag-14-november-2026/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "TV-Tipps für heute Abend",
+        "punkte": [
+          "20.15 Uhr, ProSieben: „Schlag den Star“ (Löwen-Duell)",
+          "20.15 Uhr, MDR: André Rieu, Konzert aus Maastricht",
+          "20.15 Uhr, VOX: Ehrlich Brothers live",
+          "20.15 Uhr, RTL: Harry Potter und der Orden des Phönix",
+          "20.15 Uhr, One: „Stage Mother“, Komödie mit Jacki Weaver",
+          "Das Programm kann sich ändern."
+        ],
+        "quellen": [
+          {
+            "name": "TVinfo",
+            "url": "https://www.tvinfo.de/fernsehprogramm/14.11.2026"
+          },
+          {
+            "name": "Kino-Zeit",
+            "url": "https://www.kino-zeit.de/news-features/empfehlungen-tv-tipps/die-tv-tipps-fuer-samstag-den-14-11-2026"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Zum Schluss",
+      "artikel": [
+        {
+          "titel": "Erkältung: Sport lieber pausieren",
+          "unterzeile": "Das Herz braucht Ruhe",
+          "text": "Wenn du erkältet bist, ruh dich lieber aus. Laut Apotheken Umschau erhöht Sport bei einer Erkältung das Risiko für eine Herzmuskelentzündung.\n\nBleib bei Beschwerden im Warmen und gönn dir Ruhe. Frag bei Fragen deine Ärztin oder deinen Arzt.",
+          "quellen": [
+            {
+              "name": "Apotheken Umschau",
+              "url": "https://www.apotheken-umschau.de/krankheiten-symptome/erkaeltung-schnell-loswerden-fakten-tipps-und-hausmittel-1426147.html"
+            }
+          ]
+        },
+        {
+          "titel": "Antibiotika helfen bei Erkältung nicht",
+          "unterzeile": "Eine Erkältung dauert meist eine Woche",
+          "text": "Eine Erkältung dauert im Schnitt sieben Tage. Ein Mittel, das sie verkürzt, gibt es nicht. Antibiotika wirken nur gegen Bakterien. Eine Erkältung kommt aber von Viren.\n\nNasenspülungen können die Beschwerden vielleicht ein wenig lindern. Für Vitamin C oder Zink zur Vorbeugung gibt es kaum Belege.",
+          "quellen": [
+            {
+              "name": "Apotheken Umschau: Erkältung",
+              "url": "https://www.apotheken-umschau.de/krankheiten-symptome/erkaeltung-schnell-loswerden-fakten-tipps-und-hausmittel-1426147.html"
+            }
+          ]
+        },
+        {
+          "titel": "Grippe-Verdacht: Erst anrufen, dann zum Arzt",
+          "unterzeile": "So schützt du andere",
+          "text": "Bei Verdacht auf echte Grippe solltest du nicht einfach in die Praxis fahren. Ruf vorher an. So steckst du niemanden im Wartezimmer an. Viel Flüssigkeit hilft.\n\nBei akuter Atemnot wähle sofort die 112. Eine echte Grippe kann gefährlich werden, zum Beispiel durch eine Lungenentzündung. Die Grippe-Impfung ist nach Angaben des RKI im Oktober oder November am besten.",
+          "quellen": [
+            {
+              "name": "Apotheken Umschau: Grippe",
+              "url": "https://www.apotheken-umschau.de/krankheiten-symptome/infektionskrankheiten/was-kann-man-gegen-eine-grippe-tun-734131.html"
+            },
+            {
+              "name": "ZDFheute: Grippe-Impfung",
+              "url": "https://www.zdfheute.de/ratgeber/gesundheit/grippe-impfung-experte-sander-stiko-102.html"
+            }
+          ]
+        },
+        {
+          "titel": "Haushalt-Tipp: Heizkörper frei lassen",
+          "unterzeile": "Kleine Dinge sparen Energie",
+          "text": "Möbel und lange Vorhänge vor dem Heizkörper halten die Wärme zurück. Lass die Heizkörper deshalb frei. Die Verbraucherzentrale rät auch zum kurzen Stoßlüften statt zu dauernd gekippten Fenstern.\n\nGedämmte Heizungsrohre lohnen sich schon nach wenigen Metern.",
+          "quellen": [
+            {
+              "name": "Verbraucherzentrale NRW",
+              "url": "https://www.verbraucherzentrale.nrw/wissen/energie/heizen-und-warmwasser/heizung-optimieren-und-heizkosten-sparen-30096"
+            },
+            {
+              "name": "Verbraucherzentrale",
+              "url": "https://www.verbraucherzentrale.de/wissen/energie/heizen-und-warmwasser/heizung-10-einfache-tipps-zum-heizkosten-sparen-13892"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Der blaue Teekessel",
+    "text": "Es war ein später Nachmittag im November. Draußen wurde es schon dunkel, und der Wind pfiff um das Haus. Anna stellte den alten Teekessel auf den Herd. Er war blau, mit einem kleinen Kratzer am Griff. Den hatte schon ihre Mutter gehabt. Bald begann der Kessel leise zu singen. Anna holte zwei Tassen aus dem Schrank, denn Nachbarin Frau Lenz hatte sich zum Plaudern angesagt. Auf dem Tisch brannte eine Kerze. Es klingelte, und Frau Lenz stand mit einer Tüte Plätzchen vor der Tür. „Die sind noch etwas zu früh“, lachte sie, „aber ich konnte nicht warten.“ Die beiden Frauen setzten sich ans Fenster und sahen den ersten Lichtern in der Straße zu. Anna goss den Tee ein, und der Duft von Orange und Zimt zog durch die Küche. Sie erzählten von früher, von Weihnachtsfesten und von kalten Wintern. Zwischendurch wurde es still, aber es war eine gute Stille. Als Frau Lenz ging, drückte Anna ihr die Hand. „Komm bald wieder“, sagte sie. Dann machte sie das Licht in der Küche aus und ließ nur die Kerze brennen. Der Kessel war noch warm. Anna lächelte und dachte: Manchmal braucht es nicht mehr als eine Tasse Tee und einen lieben Menschen."
+  }
+}
