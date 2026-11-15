@@ -1,0 +1,551 @@
+{
+  "gruss": "Guten Morgen, liebe Mama! Heute ist Sonntag, der 15. November. Es ist Volkstrauertag, ein stiller Tag. Mach es dir gemütlich, such dir eine warme Tasse und lies in Ruhe.",
+  "aufmacher": {
+    "rubrik": "Aus Mülheim",
+    "titel": "Ein stiller Sonntag mit Gedenken",
+    "unterzeile": "Kränze am Ehrenmahnmal, abends der Tatort, und morgen spielt Deutschland in Berlin",
+    "text": "Heute ist Volkstrauertag. In Mülheim legt die Stadt um 11:30 Uhr am Ehrenmahnmal Kränze nieder. Sie erinnert an die Opfer beider Weltkriege.\n\nAm Abend kannst du den „Tatort“ aus Münster sehen. Er läuft um 20:15 Uhr im Ersten. Es ist die Folge „Narrentanz“ mit Thiel und Boerne.\n\nMorgen Abend spielt die deutsche Nationalmannschaft in Berlin gegen die Niederlande. Anpfiff ist um 20:45 Uhr. Die ARD zeigt das Spiel.",
+    "quellen": [
+      {
+        "name": "Stadt Mülheim: Kranzniederlegung am Volkstrauertag",
+        "url": "https://www.muelheim-ruhr.de/rathaus/politik/repraesentation-der-stadt/kranzniederlegungen/kranzniederlegung-am-volkstrauertag"
+      },
+      {
+        "name": "t-online: Tatort Münster „Narrentanz“",
+        "url": "https://www.t-online.de/unterhaltung/tv/id_101525186/-tatort-muenster-am-sonntag-15-november-darum-geht-es-in-narrentanz-.html"
+      },
+      {
+        "name": "fussballnationalmannschaft.net: Deutschland gegen Niederlande",
+        "url": "https://www.fussballnationalmannschaft.net/spiel/deutschland-niederlande-2026-11-16"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Aus Mülheim",
+      "artikel": [
+        {
+          "titel": "Mülheim denkt heute an die Opfer von Krieg",
+          "unterzeile": "Kranzniederlegung am Ehrenmahnmal um 11:30 Uhr",
+          "text": "Heute ist Volkstrauertag. Die Stadt Mülheim legt am Ehrenmahnmal Kränze nieder. Das ist um 11:30 Uhr.\n\nSo erinnert die Stadt an die Opfer beider Weltkriege. Es ist ein stiller Tag. Viele Menschen denken heute an ihre Familien und an alle, die nicht zurückgekommen sind.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Kranzniederlegung am Volkstrauertag",
+              "url": "https://www.muelheim-ruhr.de/rathaus/politik/repraesentation-der-stadt/kranzniederlegungen/kranzniederlegung-am-volkstrauertag"
+            }
+          ]
+        },
+        {
+          "titel": "Möbel Bernskötter gewinnt den Mülheimer Wirtschaftspreis",
+          "unterzeile": "5.000 Euro für den gelungenen Wechsel in die nächste Generation",
+          "text": "Das Möbelhaus Bernskötter aus Heißen hat den 4. Mülheimer Wirtschaftspreis gewonnen. Der Preis bringt 5.000 Euro. Oberbürgermeister Marc Buchholz hat ihn überreicht. Janine Bernskötter leitet den Familienbetrieb in der fünften Generation, gemeinsam mit ihrem Vater Franz-Peter Bernskötter. Die Stadt lobt, wie gut der Wechsel geklappt hat. Einen Sonderpreis bekam die Firma GST Gesellschaft für Sicherheitstechnik.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Möbel Bernskötter gewinnt den 4. Mülheimer Wirtschaftspreis",
+              "url": "https://www.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/moebel-bernskoetter-gewinnt-den-4-muelheimer-wirtschaftspreis"
+            }
+          ]
+        },
+        {
+          "titel": "Kräuter wachsen ohne Erde",
+          "unterzeile": "Eine Mülheimer Firma testet das im Restaurant Ronja",
+          "text": "Im Restaurant Ronja wachsen Kräuter ohne Erde. Die Mülheimer Firma NourTec testet dort eine neue Anlage. Die Pflanzen bekommen Wasser mit Nährstoffen. Sie stehen in mehreren Ebenen übereinander. Das spart Platz. Sensoren und Kameras passen auf, dass es den Pflanzen gut geht. Gäste können sich die Anlage vor Ort ansehen.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Kräuter ohne Erde",
+              "url": "https://www.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/kraeuter-ohne-erde-muelheimer-unternehmen-erprobt-anbau-im"
+            }
+          ]
+        },
+        {
+          "titel": "Die Stadt ist jetzt auch bei WhatsApp",
+          "unterzeile": "Ein Kanal mit Nachrichten aus dem Rathaus",
+          "text": "Die Stadt Mülheim hat jetzt einen WhatsApp-Kanal. Dort gibt es Neuigkeiten aus dem Rathaus. Auch Baustellen und Sperrungen werden gemeldet. Wer mag, kann den Kanal abonnieren. Der Link ist muelheim.ruhr/whatsappmhruhr. Du musst nichts schreiben. Du liest nur mit. Bei Umfragen kannst du abstimmen.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Jetzt auf WhatsApp",
+              "url": "https://www.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/stadt-muelheim-an-der-ruhr-jetzt-auf-whatsapp"
+            }
+          ]
+        },
+        {
+          "titel": "Ein neuer Platz für die Polizei?",
+          "unterzeile": "Die Stadt sucht Firmen für den Bau",
+          "text": "Mülheim soll eine neue Polizeiinspektion bekommen. Die Stadt hat zwei Grundstücke dafür im Blick. Sie liegen an der Parallelstraße und am Klöttschen. Jetzt sucht die Stadt Geldgeber und Planer, die dort bauen möchten.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Investoren für neue Polizeiinspektion gesucht",
+              "url": "https://www.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/investorinnen-und-projektentwicklerinnen-gesucht-neue"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Walkmühlenstraße: Die Fahrbahn wird bis zum 27. November erneuert. Es gibt Sperrungen und Umleitungen.",
+          "Gegen Gewalt an Frauen: Im November gibt es Aktionen und einen Fachtag. Die Stadt sagt, die Zahlen steigen."
+        ],
+        "quellen": [
+          {
+            "name": "Stadt Mülheim: Walkmühlenstraße",
+            "url": "https://www.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/zwischen-bruecke-b1-und-essener-strasse-instandsetzung-der"
+          },
+          {
+            "name": "Stadt Mülheim: Aktionsmonat gegen Gewalt an Frauen",
+            "url": "https://www.muelheim-ruhr.de/leben-in-muelheim/gesellschaft-und-soziales/buero-fuer-chancengleichheit/aktuelles-aus-dem-buero-20"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim erleben",
+      "artikel": [
+        {
+          "titel": "Bilder zum Thema Demokratie",
+          "unterzeile": "Ausstellung „Götterfunken“ noch bis 22. November",
+          "text": "Im Makroscope-Museum gibt es noch eine besondere Ausstellung. Sie heißt „Götterfunken“. Künstlerinnen und Künstler aus Mülheim und aus der Partnerstadt Tours in Frankreich zeigen ihre Bilder. Es geht um Demokratie, Freiheit und Zusammenhalt. Zu sehen sind Drucke, Collagen und Zeichnungen.\n\nDas Museum ist an der Friedrich-Ebert-Straße 45. Die Ausstellung läuft noch bis zum 22. November.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Götterfunken",
+              "url": "https://www.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/staedtepartnerschaften-und-patenschaften/aktionen-und-projekte-22"
+            }
+          ]
+        },
+        {
+          "titel": "Klaus Hoffmann in der Stadthalle",
+          "unterzeile": "„Ich bin“ am Samstag, 21. November",
+          "text": "Der Sänger Klaus Hoffmann kommt in die Stadthalle. Sein Programm heißt „Ich bin“. Das Konzert ist am 21. November. Die Uhrzeit steht auf den Ticketseiten der Stadthalle.",
+          "quellen": [
+            {
+              "name": "Stadthalle Mülheim: Veranstaltungskalender",
+              "url": "https://www.stadthalle-muelheim.de/veranstaltung-besuchen/veranstaltungskalender"
+            }
+          ]
+        },
+        {
+          "titel": "Santa Claus und ein Weihnachtsmusical",
+          "unterzeile": "Am 28. November für Kinder und Erwachsene",
+          "text": "Am 28. November gibt es in der Stadthalle ein Weihnachtsmusical. Es heißt „Santa Claus“. Es ist nicht nur für Kinder gedacht. Am 29. November gibt es dort außerdem einen Kreativ-Markt mit Basteltipps und Geschenkideen.",
+          "quellen": [
+            {
+              "name": "Stadthalle Mülheim: Veranstaltungskalender",
+              "url": "https://www.stadthalle-muelheim.de/veranstaltung-besuchen/veranstaltungskalender"
+            }
+          ]
+        },
+        {
+          "titel": "Konzert bei Kerzenlicht am ersten Advent",
+          "unterzeile": "Zwei Abende im Kammermusiksaal am 29. November",
+          "text": "Am 29. November gibt es zwei Candlelight-Konzerte im Kammermusiksaal. Eins heißt „Das Beste der 80er“. Das andere heißt „Tribut an Hans Zimmer“. Er hat die Musik zu vielen bekannten Filmen geschrieben. Mehr dazu steht im Kalender der Stadthalle.",
+          "quellen": [
+            {
+              "name": "Stadthalle Mülheim: Veranstaltungskalender",
+              "url": "https://www.stadthalle-muelheim.de/veranstaltung-besuchen/veranstaltungskalender"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine: Schiffsweihnacht auf der Schleuseninsel",
+        "punkte": [
+          "Fr 20.11.: 15 bis 21 Uhr",
+          "Sa 21.11.: 13 bis 21 Uhr",
+          "Fr 27.11.: 15 bis 21 Uhr",
+          "Sa 28.11.: 13 bis 21 Uhr",
+          "So 29.11.: 11 bis 20 Uhr",
+          "Eintritt frei. Das Programm kann sich noch ändern."
+        ],
+        "quellen": [
+          {
+            "name": "Mülheimer Schiffsweihnacht 2026",
+            "url": "https://www.mein-muelheim.de/event/muelheimer-schiffsweihnacht-2026"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland",
+      "artikel": [
+        {
+          "titel": "Der Haushalt für 2027 nimmt Form an",
+          "unterzeile": "Am Dienstag geht es um die Stromsteuer",
+          "text": "Der Haushaltsausschuss im Bundestag hat den Haushalt für 2027 gebilligt. Es ist aber noch nicht das letzte Wort. Insgesamt sind rund 561 Milliarden Euro geplant. Das ist ein Rekord. Die Plastiksteuer fällt weg. Die Zuckersteuer kommt erst später.\n\nOffen ist noch, ob der Strom für alle günstiger wird. Kanzler Merz möchte die Stromsteuer 2027 senken. Finanzminister Klingbeil ist grundsätzlich offen. Er will aber wissen, woher das Geld kommt. Es geht um rund fünf Milliarden Euro. Am Dienstag berät die Koalition darüber.\n\nEin Haushalt mit drei Personen würde bei einer Senkung im Monat etwa 7,75 Euro sparen. Das hat das Vergleichsportal Verivox ausgerechnet. Der Bundestag soll in der Woche vom 24. bis 27. November abstimmen.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Ausschuss billigt Haushalt für 2027",
+              "url": "https://www.zdfheute.de/politik/deutschland/haushalt-haushaltsausschuss-bundestag-union-spd-100.html"
+            },
+            {
+              "name": "ZDFheute: Stromsteuer – Merz will Senkung, Klingbeil zögert",
+              "url": "https://www.zdfheute.de/politik/deutschland/merz-klingbeil-stromsteuer-senkung-debatte-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Mecklenburg-Vorpommern bekommt eine neue Regierung",
+          "unterzeile": "SPD, Linke und Grüne regieren künftig zusammen",
+          "text": "In Mecklenburg-Vorpommern regieren bald SPD, Linke und Grüne zusammen. Alle drei Parteien haben dem Vertrag zugestimmt. Das gab es dort noch nie. Manuela Schwesig von der SPD soll am Montag wieder zur Ministerpräsidentin gewählt werden. Die drei Parteien haben zusammen 39 von 71 Sitzen im Landtag.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Mecklenburg-Vorpommern – Weg für Rot-Rot-Grün ist frei",
+              "url": "https://www.zdfheute.de/politik/deutschland/mecklenburg-vorpommern-landesregierung-rot-rot-gruen-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Hubertus Heil will SPD-Chef werden",
+          "unterzeile": "Die Partei wählt im Januar in Bremen",
+          "text": "Der frühere Arbeitsminister Hubertus Heil möchte Vorsitzender der SPD werden. Das hat er am Samstag in einem Brief an die Mitglieder geschrieben. Er ist der Erste, der sich offiziell meldet. Zurzeit führt Lars Klingbeil die Partei. Er hat noch nicht gesagt, ob er weitermacht. Gewählt wird am 16. und 17. Januar 2027 in Bremen.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Hubertus Heil kandidiert für SPD-Vorsitz",
+              "url": "https://www.zdfheute.de/politik/deutschland/hubertus-heil-spd-partei-vorsitz-kandidatur-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Warnstreiks in der Metallindustrie",
+          "unterzeile": "Die IG Metall will fünf Prozent mehr Lohn",
+          "text": "Die Gewerkschaft IG Metall will für die Beschäftigten in der Metall- und Elektroindustrie fünf Prozent mehr Geld. Es geht um rund 3,7 Millionen Menschen. Die Arbeitgeber haben bisher 1,3 Prozent mehr geboten, verteilt über eine lange Zeit. Das ist der Gewerkschaft zu wenig. Sie hat deshalb ganztägige Warnstreiks in vielen Betrieben beschlossen. Wann genau, ist noch nicht bekannt.",
+          "quellen": [
+            {
+              "name": "ZDFheute: IG Metall kündigt ganztägige Warnstreiks an",
+              "url": "https://www.zdfheute.de/wirtschaft/ig-metall-warnstreik-metallindustrie-elektroindustrie-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Streit um Zentren für abgelehnte Asylbewerber",
+          "unterzeile": "Die Justizministerin sieht noch viele offene Fragen",
+          "text": "In der Politik wird über sogenannte Return Hubs gesprochen. Das sind Zentren in Ländern außerhalb der EU. Dorthin sollen Menschen gebracht werden, die Deutschland verlassen müssen. Justizministerin Stefanie Hubig von der SPD sieht dabei noch viele offene Fragen. Das schreibt die „Welt am Sonntag“ laut einem Bericht. Ihr Ministerium sei bisher nicht richtig in die Verhandlungen eingebunden gewesen. Es müsse erst geprüft werden, ob alles zum Recht passt.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Hubig sieht bei Return Hubs noch zahlreiche offene Fragen",
+              "url": "https://nachrichten-heute.net/1786877-hubig-sieht-bei-return-hubs-noch-zahlreiche-offene-fragen.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Aus aller Welt",
+      "artikel": [
+        {
+          "titel": "Lucky Luke wird 80",
+          "unterzeile": "Der Cowboy ist schneller als sein Schatten",
+          "text": "Lucky Luke feiert Geburtstag. Der Comic-Cowboy ist 80 Jahre alt. Der Zeichner Morris hat ihn 1946 erfunden. Zum Jubiläum kommt ein neuer Band heraus. Es ist der 103. Er stammt von Charles Berberian.\n\nWeltweit wurden mehr als 300 Millionen Hefte verkauft. In Deutschland sind es über 30 Millionen. Zu Lucky Luke gehören sein Pferd Jolly Jumper und der Hund Rantanplan. Seine Gegner sind die Daltons.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Lucky Luke wird 80 Jahre alt",
+              "url": "https://www.zdfheute.de/panorama/lucky-luke-80-geburtstag-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Gute Nachrichten aus der Natur",
+          "unterzeile": "Mehr seltene Vögel in Neuseeland und Österreich",
+          "text": "In Neuseeland gibt es so viele Kakapos wie seit 75 Jahren nicht mehr. Das berichtet die Naturschutzorganisation WWF. In Österreich gibt es einen neuen Rekord bei den Seeadlern. Es sind jetzt 123 Brutpaare. Am liebsten leben sie im Waldviertel.",
+          "quellen": [
+            {
+              "name": "WWF Österreich: Kakapos kehren nach Neuseeland zurück",
+              "url": "https://www.wwf.at/good-news-kakapos-kehren-nach-neuseeland-zurueck/"
+            },
+            {
+              "name": "WWF Österreich: So viele Seeadler-Paare wie noch nie",
+              "url": "https://www.wwf.at/good-news-so-viele-seeadler-paare-wie-noch-nie-in-oesterreich/"
+            }
+          ]
+        },
+        {
+          "titel": "Nashörner ziehen um",
+          "unterzeile": "20 Tiere reisten 1.100 Kilometer",
+          "text": "In Botswana wurden 20 Spitzmaulnashörner umgesiedelt. Sie legten dafür 1.100 Kilometer zurück. So soll der kleine Bestand im Land fast doppelt so groß werden. Das meldet der WWF.",
+          "quellen": [
+            {
+              "name": "WWF Österreich: Umsiedlung von Spitzmaulnashörnern",
+              "url": "https://www.wwf.at/wwf-erfolg-umsiedlung-von-spitzmaulnashoernern/"
+            }
+          ]
+        },
+        {
+          "titel": "Schiffsunglück in New Orleans ging glimpflich aus",
+          "unterzeile": "Alle Menschen wurden gerettet",
+          "text": "Auf dem Mississippi in New Orleans ist am Freitag ein Frachtschiff gegen ein Flusskreuzfahrtschiff gefahren. Das Kreuzfahrtschiff lag am Ufer. Es lief mit Wasser voll und kippte zur Seite. Mehr als ein Dutzend Passagiere landeten im Wasser. Alle wurden gerettet. 32 Menschen wurden im Krankenhaus behandelt. Niemand ist in Lebensgefahr. Warum es passiert ist, weiß man noch nicht genau.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Alle Menschen nach Schiffsunglück in Sicherheit",
+              "url": "https://www.zdfheute.de/panorama/unfall-frachter-kreuzfahrtschiff-new-orleans-100.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Sport: Fußball-Bundesliga",
+      "artikel": [
+        {
+          "titel": "Montagabend: Deutschland gegen die Niederlande",
+          "unterzeile": "Anpfiff im Berliner Olympiastadion um 20:45 Uhr",
+          "text": "Am Montag spielt die deutsche Nationalmannschaft in Berlin gegen die Niederlande. Anpfiff ist um 20:45 Uhr im Olympiastadion. Die ARD zeigt das Spiel.\n\nEs ist das letzte Spiel der Gruppenphase in der Nations League. Es geht auch darum, ob Deutschland ins Viertelfinale kommt. Das wird im März 2027 gespielt.",
+          "quellen": [
+            {
+              "name": "fussballnationalmannschaft.net: Deutschland gegen Niederlande am 16.11.2026",
+              "url": "https://www.fussballnationalmannschaft.net/spiel/deutschland-niederlande-2026-11-16"
+            },
+            {
+              "name": "fussballnationalmannschaft.net: Länderspielpause November 2026",
+              "url": "https://www.fussballnationalmannschaft.net/laenderspielpause-november-2026-laenderspiele-123327913.html"
+            }
+          ]
+        },
+        {
+          "titel": "Bayern und Dortmund liegen vorn",
+          "unterzeile": "So sieht es in der Tabelle aus",
+          "text": "Die Bundesliga macht noch Pause. Vorn liegen der FC Bayern München und Borussia Dortmund. Beide haben nach den Tabellen 21 Punkte. Bayern hat das bessere Torverhältnis. Dahinter folgen Freiburg mit 19 und Leipzig mit 18 Punkten. Die Seiten zählen den Stand nach dem 9. Spieltag.",
+          "quellen": [
+            {
+              "name": "Sport1: Bundesliga-Tabelle 2026/27",
+              "url": "https://www.sport1.de/daten/fussball/bundesliga/tabelle"
+            },
+            {
+              "name": "Fussballdaten: Bundesliga-Tabelle",
+              "url": "https://www.fussballdaten.de/bundesliga/tabelle/"
+            }
+          ]
+        },
+        {
+          "titel": "Am nächsten Wochenende geht es weiter",
+          "unterzeile": "Bayern gegen Köln am Freitagabend",
+          "text": "Ab dem 20. November rollt der Ball wieder. Am Freitag spielt Bayern München gegen den 1. FC Köln. Am Samstag trifft Gladbach auf Dortmund. Schalke 04 spielt gegen Stuttgart. Am Sonntag spielt Bremen gegen den Hamburger SV.",
+          "quellen": [
+            {
+              "name": "Sportschau: Bundesliga – Spiele und Ergebnisse",
+              "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/spiele-und-ergebnisse"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Die nächsten Spiele",
+        "punkte": [
+          "Fr 20.11., 20:30 Uhr: Bayern – Köln",
+          "Sa 21.11., 15:30 Uhr: Leverkusen – Paderborn, Frankfurt – Hoffenheim, Union – Leipzig, Gladbach – Dortmund, Elversberg – Freiburg",
+          "Sa 21.11., 18:30 Uhr: Schalke – Stuttgart",
+          "So 22.11., 15:30 Uhr: Augsburg – Mainz",
+          "So 22.11., 17:30 Uhr: Bremen – Hamburger SV"
+        ],
+        "quellen": [
+          {
+            "name": "Sportschau: Bundesliga – Spiele und Ergebnisse",
+            "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/spiele-und-ergebnisse"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Sport: Vereine und mehr",
+      "artikel": [
+        {
+          "titel": "Eishockey: Wolfsburg gewinnt im Penaltyschießen",
+          "unterzeile": "Ein spannender Freitagabend in der DEL",
+          "text": "In der Deutschen Eishockey Liga gab es am Freitag viele Tore. Wolfsburg schlug Berlin mit 4:3 nach Penaltyschießen. München gewann in Augsburg mit 5:4. Ingolstadt besiegte Straubing mit 4:1. Schwenningen gewann gegen Köln mit 2:1. Heute stehen weitere Spiele an.",
+          "quellen": [
+            {
+              "name": "Sportschau: DEL – Spiele und Ergebnisse",
+              "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/spiele-und-ergebnisse"
+            }
+          ]
+        },
+        {
+          "titel": "Basketball: Ulm und Bonn gewinnen",
+          "unterzeile": "Auch Ludwigsburg siegt",
+          "text": "In der Basketball-Bundesliga gewann Ulm am Samstag 97:78 gegen Jena. Bonn siegte bei Bamberg mit 85:71. Schon am Freitag hatte Ludwigsburg in Hagen 93:79 gewonnen.",
+          "quellen": [
+            {
+              "name": "Sportschau: Basketball-Bundesliga – Spiele und Ergebnisse",
+              "url": "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-bbl/spiele-und-ergebnisse"
+            },
+            {
+              "name": "easyCredit BBL",
+              "url": "https://www.easycredit-bbl.de/"
+            }
+          ]
+        },
+        {
+          "titel": "Handball: Spitzenspiel in Magdeburg",
+          "unterzeile": "Heute um 15 Uhr gegen Flensburg",
+          "text": "Heute spielt der SC Magdeburg zu Hause gegen die SG Flensburg-Handewitt. Anwurf ist um 15 Uhr. Am Samstag haben die Füchse Berlin gegen den THW Kiel gespielt. Das Ergebnis lag uns beim Schreiben nicht vor.",
+          "quellen": [
+            {
+              "name": "Sportschau: Handball-Bundesliga – Spiele und Ergebnisse",
+              "url": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/spiele-und-ergebnisse"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Davis Cup in Bologna",
+        "punkte": [
+          "Die Endrunde ist vom 24. bis 29. November.",
+          "Deutschland spielt am 26. November im Viertelfinale gegen Großbritannien."
+        ],
+        "quellen": [
+          {
+            "name": "tennis.de: Davis Cup – Deutschland zum dritten Mal in Folge für Finals qualifiziert",
+            "url": "https://www.tennis.de/news/mitfiebern/2026/davis-cup--deutschland-zum-dritten-mal-in-folge-fuer-finals-qual.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klatsch & Tratsch",
+      "artikel": [
+        {
+          "titel": "Peter Kraus (87) singt wieder mit seinem Sohn",
+          "unterzeile": "Im Mai 2027 geht es auf Tour",
+          "text": "Schlagerstar Peter Kraus ist 87 Jahre alt. Am Freitag trat er mit seinem Sohn Mike bei der ORF-Gala „Licht ins Dunkel“ auf. Sie sangen „Für immer vereint“. Das Publikum jubelte.\n\nIm Mai 2027 gehen die beiden auf Tour. Sie heißt „Live hoch 2“. Es gibt fünf Konzerte, in Hamburg, Berlin, München, Stuttgart und Wien. Auf die Frage nach seinen Abschiedstourneen sagte Kraus: „Sieben Stück“. Alle lachten.",
+          "quellen": [
+            {
+              "name": "Yahoo Nachrichten: Schlager-Legende legt mit 87 Jahren umjubelten Auftritt hin",
+              "url": "https://de.nachrichten.yahoo.com/schlager-legende-legt-87-jahren-202824038.html"
+            }
+          ]
+        },
+        {
+          "titel": "Wiedersehen bei „Wer weiß denn sowas?“",
+          "unterzeile": "Stefan Mross trifft Carmen Nebel",
+          "text": "Im Fernsehen gibt es ein Wiedersehen. Schlagersänger Stefan Mross und Moderatorin Carmen Nebel sind bei „Wer weiß denn sowas?“ zu Gast. Das meldet das Portal Schlagerprofis.",
+          "quellen": [
+            {
+              "name": "Schlagerprofis: Schlager-News",
+              "url": "https://schlagerprofis.de/"
+            }
+          ]
+        },
+        {
+          "titel": "Mehmet Scholls Tochter hat einen neuen Job",
+          "unterzeile": "„Für mich ist das etwas so Besonderes“",
+          "text": "Josefine Scholl ist die Tochter des früheren Fußballers Mehmet Scholl. Sie hat in München einen neuen Job bekommen. Dazu sagt sie: „Für mich ist das etwas so Besonderes.“ Mehr verrät die Meldung der Abendzeitung vorab nicht.",
+          "quellen": [
+            {
+              "name": "Abendzeitung München: Promi-News",
+              "url": "https://www.abendzeitung-muenchen.de/promis/"
+            },
+            {
+              "name": "Abendzeitung: Mehmet Scholls Tochter Josefine",
+              "url": "https://www.abendzeitung-muenchen.de/promis/mehmet-scholls-tochter-josefine-fuer-mich-ist-das-etwas-so-besonderes-art-1173153"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Klatsch & Tratsch: TV, Shows und Stars der Welt",
+      "artikel": [
+        {
+          "titel": "Taylor Swift singt wieder in Nashville",
+          "unterzeile": "Beim Country-Preis nach 13 Jahren",
+          "text": "Taylor Swift tritt nächste Woche bei den CMA Awards in Nashville auf. Das sind die Preise der Country-Musik. Es ist ihr erster Auftritt dort seit 13 Jahren.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Promi-News November 2026",
+              "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Die Philippinen gewinnen den ESC für Asien",
+          "unterzeile": "Ein Sängerwettstreit wie in Europa",
+          "text": "Beim neuen asiatischen Ableger des Eurovision Song Contest hat die Philippinen gewonnen. Das meldet die Abendzeitung vom Samstagabend.",
+          "quellen": [
+            {
+              "name": "Abendzeitung: Der ESC erobert Asien",
+              "url": "https://www.abendzeitung-muenchen.de/promis/der-esc-erobert-asien-philippinen-zum-sieger-gekuert-art-1173410"
+            }
+          ]
+        },
+        {
+          "titel": "Daniel Radcliffe mag Familienfilme",
+          "unterzeile": "Der frühere Harry-Potter-Darsteller erklärt, warum",
+          "text": "Daniel Radcliffe erzählt, warum er so gern Familienfilme dreht. Das hat die Abendzeitung am Samstag gemeldet.",
+          "quellen": [
+            {
+              "name": "Abendzeitung: Daniel Radcliffe und die Familienfilme",
+              "url": "https://www.abendzeitung-muenchen.de/promis/daniel-radcliffe-warum-er-so-gerne-familienfilme-dreht-art-1173402"
+            }
+          ]
+        },
+        {
+          "titel": "Avril Lavigne ist Mutter geworden",
+          "unterzeile": "Die Sängerin freut sich über Nachwuchs",
+          "text": "Die Sängerin Avril Lavigne ist Mutter geworden. Das steht in der Promi-Bildergalerie von ZDFheute.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Promi-News November 2026",
+              "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "TV-Tipp für heute Abend",
+        "punkte": [
+          "20:15 Uhr, Das Erste: „Tatort“ aus Münster mit Thiel und Boerne. Die Folge heißt „Narrentanz“ und spielt im Karneval. Sie ist schon seit Freitag in der Mediathek."
+        ],
+        "quellen": [
+          {
+            "name": "t-online: Tatort Münster „Narrentanz“",
+            "url": "https://www.t-online.de/unterhaltung/tv/id_101525186/-tatort-muenster-am-sonntag-15-november-darum-geht-es-in-narrentanz-.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Zum Schluss",
+      "artikel": [
+        {
+          "titel": "Erkältung: Hab Geduld",
+          "unterzeile": "Etwa sieben Tage, und kein Mittel macht es schneller",
+          "text": "Eine Erkältung dauert im Schnitt etwa sieben Tage. Kein Mittel verkürzt sie nachweislich. Tabletten und Sprays lindern nur die Beschwerden. Hilfreich sind viel Ruhe, genug Wasser und warmer Tee. Auch Hühnersuppe kann guttun.",
+          "quellen": [
+            {
+              "name": "Apotheken Umschau: Erkältung schnell loswerden",
+              "url": "https://www.apotheken-umschau.de/krankheiten-symptome/erkaeltung-schnell-loswerden-fakten-tipps-und-hausmittel-1426147.html"
+            }
+          ]
+        },
+        {
+          "titel": "Nasenspray nur eine Woche",
+          "unterzeile": "Sonst leidet die Nase",
+          "text": "Abschwellende Nasensprays solltest du höchstens eine Woche nehmen. Sonst kann die Nasenschleimhaut Schaden nehmen. Bei Husten kann Inhalieren mit Salzlösung helfen.",
+          "quellen": [
+            {
+              "name": "Apotheken Umschau: Erkältung schnell loswerden",
+              "url": "https://www.apotheken-umschau.de/krankheiten-symptome/erkaeltung-schnell-loswerden-fakten-tipps-und-hausmittel-1426147.html"
+            }
+          ]
+        },
+        {
+          "titel": "So bleibst du gesund",
+          "unterzeile": "Hände waschen und gut schlafen",
+          "text": "Wasch dir oft die Hände. Schlaf genug und iss ausgewogen. Bei starken Schmerzen oder hohem Fieber geh zur Hausarztpraxis. Bei plötzlichem hohem Fieber ruf lieber vorher an und lass es abklären. Es könnte eine Grippe sein.",
+          "quellen": [
+            {
+              "name": "Apotheken Umschau: Erkältung schnell loswerden",
+              "url": "https://www.apotheken-umschau.de/krankheiten-symptome/erkaeltung-schnell-loswerden-fakten-tipps-und-hausmittel-1426147.html"
+            },
+            {
+              "name": "Apotheken Umschau: Grippe",
+              "url": "https://www.apotheken-umschau.de/krankheiten-symptome/infektionskrankheiten/was-kann-man-gegen-eine-grippe-tun-734131.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Die Sockenwolle",
+    "text": "Als es draußen früh dunkel wurde, holte Frau Berger die große Dose vom Küchenschrank. Darin lagen ihre Wollreste, bunt gemischt. Sie wollte Socken stricken, für den Enkel, für die Nachbarin und für sich. Der Tee dampfte auf dem Tisch. Die Katze sprang auf den Stuhl und rollte sich zusammen. Frau Berger zog den Faden durch die Finger und lächelte. Jede Masche erinnerte sie an früher. An Sonntage bei der Oma und an das Knistern im Ofen. Nach einer Stunde war die erste Socke fertig. Sie war rot, mit einem gelben Streifen. Am nächsten Morgen klingelte sie bei der Nachbarin. „Probier mal“, sagte sie. Die Nachbarin zog die Socke an und strahlte. Da wusste Frau Berger: Ein kleines Geschenk reicht oft, damit der graue Tag hell wird."
+  }
+}
