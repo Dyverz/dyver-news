@@ -1,0 +1,580 @@
+{
+  "gruss": "Guten Morgen, Abenteurer! Am Sonntag gibt es die Dungeon-XP-Kehrtwende, neue Klassen-Hotfixes und einen Blick auf die Wochenquest in Dire Maul.",
+  "aufmacher": {
+    "rubrik": "Dungeons & Raids",
+    "titel": "Dungeon-XP: Blizzard rudert bei der Zero-XP-Regel zurück",
+    "unterzeile": "Neue Grenze: Erst wenn ein Spieler mehr als 12 Level über den Gegnern liegt, gibt es keine XP",
+    "text": "Blizzard hat die umstrittene Dungeon-XP-Regel vom 13. November am 14. November angepasst. Zuvor bekam die ganze Gruppe 0 XP von Gegnern, die für irgendein Mitglied trivial waren. Jetzt greift das nur noch, wenn ein hochstufiger Spieler mehr als 12 Level über den Gegnern liegt. Bereits laufende Instanzen sind nicht betroffen.\n\nLaut Blizzard-Forum war die erste Version zu breit, weil manche Dungeons einen großen Level-Bereich haben; Kaivax sprach davon, dass sie „das Ziel verfehlt“ habe. Zuvor hatten Spieler, besonders Tanks und Healer, heftig protestiert.",
+    "quellen": [
+      {
+        "name": "Blizzard-Forum: Dungeon-XP-Anpassung 14. November",
+        "url": "https://us.forums.blizzard.com/en/wow/t/player-level-dungeon-xp-adjustment-november-14/2416343/1"
+      },
+      {
+        "name": "Icy Veins: Spieler gegen Zero-XP",
+        "url": "https://www.icy-veins.com/wow-forever/news/wow-forever-players-push-back-on-zero-xp-for-trivial-dungeon-enemies/"
+      },
+      {
+        "name": "PC Gamer: Dungeon-Mobs ohne XP",
+        "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Großer Hotfix vom 13. November: Klassen, Dungeons, Items, Quests",
+          "unterzeile": "Blizzard postete die Notes erst am 14. November im Forum",
+          "text": "Blizzard hat ein umfangreiches Hotfix-Set vom 13. November veröffentlicht. Es enthält Klassenkorrekturen (unter anderem Diminishing Returns gegen Creature-Stuns), Anpassungen bei Dungeon-XP, mehrere Item- und Quest-Fixes sowie Spawn-Änderungen in der offenen Welt.\n\nBlizzard führt die Änderungen als bereits aktiv. Space4Games weist darauf hin, dass der Eintrag auf den 13. November datiert, im Forum aber am 14. November erschien. Wir fassen die Highlights auf den folgenden Seiten zusammen; reine Tooltip-Fixes lassen wir weg.",
+          "quellen": [
+            {
+              "name": "Blizzard Hotfixes 13. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            },
+            {
+              "name": "Space4Games: Hotfix-Übersicht",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Blessed Band of Light verliert Hit, Channeler's Ring bekommt Spell Power",
+          "unterzeile": "Tausch über Pix Xizzix möglich – nicht umkehrbar",
+          "text": "Beim Blessed Band of Light wurde der Hit-Wert entfernt, der Channeler's Ring hat jetzt Spell Power statt Spirit. Wer das Band besitzt, kann es laut Space4Games bei Pix Xizzix gegen den Ring tauschen. Der Tausch ist das erste Item der Vendor-Liste bis zur Raid-Eröffnung und lässt sich nicht rückgängig machen. Außerdem verlangt das Glimmering Mithril Insignia keine Mail-Proficiency mehr, und die Taran Icebreaker verhält sich nun als Zweihand-Streitkolben.",
+          "quellen": [
+            {
+              "name": "Blizzard Hotfixes 13. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            },
+            {
+              "name": "Space4Games: Hotfix-Übersicht",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Refund für verlorene Skill-Käufe nach den Server-Problemen",
+          "unterzeile": "Betroffen: Käufe während der Instabilität am 9. November",
+          "text": "Spieler, die während der Server-Probleme Skills beim Lehrer gekauft hatten und diese verloren, bekommen ihr Gold zurück. Laut Icy Veins erstattet Blizzard die verlorenen Trainingskäufe, ein Blizzard-Post trägt den Titel „Lost Training Purchase Refunds“. Details zur Auszahlung stehen im Blizzard-Beitrag; wir konnten ihn nicht vollständig abrufen.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Skill-Käufe erstattet",
+              "url": "https://www.icy-veins.com/wow-forever/news/lost-skill-training-purchases-after-server-issues-refunded/"
+            },
+            {
+              "name": "Forever News (Meldungsübersicht)",
+              "url": "https://wowforever.news/"
+            }
+          ]
+        },
+        {
+          "titel": "Action-Bar-Einstellungen bleiben mit Secondary Talents erhalten",
+          "unterzeile": "Fix für ein nerviges Logout-Problem",
+          "text": "Laut Hotfix-Notes werden die Action-Bar-Einstellungen bei Spielern mit Secondary Talents nicht mehr bei jedem Logout zurückgesetzt. Ein kleiner, aber für Dual-Spec-Spieler spürbarer Fix.",
+          "quellen": [
+            {
+              "name": "Blizzard Hotfixes 13. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Hotfix 13. Nov. in Stichpunkten",
+        "punkte": [
+          "Neue Build-Nummer: in den Quellen nicht genannt (zuletzt gesichtet: 1.60.1.70938)",
+          "Creature-Stuns haben jetzt Diminishing Returns",
+          "Wild Growth: nicht mehr in Bewegung, Koeffizient 6,6 % (vorher 3,3 %)",
+          "Dungeon-Mobs, die für einen Mitspieler trivial sind: 0 XP (siehe Seite Dungeons)",
+          "Weekly-Dungeonquests von Pix Xizzix verschwinden zum Reset",
+          "Action-Bar-Reset-Bug mit Secondary Talents behoben"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard Hotfixes 13. November",
+            "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Wild Growth: Doppelte Heilung, aber nur noch im Stand",
+          "unterzeile": "Restoration Druids verlieren Mobilität, gewinnen Power",
+          "text": "Der Healing-Koeffizient von Wild Growth steigt von 3,3 auf 6,6 Prozent. Dafür lässt sich der Zauber nicht mehr in Bewegung wirken. Das steht in den Hotfix-Notes vom 13. November und in der Übersicht von Space4Games.",
+          "quellen": [
+            {
+              "name": "Blizzard Hotfixes 13. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            },
+            {
+              "name": "Space4Games: Hotfix-Übersicht",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Windfury Totem und Judgement of Command: Melee-Logik angepasst",
+          "unterzeile": "Shaman und Paladin bekommen Klarstellungen",
+          "text": "Windfury Totem triggert jetzt von allen Melee-Fähigkeiten. Bei Fähigkeiten, die auch die Offhand nutzen (etwa Whirlwind oder Mutilate), kann nur der Main-Hand-Schlag den Effekt auslösen. Judgement of Command zählt nun als Melee-Angriff und löst On-Hit-Effekte aus; andere Judgements bleiben Ranged.",
+          "quellen": [
+            {
+              "name": "Blizzard Hotfixes 13. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            },
+            {
+              "name": "Space4Games: Hotfix-Übersicht",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Kleinere Korrekturen: Priest, Warlock, Warrior, Mage",
+          "unterzeile": "Vom Mana-Perk bis zum Sap-Removal",
+          "text": "The Quick and the Dead senkt jetzt auch die Manakosten von Divine Spirit. Siphon Life Rank 1 kann nicht mehr gewirkt werden, während man silenced ist. Berserker Rage entfernt Sap, und Frost Nova bricht korrekt durch Proc- und Blizzard-Schaden. Außerdem gilt für alle Klassen: Creature-Stuns haben nun Diminishing Returns.",
+          "quellen": [
+            {
+              "name": "Blizzard Hotfixes 13. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            },
+            {
+              "name": "Space4Games: Hotfix-Übersicht",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Battle-Mage-Waffe „Wit's Edge“ entdeckt (Spieler-Fund)",
+          "unterzeile": "Mage-only, Level 57, Bind on Pickup",
+          "text": "Spieler haben die Mage-Waffe Wit's Edge gefunden. Laut Berichten erhält man sie, indem man die Witchblade mit einem Scroll of Wit verwandelt; sie ist Mage-exklusiv, erfordert Charakterlevel 57 und ist Bind on Pickup. Stats und Quelle stammen aus Spielerfunden und Fan-Seiten (eine nennt bis zu 74 Spell Damage) und sind nicht offiziell bestätigt.",
+          "quellen": [
+            {
+              "name": "Wowhead: Wit's Edge entdeckt",
+              "url": "https://www.wowhead.com/forever/news/new-high-level-battle-mage-weapon-discovered-in-wow-forever-383860"
+            },
+            {
+              "name": "HappyGamer: Wit's Edge",
+              "url": "https://happygamer.com/wow-forever-battle-mage-weapon-wits-edge-173740/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Dungeon-XP: Blizzard lockert die Zero-XP-Regel",
+          "unterzeile": "Neuer Schwellenwert: mehr als 12 Level über den Gegnern",
+          "text": "Am 13. November hatte Blizzard verfügt, dass Dungeon-Gegner der ganzen Gruppe 0 XP geben, sobald sie für irgendein Gruppenmitglied trivial sind. Am 14. November folgte eine Anpassung: Die Beschränkung greift laut Blizzard-Forum nur noch, wenn ein hochstufiger Spieler mehr als 12 Level über den Gegnern liegt. Bereits laufende Instanzen sind nicht betroffen.\n\nBegründung laut Forum-Post: Die erste Version sei zu breit gewesen, weil manche Dungeons einen großen Level-Bereich abdecken. Kaivax sagte, die erste Änderung habe bei diesen Dungeons „das Ziel verfehlt“. Zuvor hatten Spieler massiv protestiert, besonders Tanks und Healer.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Dungeon-XP-Anpassung 14. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/player-level-dungeon-xp-adjustment-november-14/2416343/1"
+            },
+            {
+              "name": "Icy Veins: Spieler gegen Zero-XP",
+              "url": "https://www.icy-veins.com/wow-forever/news/wow-forever-players-push-back-on-zero-xp-for-trivial-dungeon-enemies/"
+            },
+            {
+              "name": "PC Gamer: Dungeon-Mobs ohne XP",
+              "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/"
+            }
+          ]
+        },
+        {
+          "titel": "Krol'dok Battlegear: Das Set, das Spieler zum Ogre macht",
+          "unterzeile": "Fund der Community – nicht im Item-Text aufgeführt",
+          "text": "Wowhead berichtet, dass Spieler beim Tragen des kompletten Krol'dok-Battlegear-Sets (Krol'dok Stronghold, Plate-Tanking-Set) einen zusätzlichen Bonus entdeckt haben: Der Charakter verwandelt sich in einen Ogre. Laut Kami-Labs lautet der 5er-Bonus „Ogre Dominance“ und stackt Stamina bis 20-mal, danach folgt die Verwandlung. In den Item-Texten der Wowhead-Datenbank taucht der Ogre-Effekt laut Kami-Labs nicht auf; die Details sind daher Spielerbeobachtungen.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Ogre-Set",
+              "url": "https://www.icy-veins.com/wow-forever/news/become-an-ogre-with-this-new-plate-set-in-wow-forever/"
+            },
+            {
+              "name": "Wowhead: Dungeon-Set verwandelt in Ogre",
+              "url": "https://www.wowhead.com/news=383861/new-dungeon-set-transforms-players-into-an-ogre-in-wow-forever"
+            },
+            {
+              "name": "Kami-Labs: Krol'dok-Set",
+              "url": "https://kami-labs.fr/en/wow-forever/set-krol-dok-transformation-ogre-wow-forever/"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-Fixes: Deadmines, Drowned City, Stratholme",
+          "unterzeile": "Respawn-Zeit in der Drowned City verdoppelt",
+          "text": "In der Drowned City respawnen Nicht-Boss-Gegner nun nach 2 statt 1 Stunde. In den Deadmines wird Sneed korrekt ausgeworfen, wenn sein Shredder bei 0 % Leben gestunnt wird. Der Kill von Balnazzar in Stratholme zählt jetzt für Master Spelunker. Zudem gaben Gegner, die für alle Gruppenmitglieder trivial sind, ohnehin keine XP.",
+          "quellen": [
+            {
+              "name": "Blizzard Hotfixes 13. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            },
+            {
+              "name": "Space4Games: Hotfix-Übersicht",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Quest-Fixes vom 13. November: Gemeinsame Drops und Zul'Farrak",
+          "unterzeile": "Deadwood Key & Co. droppen nun für jeden Party-Spieler mit Quest",
+          "text": "Mehrere Quest-Items, etwa der Deadwood Key, droppen jetzt für alle Gruppenmitglieder mit der passenden Quest. Bei „The Talisman of Kazdor“ landen Rogues nicht mehr im falschen Zul'Farrak. Weitere Fixes betreffen Riverglades („Gaseous Gold“, Jezap Jinglesprocket), Feralas („Gordunni Cobalt“) und die Bibliothekare Owen Thadd und Garion Wendell, die Bücher wieder annehmen.",
+          "quellen": [
+            {
+              "name": "Blizzard Hotfixes 13. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            },
+            {
+              "name": "Space4Games: Hotfix-Übersicht",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Spawn-Anpassungen: Mulgore, Stranglethorn, Badlands, Blasted Lands",
+          "unterzeile": "Mehr Tiger, weniger Quillboar, keine Loot-Wachen",
+          "text": "Quillboar und Venture Co. spawnen in Mulgore seltener und sind weniger aggressiv. In Stranglethorn Vale erscheinen Tiger, Panther und Raptoren häufiger, Lesser Rock Elementals in den Badlands ebenfalls. Die Wachen von Nethergarde Keep in den Blasted Lands droppen keinen Loot mehr. In Stratholme und den Eastern Plaguelands wurde unerwartetes Aggro, vor allem bei Wiederbelebungen, behoben.",
+          "quellen": [
+            {
+              "name": "Blizzard Hotfixes 13. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            },
+            {
+              "name": "Space4Games: Hotfix-Übersicht",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Alle Dungeon-Quests für Level 30 bis 40 im Überblick",
+          "unterzeile": "Icy Veins listet fünf Quest-Guides, darunter Drowned City und Krol'dok",
+          "text": "Icy Veins hat laut Meldungsübersicht fünf Guides veröffentlicht, die jede Dungeon-Quest der Level 30 bis 40 abdecken, darunter Drowned City und Krol'dok Stronghold. Das hilft vor allem, weil Blizzard Dungeon-Quests als Teil des Level-Wegs vorgesehen hat. Den Artikelinhalt konnten wir nicht abrufen, die Angaben stammen aus der Zusammenfassung von Forever News.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Alle Dungeon-Quests für Level 30–40",
+              "url": "https://www.icy-veins.com/wow-forever/news/you-can-now-find-every-level-30-40-dungeon-quest-in-wow-forever/"
+            },
+            {
+              "name": "Forever News (Meldungsübersicht)",
+              "url": "https://wowforever.news/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Dire-Maul-Wochenquest zahlt bis zu 100 Gold – meist weniger",
+          "unterzeile": "„In Demand – Ancient Elven Curiosities“ aus Booty Bay",
+          "text": "Ein neuer wöchentlicher Quest für Level 60 sorgt für Gesprächsstoff. Mehrere Medien berichten: Man sammelt je ein Item aus den drei Dire-Maul-Flügeln und gibt sie in Booty Bay ab. Als Belohnung gibt es eine Tasche mit einem Vendor-Item, dessen Wert laut Berichten 10, 20, 40 oder 100 Gold betragen kann. 100 Gold ist also das Maximum, nicht der Regelfall.\n\nDer Quest soll nach beiden bisherigen Weekly-Resets angeboten worden sein und könnte laut einer Quelle später auf andere Dungeons rotieren. Die Angaben stammen von Medien und Spielerberichten, nicht von Blizzard; Details können sich ändern.",
+          "quellen": [
+            {
+              "name": "Mein-MMO: Quest gibt bis zu 100 Gold",
+              "url": "https://mein-mmo.de/wow-forever-quest-gibt-bis-zu-100-gold/"
+            },
+            {
+              "name": "PC Games: Bis zu 100 Gold pro Woche",
+              "url": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/Tipps/wow-forever-gold-uest-1559921/"
+            },
+            {
+              "name": "Team Overpowered: Dire-Maul-Wochenquest",
+              "url": "https://teamoverpowered.com/forever/news/max-level-weekly-quest-dire-maul-gold/"
+            }
+          ]
+        },
+        {
+          "titel": "Skyborne zahlen mehr fürs Reiten",
+          "unterzeile": "Kein 10-Prozent-Reputationsrabatt für Skyborne",
+          "text": "Wowhead meldet, dass Skyborne beim Erlernen des Reittiers keinen Reputationsrabatt bekommen. Im Blizzard-Forum rechnen Spieler vor, dass Skyborne die Zephras Isle mit Friendly-Ruf verlassen und kaum Ruf sammeln können, wodurch sich Mount-Training verteuert; ein Thread nennt 110 Gold Mehrkosten. Quellen widersprechen sich bei den genauen Rabattstufen, daher nur der gemeinsame Kern: Der Rabatt ist für Skyborne praktisch schwer erreichbar.",
+          "quellen": [
+            {
+              "name": "Wowhead: Skyborne ohne Reputationsrabatt",
+              "url": "https://www.wowhead.com/forever/news/skyborne-dont-have-reputation-discount-for-mounts-in-wow-forever-383873"
+            },
+            {
+              "name": "Blizzard-Forum: Skyborne zahlen 110g extra",
+              "url": "https://us.forums.blizzard.com/en/wow/t/skyborne-have-to-pay-an-extra-110g-for-mount-training/2411282"
+            },
+            {
+              "name": "Blizzard-Forum: Skyborne und Fraktionsrabatt",
+              "url": "https://us.forums.blizzard.com/en/wow/t/skyborne-cant-easily-get-faction-discount-making-mount-training-more-expensive/2409795"
+            }
+          ]
+        },
+        {
+          "titel": "Berufe-Hotfixes im Überblick: Alchemie, Verzauberkunst, Kochen, Gerberei",
+          "unterzeile": "Skill-Ups und Anforderungen angepasst",
+          "text": "Laut Hotfix-Übersicht gibt es Skill-Ups durch Coarse Grinding Stone bis 90, und das Journeyman Campfire Kit braucht Cooking 90. Beim Enchanting wurden Tool- und Disenchant-Fixes eingespielt, Lesser Spirit enchants geben nun Spirit. Das Tanning Rack erfordert nur noch Skill 125. Iron Grenades sind günstiger, Swiftstrike Shot und Swiftfeather Arrow nicht mehr Bind on Pickup. Nyalah Brightfire auf Zephras Isle bietet zudem mehr Kochzutaten.",
+          "quellen": [
+            {
+              "name": "Blizzard Hotfixes 13. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            },
+            {
+              "name": "Space4Games: Hotfix-Übersicht",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen zum Mitnehmen",
+        "punkte": [
+          "Dire-Maul-Weekly: 10 / 20 / 40 / 100 Gold je nach Beutel (laut Berichten)",
+          "Mount-Training Skyborne: laut Forum ca. 110 Gold Mehrkosten"
+        ],
+        "quellen": [
+          {
+            "name": "Mein-MMO: Quest gibt bis zu 100 Gold",
+            "url": "https://mein-mmo.de/wow-forever-quest-gibt-bis-zu-100-gold/"
+          },
+          {
+            "name": "Blizzard-Forum: Skyborne zahlen 110g extra",
+            "url": "https://us.forums.blizzard.com/en/wow/t/skyborne-have-to-pay-an-extra-110g-for-mount-training/2411282"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Community",
+      "artikel": [
+        {
+          "titel": "Zero-XP-Streit: Was Spieler fordern",
+          "unterzeile": "Tanks, Healer und Freundesgruppen fühlen sich benachteiligt",
+          "text": "Nach der Hotfix-Regel vom 13. November beschwerten sich Tanks und Healer, dass sie nicht wie DPS durch Dungeons leveln können. Ein Forum-Poster warnte, dass man mit einem nur drei Level höheren Freund die Hälfte eines Dungeons ohne XP laufen könne. Vorschläge: XP nur streichen, wenn ein Mitglied mehr als 5 Level außerhalb der Dungeon-Spanne ist, oder die Gruppensuche anpassen. Blizzard hat am 14. November einen Schwellenwert von 12 Level eingeführt.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Spieler gegen Zero-XP",
+              "url": "https://www.icy-veins.com/wow-forever/news/wow-forever-players-push-back-on-zero-xp-for-trivial-dungeon-enemies/"
+            },
+            {
+              "name": "Blizzard-Forum: Problem with the dungeon change",
+              "url": "https://us.forums.blizzard.com/en/wow/t/problem-with-the-dungeon-change-im-seeing/2415267"
+            },
+            {
+              "name": "Blizzard-Forum: Dungeon-XP-Anpassung 14. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/player-level-dungeon-xp-adjustment-november-14/2416343/1"
+            }
+          ]
+        },
+        {
+          "titel": "„Faction currently unavailable“: So funktioniert die Sperre",
+          "unterzeile": "Balance wird pro Ruleset und über die Zeit bewertet",
+          "text": "Laut Berichten zur Ankündigung von Kaivax am 10. November begrenzt Blizzard auf PvP-Rulesets die Charaktererstellung der größeren Fraktion, Ziel ist eine Verteilung nahe 50/50. Die Meldung lautet „This faction is currently unavailable on this ruleset due to population imbalance“. Die Sperre kann wandern oder fallen. Zudem gilt auf PvP: Wer einen Charakter einer Fraktion hat, kann auf dem Account keine andere Fraktion erstellen. Welche Fraktion in Europa auf dem normalen PvP-Ruleset gesperrt ist, ist aus den Quellen nicht eindeutig.",
+          "quellen": [
+            {
+              "name": "Space4Games: PvP-Fraktionsbalance",
+              "url": "https://space4games.com/en/games-en/wow-forever-pvp-faction-balance/"
+            },
+            {
+              "name": "Games.gg: „This faction is currently unavailable“",
+              "url": "https://games.gg/world-of-warcraft/guides/wow-forever-this-faction-is-currently-unavailable-what-it-means/"
+            },
+            {
+              "name": "Blizzard-Forum: PvP Faction Balance Updates",
+              "url": "https://us.forums.blizzard.com/en/wow/t/pvp-faction-balance-updates-november-10/2408781/174"
+            }
+          ]
+        },
+        {
+          "titel": "Überfüllte Zonen: Blizzard senkt Spielerzahlen weiter",
+          "unterzeile": "Auf dem PvP-Ruleset stärker als auf PvE",
+          "text": "Im Hotfix vom 9. November hat Blizzard die Überfüllung in mehreren Zonen verringert, auf dem PvP-Ruleset stärker. Laut Kaivax im Forum wurde die Änderung nach Spieler-Hinweisen größer ausgelegt, und weitere Anpassungen seien möglich, sobald man beobachtet habe, wie sich die Zonen anfühlen.",
+          "quellen": [
+            {
+              "name": "Blizzard Hotfixes 13. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            },
+            {
+              "name": "Blizzard-Forum: PvP Faction Balance Updates",
+              "url": "https://us.forums.blizzard.com/en/wow/t/pvp-faction-balance-updates-november-10/2408781/174"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Dire Maul Weekly: Route und Bosse",
+          "unterzeile": "Je ein Item aus Ost, West und Nord",
+          "text": "Laut Guides brauchst du Felvine Seed von Alzzin the Wildshaper (Dire Maul East), Ancient Memento von Prince Tortheldrin (West) und den Earthstone Diamond Pinky Ring von King Gordok (Nord). Danach zurück nach Booty Bay. Die Namen stammen aus Guide-Seiten und sind nicht von Blizzard bestätigt.",
+          "quellen": [
+            {
+              "name": "Team Overpowered: Dire-Maul-Wochenquest",
+              "url": "https://teamoverpowered.com/forever/news/max-level-weekly-quest-dire-maul-gold/"
+            },
+            {
+              "name": "Timesaver: Dire-Maul-Weekly",
+              "url": "https://timesaver.gg/blog/wow-forever-weekly-quest-dire-maul-100-gold"
+            }
+          ]
+        },
+        {
+          "titel": "XP-Tipps: Rested XP, Essen, Sleeping Bag",
+          "unterzeile": "Dungeons einmal mit allen Quests laufen",
+          "text": "Mehrere Guides raten: Jeden Dungeon einmal mit allen Quests laufen, Dungeon-Mobs allein bringen wenig. Rested XP verdoppelt Kill-XP, also in Gasthäusern ausloggen. Essen mit +5 % XP und das Cozy Sleeping Bag (ab Level 14) helfen zusätzlich. Gruppen sollten im Level nah beieinander liegen. Seit dem Hotfix vom 14. November zählt das erst ab mehr als 12 Level Unterschied.",
+          "quellen": [
+            {
+              "name": "Conquest Capped: Leveling-Guide",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-leveling/"
+            },
+            {
+              "name": "Overgear: Leveling-Guide 1–60",
+              "url": "https://overgear.com/guides/wow-forever/1-60-leveling-guide/"
+            },
+            {
+              "name": "Blizzard-Forum: Dungeon-XP-Anpassung 14. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/player-level-dungeon-xp-adjustment-november-14/2416343/1"
+            }
+          ]
+        },
+        {
+          "titel": "Priest leveln: Mind Blast, Shadow Word: Pain, Wand",
+          "unterzeile": "Mobalytics empfiehlt Night Elves",
+          "text": "Der Mobalytics-Guide empfiehlt für die Level 30 bis 40 Mind Blast, Shadow Word: Pain, Penance und Wand. Night Elves seien die beste Leveling-Rasse für Priests. Das ist die Einschätzung eines Guide-Autors, keine offizielle Balance-Aussage.",
+          "quellen": [
+            {
+              "name": "Mobalytics: Priest-Leveling-Guide",
+              "url": "https://mobalytics.gg/wow-forever/classes/toleduck-priest-leveling-guide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen & Interviews",
+      "artikel": [
+        {
+          "titel": "Kaivax: Erste XP-Änderung „missed the mark“",
+          "unterzeile": "Der Fix kam binnen eines Tages",
+          "text": "Im Forum begründete Kaivax die Nachjustierung der Dungeon-XP: Die erste Version habe bei Dungeons mit großer Level-Spanne das Ziel verfehlt. Daher gilt nun die 12-Level-Grenze.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Dungeon-XP-Anpassung 14. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/player-level-dungeon-xp-adjustment-november-14/2416343/1"
+            }
+          ]
+        },
+        {
+          "titel": "Aggrend: Versteckter Content, der „lange zu finden“ ist",
+          "unterzeile": "Im Beta-Test abgeschaltet",
+          "text": "Senior Game Designer Josh „Aggrend“ Greenfield sagte laut TechRadar, es gebe „really well-buried stuff“, das während der Beta abgeschaltet war. Es werde Dinge zu entdecken geben, die man nicht gezeigt habe. Der Beitrag stammt aus einem Podcast zum Beta-Ende, Details nannte er nicht.",
+          "quellen": [
+            {
+              "name": "TechRadar: Aggrend zu verstecktem Content",
+              "url": "https://www.techradar.com/gaming/wow-forever-senior-game-designer-says-there-is-really-well-buried-stuff-in-the-game-thats-going-to-take-people-a-long-time-to-find-that-was-turned-off-for-the-beta-theres-going-to-be-things-to-discover-that-we-didnt-surface"
+            }
+          ]
+        },
+        {
+          "titel": "Kaivax: Klassen-Power an Classic-Budgets orientiert",
+          "unterzeile": "Jedes neue Element muss auf Kosten von etwas anderem gehen",
+          "text": "In den Beta Development Notes (Update 3. November) schrieb Kaivax laut Suchergebnis, man versuche sich grob an die Classic-Power-Budgets jeder Klasse zu halten; jedes neue Element müsse daher zulasten von etwas anderem gehen.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Beta Development Notes",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-beta-development-notes-%E2%80%93-updated-november-2/2360696/9"
+            }
+          ]
+        },
+        {
+          "titel": "Blizzard zu Fraktions-Balance: 55/45 reicht nicht",
+          "unterzeile": "Zielgröße ist ein 50/50-Verhältnis",
+          "text": "Laut Berichten zur Ankündigung vom 10. November liegt die ungleichste Region bei etwa 55/45, was Blizzard nicht nahe genug sei. Die Beschränkung ist unbefristet und kann die Seite wechseln.",
+          "quellen": [
+            {
+              "name": "Space4Games: PvP-Fraktionsbalance",
+              "url": "https://space4games.com/en/games-en/wow-forever-pvp-faction-balance/"
+            },
+            {
+              "name": "Blizzard-Forum: PvP Faction Balance Updates",
+              "url": "https://us.forums.blizzard.com/en/wow/t/pvp-faction-balance-updates-november-10/2408781/174"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Nächste reguläre Wartung: 17. (US) / 18. November (EU)",
+          "unterzeile": "Auktionshaus-Änderungen sollen zurückkehren",
+          "text": "Laut den bisherigen Berichten ist die nächste reguläre Wartung für den 17. November in Amerika und den 18. November in Europa genannt. Dann soll die zurückgezogene Auktionshaus-Änderung (Mindestgebühr) wieder kommen. Eine Blizzard-Bestätigung der genauen Uhrzeit haben wir nicht gefunden.",
+          "quellen": [
+            {
+              "name": "Space4Games: Hotfix-Übersicht",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            },
+            {
+              "name": "Forever News (Meldungsübersicht)",
+              "url": "https://wowforever.news/"
+            }
+          ]
+        },
+        {
+          "titel": "Stranglethorn Fishing Extravaganza: Mehr Gewinner pro Woche",
+          "unterzeile": "Performance-Probleme bleiben ein Thema",
+          "text": "Laut Hotfix vom 13. November können mehr Spieler pro Ruleset das wöchentliche Turnier gewinnen. Blizzard arbeitet weiter an Performance-Problemen.",
+          "quellen": [
+            {
+              "name": "Blizzard Hotfixes 13. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            }
+          ]
+        },
+        {
+          "titel": "Weekly-Quests von Pix Xizzix verschwinden zum Reset",
+          "unterzeile": "Dire-Maul-Quest danach neu annehmen",
+          "text": "Weekly-Dungeonquests von Pix Xizzix werden zum Wochenreset aus dem Questlog entfernt. Wer die Dire-Maul-Wochenquest mitnehmen will, sollte vor dem Reset abgeben.",
+          "quellen": [
+            {
+              "name": "Blizzard Hotfixes 13. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            },
+            {
+              "name": "Mein-MMO: Quest gibt bis zu 100 Gold",
+              "url": "https://mein-mmo.de/wow-forever-quest-gibt-bis-zu-100-gold/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "Di 17. Nov.: Wartung Amerika (laut Berichten)",
+          "Mi 18. Nov.: Wartung Europa (laut Berichten)",
+          "9. Dez.: Raids Barrow Deeps, Hyjal Summit, Onyxia's Lair"
+        ],
+        "quellen": [
+          {
+            "name": "Space4Games: Hotfix-Übersicht",
+            "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+          },
+          {
+            "name": "Senseos: Dungeons & Raids",
+            "url": "https://senseos.gg/guides/wow-forever/dungeons-and-raids/"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages",
+    "text": "Plane den Weekly-Reset ein: Gib die Dire-Maul-Wochenquest vor dem Reset ab und lauf Dungeons nur noch mit Gruppen im ähnlichen Level, dann bleibt die XP-Regel kein Thema. Und prüfe vor dem Wartungstermin am 17./18. November deine Auktionen."
+  }
+}
