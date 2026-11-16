@@ -1,0 +1,590 @@
+{
+  "gruss": "Guten Morgen, Abenteurer! Zum Wochenstart wartet die Dienstags-Wartung mit der Auktionshaus-Senkung, dazu gibt es frische Class-Fixes, Lore-Hinweise aus dem Podcast und einen Blick auf die Termine der Woche.",
+  "aufmacher": {
+    "rubrik": "Hotfixes & Patches",
+    "titel": "Auktionshaus-Entlastung kommt mit der Wartung: Mindestgebühr sinkt auf 1 Kupfer",
+    "unterzeile": "Die Änderung war schon für den 10. November angekündigt, wurde verschoben und geht jetzt am 17. (Amerika) bzw. 18. November (Europa) live.",
+    "text": "Blizzard hat die Auktionshaus-Änderungen aus dem Hotfix vom 10. November wieder herausgenommen und an die reguläre Wochenwartung gekoppelt. Kernpunkt ist die Senkung der Mindest-Hinterlegungsgebühr von 1 Silber auf 1 Kupfer, die das Auktionshaus für Low-Level-Charaktere überhaupt erst nutzbar machen soll. Dazu kommen Fixes für ungelesene Post, die fälschlich vom „Stormwind Auction House“ stammt, und für Auktionspost, die rund zwei Minuten statt 60 Sekunden brauchte.\n\nDie Termine unterscheiden sich je Region: Ein Community Manager nannte im US-Forum den 17. November, der EU-Thread nennt den 18. November. Uhrzeiten hat Blizzard bisher nicht veröffentlicht. Wer in der Zwischenzeit noch Auktionen laufen hat, sollte vor dem Wartungsfenster nachsehen.\n\nUnabhängig davon bleibt Item Restoration seit dem 11. November deaktiviert, weil Blizzard einen kritischen Bug untersucht. Einen Termin für die Rückkehr nennt Blizzard nicht.",
+    "quellen": [
+      {
+        "name": "Icy Veins: Auction House Deposit Cost Change Delayed",
+        "url": "https://www.icy-veins.com/wow-forever/news/the-auction-house-is-still-unusable-at-low-levels-deposit-cost-change-delayed/"
+      },
+      {
+        "name": "Space4Games: Server Status & Maintenance",
+        "url": "https://space4games.com/en/games-en/wow-forever-server-status/"
+      },
+      {
+        "name": "Blizzard: WoW Forever Hotfixes (13. November)",
+        "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-13-2026"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Auktionshaus: Was die Wartung am 17./18. November bringt",
+          "unterzeile": "Deposit-Senkung, Post-Fixes, noch keine Uhrzeit",
+          "text": "Blizzard nahm die Auktionshaus-Änderungen am 11. November wieder aus dem Hotfix und verschob sie auf die Wochenwartung. Geplant sind laut Berichten eine Mindest-Hinterlegung von 1 Kupfer statt 1 Silber, ein Fix für Post, die als „Stormwind Auction House“ ungelesen bleibt, und ein Fix für Post, die rund zwei Minuten statt einer Minute brauchte.\n\nWichtig: Eine Uhrzeit für das Wartungsfenster haben wir in den Quellen nicht gefunden. Dazu melden einzelne Spieler, dass die Suche im Auktionshaus bei „Searching“ hängen bleibt; das ist ein separates Problem.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Deposit Cost Change Delayed",
+              "url": "https://www.icy-veins.com/wow-forever/news/the-auction-house-is-still-unusable-at-low-levels-deposit-cost-change-delayed/"
+            },
+            {
+              "name": "WoW Forever News: Minimum Deposit Delay",
+              "url": "https://wow-forever.news/articles/wow-forever-auction-house-minimum-deposit-delay-november-2026-6b3396c97747"
+            },
+            {
+              "name": "IGGM: Auction House Changes Delayed",
+              "url": "https://www.iggm.com/news/wow-forever-auction-house-changes-delayed"
+            }
+          ]
+        },
+        {
+          "titel": "Ein „Server hotfix 11/16“ taucht in Datenbanken auf – Blizzard schweigt",
+          "unterzeile": "Fan-Datenbank, keine offizielle Notes",
+          "text": "Eine Fan-Datenbank führt für den 16. November einen Server-Hotfix mit sechs neuen Einträgen im Client-Build 1.60.1.70938. Was sich dahinter verbirgt, ist unklar; Blizzard hat dazu keine Patch Notes veröffentlicht. Der jüngste offizielle Hotfix-Eintrag ist der vom 13. November, den Blizzard am 14. November postete.\n\nBehandle den Datenbank-Eintrag als Hinweis, nicht als bestätigte Änderung. Sobald Blizzard Notes nachreicht, melden wir uns.",
+          "quellen": [
+            {
+              "name": "WCLBox: Patch Notes & Class Changes",
+              "url": "https://wowforever.wclbox.com/en/buding"
+            },
+            {
+              "name": "Space4Games: Patch Notes & Hotfixes",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Item Restoration bleibt aus",
+          "unterzeile": "Seit dem 11. November wegen eines kritischen Bugs deaktiviert",
+          "text": "In den offiziellen Hotfix-Notes steht unter Customer Support nur ein Satz: Item Restoration ist deaktiviert, während Blizzard einen kritischen Bug untersucht. Seit dem 11. November hat sich daran nichts geändert, ein Rückkehrtermin ist nicht genannt. Wer ein Item versehentlich zerstört oder verkauft hat, muss also weiter warten.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (13. November)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-13-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Rückblick: Was die Welt-Fixes seit dem 5. November verändert haben",
+          "unterzeile": "Sichtweite, Population, Mounts in Shen’dralas",
+          "text": "Die Hotfix-Liste enthält mehrere Änderungen an der offenen Welt: Am 6. November sind Spieler auf größere Distanz sichtbar, am 9. November wurde die Population in überfüllten Zonen gesenkt – vor allem auf PvP-Rulesets –, und am 11. November funktioniert das Aufsitzen in benannten Gebieten von Shen’dralas wieder. Außerdem wurden falsche Friedhofs-Respawns (10. November) und der Flugpfad Camp Taurajo – Thunder Bluff (9. November) korrigiert.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (13. November)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-13-2026"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Stand zum Wochenstart",
+        "punkte": [
+          "Build: laut Fan-Tracker 1.60.1.70938 – unbestätigt, Blizzard nennt keine Nummer",
+          "Letzter offizieller Hotfix-Eintrag: 13. November (Posting am 14. November)",
+          "Di 17.11. (Amerika) / Mi 18.11. (Europa): Wartung, Auktionshaus-Änderungen",
+          "Item Restoration: weiter deaktiviert",
+          "16.11.: Datenbank-Eintrag „Server hotfix“, ohne offizielle Notes"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard: WoW Forever Hotfixes (13. November)",
+            "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-13-2026"
+          },
+          {
+            "name": "Space4Games: Patch Notes & Hotfixes",
+            "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Druid: Nature’s Swiftness macht Wild Growth instant",
+          "unterzeile": "Dazu Fixes für Omen of Clarity, Rend and Tear und Bloom",
+          "text": "Neben der Wild-Growth-Anpassung vom 13. November haben mehrere kleinere Druid-Fixes Spuren hinterlassen. Seit dem 10. November lässt Nature’s Swiftness Wild Growth sofort wirken, und Omen of Clarity procct nach einem Respec wieder. Am 11. November wurde behoben, dass Rend and Tear auch auf den Bleed von Pounce wirkt, am 6. November heilt Bloom sein Ziel.\n\nFür Heiler-Druiden bedeutet das: Der Instant-Cast und der doppelte Koeffizient zusammen machen Wild Growth zum deutlich flexibleren Zauber, solange du dich nicht bewegst.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (13. November)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-13-2026"
+            },
+            {
+              "name": "Space4Games: Class Hotfixes November 13",
+              "url": "https://space4games.com/en/games-en/wow-forever-class-hotfixes-november-13/"
+            }
+          ]
+        },
+        {
+          "titel": "Mage: Arcane Blast hält die vollen 18 Sekunden",
+          "unterzeile": "Frost Nova bricht jetzt auch durch Proc-Schaden",
+          "text": "Beim Mage haben sich mehrere Mechaniken geändert. Arcane Blast hält seinen Effekt nun volle 18 Sekunden, der Zauber Research wurde entfernt (6. November). Flamestrike-Bodentick verbrauchen kein Clearcasting mehr, und die Chance von Arcane Concentration wird auf den Cast und jeden Bolt aufgeteilt (9. November). Frost Nova bricht seit dem 13. November auch durch Schaden von Procs und Blizzard.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (13. November)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-13-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Priest: Power Infusion bleibt auf Verbündeten",
+          "unterzeile": "Shadowform hält trotz Fear Ward",
+          "text": "Beim Priest wurden mehrere Fehler beseitigt: Power Infusion bleibt auf Verbündeten aktiv (9. November), Shadowform bricht nicht mehr, wenn du Fear Ward wirkst (11. November), und Heilung durch Vampiric Embrace löst das Revelation-Enchant nicht mehr aus (10. November). Seit dem 13. November senkt Quick and the Dead zudem die Manakosten von Divine Spirit.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (13. November)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-13-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Shaper’s Terrace: der einzige neue Dungeon ab Level 58",
+          "unterzeile": "Titan-Anlage im Norden von Un’Goro – Kristalle sammeln",
+          "text": "Die Shaper’s Terrace ist ein Fünf-Spieler-Dungeon für Level 58 bis 60 und der höchste der neun neuen Forever-Dungeons. Der Eingang liegt laut Guides im Norden des Un’Goro-Kraters, oberhalb von Marshal’s Refuge. Nach Beta-Informationen werden Power Crystals aus dem ganzen Krater in Konsolen in der Anlage eingesetzt.\n\nZu Bossen und Loot sind die Quellen uneins: Eine Seite nennt vier Bosse (Bolt, Cinder, Snowtalon, Nanaya), eine andere zehn Bosse und 26 blaue Drops. Prüfe die Angaben vor dem Run in einem aktuellen Guide. Blizzard korrigierte am 9. November bereits Loot und Skinning-Drops sowie das Spawnen von Cinder.",
+          "quellen": [
+            {
+              "name": "Wowdee: Shaper’s Terrace",
+              "url": "https://wowdee.com/articles/wow-forever-shapers-terrace"
+            },
+            {
+              "name": "Warcraft Tavern: Shaper’s Terrace Guide",
+              "url": "https://www.warcrafttavern.com/forever/guides/shapers-terrace/"
+            },
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (13. November)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-13-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Zugang zu Maraudon, Scholomance, Stratholme und Zul’Farrak",
+          "unterzeile": "Keys und Quest-Items entscheiden",
+          "text": "Vier Dungeons sind an Schlüssel oder Items gebunden. Das Scepter of Celebras öffnet in Maraudon das Portal zu Earth Song Falls und erlaubt, die orange und lila Seite zu überspringen. Für Scholomance brauchst du den Skeleton Key aus der Kette „The Key to Scholomance“, Stratholmes Hintereingang öffnet der Key to the City, und der Mallet of Zul’Farrak beschwört den versteckten Endboss Gahz’rilla.\n\nDie Level-Spannen unterscheiden sich je Quelle deutlich (Zul’Farrak von 40 bis 50 oder 44 bis 54), daher lohnt der Blick in die Quest-Texte im Spiel.",
+          "quellen": [
+            {
+              "name": "Conquest Capped: Attunements & Keys",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-attunements/"
+            },
+            {
+              "name": "GameLeap: Dungeon-Liste nach Level",
+              "url": "https://www.gameleap.com/articles/wow-forever-dungeon-list-by-level"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-Fixes: Alcaz, Blackfathom, Blackrock Depths, Maraudon",
+          "unterzeile": "Rückblick auf kleinere Korrekturen",
+          "text": "Neben den größeren Änderungen listet Blizzard kleinere Dungeon-Fixes: In der Alcaz Prison droppt Zarla Ober jetzt Loot, in Blackfathom Deeps lässt sich der Geist nach dem Tod wieder freilassen (beide 9. November). In Blackrock Depths öffnen sich die Türen des Thronsaals nach einem Wipe, und Heart of the Mountain ist wiederholbar. In Maraudon erscheint Zaetar’s Spirit nach Princess Theradras (6. November).",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (13. November)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-13-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Quest-Fixes: geteilte Drops, Camping 101, Owl Nests",
+          "unterzeile": "Mehrere Questreihen laufen runder",
+          "text": "Die Hotfixes vom 6. bis 11. November räumen etliche Quests auf. Drops von Monster Surfaces, Croaky’s Head und Elmpaw’s Head sind mit der Gruppe geteilt (9. November), Camping 101: Herbalism schließt in Shen’dar Village ab, und Owl Nests lassen sich unter Level 60 looten. Kerlonian bekommt besseren Kaffee, und du startest mit dem Horn of Awakening (6. November). In Scarlet Diversions ist das Command Tent interaktiv (11. November).",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (13. November)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-13-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Riverglades: Gegner-Schaden stark gesenkt",
+          "unterzeile": "Mark of Flames macht 50 statt 1000 Schaden",
+          "text": "In der neuen Zone Riverglades hat Blizzard am 11. November nachjustiert: Der Smash-Schaden des Twilight Enforcers wurde stark reduziert, Executioner Morg schlägt weniger hart zu, und Mark of Flames macht nur noch 50 Schaden statt 1000. Solo-Leveler und kleine Gruppen sollten dadurch weniger oft von Einzelgegnern überrascht werden.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (13. November)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-13-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-Kill-XP: 40 Prozent der Classic-Era-Werte, jetzt 60",
+          "unterzeile": "Kaivax nennt Zahlen – Spieler streiten weiter",
+          "text": "Community Manager Kaivax gab laut Berichten an, die Kill-XP in Dungeons habe vor dem Hotfix bei 40 Prozent der Classic-Era-Werte gelegen und liege seitdem bei 60 Prozent. Spieler sind geteilter Meinung, ob das reicht. Einzelne melden außerdem Unstimmigkeiten bei der Level-Spanne: Ein Spieler wurde mit Level 37 aus Maraudon gesperrt, während das LFG-Tool 46 bis 55 und Wowhead 42 bis 52 nannte. Geklärt war das in den Quellen nicht.",
+          "quellen": [
+            {
+              "name": "Space4Games: Dungeon XP Debate",
+              "url": "https://space4games.com/en/games-en/wow-forever-dungeon-xp-debate/"
+            },
+            {
+              "name": "Blizzard-Forum: Dungeon XP Adjustment (US)",
+              "url": "https://us.forums.blizzard.com/en/wow/t/player-level-dungeon-xp-adjustment-november-14/2416343"
+            }
+          ]
+        },
+        {
+          "titel": "Spawns in der offenen Welt: Tiger in Stranglethorn, Elementals in den Badlands",
+          "unterzeile": "Rückblick auf die Anpassungen vom 13. November",
+          "text": "Am 13. November hat Blizzard weitere Spawn-Raten angepasst: In Stranglethorn Vale erscheinen Tiger, Panther und Raptoren häufiger, in den Badlands die Lesser Rock Elementals. In Mulgores Startgebiet wurden Quillboar und Venture-Co.-Gegner reduziert, Nethergarde-Keep-Wachen lassen keinen Loot mehr fallen, und Nyalah bietet mehr Kochzutaten an.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (13. November)",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-13-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Auktionshaus-Preise in Woche 2: Viele Mats werden billiger",
+          "unterzeile": "Live-Beobachtung auf der US-Allianz-Seite",
+          "text": "Ein Preis-Tracker meldet für die zweite Woche, dass 34 von 46 beobachteten Materialien günstiger geworden sind. Die Zahl stammt aus einem einzelnen Tracker mit Stand 12. November und sollte nicht als Marktquote gelesen werden. Ein Rechner derselben Seite bepreist Berufe-Levelwege für die US-Allianz, Stand 15. November.\n\nWer Mats für Berufe kauft, kann also etwas abwarten – in der Nähe der Auktionshaus-Wartung könnte sich die Lage erneut verschieben.",
+          "quellen": [
+            {
+              "name": "TimeSaver: Auction House Prices Week 2",
+              "url": "https://timesaver.gg/blog/wow-forever-auction-house-prices-week-1"
+            },
+            {
+              "name": "TimeSaver: Profession Calculator",
+              "url": "https://timesaver.gg/tools/wow-forever/professions"
+            }
+          ]
+        },
+        {
+          "titel": "Kein WoW-Token: Wie Guides Gold machen",
+          "unterzeile": "Gathering oder Cooking plus Fishing",
+          "text": "Mehrere Guides raten, früh Sammelberufe wie Mining, Herbalism oder Skinning zu nehmen. Ein anderer Guide setzt auf Cooking als stetige Auktionshaus-Einnahme, weil Well-Fed-Buffs gebraucht werden, kombiniert mit Fishing. Aufpassen: Viele dieser Guides stammen von Boosting- und Gold-Verkaufsseiten, und Preise schwanken je Region und Fraktion.",
+          "quellen": [
+            {
+              "name": "GameLeap: Professions & Gold",
+              "url": "https://www.gameleap.com/articles/wow-forever-professions-gold-guide"
+            },
+            {
+              "name": "LFCarry: Gold Economy",
+              "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+            }
+          ]
+        },
+        {
+          "titel": "Stratholme Scarlet-Seite als Gold-Dungeon auf 60?",
+          "unterzeile": "Ranking nach Auktionslistungen, nicht nach gemessenem Gold pro Stunde",
+          "text": "Ein Guide nennt die Scarlet-Seite von Stratholme als besten Dungeon für Gold auf Level 60, Zul’Farrak und Maraudon als gut für XP auf dem Weg nach oben. Die Rangliste beruht auf Auktionslistungen, nicht auf gemessenem Gold pro Stunde – nimm sie als Anhaltspunkt.",
+          "quellen": [
+            {
+              "name": "TimeSaver: Best Dungeons for Gold",
+              "url": "https://timesaver.gg/blog/wow-forever-best-dungeons-for-gold"
+            }
+          ]
+        },
+        {
+          "titel": "Level 1 bis 30: Vendor oder Auktionshaus?",
+          "unterzeile": "Guides widersprechen sich",
+          "text": "Ein Guide schätzt blaue BoE-Items aus Level-13-bis-30-Dungeons auf 30 Silber bis 3 Gold und rät zum Auktionshaus, ein anderer rät, Early-Loot meist beim Händler zu verkaufen, weil die Preise auf frischen Servern nahe am Vendor-Wert liegen. Praktischer Mittelweg mehrerer Quellen: Preis im Auktionshaus prüfen, bevor du vendest.",
+          "quellen": [
+            {
+              "name": "MMOExp: Gold Level 1–30",
+              "url": "https://www.mmoexp.com/News/wow-forever-gold-making-guide-how-to-earn-20-gold-from-level-1-to-30-with-questing-dungeons-and-smart-loot-selling.html"
+            },
+            {
+              "name": "ExpCarry: Gold Farming Guide",
+              "url": "https://expcarry.com/wow-forever-gold-farming-guide"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Auktionshaus in Zahlen",
+        "punkte": [
+          "Mindest-Deposit: 1 Silber → 1 Kupfer (geplant mit der Wartung am 17./18. November)",
+          "Kein WoW-Token in Forever laut Guide",
+          "Preise: stark region- und fraktionsabhängig"
+        ],
+        "quellen": [
+          {
+            "name": "Icy Veins: Deposit Cost Change Delayed",
+            "url": "https://www.icy-veins.com/wow-forever/news/the-auction-house-is-still-unusable-at-low-levels-deposit-cost-change-delayed/"
+          },
+          {
+            "name": "LFCarry: Gold Economy",
+            "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Community",
+      "artikel": [
+        {
+          "titel": "Gilden formieren sich vor den Raids am 9. Dezember",
+          "unterzeile": "Raid-Cores und Leveling-Gruppen",
+          "text": "Gilden stellen sich auf den Raid-Start am 9. Dezember ein. Die Gilde The Outfit beschreibt sich als Forever-Gilde mit Leveling-Gruppen, nächtlichen Dungeons und Raid-Core. Auf der Plattform Guilds Forever listet sich eine rekrutierende Gilde mit 166 Charakteren auf Level 60. Das ist ein Listing-Wert, keine Aussage über Serverbevölkerung.\n\nWer eine Gilde sucht, findet dort Listings; verlässliche Zahlen zur Spielerzahl je Ruleset gibt es laut unserer Recherche nicht.",
+          "quellen": [
+            {
+              "name": "The Outfit: WoW Forever",
+              "url": "https://syndicateguild.com/forever.html"
+            },
+            {
+              "name": "Guilds Forever",
+              "url": "https://guildsforever.com/"
+            }
+          ]
+        },
+        {
+          "titel": "Streamer auf dem Weg zu Level 60",
+          "unterzeile": "Verzeichnis listet Live-Streams",
+          "text": "Ein Live-Streamer-Verzeichnis für WoW zeigt Forever-Streamer, die auf Level 60 grinden, darunter eine Warlock-Stream mit „grind to 60“. Eine eigene Rangliste für das Rennen auf Level 60 führt EU-PvP-Spieler weit vorne; Details zu Zeiten und Namen haben wir diesmal nicht erneut geprüft.",
+          "quellen": [
+            {
+              "name": "Guilds of WoW: Live Streamers",
+              "url": "https://guildsofwow.com/live-streamers"
+            },
+            {
+              "name": "Forever Pulse: World First Level 60",
+              "url": "https://forever-pulse.com/challenges/world-first-level-60"
+            }
+          ]
+        },
+        {
+          "titel": "Roleplay-PvP und Faction Lock: Was unklar bleibt",
+          "unterzeile": "Quellen widersprechen sich",
+          "text": "Auf dem normalen PvP-Ruleset kannst du nur eine Fraktion erstellen; Horde und Allianz können auf keinem Ruleset zusammen gruppieren. Ob dieselbe Sperre auf Roleplay-PvP gilt, bleibt laut Quellen offen: Ein Guide sagt ja, ein anderer sagt, Blizzards Text beschreibe sie nur für PvP. Im EU-Forum läuft zudem ein Thread mit Forderungen nach Änderungen an der Faction Lock.",
+          "quellen": [
+            {
+              "name": "MMONerds: Layering & Faction Lock",
+              "url": "https://mmonerds.com/wow-forever-layering-and-faction-lock-explained/"
+            },
+            {
+              "name": "Blizzard-Forum (EU): Faction Lock",
+              "url": "https://eu.forums.blizzard.com/en/wow/t/wow-forever%E2%80%99s-pvp-faction-lock-needs-to-change/629130"
+            }
+          ]
+        },
+        {
+          "titel": "Was Forever kostet",
+          "unterzeile": "Kein eigener Preis, Abo reicht",
+          "text": "Forever hat laut Guides keinen separaten Preis: Zugang gibt es mit einem WoW-Abo oder Game Time. In den USA kostet ein Monat 14,99 Dollar, das 12-Monats-Abo kommt auf 12,99 Dollar pro Monat (155,88 Dollar pro Jahr). In Europa nennen Quellen 12,99, 11,99 und 10,99 Euro je Monat, das 12-Monats-Abo kostet 131,88 Euro. Die Skyborne-Packs (29,99, 59,99, 79,99 Dollar) sind optional. Prüfe aktuelle Preise im Battle.net-Shop.",
+          "quellen": [
+            {
+              "name": "LFCarry: WoW Forever Price",
+              "url": "https://lfcarry.com/guides/wow-forever-price"
+            },
+            {
+              "name": "VGKami: Subscription & Editions",
+              "url": "https://vgkami.com/world-of-warcraft-forever-subscription-packs-and-editions-explained/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Tank leveln: Protection Warrior und Protection Paladin vorne",
+          "unterzeile": "Feral Druid bleibt umstritten",
+          "text": "Guides aus der Beta-Zeit empfehlen Protection Warrior (von Level 16 bis 30; danach ggf. Fury, sobald zwei gute Einhandwaffen da sind) und Protection Paladin. Ein Guide hebt Seal of Fury hervor, das Judgement ab Level 10 zum Taunt macht, mit Consecration ab Level 20. Beim Feral Druid streiten die Quellen: Die einen sehen den Bear-Tank als stark, die anderen den Feral-DPS als besten Druid-Leveler. Talent-Splits wie 0/46/5 (Tank) und 0/35/16 (DPS) kommen aus einzelnen Guides.\n\nPrüfe Talente gegen die aktuellen Hotfixes, bevor du respeccst.",
+          "quellen": [
+            {
+              "name": "Conquest Capped: Tank Tier List",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-tank-tier-list/"
+            },
+            {
+              "name": "Mobalytics: Feral Druid Tank",
+              "url": "https://mobalytics.gg/wow-forever/classes/feral-druid-tank-guide"
+            },
+            {
+              "name": "Method: Feral Tank Talents",
+              "url": "https://www.method.gg/wow-forever/class-guides/feral-tank-druid/talents"
+            }
+          ]
+        },
+        {
+          "titel": "Zul’Farrak: Mallet früh besorgen, nicht auf den Stufen kämpfen",
+          "unterzeile": "Tipps für die Gruppe",
+          "text": "Ein Guide rät, den Mallet of Zul’Farrak schon beim Questen in den Hinterlands vorzubereiten. Gruppen, die auf der Treppe kämpfen, werden umzingelt. Zum Zusammenspiel von Rollen oder Bossmechaniken fanden wir keine belastbare Aufschlüsselung; die Detailguides von Mobalytics und Conquest Capped sind hier die erste Anlaufstelle.",
+          "quellen": [
+            {
+              "name": "Conquest Capped: Zul’Farrak Guide",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-zulfarrak-guide/"
+            }
+          ]
+        },
+        {
+          "titel": "Shaper’s Terrace vorbereiten: Kristalle schon beim Questen mitnehmen",
+          "unterzeile": "Vier Farben, vier Ecken des Kraters",
+          "text": "Die Power Crystals für die Terrace liegen in je einem Viertel von Un’Goro: blau im Südosten, grün im Nordosten, rot im Südwesten, gelb im Nordwesten. Welche Farben die Konsolen brauchen, ist laut der Beta-Quelle nicht bestätigt – sammle jeden Kristall, an dem du vorbeikommst. Die Angaben beruhen auf Beta-Notizen und können sich geändert haben.",
+          "quellen": [
+            {
+              "name": "Wowdee: Shaper’s Terrace",
+              "url": "https://wowdee.com/articles/wow-forever-shapers-terrace"
+            }
+          ]
+        },
+        {
+          "titel": "Beta-Rückblick: Wands und Thorns skalieren mit Spell Power",
+          "unterzeile": "Erkenntnis aus der Beta im September",
+          "text": "Spieler stellten in der Beta fest, dass Wands mit Spell Power skalieren und Druid-Thorns zu einer zweiten Schadensquelle werden. Das Wissen stammt von Forenposts und einem YouTube-Test vom September; ob die Skalierung live noch gilt, haben wir nicht geprüft. Der Tipp: Bei Zauberern Wand-Skalierung testen, bevor du Mana-Regeneration planst.",
+          "quellen": [
+            {
+              "name": "Kami-Labs: WoW Forever Recap",
+              "url": "https://kami-labs.fr/en/wow-forever/wow-forever-recap-semaine/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen & Interviews",
+      "artikel": [
+        {
+          "titel": "Aggrend: Blizzard hat einen groben Story-Plan für die nächsten Jahre",
+          "unterzeile": "WoW-Forever-Podcast: Verbindungen zwischen Low- und High-Level-Quests",
+          "text": "Senior Game Designer Josh „Aggrend“ Greenfield sagte im Forever-Lore-Podcast, Blizzard habe bereits eine grobe Vorstellung davon, wie sich die Geschichte über die nächsten Jahre entwickeln soll. Schon jetzt gebe es Quests in niedrigen Level-Bereichen, die mit späteren Inhalten zusammenhängen; manche Verbindungen hätten Spieler noch nicht bemerkt.\n\nAls Tipp nannte er die Shaper’s Terrace in Un’Goro: Dort solle man genau hinschauen und auch nach oben blicken. Die Story orientiere sich an Classic-Raids wie Molten Core, Blackwing Lair, Ahn’Qiraj und Naxxramas, auf einen einzelnen Oberbösewicht wolle Blizzard verzichten.",
+          "quellen": [
+            {
+              "name": "PC Games: WoW Forever – Hinweise auf Updates",
+              "url": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/wow-forever-zukunft-1559950/"
+            }
+          ]
+        },
+        {
+          "titel": "Scarlet Enclave kommt zurück – ohne Termin",
+          "unterzeile": "Podcast-Folge 7 bestätigt die Rückkehr",
+          "text": "In Episode 7 des Forever-Podcasts bestätigte Aggrend, dass der Season-of-Discovery-Raid Scarlet Enclave irgendwann in Forever zurückkehrt. Auch die Ashbringer-Geschichte kehre zurück, möglicherweise aber erst nach einiger Zeit. Wann, in welcher Form und mit welcher Raid-Größe, hat Blizzard nicht gesagt. Gäste der Folge waren Lead Lore Historian Sean Copeland sowie PlatinumWoW und Nobbel87.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern: Podcast Episode 7",
+              "url": "https://www.warcrafttavern.com/forever/news/episode-7-of-the-wow-forever-podcast-digs-into-lore/"
+            },
+            {
+              "name": "Wowhead auf X",
+              "url": "https://x.com/Wowhead/status/2121001058033909872"
+            },
+            {
+              "name": "Icy Veins: Podcast",
+              "url": "https://www.icy-veins.com/wow-forever/news/nobbel-platinumwow-grill-the-lore-masters-the-wow-forever-podcast/"
+            }
+          ]
+        },
+        {
+          "titel": "Ein weiteres Raid-Portal? Gerücht aus der Beta",
+          "unterzeile": "Nicht bestätigt",
+          "text": "Laut PC Games sahen Spieler in der Beta womöglich ein weiteres Schlachtzugsportal. Blizzard hat das weder bestätigt noch dementiert. Behandle es als Spekulation von Spielern.",
+          "quellen": [
+            {
+              "name": "PC Games: WoW Forever – Hinweise auf Updates",
+              "url": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/wow-forever-zukunft-1559950/"
+            }
+          ]
+        },
+        {
+          "titel": "Rekordstart: Blizzard nennt keine Zahl",
+          "unterzeile": "Biggest launch in WoW history – nach Peak Concurrent Players",
+          "text": "Blizzard bezeichnet Forever als größten Start der WoW-Geschichte nach gleichzeitigen Spielern, nennt aber keine Zahl. Belegt sind nur Twitch-Werte: Die WoW-Kategorie erreichte am 4. November 1.119.734 Zuschauer und blieb damit knapp unter dem Classic-Rekord von 1.132.957.",
+          "quellen": [
+            {
+              "name": "TechPowerUp: Franchise-Record",
+              "url": "https://www.techpowerup.com/354583/wow-forever-sets-a-new-franchise-record-for-peak-concurrent-players"
+            },
+            {
+              "name": "Streams Charts: Launch Viewership",
+              "url": "https://streamscharts.com/news/world-warcraft-forever-launch-viewership"
+            },
+            {
+              "name": "TimeSaver: Player Count",
+              "url": "https://timesaver.gg/blog/wow-forever-player-count"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Wartung am Di 17. (Amerika) und Mi 18. November (Europa)",
+          "unterzeile": "Mit Auktionshaus-Änderungen – ohne bekannte Uhrzeit",
+          "text": "Die reguläre Wochenwartung bringt die verschobenen Auktionshaus-Änderungen. Blizzard hat keine Start- oder Endzeit veröffentlicht. Plane vorsichtshalber so, dass du am betreffenden Tag nicht in Raids oder wichtigen Runs hängst, und prüfe vorher laufende Auktionen.",
+          "quellen": [
+            {
+              "name": "Space4Games: Server Status",
+              "url": "https://space4games.com/en/games-en/wow-forever-server-status/"
+            },
+            {
+              "name": "Icy Veins: Deposit Cost Change Delayed",
+              "url": "https://www.icy-veins.com/wow-forever/news/the-auction-house-is-still-unusable-at-low-levels-deposit-cost-change-delayed/"
+            }
+          ]
+        },
+        {
+          "titel": "Stranglethorn Fishing Extravaganza: nächste Runde am 22. November",
+          "unterzeile": "Sonntags 14 bis 16 Uhr Realmzeit",
+          "text": "Das Angelturnier läuft jeden Sonntag von 14 bis 16 Uhr Realmzeit. Die letzte Runde war am 15. November, die nächste ist für den 22. November gelistet. Die Abgabe-NPCs bleiben bis 17 Uhr verfügbar. Ein Guide nennt, dass Gewinner nun eine Münze erhalten, die sie gegen einen Preis tauschen. Für die Runde am 8. November meldeten Spieler, dass die Tastyfish-Schwärme nach 20 bis 30 Minuten verschwanden; eine bestätigte Lösung fanden wir nicht.",
+          "quellen": [
+            {
+              "name": "EndgameTools: Fishing Extravaganza",
+              "url": "https://endgametools.com/en/wow-forever/news/wow-forever-fishing-extravaganza"
+            },
+            {
+              "name": "EndgameTools: Events Calendar",
+              "url": "https://endgametools.com/en/wow-forever/events"
+            }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire: Elwynn-Auftritt endet, nächster Halt Mulgore",
+          "unterzeile": "Kalenderangaben bitte im Spiel prüfen",
+          "text": "Der Darkmoon Faire kommt einmal im Monat für eine Woche, abwechselnd in Elwynn Forest und Mulgore. Laut einem Datenbank-Eintrag lief er bis Montag, 16. November, 4 Uhr Realmzeit. Ein Guide nennt als nächsten Termin den 7. Dezember in Mulgore nahe Thunder Bluff. Kalenderangaben unterschiedlicher Seiten können abweichen – schau in den In-Game-Kalender.",
+          "quellen": [
+            {
+              "name": "ForeverDB: World Events",
+              "url": "https://foreverdb.net/events"
+            },
+            {
+              "name": "EndgameTools: Events Calendar",
+              "url": "https://endgametools.com/en/wow-forever/events"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kalender der Woche",
+        "punkte": [
+          "Di 17.11. (Amerika) / Mi 18.11. (Europa): Wartung, Auktionshaus-Änderungen",
+          "So 22.11., 14–16 Uhr Realmzeit: Fishing Extravaganza",
+          "Mo 7.12.: nächster Darkmoon Faire (laut einem Guide, Mulgore)",
+          "Mi 9.12.: Raid-Start laut Gildenseite (Details im Spiel prüfen)"
+        ],
+        "quellen": [
+          {
+            "name": "EndgameTools: Events Calendar",
+            "url": "https://endgametools.com/en/wow-forever/events"
+          },
+          {
+            "name": "The Outfit: WoW Forever",
+            "url": "https://syndicateguild.com/forever.html"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages",
+    "text": "Vor der Wochenwartung: Auktionen prüfen, Post leeren und wichtige Quests oder Dungeon-Runs nicht auf den Wartungstag legen. Und wenn du Gold sparen willst, warte mit dem Einstellen von Low-Level-Items, bis die Mindestgebühr auf 1 Kupfer fällt."
+  }
+}
