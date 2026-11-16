@@ -1,0 +1,355 @@
+{
+  "gruss": "Guten Morgen, Tim! Montag, 16. November: Morgen tagt der Koalitionsausschuss, im Bundestag ist diese Woche Pause und in Mülheim läuft ein Konzertabend mit Gästen aus Litauen an. Hier ist dein Kurier.",
+  "aufmacher": {
+    "rubrik": "Deutschland: Politik",
+    "titel": "Stromsteuer für alle: Morgen entscheidet sich, ob Merz sich durchsetzt",
+    "unterzeile": "Im Koalitionsausschuss geht es um rund 5,4 Milliarden Euro, die im Haushalt 2027 noch nicht gedeckt sind",
+    "text": "Am Dienstag trifft sich der Koalitionsausschuss, und ein Thema dürfte alles überlagern: die Stromsteuersenkung für alle. Kanzler Merz will die Steuer schon ab nächstem Jahr auf das europäische Minimum drücken. Laut Tagesspiegel würde das den Staat rund 5,4 Milliarden Euro im kommenden Jahr kosten. SPD-Fraktionschef Miersch rechnet vor, dass eine durchschnittliche Familie dadurch etwa sechs bis acht Euro im Monat spart.\n\nDer Knackpunkt ist das Geld. Finanzminister Klingbeil und die SPD verlangen eine seriöse Gegenfinanzierung ohne neue Schulden. Merz soll vorgeschlagen haben, die Entlastung mit sinkenden EEG-Kosten zu verrechnen. Laut Table.Briefings reichte das der SPD nicht, weil es sich um wiederkehrende Kosten handelt. Klingbeil hat zudem höhere Steuern auf Kapitalerträge ins Gespräch gebracht.\n\nIn der Union wächst der Druck: Der Tagesspiegel zitiert den CDU-Politiker Paul Ziemiak mit den Worten „Wir verlieren jede Glaubwürdigkeit“. Miersch sieht nach eigener Aussage inzwischen „Bewegung“. Ob es morgen eine Einigung gibt, ist offen. Die Berichte entstanden vor der Sitzung.",
+    "quellen": [
+      { "name": "Tagesspiegel", "url": "https://www.tagesspiegel.de/politik/hat-ordentlich-geknallt-merz-will-stromsteuersenkung-jetzt-offenbar-im-koalitionsausschuss-durchsetzen-16276409.html" },
+      { "name": "Table.Briefings", "url": "https://table.media/berlin/news/koalitionsausschuss-kampf-um-stromsteuersenkung-wird-fortgesetzt" }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Mülheim an der Ruhr",
+      "artikel": [
+        {
+          "titel": "Erkrath ohne Wasser: Mülheimer Feuerwehr springt ein",
+          "unterzeile": "18 Einsatzkräfte, 120.000 Liter Trinkwasser und eine lange Nacht",
+          "text": "Nach dem Bruch einer Hauptwasserleitung war die Trinkwasserversorgung in Erkrath, vor allem in Alt-Erkrath, stark eingeschränkt. Ein Hochbehälter drohte leerzulaufen. Die Feuerwehr Mülheim schickte zunächst zwei Fachberater und später ihr Schnelleinsatzsystem für kritische Infrastrukturen.\n\nInsgesamt waren 18 Einsatzkräfte von Berufs- und Freiwilliger Feuerwehr dabei. Sie richteten eine mobile Versorgung für den Hochbehälter ein und fuhren über mehrere Stunden rund 120.000 Liter Trinkwasser aus Hilden dorthin.\n\nDer Einsatz begann am Samstag, 14. November, und endete in den frühen Morgenstunden. Danach kehrten die Mülheimer zurück.",
+          "quellen": [{ "name": "Fireworld.at", "url": "https://www.fireworld.at/2026/11/15/d-feuerwehr-muelheim-unterstuetzt-erkrath-mit-spezialkraeften-bei-trinkwassernotlage/" }]
+        },
+        {
+          "titel": "Stadt Mülheim jetzt auch auf WhatsApp",
+          "unterzeile": "Schnelle Infos aus dem Rathaus direkt aufs Handy",
+          "text": "Die Stadt Mülheim an der Ruhr hat WhatsApp als zusätzlichen Kanal gestartet. Darüber will sie schnell über Neuigkeiten aus der Verwaltung informieren. Wer das nutzen möchte, findet die Einzelheiten auf der Seite der Stadt. Ob du dafür deine Nummer preisgeben willst, entscheidest du natürlich selbst.",
+          "quellen": [{ "name": "Stadt Mülheim an der Ruhr", "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/stadt-muelheim-an-der-ruhr-jetzt-auf-whatsapp" }]
+        },
+        {
+          "titel": "„Götterfunken“: Kunst über Demokratie, Mülheim trifft Tours",
+          "unterzeile": "Ausstellung mit Künstlern aus der französischen Partnerstadt",
+          "text": "Unter dem Titel „Götterfunken“ zeigen Künstlerinnen und Künstler aus Mülheim und der französischen Partnerstadt Tours ihre Sicht auf Demokratie und Zusammenhalt. Die Stadt hat die Ausstellung Anfang November angekündigt. Details zu Ort und Zeiten stehen in der Meldung der Stadt.",
+          "quellen": [{ "name": "Stadt Mülheim an der Ruhr", "url": "https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/staedtepartnerschaften-und-patenschaften/aktionen-und-projekte-22" }]
+        }
+      ],
+      "kasten": {
+        "titel": "Heute & morgen in Mülheim",
+        "punkte": [
+          "Mo/Di ganztägig: „Altes Köln“ als Stadtmodell im Kunstmuseum MMKM, Ruhrstraße 3",
+          "Mo 18 Uhr: Silent Reading Party im Foyer des Theaters an der Ruhr",
+          "Mo 19.30 Uhr: Kinofilm „Primetime“ (Thriller mit Robert Pattinson)",
+          "Di ab 10 Uhr: Ausstellungen „Lost Places“ und zum Mülheimer Bergbau"
+        ],
+        "quellen": [{ "name": "Veranstaltungskalender Stadt Mülheim", "url": "https://www1.muelheim-ruhr.de/veranstaltungen/vortrag_pater_anselm_gruen_-_worte_die_uns_tragen/113355" }]
+      }
+    },
+    {
+      "titel": "Mülheim & Ruhrgebiet",
+      "artikel": [
+        {
+          "titel": "NRW-Trend: AfD erstmals zweitstärkste Kraft, Wüst mit Bestwert",
+          "unterzeile": "Infratest dimap für den WDR, veröffentlicht am 15. November",
+          "text": "Laut dem WDR-NRW-Trend von Infratest dimap (Befragung 9. bis 12. November, 1.173 Wahlberechtigte) liegt die CDU bei 30 Prozent. Die AfD kommt auf 18 Prozent und ist damit erstmals zweitstärkste Kraft. Die Grünen erreichen 17, die SPD 16 und die Linke 7 Prozent. FDP und BSW liegen bei je 3 Prozent.\n\nSchwarz-Grün hat mit zusammen 47 Prozent weiterhin eine eigene Mehrheit. Ministerpräsident Hendrik Wüst ist für 52 Prozent der Befragten zufriedenstellend, sein bisher bester Wert im NRW-Trend. Mit der Landesregierung insgesamt sind 43 Prozent zufrieden und 51 Prozent unzufrieden.\n\nEine Umfrage ist eine Momentaufnahme und keine Prognose.",
+          "quellen": [{ "name": "Yahoo Nachrichten (WDR-Trend)", "url": "https://de.nachrichten.yahoo.com/schwarz-gr%C3%BCn-nrw-umfrage-stabil-094652605.html" }]
+        },
+        {
+          "titel": "Wüst beim Benelux-Gipfel und beim Weihnachtsbaum",
+          "unterzeile": "Termine des Ministerpräsidenten aus der letzten Woche",
+          "text": "Hendrik Wüst nahm am 13. November auf Einladung von Ministerpräsident Rob Jetten am Benelux-Gipfel in Maastricht teil. Zuvor hatte er in Düsseldorf Vertreter der in NRW stationierten Bundeswehr und befreundeter Streitkräfte empfangen. Mit Landwirtschaftsministerin Silke Gorißen eröffnete er außerdem die Weihnachtsbaumsaison.",
+          "quellen": [{ "name": "Land NRW: Pressemitteilungen", "url": "https://www.land.nrw/pressemitteilungen" }]
+        },
+        {
+          "titel": "Konzert am Freitag: Litauens Staatsorchester in der Stadthalle",
+          "unterzeile": "Čiurlionis, Strauss und Dvořák am 20. November",
+          "text": "Das Lithuanian State Symphony Orchestra spielt unter Chefdirigent Gintaras Rinkevičius im Theatersaal der Stadthalle. Auf dem Programm stehen Čiurlionis' „Vier Préludes“, das Hornkonzert Nr. 1 von Richard Strauss mit Solist Bastian Spier und Dvořáks 7. Sinfonie. Los geht es am Freitag, 20. November, um 20 Uhr, eine Einführung gibt es um 19.40 Uhr. Tickets gibt es über Reservix, bei der Touristinfo (Schollenstraße 1) oder telefonisch unter 0208 960 960.",
+          "quellen": [{ "name": "Stadt Mülheim an der Ruhr", "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/konzertabend-zwischen-mystik-und-dramatik" }]
+        },
+        {
+          "titel": "Film und Gespräch: Volker Schlöndorff im Astra Theater",
+          "unterzeile": "„Heimsuchung – Eine Jahrhundertgeschichte“",
+          "text": "Der städtische Veranstaltungskalender listet für Montag um 16.45 Uhr den Film „Heimsuchung – Eine Jahrhundertgeschichte“ mit Gespräch mit Regisseur Volker Schlöndorff im Astra Theater. Der Kalender nennt in der Beschreibung allerdings ein anderes Datum. Prüf also vorher, ob der Termin wirklich heute stattfindet.",
+          "quellen": [{ "name": "Veranstaltungskalender Stadt Mülheim", "url": "https://www1.muelheim-ruhr.de/veranstaltungen/vortrag_pater_anselm_gruen_-_worte_die_uns_tragen/113355" }]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine der Woche",
+        "punkte": [
+          "Mo/Di: „Altes Köln“-Stadtmodell im MMKM (Ruhrstraße 3)",
+          "Mo 16.45 Uhr: Film „Heimsuchung“ mit Volker Schlöndorff, Astra Theater (Datum bitte prüfen)",
+          "Di 17.11.: Der Mülheimer Veranstaltungskalender listet Atelierbesuche im Kunsthaus Mülheim Mitte",
+          "Fr 20.11., 20 Uhr: Litauisches Staatsorchester, Stadthalle Theatersaal"
+        ],
+        "quellen": [
+          { "name": "Veranstaltungskalender Stadt Mülheim", "url": "https://www1.muelheim-ruhr.de/veranstaltungen/vortrag_pater_anselm_gruen_-_worte_die_uns_tragen/113355" },
+          { "name": "Stadt Mülheim an der Ruhr", "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/konzertabend-zwischen-mystik-und-dramatik" }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Politik",
+      "artikel": [
+        {
+          "titel": "Koalitionsausschuss: Wie die Stromsteuer-Lösung aussehen könnte",
+          "unterzeile": "Die Fronten vor dem Treffen am Dienstag",
+          "text": "Die Senkung der Stromsteuer für alle steht im Koalitionsvertrag, die Gegenfinanzierung fehlt aber. Die rund 5,4 Milliarden Euro sind im Haushalt 2027 bislang nicht vorgesehen. Laut Table.Briefings geht der Kampf um die Senkung auch nach dem Koalitionsausschuss weiter, falls es keine Einigung gibt. Die Quellen sind sich uneinig, ob morgen schon ein Ergebnis kommt.",
+          "quellen": [
+            { "name": "Table.Briefings", "url": "https://table.media/berlin/news/koalitionsausschuss-kampf-um-stromsteuersenkung-wird-fortgesetzt" },
+            { "name": "Webnachrichten", "url": "https://www.webnachrichten.de/politik/koalitionsstreit-um-stromsteuer-union-erhoeht-druck-auf-merz-zr-94590643.html" }
+          ]
+        },
+        {
+          "titel": "Bundestag diese Woche in der Pause",
+          "unterzeile": "Nächste Sitzungswoche: 23. bis 27. November",
+          "text": "Laut Übersicht der Sitzungswochen 2026 tagt der Bundestag im November nur vom 2. bis 6., 9. bis 13. und 23. bis 27. November. Diese Woche ist demnach sitzungsfrei. In der vorigen Woche gab es unter anderem Ausschussanhörungen zum Reservestärkungsgesetz und eine Abstimmung zum Bundeswehr-Infrastrukturbeschleunigungsgesetz. Wie diese ausging, haben wir nicht belegt gefunden.",
+          "quellen": [
+            { "name": "Rathausnachrichten: Sitzungswochen 2026", "url": "https://rathausnachrichten.de/sitzungswochen-bundestag-2026-alle-termine-im-ueberblick/" },
+            { "name": "Deutscher Bundestag: Sitzungswoche 9.–13. November", "url": "https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261103-oea-kw-46-1230860" }
+          ]
+        },
+        {
+          "titel": "Berliner Senat: 5 Terabyte im Darknet",
+          "unterzeile": "Rhysida veröffentlicht Daten zweier Senatsverwaltungen",
+          "text": "Die Hackergruppe Rhysida hat laut heise seit dem 4. September über 5 Terabyte Daten aus der Berliner Senatsverwaltung veröffentlicht, nachdem 30 Bitcoin Lösegeld nicht gezahlt wurden. Betroffen sind laut Senatskanzlei die Verwaltungen für Mobilität, Verkehr, Klimaschutz und Umwelt sowie für Stadtentwicklung, Bauen und Wohnen. Die Angreifer kamen im August über eine gefälschte Captcha-Seite hinein. Ein Sicherheitsunternehmen hält den Leak für sehr wahrscheinlich echt, was die Gefahr von Phishing erhöht.",
+          "quellen": [{ "name": "heise online", "url": "https://www.heise.de/news/Berliner-Daten-GAU-Wie-man-einen-Leak-seziert-11524771.html" }]
+        }
+      ]
+    },
+    {
+      "titel": "Deutschland: Wirtschaft, Gesellschaft, Verbraucher",
+      "artikel": [
+        {
+          "titel": "Inflation sinkt im Oktober auf 2,8 Prozent",
+          "unterzeile": "Tankrabatt drückt Spritpreise, Heizöl bleibt extrem teuer",
+          "text": "Die Inflationsrate lag laut Statistischem Bundesamt im Oktober bei 2,8 Prozent, nach 3,3 Prozent im September. Gegenüber dem Vormonat sanken die Preise um 0,2 Prozent. Die Kerninflation ohne Energie und Nahrungsmittel liegt bei 2,1 Prozent.\n\nEnergie war 12,2 Prozent teurer als vor einem Jahr. Kraftstoffe kosteten 28,9 Prozent mehr, wurden aber durch den neuen Tankrabatt seit dem 1. Oktober im Monatsvergleich billiger. Heizöl lag bei plus 84,5 Prozent, Strom dagegen bei minus 5,2 Prozent. Nahrungsmittel stiegen nur um 0,4 Prozent, Butter wurde 18,9 Prozent billiger, Eier kosteten 15,4 Prozent mehr.",
+          "quellen": [{ "name": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_392_611.html" }]
+        },
+        {
+          "titel": "Großhandelspreise: Höchster Anstieg seit Februar 2023",
+          "unterzeile": "Plus 8,8 Prozent im Oktober, Mineralöl treibt",
+          "text": "Die Großhandelsverkaufspreise lagen im Oktober 8,8 Prozent über dem Vorjahresmonat. Das ist laut Destatis der höchste Anstieg seit Februar 2023. Hauptgrund bleiben die Kriegshandlungen im Iran und im Nahen Osten und die dadurch gestiegenen Energiepreise. Mineralölerzeugnisse waren 47,6 Prozent teurer, Chemieerzeugnisse 18,6 Prozent. Billiger wurden etwa Kaffee, Tee und Kakao (minus 8,4 Prozent) sowie Milchprodukte und Eier (minus 7,1 Prozent).",
+          "quellen": [{ "name": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_396_61281.html" }]
+        },
+        {
+          "titel": "Black Friday am 27. November: So erkennst du Scheinrabatte",
+          "unterzeile": "Die Verbraucherzentrale warnt vor KI-Betrug und Fake-Shops",
+          "text": "Laut Verbraucherzentrale Rheinland-Pfalz sind bei Black Friday 2026 auch KI-generierte Produktvideos, Werbeanzeigen und Promi-Deepfakes mit angeblichen Deals zu erwarten. Ein Rabatt auf die UVP ist oft wenig wert, weil der übliche Preis meist ohnehin deutlich darunter liegt. Empfohlen werden mindestens zwei Preissuchmaschinen oder ein Preiswecker.\n\nWarnsignale für Fake-Shops: ungewöhnliche Internetadressen, fehlendes Impressum, Siegel ohne Zertifikat und am Ende nur noch Vorkasse. Eine Überweisung lässt sich meist nicht zurückholen. Der Fakeshop-Finder der Verbraucherzentrale prüft Shops per URL-Check.",
+          "quellen": [
+            { "name": "Verbraucherzentrale RLP", "url": "https://www.verbraucherzentrale-rlp.de/pressemitteilungen/black-friday-echte-schnaeppchen-oder-trickserei-127067" },
+            { "name": "Verbraucherschutzforum Berlin", "url": "https://verbraucherschutzforum.berlin/2026-10-26/black-friday-2026-wann-beginnt-die-schnaeppchenjagd-verbraucherzentrale-warnt-vor-fake-shops-falschen-rabatten-und-kostenfallen-442608/" }
+          ]
+        },
+        {
+          "titel": "805 Millionen Euro: Italien bestraft Meta wegen Facebook-App",
+          "unterzeile": "Fotogalerien von rund 20 Millionen Nutzern ohne Erlaubnis gelesen",
+          "text": "Italiens Datenschutzbehörde Garante hat Meta am 14. November zu 805 Millionen Euro Strafe verurteilt. Die Facebook-App habe auf Android-Geräten von rund 20 Millionen Nutzern in Italien Fotos und Videos ohne ausdrückliche Zustimmung oder Information gelesen. Die Untersuchung begann im Juli 2025 nach einem Hinweis einer Verbraucherorganisation aus Südtirol. Meta will Einspruch einlegen und nennt die Strafe „unverhältnismäßig“.",
+          "quellen": [{ "name": "heise online", "url": "https://www.heise.de/news/Datenschutzverstoss-Meta-soll-in-Italien-805-Millionen-Euro-Strafe-zahlen-11525635.html" }]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen des Tages",
+        "punkte": [
+          "Inflation Oktober: 2,8 % (September: 3,3 %)",
+          "Kerninflation: 2,1 %",
+          "Heizöl: +84,5 % zum Vorjahr",
+          "Großhandelspreise: +8,8 % zum Vorjahr",
+          "Black Friday: 27. November"
+        ],
+        "quellen": [{ "name": "Statistisches Bundesamt", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_392_611.html" }]
+      }
+    },
+    {
+      "titel": "Altenpflege: Politik, Recht, Pflegeversicherung",
+      "artikel": [
+        {
+          "titel": "Pflegegeld: Halbierung gestrichen, höhere Beträge geplant",
+          "unterzeile": "Was der Regierungsentwurf jetzt vorsieht",
+          "text": "Im Regierungsentwurf zur Pflegereform ist die geplante dreimonatige Halbierung des Pflegegeldes für neue Pflegefälle mit Pflegegrad 2 oder 3 gestrichen. Vorgesehen sind nun 380 Euro bei Pflegegrad 2 und 630 Euro bei Pflegegrad 3. Bis zur Gesetzesänderung gelten weiter 347 und 599 Euro.\n\nDas neue Budget soll auch Verbrauchspflegehilfsmittel und Ersatzpflege abdecken. Wie viel Familien am Ende wirklich mehr haben, hängt also davon ab, welche bisherigen Leistungen darin aufgehen.\n\nDer Kabinettsbeschluss war am 30. September, die erste Lesung am 5. November. Am 25. November ist die Expertenanhörung. Beträge und Termine können sich noch ändern.",
+          "quellen": [{ "name": "gegen-hartz.de", "url": "https://www.gegen-hartz.de/news/pflegegeld-ab-2027-geplante-halbierungen-beim-pflegegrad-2-und-3-wieder-gestrichen" }]
+        },
+        {
+          "titel": "Streit um „Abbruchkanten“: Was in der Pflegereform noch wackelt",
+          "unterzeile": "Linnemann will nachbessern, Verabschiedung für Dezember geplant",
+          "text": "Laut taz kritisieren Angehörigen- und Sozialverbände sowie Abgeordnete von Union und SPD den Entwurf vor allem wegen der Abbruchkanten. Gesundheitsminister Linnemann will „nachbessern“ und mit den Koalitionsfraktionen sprechen. Das Budget für Verhinderungspflege von bis zu 3.540 Euro pro Jahr soll wegfallen, der Entlastungsbetrag von 131 Euro für Pflegegrad 1 schon zum 1. Januar 2027. Ohne die Reform läge das Defizit der Pflegeversicherung laut Linnemann bei knapp 8 Milliarden Euro. Die Union will die Verhinderungspflege überprüfen, die SPD fordert Übergangsfristen für Einrichtungen.",
+          "quellen": [{ "name": "taz", "url": "https://taz.de/Pflegereform-im-Bundestag/!6227720/" }]
+        },
+        {
+          "titel": "Bundestag: Spargesetz bleibt es trotz Korrektur",
+          "unterzeile": "Rentenbeiträge für pflegende Angehörige bleiben erhalten",
+          "text": "Der Bundestag hat den Entwurf zur finanziellen Stabilisierung der Pflegeversicherung in erster Lesung beraten. Ausgabenbremsen und Mehreinnahmen sollen allgemeine Beitragserhöhungen im neuen Jahr verhindern. Gesundheitsminister Carsten Linnemann hat den Entwurf seiner Vorgängerin Nina Warken an einem Punkt geändert: Die Kürzung bei den Rentenbeiträgen für pflegende Angehörige ist gestrichen. Unter dem Strich bleibt es laut Bundestags-Kurzmeldung ein Spargesetz.",
+          "quellen": [{ "name": "Deutscher Bundestag (hib)", "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1231742" }]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine Pflegereform",
+        "punkte": [
+          "25. November: Expertenanhörung im Gesundheitsausschuss",
+          "Dezember: Verabschiedung geplant",
+          "1. Januar 2027: Inkrafttreten mehrerer Änderungen vorgesehen"
+        ],
+        "quellen": [{ "name": "Deutscher Bundestag", "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1231090" }]
+      }
+    },
+    {
+      "titel": "Altenpflege: Praxis, Studien, Fachwissen",
+      "artikel": [
+        {
+          "titel": "Hintergrund: 300.000 Pflegekräfte könnten zurückkommen",
+          "unterzeile": "Böckler-Studie zu Wiedereinstieg und Aufstockung",
+          "text": "Laut einer Studie der Hans-Böckler-Stiftung könnten mindestens 300.000 zusätzliche Pflegekräfte (in Vollzeit gerechnet) gewonnen werden, wenn sich die Bedingungen deutlich verbessern. Genannt werden Wiedereinstieg in den Beruf oder aufgestockte Arbeitszeit. Die Befragten wünschen sich vor allem bessere Personalschlüssel. Die Studie ist nicht neu, passt aber zur laufenden Reformdebatte.",
+          "quellen": [{ "name": "Hans-Böckler-Stiftung", "url": "https://www.boeckler.de/de/pressemitteilungen-2675-neue-studie-mindestens-300-000-zusatzliche-pflegekrafte-40798.htm" }]
+        },
+        {
+          "titel": "Hintergrund: Jede sechste Pflegekraft kommt aus dem Ausland",
+          "unterzeile": "IAB-Forschung zur Rolle ausländischer Beschäftigter",
+          "text": "Eine IAB-Studie kam zu dem Ergebnis, dass jede sechste Beschäftigte in der Pflege aus dem Ausland stammt (18,9 Prozent). Eine IAB-Studie von 2024 schließt, dass ausländische Fachkräfte für das System unverzichtbar sind. Der Bericht ist älter, liefert aber Zahlen zur Einordnung der aktuellen Debatte.",
+          "quellen": [{ "name": "IAB-Forschungsbericht 2023", "url": "https://doku.iab.de/forschungsbericht/2023/fb0823.pdf" }]
+        },
+        {
+          "titel": "ver.di: 817.000 Beschäftigte in der stationären Altenpflege",
+          "unterzeile": "Gewerkschaft fordert bundesweiten Tarifvertrag",
+          "text": "Laut ver.di (Pflegestatistik 2023) arbeiten 817.000 Menschen in der stationären Altenpflege. Die Gewerkschaft fordert einen bundesweiten Tarifvertrag Altenpflege und kritisiert, dass die Caritas diesen ablehnt. Außerdem lehnt ver.di Pläne ab, Personalvorgaben in Pflegeeinrichtungen aufzuweichen. Die Seite ist nicht tagesaktuell datiert.",
+          "quellen": [{ "name": "ver.di: Altenpflege", "url": "https://www.verdi.de/gesundheit-soziales-bildung/mein-arbeitsplatz/altenpflege" }]
+        },
+        {
+          "titel": "Pflegefachassistenz: ver.di will mindestens zwei Jahre Ausbildung",
+          "unterzeile": "Stellungnahme zum Referentenentwurf",
+          "text": "ver.di hat zum Referentenentwurf zur Pflegefachassistenz Stellung genommen und fordert unter anderem eine Ausbildung von mindestens zwei Jahren sowie Förderung der Weiterqualifizierung. An der Ausbildungs- und Prüfungsverordnung sieht die Gewerkschaft deutlichen Veränderungsbedarf. Zum Pflegekompetenzgesetz begrüßt ver.di die Stärkung der Kompetenzen von Pflegefachpersonen, verlangt aber Nachbesserungen. Die Angaben sind nicht tagesaktuell datiert.",
+          "quellen": [{ "name": "ver.di: Reform der Pflegeausbildung", "url": "https://gesundheit-soziales-bildung.verdi.de/themen/reform-der-pflegeausbildung" }]
+        }
+      ]
+    },
+    {
+      "titel": "Gaming: Steam & PC",
+      "artikel": [
+        {
+          "titel": "Steam Deck: Valve zeigt jetzt durchschnittliche Framerates",
+          "unterzeile": "Hilfreich, aber mit Einschränkungen",
+          "text": "Auf den Store-Seiten von Steam-Deck-Spielen zeigt Valve die durchschnittliche Framerate, die Spieler erreichen, samt Verteilung. Berücksichtigt werden nur Daten beim Standardlimit von 90 FPS (OLED) bzw. 60 FPS (LCD). Lücken im Diagramm entstehen laut Valve durch VSync, wodurch sich Werte oft bei 45 oder 90 FPS sammeln. Der Autor von Steam Deck HQ kritisiert, dass Einstellungen, Mods oder Upscaler die Daten verzerren können.",
+          "quellen": [
+            { "name": "Steam Deck HQ", "url": "https://steamdeckhq.com/news/valve-clarifies-steam-deck-average-framerate/" },
+            { "name": "Windows Central", "url": "https://www.windowscentral.com/hardware/handheld-gaming-pc/steam-deck-fps-average-compat-new" }
+          ]
+        },
+        {
+          "titel": "Proton Experimental: ArcheAge Chronicles läuft auf dem Deck",
+          "unterzeile": "Update vom 13. November mit mehreren Fixes",
+          "text": "Das neue Proton-Experimental-Update macht ArcheAge Chronicles auf dem Steam Deck spielbar. Außerdem behebt es Probleme mit Warhammer 40,000: Darktide im Fenstermodus, ein Ruckeln bei Mausklicks in Deep Rock Galactic und verzerrte Farben bei VRChat-Nachrichtenvideos. Das Update lädt automatisch, wenn Experimental schon installiert ist.",
+          "quellen": [{ "name": "Steam Deck HQ", "url": "https://steamdeckhq.com/news/proton-experimental-fixes-archeage-chronicles/" }]
+        },
+        {
+          "titel": "Fanatical: Bundle mit 20 Steam-Deck-verifizierten Spielen",
+          "unterzeile": "Ab etwa 7 Dollar pro Spiel",
+          "text": "Fanatical hat das „Play on the Go Elite“-Bundle zurückgebracht. Es ist ein Build-your-own-Paket: Zwei Spiele kosten je 7,49 Dollar, drei oder vier je 7,25 Dollar und fünf oder mehr je 7,00 Dollar. Zur Auswahl stehen 20 Titel, darunter The Elder Scrolls Online, IMMORTALITY und The Mortuary Assistant. Eine Laufzeit nennt der Bericht nicht.",
+          "quellen": [{ "name": "Steam Deck HQ", "url": "https://steamdeckhq.com/news/fanatical-play-on-the-go-elite-bundle-nov-2026/" }]
+        },
+        {
+          "titel": "GTA VI kommt am 19. November nicht für PC",
+          "unterzeile": "Für Steam gibt es noch keinen Termin",
+          "text": "GTA VI erscheint am 19. November für PS5 und Xbox Series X|S. Laut Berichten Stand 12. November haben weder Rockstar noch Take-Two eine PC-Version angekündigt. Ein Bericht, den mehrere Seiten auf GamesBeat zurückführen, nennt den Zeitraum Januar bis März 2027 für PC. Das ist ein Gerücht, keine Bestätigung.",
+          "quellen": [
+            { "name": "Endgame Tools", "url": "https://endgametools.com/en/gta-6/news/gta-6-pc" },
+            { "name": "allthings.how", "url": "https://allthings.how/gta-6-release-date/" }
+          ]
+        },
+        {
+          "titel": "Winter Sale: Wann die nächste große Steam-Aktion startet",
+          "unterzeile": "17. Dezember bis 4. Januar",
+          "text": "Laut SteamDB läuft der Steam Winter Sale vom 17. Dezember 2026 bis zum 4. Januar 2027. SteamDB führt ihn als zweitgrößte Aktion des Jahres. Der Herbstsale ist schon vorbei, wer wartet, kann also bis Dezember sparen. Black-Friday-Rabatte gibt es dagegen vor allem bei Zubehörhändlern, etwa bei JSAUX für Steam-Deck-Zubehör.",
+          "quellen": [
+            { "name": "SteamDB", "url": "https://steamdb.com/en/tools/steam-sales" },
+            { "name": "Steam Deck HQ", "url": "https://steamdeckhq.com/news/jsauxs-black-friday-sale-brings-discounts/" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Nintendo Switch 2 & Konsolen",
+      "artikel": [
+        {
+          "titel": "Game Awards: Nominierungen kommen am 17. November",
+          "unterzeile": "Zelda und GTA 6 sind zugelassen, Show am 10. Dezember",
+          "text": "Die Nominierten der Game Awards 2026 werden am 17. November bekanntgegeben, die Show findet am 10. Dezember statt. Nintendo Life berichtet, dass sowohl Zelda als auch GTA 6 teilnahmeberechtigt sind.",
+          "quellen": [{ "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/the-game-awards-2026-nominees-to-be-announced-next-week-zelda-and-gta-6-eligible" }]
+        },
+        {
+          "titel": "Minecraft bekommt Maussteuerung mit den Joy-Con 2",
+          "unterzeile": "In der geschlossenen Beta bereits testbar",
+          "text": "Die Switch-2-Version von Minecraft soll in einem kommenden Update einen Mausmodus über die Joy-Con 2 bekommen. Die Steuerung lässt sich laut Nintendo Life schon in der geschlossenen Beta ausprobieren. Einen Termin für das Update nennt der Bericht nicht.",
+          "quellen": [{ "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update" }]
+        },
+        {
+          "titel": "Metaphor: ReFantazio auf Switch 2 bekommt Patch gegen Farbfehler",
+          "unterzeile": "Spielbar bleibt es trotzdem",
+          "text": "Sega und Atlus haben bestätigt, dass die Switch-2-Version von Metaphor: ReFantazio einen Farbfehler hat. Er soll per Patch behoben werden. Das Spiel bleibt laut Nintendo Life trotz des Fehlers spielbar. Ein Datum für den Patch ist nicht genannt.",
+          "quellen": [{ "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch" }]
+        },
+        {
+          "titel": "Zelda Notes: Das killt Spieler im Ocarina-of-Time-Remake am häufigsten",
+          "unterzeile": "Globale Spieldaten veröffentlicht",
+          "text": "Über Zelda Notes hat Nintendo globale Spielerdaten zum Ocarina-of-Time-Remake veröffentlicht, darunter die häufigsten Ursachen für Game Over. Laut Nintendo Life werden dabei besonders die ReDead erwähnt.",
+          "quellen": [{ "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/zelda-notes-reveals-top-game-over-causes-and-more-global-play-data-in-ocarina-of-time-remake" }]
+        },
+        {
+          "titel": "Fatal Fury: Laocorn kommt am 19. November",
+          "unterzeile": "Teil des kostenpflichtigen Season-3-DLCs",
+          "text": "Laocorn, der Gegenspieler aus dem Anime-Film von 1994, kommt am 19. November als Teil des kostenpflichtigen Season-3-DLCs zu Fatal Fury: City of the Wolves. Außerdem bietet Limited Run Games laut Nintendo Life eine zweite Auflage der physischen Tomb Raider: Definitive Edition für Switch 2 an.",
+          "quellen": [
+            { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/fatal-fury-city-of-the-wolves-is-adding-laocorn-from-the-motion-picture" },
+            { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Neue Spiele und Termine der Woche",
+        "punkte": [
+          "17.11.: eShop-Geschenkfunktion für Familiengruppen (nach Systemupdate 23.5.0)",
+          "17.11.: Game-Awards-Nominierungen",
+          "19.11.: GTA VI (PS5, Xbox Series X|S)",
+          "19.11.: Laocorn für Fatal Fury: City of the Wolves",
+          "26.11.: Station to Station (Switch 2)"
+        ],
+        "quellen": [
+          { "name": "Nintendo Life", "url": "https://www.nintendolife.com/" },
+          { "name": "Nintendo Life: Update 23.5.0", "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes" }
+        ]
+      }
+    },
+    {
+      "titel": "Tech & Netz",
+      "artikel": [
+        {
+          "titel": "ChatGPT Wallet: KI-Agenten kaufen für dich ein",
+          "unterzeile": "Start zunächst nur in den USA",
+          "text": "OpenAI startet ChatGPT Wallet, eine Bezahlfunktion, mit der KI-Agenten („Dots“) Produkte für Nutzer kaufen. Entwickelt wurde sie mit American Express, Mastercard und Visa. Zum Start gibt es sie nur für erwachsene ChatGPT-Pro-Abonnenten in den USA. Du gibst Kartendaten einmal ein, prüfst Produkt, Betrag und Karte und bestätigst per Biometrie wie Face ID. Die Agenten bekommen Zahlungs-Token statt der echten Kartendaten. Viele Webseiten und Zahlungssysteme sind laut heise noch nicht bereit für Agenten-Käufe.",
+          "quellen": [{ "name": "heise online", "url": "https://www.heise.de/news/OpenAI-startet-ChatGPT-Wallet-KI-Agenten-kaufen-fuer-Nutzer-ein-11525597.html" }]
+        },
+        {
+          "titel": "Phishing mit dem Microsoft-Ausfall als Köder",
+          "unterzeile": "Gefälschte Statusmails drohen mit Löschung nach 24 Stunden",
+          "text": "Laut Microsofts Threat-Intelligence-Team nutzen Kriminelle den weltweiten Cloud-Ausfall für Phishing. Die Mails imitieren Statusmeldungen zum Exchange-Online-Vorfall EX1550543 und behaupten, zurückgehaltene Nachrichten würden nach 24 Stunden gelöscht, falls man nicht auf einen Link klickt. Credential-Diebstahl oder Malware konnte Microsoft bisher nicht bestätigen, Defender blockiert die genutzten Domains. Merke: Störungen prüfst du nur im Admin Center oder über offizielle Kanäle.",
+          "quellen": [{ "name": "heise online", "url": "https://www.heise.de/news/Phishing-Kampagne-nutzt-Microsoft-Cloud-Ausfall-11525471.html" }]
+        },
+        {
+          "titel": "UnrealIRCd: Angreifer nutzen Lücke aus",
+          "unterzeile": "Betroffen sind Versionen 6.0.0 bis 6.2.7",
+          "text": "Laut heise nutzen Angreifer aktuell eine Lücke in UnrealIRCd aus, um Befehle mit Serverrechten auszuführen. Die Lücke ist seit Anfang November bekannt. Betroffen sind die Versionen 6.0.0 bis 6.2.7, Abhilfe schafft 6.2.7.1. Ein Hot-Patch steht ebenfalls bereit. Wenn du einen IRC-Server betreibst: sofort updaten.",
+          "quellen": [{ "name": "heise online", "url": "https://www.heise.de/news/Angriffe-auf-UnrealIRCd-Sicherheitsluecke-ermoeglicht-Befehle-mit-Serverrechten-11525565.html" }]
+        },
+        {
+          "titel": "Check Point und N-central unter Beschuss",
+          "unterzeile": "Ketten-Angriff auf Gateways, Krypto-Miner vor dem Patch",
+          "text": "Laut heise haben Angreifer PHP2Shell mit einer Root-Lücke auf Check-Point-Gateways verkettet. Außerdem wurden Krypto-Miner-Attacken auf N-central beobachtet, während der Sicherheitspatch noch aussteht. Das betrifft vor allem Admins und Dienstleister, nicht Privatnutzer.",
+          "quellen": [
+            { "name": "heise online (Check Point)", "url": "https://www.heise.de/news/Angreifer-verketteten-PHP2Shell-mit-Root-Luecke-auf-Check-Point-Gateways-11525531.html" },
+            { "name": "heise online (N-central)", "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatch-Krypto-Miner-Attacken-auf-N-central-beobachtet-11525491.html" }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Keine Links aus „Störungsmails“",
+    "text": "Bekommst du eine Mail, die dir wegen eines Ausfalls Löschung oder Verlust droht, wenn du nicht sofort klickst: nicht klicken. Öffne die Statusseite des Anbieters selbst im Browser, tippe die Adresse von Hand ein und prüfe dort. Das ist ein eigener Tipp, ohne Faktenbehauptung."
+  }
+}
