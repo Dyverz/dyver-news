@@ -1,0 +1,601 @@
+{
+  "gruss": "Guten Morgen, liebe Mama! Heute ist Montag, der 16. November. Eine neue Woche beginnt. Mach dir einen warmen Tee und lies in Ruhe. Heute Abend spielt Deutschland Fußball, und in Mülheim rückt die Weihnachtszeit näher. Viel Freude mit deiner Zeitung!",
+  "aufmacher": {
+    "rubrik": "Sport",
+    "titel": "Heute Abend: Deutschland gegen die Niederlande",
+    "unterzeile": "Das Länderspiel in Berlin läuft im Ersten",
+    "text": "Heute Abend spielt die deutsche Nationalmannschaft in Berlin gegen die Niederlande. Der Anpfiff im Olympiastadion ist um 20:45 Uhr. Im Ersten (ARD) beginnt die Sendung schon um 20:15 Uhr. Man kann das Spiel auch kostenlos im Internet sehen.\n\nDas Spiel gehört zur Nations League. Das ist ein Wettbewerb, bei dem die Länder Europas gegeneinander antreten. Die Niederlande liegen in der Gruppe vorn. Im September gab es in Amsterdam ein 1:1.\n\nAm Freitag hat Deutschland in Belgrad 3:1 gegen Serbien gewonnen. Bundestrainer Jürgen Klopp hat dafür 24 Spieler eingeladen. Stürmer Niclas Füllkrug ist wieder dabei. Heute Abend drücken wir die Daumen.",
+    "quellen": [
+      {
+        "name": "sport.de: Hier läuft Deutschland vs. Niederlande",
+        "url": "https://www.sport.de/news/ne17310108/hier-laeuft-deutschland-vs-niederlande-live-und-kostenlos-im-stream/"
+      },
+      {
+        "name": "fussballnationalmannschaft.net: ARD live am Montag",
+        "url": "https://www.fussballnationalmannschaft.net/ard-live-heute-deutschland-niederlande-wer-zeigt-123334525.html"
+      },
+      {
+        "name": "nachrichten-heute.net: Klopp holt Füllkrug zurück",
+        "url": "https://www.nachrichten-heute.net/1781381-klopp-holt-fuellkrug-ins-dfb-team-zurueck.html"
+      },
+      {
+        "name": "nachrichten-heute.net: Deutschland schlägt Serbien",
+        "url": "https://www.nachrichten-heute.net/1786645-nations-league-deutschland-schlaegt-serbien.html"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Aus Mülheim",
+      "artikel": [
+        {
+          "titel": "Aus dem leeren Hochhaus sollen Wohnungen werden",
+          "unterzeile": "Der frühere Stinnes-Turm am Rhein-Ruhr-Zentrum",
+          "text": "Seit fast zehn Jahren steht das große Hochhaus am Rhein-Ruhr-Zentrum leer. Es hat 16 Stockwerke und liegt direkt an der A40. Nun hat die Stadt einen Plan: Bis zu 170 Wohnungen sollen dort entstehen.\n\nAußerdem sollen Büros, Geschäfte und Gaststätten in das Haus ziehen. Auch ein Hotel wäre möglich. Etwa 100 Stellplätze in der Tiefgarage sind für die Bewohner gedacht. Ein Gutachten zeigt: Die Außenwand muss besser gegen Lärm geschützt werden, damit es in den Wohnungen ruhig genug ist.\n\nDu darfst mitreden. Einen Monat lang kann jeder zu den Plänen etwas sagen. Die Unterlagen liegen im Technischen Rathaus aus und stehen im Internet. Danach berät der zuständige Ausschuss der Stadt.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Leerstehender Tower im RRZ soll Wohnhaus werden",
+              "url": "https://www.radiomuelheim.de/artikel/muelheim-leerstehender-tower-im-rrz-soll-wohnhaus-werden-2803675"
+            }
+          ]
+        },
+        {
+          "titel": "Der Wochenmarkt auf der Schloßstraße bleibt",
+          "unterzeile": "Der Verein Pro Altstadt macht ab 2027 weiter",
+          "text": "Gute Nachricht für alle, die gern auf dem Markt einkaufen: Der Wochenmarkt auf der Schloßstraße soll weitergehen. Der Verein Pro Altstadt will ihn ab 2027 mit freiwilligen Helfern betreiben. Zuerst waren noch Fragen offen, zum Beispiel zu Strom, Wasser und Toiletten. Nach einem Gespräch mit der Stadt ist das geklärt. Die alten Stromkästen werden erneuert. Die Wasserstelle wird gereinigt. Die Händler dürfen die Toiletten im Medienhaus nutzen. Jetzt entscheidet das Ordnungsamt über den Antrag.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Wochenmarkt Schloßstraße",
+              "url": "https://www.radiomuelheim.de/artikel/wochenmarkt-schlossstrasse-markt-soll-weitergehen-2806271"
+            }
+          ]
+        },
+        {
+          "titel": "Statt Ampel kommt ein Kreisverkehr",
+          "unterzeile": "An der Velauer Straße wird 2027 gebaut",
+          "text": "An der Kreuzung Velauer Straße und Gneisenaustraße steht heute eine Ampel. Dort soll im Jahr 2027 ein Kreisverkehr entstehen. Das soll Unfälle verhindern und den Verkehr flüssiger machen. Die Gehwege werden breiter und sicherer. Für die Arbeiten müssen sechs Bäume weichen. Dafür pflanzt die Stadt an anderer Stelle neue. Der Bau dauert etwa acht Monate und kostet rund 978.000 Euro. Ob die Förderung vom Land kommt, ist noch nicht entschieden.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Kreisverkehr statt Ampel an Velauer Straße",
+              "url": "https://www.radiomuelheim.de/artikel/muelheim-kreisverkehr-statt-ampel-an-velauer-strasse-2804866"
+            }
+          ]
+        },
+        {
+          "titel": "Die S-Bahn S3 fährt wieder",
+          "unterzeile": "Früher als geplant, aber noch nicht ganz wie sonst",
+          "text": "Seit dem 11. November fährt die S3 über Mülheim wieder regelmäßig. Sie verbindet Mülheim mit Oberhausen, Essen und Hattingen. Die Bahn hatte das nicht vorher angekündigt. Grund für die Pause war ein alter Bergbau-Stollen. Bauarbeiter hatten ihn in Essen-West gefunden. Er musste aufgefüllt werden. Noch ist nicht alles wieder normal. Die Linie RB33 soll ab heute wieder regulär fahren.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: S3 über Mülheim",
+              "url": "https://www.radiomuelheim.de/artikel/s3-ueber-muelheim-regelbetrieb-frueher-gestartet-2803606"
+            }
+          ]
+        },
+        {
+          "titel": "Geschenke für ältere Menschen",
+          "unterzeile": "Mülheimer Aktion sammelt bis zum 10. Dezember",
+          "text": "Die Aktion „GeMHeinsam statt EinsaMH“ möchte älteren Menschen in Mülheim zu Weihnachten eine Freude machen. Sie sammelt Geschenkboxen. Darin können Kleidung, Pflegeartikel, Kaffee, Tee, Pralinen oder Gutscheine liegen. Eine Box darf höchstens 25 Euro kosten. Auch Tüten mit Leckereien sind willkommen. Abgabe ist bis zum 10. Dezember. Wo man die Pakete abgeben kann, steht im Flyer der Aktion.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Aktion sammelt Geschenke für Senioren",
+              "url": "https://www.radiomuelheim.de/artikel/muelheimer-aktion-sammelt-geschenke-fuer-senioren-2803500"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "In Mülheim sind mehr Menschen überschuldet als früher: 14,01 Prozent, vorher 10,21 Prozent. Das ist Platz 361 von 400 Städten und Kreisen."
+        ],
+        "quellen": [
+          {
+            "name": "Radio Mülheim: Deutlich mehr Menschen überschuldet",
+            "url": "https://www.radiomuelheim.de/artikel/muelheim-deutlich-mehr-menschen-ueberschuldet-2805870"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim erleben",
+      "artikel": [
+        {
+          "titel": "Weihnachtsmarkt auf dem Wasser: die Schiffsweihnacht",
+          "unterzeile": "Zwei Wochenenden auf der Schleuseninsel",
+          "text": "Bald ist es so weit: Am Freitag, 20. November, startet die Mülheimer Schiffsweihnacht. Sie findet an den Schiffen der Weißen Flotte statt, am Ufer und im Haus Ruhrnatur. Der Eintritt ist frei.\n\nEs gibt handgemachte Sachen wie Schmuck, Deko und Kleidung. Dazu gibt es Leckereien und Live-Musik. Für Kinder gibt es kostenlose Aktionen im Haus Ruhrnatur.\n\nGeöffnet ist am 20. und 27. November von 15 bis 21 Uhr. Am 21. und 28. November von 13 bis 21 Uhr. Am 29. November von 11 bis 20 Uhr. Am ersten Abend singen der Shantychor „Kormoran“ ab 16 Uhr und der Gospelchor Leslie B. Harmonies ab 20 Uhr.",
+          "quellen": [
+            {
+              "name": "Mein Mülheim: Schiffsweihnacht 2026",
+              "url": "https://www.mein-muelheim.de/event/muelheimer-schiffsweihnacht-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Der Adventsmarkt in der Altstadt",
+          "unterzeile": "Vom 27. November bis 13. Dezember",
+          "text": "In den alten Gassen der Altstadt gibt es ab dem 27. November den Mülheimer Weihnachtsmarkt. Er dauert bis zum 13. Dezember. Der Eintritt ist frei. Es gibt Handwerk, Keramik und Deko. Dazu gibt es gebrannte Mandeln, Glühwein und frische Plätzchen. Der Nikolaus und sein Engel verteilen Kuscheltiere an die Kinder. Jeden Tag um 19 Uhr zünden Besucher gemeinsam Wunderkerzen an, für den Frieden. Montags ist der Markt geschlossen. Veranstalter ist der Verein Pro Altstadt.",
+          "quellen": [
+            {
+              "name": "Mülheimer Weihnachtsmarkt (Pro Altstadt)",
+              "url": "https://adventsmarkt-muelheim.de/"
+            }
+          ]
+        },
+        {
+          "titel": "Was in der Stadthalle ansteht",
+          "unterzeile": "Musik, Basteln und Kerzenlicht",
+          "text": "In der Stadthalle ist bis Ende November einiges los. Am 20. November spielt das Litauische Staatsorchester ein Sinfoniekonzert. Am 21. November kommt Klaus Hoffmann. Am 28. November gibt es das Weihnachtsmusical „Santa Claus“. Am 29. November findet ein Kreativ-Markt mit Bastel-Ideen und Geschenk-Ideen statt. Am selben Tag gibt es zwei Konzerte bei Kerzenlicht im Kammermusiksaal: „Das Beste der 80er“ und ein Tribut an Hans Zimmer. Die Uhrzeiten findest du auf der Seite der Stadthalle.",
+          "quellen": [
+            {
+              "name": "Stadthalle Mülheim: Veranstaltungskalender",
+              "url": "https://www.stadthalle-muelheim.de/veranstaltung-besuchen/veranstaltungskalender"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "20.–21. und 27.–29. November: Schiffsweihnacht auf der Schleuseninsel",
+          "20. November: Sinfoniekonzert in der Stadthalle",
+          "21. November: Klaus Hoffmann in der Stadthalle",
+          "27. November bis 13. Dezember: Weihnachtsmarkt in der Altstadt (montags zu)",
+          "28. November: „Santa Claus“, Weihnachtsmusical",
+          "29. November: Kreativ-Markt und Konzerte bei Kerzenlicht"
+        ],
+        "quellen": [
+          {
+            "name": "Stadthalle Mülheim",
+            "url": "https://www.stadthalle-muelheim.de/veranstaltung-besuchen/veranstaltungskalender"
+          },
+          {
+            "name": "Mein Mülheim: Schiffsweihnacht",
+            "url": "https://www.mein-muelheim.de/event/muelheimer-schiffsweihnacht-2026"
+          },
+          {
+            "name": "Pro Altstadt: Weihnachtsmarkt",
+            "url": "https://adventsmarkt-muelheim.de/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland",
+      "artikel": [
+        {
+          "titel": "Die Bahn soll besser kontrolliert werden",
+          "unterzeile": "Der Bund will Boni an Ziele knüpfen",
+          "text": "Der Bund will genauer hinschauen, wie die Deutsche Bahn Geld ausgibt. In den nächsten fünf Jahren sollen 80 Milliarden Euro ins Schienennetz fließen. Die Chefs der Bahn-Tochter InfraGO sollen nur noch Boni bekommen, wenn sie ihre Ziele erreichen. Ein Bonus ist eine Extra-Zahlung zum Gehalt. Dafür gibt es 71 Messpunkte, zum Beispiel zur Leistung und zu den Kosten.\n\nBis Ende 2031 sollen etwa 500 Bahnhöfe erneuert werden. Auch fast 7.300 Weichen und rund 7.600 Kilometer Gleise sollen neu werden. Verkehrsminister Steffen Bilger will den Entwurf am 18. November vorstellen. Die neuen Regeln sollen ab dem 1. Januar 2027 gelten. Das berichtet die Nachrichtenagentur dts unter Berufung auf die „Bild“.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Bund knüpft Bahn-Boni an 71-Punkte-Plan",
+              "url": "https://www.nachrichten-heute.net/1787547-bund-knuepft-bahn-boni-an-71-punkte-plan.html"
+            }
+          ]
+        },
+        {
+          "titel": "Krankenhäuser machen sich Sorgen",
+          "unterzeile": "Die Krankenhausgesellschaft warnt vor Stellenabbau",
+          "text": "Die Deutsche Krankenhausgesellschaft warnt: Durch neue Reformen könnten den Kliniken etwa sieben Prozent ihrer Einnahmen fehlen. Der Chef Gerald Gaß rechnet vor, dass dadurch rund 127.000 Stellen in Gefahr sein könnten. Für das übrige Personal würde die Arbeit dichter. Seit 2022 haben bundesweit 87 Krankenhäuser Insolvenz angemeldet. Die Gesellschaft fürchtet weitere Pleiten. Das sind ihre Einschätzungen. Wie die Politik reagiert, bleibt abzuwarten.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Krankenhäuser warnen vor Stellenabbau",
+              "url": "https://www.nachrichten-heute.net/1787518-krankenhaeuser-warnen-vor-stellenabbau-und-neuer-pleitewelle.html"
+            }
+          ]
+        },
+        {
+          "titel": "Der Rechnungshof schaut aufs Geld",
+          "unterzeile": "Sondertöpfe sollen sinnvoller genutzt werden",
+          "text": "Der Präsident des Bundesrechnungshofs, Ansgar Heveling, mahnt die Regierung. Es geht um die „Sondervermögen“. Das sind Extra-Töpfe mit Geld für besondere Aufgaben, zum Beispiel für Straßen und Schulen. Heveling sagt: Das Geld könnte oft wirksamer und sparsamer ausgegeben werden. Er kritisiert auch, dass die Regierung sich dadurch im normalen Haushalt mehr Spielraum verschafft.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Rechnungshof mahnt effizientere Verwendung",
+              "url": "https://www.nachrichten-heute.net/1787512-rechnungshof-mahnt-effizientere-verwendung-von-sondervermoegen-an.html"
+            }
+          ]
+        },
+        {
+          "titel": "Alkohol am Bahnhof: Die Bahn zieht Bilanz",
+          "unterzeile": "Seit 15. Oktober gilt ein Verbot",
+          "text": "Seit dem 15. Oktober darf man in Bahnhofshallen und auf Bahnsteigen keinen Alkohol trinken. In Gaststätten ist es erlaubt. Nach einem Monat zieht die Bahn eine gute Bilanz. Die Sicherheitsleute haben mehr als 15.000 Menschen angesprochen. Die meisten haben die Flasche weggestellt oder sind gegangen. Nur wenige bekamen Hausverbot. Laut einer Umfrage finden 80 Prozent der Befragten das Verbot gut.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Bahn zieht positive Bilanz nach Alkoholverbot",
+              "url": "https://www.nachrichten-heute.net/1786766-bahn-zieht-positive-bilanz-nach-alkoholverbot-in-bahnhoefen.html"
+            }
+          ]
+        },
+        {
+          "titel": "Der Fahnenmast am Reichstag",
+          "unterzeile": "Die Reparatur dauert länger",
+          "text": "Vor dem Reichstag in Berlin ist der Fahnenmast beschädigt worden. Der Schaden ist größer als zuerst gedacht. Die Reparatur soll mindestens bis Mitte Dezember dauern. Die Technik im Inneren des Mastes ist stark beschädigt. Bis dahin hängt die Flagge nur als Notlösung.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Reparatur von Reichstag-Fahnenmast",
+              "url": "https://www.nachrichten-heute.net/1785329-reparatur-von-reichstag-fahnenmast-dauert-bis-mitte-dezember.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Aus aller Welt",
+      "artikel": [
+        {
+          "titel": "Stillstand am Himmel über den USA",
+          "unterzeile": "Alle Starts wurden kurz gestoppt",
+          "text": "Am Freitag standen in den USA für einige Stunden alle Flugzeuge am Boden. Die Flugsicherheitsbehörde FAA hatte alle Starts gestoppt. Der Grund war ein Problem bei der Verständigung der Flugsicherung. Der Verkehrsminister sprach von veralteten Kommunikationssystemen. Eine Hacker-Attacke wurde ausgeschlossen.\n\nNach einigen Stunden ging es wieder los. Zehntausende Reisende saßen zwischenzeitlich fest. Auch Flüge aus Europa in die USA waren eingeschränkt. So ein landesweiter Stopp ist sehr selten. Der letzte war im Jahr 2023.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: US-Luftfahrtbehörde verhängt Flugverbot",
+              "url": "https://www.nachrichten-heute.net/1786642-us-luftfahrtbehoerde-verhaengt-landesweites-flugverbot.html"
+            },
+            {
+              "name": "nachrichten-heute.net: Flugverkehr in den USA wieder aufgenommen",
+              "url": "https://www.nachrichten-heute.net/1786694-flugverkehr-in-den-usa-nach-startverbot-wieder-aufgenommen.html"
+            }
+          ]
+        },
+        {
+          "titel": "Wir werden im Schnitt älter",
+          "unterzeile": "Die Lebenserwartung steigt weiter",
+          "text": "Eine gute Nachricht: Die Lebenserwartung in Deutschland ist 2025 weiter gestiegen. Bei den Männern gab es in allen Bundesländern ein Plus. Erstmals liegen alle Bundesländer über dem Stand von 2019. Bei den Frauen ist es nicht überall so. In Bayern und Baden-Württemberg wird man im Schnitt über 80 Jahre alt. Das hat das Bundesinstitut für Bevölkerungsforschung berechnet. Die Unterschiede zwischen den Regionen bleiben aber groß.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Lebenserwartung steigt weiter",
+              "url": "https://www.nachrichten-heute.net/1780743-lebenserwartung-steigt-weiter-nicht-ueberall-gleichmaessig.html"
+            }
+          ]
+        },
+        {
+          "titel": "Wie zufrieden sind die Deutschen?",
+          "unterzeile": "Eine Studie: Gute Beziehungen zählen",
+          "text": "Die Zufriedenheit mit dem Leben ist in Deutschland seit der Corona-Zeit ziemlich stabil. Das zeigt eine Studie des Bundesinstituts für Bevölkerungsforschung. Am zufriedensten sind Paare ohne Kinder und Paare mit Kindern. Etwas weniger zufrieden sind Alleinlebende und Alleinerziehende. Wichtig ist vor allem, wie gut die Beziehungen zu anderen Menschen sind. Auch Zeit mit den Enkeln trägt zur Zufriedenheit bei.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Lebenszufriedenheit bleibt stabil",
+              "url": "https://www.nachrichten-heute.net/1784811-studie-lebenszufriedenheit-der-deutschen-bleibt-stabil.html"
+            }
+          ]
+        },
+        {
+          "titel": "Datenklau bei der französischen Post",
+          "unterzeile": "Adressen von 22 Millionen Menschen betroffen",
+          "text": "Bei einer Tochterfirma der französischen Post haben Hacker Adressen von 22 Millionen Menschen gestohlen. Es geht um Namen und Anschriften. Bankdaten sind nicht dabei. Der Diebstahl war schon im September. Die Firma hat die Datenschutzbehörde informiert und Anzeige erstattet. Wer die Täter sind, ist noch unbekannt.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Millionen Adressdaten bei Cyberangriff in Frankreich gestohlen",
+              "url": "https://www.nachrichten-heute.net/1787408-millionen-adressdaten-bei-cyberangriff-in-frankreich-gestohlen.html"
+            }
+          ]
+        },
+        {
+          "titel": "Ein sehr warmes Jahr",
+          "unterzeile": "Der Klimadienst Copernicus rechnet nach",
+          "text": "Der EU-Klimadienst Copernicus sagt: 2026 wird fast sicher über 1,5 Grad wärmer sein als vor der Industrialisierung. Es wäre nach 2024 das zweite Mal. Mit etwa 80 Prozent Wahrscheinlichkeit wird es das zweitwärmste Jahr seit Beginn der Messungen. Der Oktober war weltweit so warm wie noch nie in einem Oktober.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: 2026 voraussichtlich zweites Jahr über 1,5 Grad",
+              "url": "https://www.nachrichten-heute.net/1782009-2026-voraussichtlich-zweites-jahr-mit-ueber-15-grad-erderwaermung.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Sport: Fußball-Bundesliga",
+      "artikel": [
+        {
+          "titel": "Manuel Neuer fällt lange aus",
+          "unterzeile": "Sehnenriss im rechten Fuß",
+          "text": "Die Bundesliga hat diese Woche Pause. Eine Nachricht aus München macht aber Sorgen: Bayern-Torwart Manuel Neuer hat sich im Spiel in Mainz verletzt. Bayern hat dort 2:1 gewonnen. Neuer musste kurz vor der Pause raus. Der Verein sagte danach: Es ist ein Teilriss einer Sehne im rechten Fuß.\n\nWie lange er fehlt, steht nicht fest. Der Verein spricht nur von „längerer Zeit“. Neuer ist 40 Jahre alt. Im Tor steht jetzt Jonas Urbig.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Manuel Neuer fällt lange aus",
+              "url": "https://www.nachrichten-heute.net/1783074-manuel-neuer-faellt-lange-aus.html"
+            }
+          ]
+        },
+        {
+          "titel": "Der DFB-Pokal: Das sind die Paarungen",
+          "unterzeile": "Achtelfinale am 1. und 2. Dezember",
+          "text": "Im DFB-Pokal stehen die Spiele der letzten 16 fest. Gespielt wird am 1. und 2. Dezember. Bayern München spielt gegen Hertha BSC. Stuttgart bekommt Dynamo Dresden. Frankfurt trifft auf Dortmund. Leverkusen spielt gegen Leipzig. Außerdem spielen Mönchengladbach gegen Darmstadt, Kaiserslautern gegen Freiburg, Kiel gegen Köln und Bochum gegen Augsburg. Welches Spiel an welchem Tag stattfindet, stand in der Meldung nicht.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: DFB-Pokal-Achtelfinale ausgelost",
+              "url": "https://www.nachrichten-heute.net/1778871-dfb-pokal-achtelfinale-bayern-gegen-hertha-dynamo-beim-vfb.html"
+            }
+          ]
+        },
+        {
+          "titel": "Aus Greuther Fürth wird wieder Fürth",
+          "unterzeile": "Die Mitglieder haben abgestimmt",
+          "text": "Der Zweitligist Greuther Fürth bekommt seinen alten Namen zurück. Bei einer Versammlung stimmten 88,3 Prozent der Mitglieder dafür. Der Verein soll künftig wieder SpVgg Fürth heißen. Das passiert zum nächsten Saisonwechsel. Der Präsident Volker Heißmann sagte: Für manche sei das ein besonderer Moment, für andere der Verlust eines wichtigen Namens.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Greuther Fürth beschließt Namensänderung",
+              "url": "https://www.nachrichten-heute.net/1783180-zweitligist-greuther-fuerth-beschliesst-namensaenderung.html"
+            }
+          ]
+        },
+        {
+          "titel": "Der Kader für die Länderspiele",
+          "unterzeile": "Füllkrug ist zurück, ein Neuling dabei",
+          "text": "Bundestrainer Jürgen Klopp hat 24 Spieler für die beiden Länderspiele eingeladen. Stürmer Niclas Füllkrug kehrt zurück. Zum ersten Mal dabei ist Wael Mohya von Borussia Mönchengladbach. Auch Joshua Kimmich, Florian Wirtz und Kai Havertz gehören zum Kader. Im Tor stehen Alexander Nübel, Marc-André ter Stegen und Jonas Urbig.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Klopp holt Füllkrug ins DFB-Team zurück",
+              "url": "https://www.nachrichten-heute.net/1781381-klopp-holt-fuellkrug-ins-dfb-team-zurueck.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Ergebnisse vom letzten Bundesliga-Wochenende (7./8. November)",
+        "punkte": [
+          "Mainz – Bayern 1:2",
+          "Hoffenheim – Schalke 2:1",
+          "Freiburg – Union Berlin 2:0",
+          "Köln – Leverkusen 1:2",
+          "Leipzig – Augsburg 5:2",
+          "Hamburger SV – Gladbach 3:1"
+        ],
+        "quellen": [
+          {
+            "name": "Mainz: Neuer fällt aus",
+            "url": "https://www.nachrichten-heute.net/1783074-manuel-neuer-faellt-lange-aus.html"
+          },
+          {
+            "name": "Hoffenheim gewinnt gegen Schalke",
+            "url": "https://www.nachrichten-heute.net/1783218-1-bundesliga-hoffenheim-gewinnt-gegen-schalke.html"
+          },
+          {
+            "name": "Freiburg gewinnt gegen Union",
+            "url": "https://www.nachrichten-heute.net/1783197-1-bundesliga-freiburg-gewinnt-gegen-union-berlin.html"
+          },
+          {
+            "name": "Leverkusen gewinnt in Köln",
+            "url": "https://www.nachrichten-heute.net/1783171-1-bundesliga-leverkusen-gewinnt-in-koeln.html"
+          },
+          {
+            "name": "Leipzig gewinnt gegen Augsburg",
+            "url": "https://www.nachrichten-heute.net/1782664-bundesliga-leipzig-gewinnt-gegen-augsburg.html"
+          },
+          {
+            "name": "HSV schlägt Gladbach",
+            "url": "https://www.nachrichten-heute.net/1782424-bundesliga-hamburger-sv-schlaegt-gladbach.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Sport: Vereine und mehr",
+      "artikel": [
+        {
+          "titel": "Handball: Füchse schlagen Kiel",
+          "unterzeile": "Magdeburg gewinnt hoch gegen Flensburg",
+          "text": "Beim Handball gab es am Wochenende zwei große Spiele. Die Füchse Berlin haben den THW Kiel 28:25 geschlagen. Der SC Magdeburg gewann gegen Flensburg klar mit 37:29. Auch Erlangen hat gegen Hamburg 30:28 gewonnen. Es war der 12. Spieltag der Handball-Bundesliga.\n\nWer in der Tabelle vorn liegt, haben wir nicht überprüft. Die Ergebnisse stammen von den Seiten der Hessenschau.",
+          "quellen": [
+            {
+              "name": "hessenschau.de: Handball-Bundesliga",
+              "url": "https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-1bl100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Formel 1: Norris gewinnt in São Paulo",
+          "unterzeile": "Verstappen wird Zweiter",
+          "text": "Beim Formel-1-Rennen in Brasilien am 8. November hat Lando Norris gewonnen. Das Rennen begann auf nasser Strecke. Es gab viele Boxenstopps. Max Verstappen wurde Zweiter, Isack Hadjar Dritter. Nico Hülkenberg holte als Zehnter noch einen Punkt.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Norris gewinnt in São Paulo",
+              "url": "https://www.nachrichten-heute.net/1783200-formel-1-norris-gewinnt-in-sao-paulo.html"
+            }
+          ]
+        },
+        {
+          "titel": "Basketball: Hamburg und Berlin siegen",
+          "unterzeile": "Die Bundesliga am Samstag",
+          "text": "In der Basketball-Bundesliga haben am Samstag Hamburg gegen Würzburg 91:84 und Berlin in Oldenburg 95:77 gewonnen. Ulm schlug Jena 97:78. Bonn gewann in Bamberg 85:71. Die Sonntagsspiele waren auf der Seite noch ohne Ergebnis.",
+          "quellen": [
+            {
+              "name": "hessenschau.de: Basketball-Bundesliga",
+              "url": "https://www.hessenschau.de/sport/ergebnisse-tabellen/basketball-1bl100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Tennis: Davis Cup im Anmarsch",
+          "unterzeile": "Deutschland spielt am 26. November",
+          "text": "Vom 24. bis 29. November findet das Finalturnier im Davis Cup in Bologna statt. Das ist der große Mannschafts-Wettbewerb im Tennis. Deutschland trifft am 26. November im Viertelfinale auf Großbritannien. Dort hat Deutschland sich mit einem 3:1 gegen Kroatien in Halle qualifiziert.",
+          "quellen": [
+            {
+              "name": "Wikipedia: 2026 Davis Cup Finals",
+              "url": "https://en.wikipedia.org/wiki/2026_Davis_Cup_Finals"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Handball-Ergebnisse",
+        "punkte": [
+          "Füchse Berlin – Kiel 28:25",
+          "Magdeburg – Flensburg 37:29",
+          "Erlangen – Hamburg 30:28"
+        ],
+        "quellen": [
+          {
+            "name": "hessenschau.de",
+            "url": "https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-1bl100.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klatsch & Tratsch",
+      "artikel": [
+        {
+          "titel": "Wolf Biermann wird 90",
+          "unterzeile": "Roland Jahn dankt dem Liedermacher",
+          "text": "Der Liedermacher Wolf Biermann ist am 15. November 90 Jahre alt geworden. Roland Jahn, der frühere Chef der Stasi-Unterlagen-Behörde, hat ihn gewürdigt. Er nannte Biermann einen „Mutmacher für uns alle“. Jahn sagte, Biermanns Lieder hätten ihm Mut gegeben. Er habe sogar eines in der Untersuchungshaft gesungen.\n\nDas Interview erschien in den Sonntagszeitungen des Redaktionsnetzwerks Deutschland.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Stasi-Unterlagenbeauftragter würdigt Biermann",
+              "url": "https://www.nachrichten-heute.net/1786980-ehemaliger-stasi-unterlagenbeauftragter-wuerdigt-wolf-biermann.html"
+            }
+          ]
+        },
+        {
+          "titel": "Daniel Brühl als Lord Voldemort",
+          "unterzeile": "Die Stimme klang erst wie Gollum",
+          "text": "Der Schauspieler Daniel Brühl spricht in einem neuen Harry-Potter-Hörspiel den bösen Zauberer Voldemort. Zuerst klang seine Stimme sehr schlangenhaft. Der Regisseur sagte: „Daniel, du klingst wie Gollum.“ Brühl war kurz beleidigt, gab aber zu, dass es in die Richtung ging. Er wollte die Figur nicht übertrieben spielen.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Brühl gesteht Probleme mit Voldemort-Stimme",
+              "url": "https://www.nachrichten-heute.net/1781869-bruehl-gesteht-probleme-mit-lord-voldemort-stimme.html"
+            }
+          ]
+        },
+        {
+          "titel": "Die Hits der Woche",
+          "unterzeile": "Tate McRae vorn, Weihnachtslieder kommen",
+          "text": "In den deutschen Single-Charts steht Tate McRae mit „Housewife“ auf Platz eins. Auf Platz zwei ist Ski Aggu mit „Verschwommen“. Dahinter steht Shakira mit „Dai Dai“. Die ersten Weihnachtslieder sind schon dabei: „Last Christmas“ von Wham steht auf Platz 8. Bei den Alben ist Steven Wilson vorn. Nico Santos ist von Platz eins auf Platz vier gerutscht.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Tate McRae an Spitze der Single-Charts",
+              "url": "https://www.nachrichten-heute.net/1786485-tate-mcrae-an-spitze-der-single-charts-ski-aggu-auf-platz-zwei.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Klatsch & Tratsch: TV, Shows und Stars der Welt",
+      "artikel": [
+        {
+          "titel": "König Charles ist 78",
+          "unterzeile": "Glückwünsche von William und Kate",
+          "text": "König Charles ist am 14. November 78 Jahre alt geworden. Prinz William und seine Frau Kate haben ihm öffentlich gratuliert. Dazu gab es ein Foto von Charles mit dem Sänger Elton John. Das berichtet das „Hello Magazine“.",
+          "quellen": [
+            {
+              "name": "Hello Magazine",
+              "url": "https://www.hellomagazine.com/royalty/935018/prince-william-kate-middleton-public-message-king-charles/"
+            }
+          ]
+        },
+        {
+          "titel": "Gedenken in London",
+          "unterzeile": "Königsfamilie am Cenotaph",
+          "text": "Am Remembrance Sunday erinnert Großbritannien an die Gefallenen der Kriege. Kate und William waren am Cenotaph in London dabei. Das ist das Mahnmal in Whitehall. Kate trug laut „Brisant“ die Collingwood-Ohrringe von Prinzessin Diana.",
+          "quellen": [
+            {
+              "name": "Hello Magazine",
+              "url": "https://www.hellomagazine.com/royalty/935018/prince-william-kate-middleton-public-message-king-charles/"
+            },
+            {
+              "name": "Brisant: Britisches Königshaus",
+              "url": "https://www.brisant.de/royals/britisches-koenigshaus"
+            }
+          ]
+        },
+        {
+          "titel": "Heute Abend im Fernsehen",
+          "unterzeile": "Ein Film über Liz Taylor und Richard Burton",
+          "text": "Auf dem Sender One läuft um 20:15 Uhr der Film „Burton und Taylor“. Darin spielen Helena Bonham Carter und Dominic West das berühmte Schauspielerpaar. Der Film dauert bis etwa 21:35 Uhr. Wer lieber Fußball sieht: Das Länderspiel läuft im Ersten.",
+          "quellen": [
+            {
+              "name": "kino-zeit.de: TV-Tipps für Montag, 16.11.2026",
+              "url": "https://www.kino-zeit.de/news-features/empfehlungen-tv-tipps/die-tv-tipps-fuer-montag-den-16-11-2026"
+            },
+            {
+              "name": "kultur4all: Fernsehprogramm",
+              "url": "https://www.kultur4all.de/veranstaltung/fernsehprogramm-montag-16-november-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "Das ZDF denkt über seine Zukunft nach",
+          "unterzeile": "Mehr Streaming geplant",
+          "text": "Das ZDF will sich verändern und mehr auf Streaming setzen. Streaming heißt: Sendungen kommen über das Internet, wann man sie sehen will. Das ZDF plant dafür eine Strukturreform. Genaueres stand in der kurzen Meldung nicht.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: ZDF will sich mit Streaming retten",
+              "url": "https://www.nachrichten-heute.net/1779360-zdf-will-sich-mit-streaming-retten.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "TV-Tipps für heute Abend",
+        "punkte": [
+          "20:15 Uhr, Das Erste: Vorbericht zum Länderspiel, Anpfiff 20:45 Uhr",
+          "20:15 Uhr, One: „Burton und Taylor“",
+          "20:15 Uhr, MDR: „Boxhagener Platz“",
+          "20:15 Uhr, Arte: „Mord im Fahrpreis inbegriffen“",
+          "20:15 Uhr, ProSieben: „Die Bourne Identität“",
+          "20:15 Uhr, kabel eins: „Die Truman Show“"
+        ],
+        "quellen": [
+          {
+            "name": "kino-zeit.de",
+            "url": "https://www.kino-zeit.de/news-features/empfehlungen-tv-tipps/die-tv-tipps-fuer-montag-den-16-11-2026"
+          },
+          {
+            "name": "fussballnationalmannschaft.net",
+            "url": "https://www.fussballnationalmannschaft.net/ard-live-heute-deutschland-niederlande-wer-zeigt-123334525.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Zum Schluss: Gesundheit und Haushalt",
+      "artikel": [
+        {
+          "titel": "Eine Grippe-Impfung ist auch jetzt noch sinnvoll",
+          "unterzeile": "Der Rat der Impfkommission",
+          "text": "Reinhard Berner leitet die Ständige Impfkommission. Er ist unzufrieden, dass sich so wenige impfen lassen. Er rät besonders älteren Menschen und Vorerkrankten, sich gegen Grippe und Corona impfen zu lassen. Eine Grippe-Impfung sei auch im November noch sinnvoll. Viele vergessen Impfungen oder finden sie zu aufwendig, sagt Berner. Sprich im Zweifel mit deiner Ärztin oder deinem Arzt.\n\nEin Hinweis: Das ist keine persönliche medizinische Beratung.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: Stiko unzufrieden mit niedrigen Impfquoten",
+              "url": "https://www.nachrichten-heute.net/1784540-stiko-unzufrieden-mit-niedrigen-impfquoten.html"
+            }
+          ]
+        },
+        {
+          "titel": "Mülheimer Apotheken impfen",
+          "unterzeile": "Die „Lange Nacht des Impfens“ war am Donnerstag",
+          "text": "Am 12. November haben auch Mülheimer Apotheken gegen Grippe und Corona geimpft. Dabei waren zum Beispiel die Bären-Apotheke an der Friedrich-Ebert-Straße und die Schloss-Apotheke. Viele Apotheken nehmen auch sonst Termine an. Das lohnt sich zu erfragen. Die Auffrischung wird besonders ab 60 Jahren und bei chronischen Krankheiten empfohlen.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Apotheken impfen bei „Langer Nacht“",
+              "url": "https://www.radiomuelheim.de/artikel/muelheim-apotheken-impfen-bei-langer-nacht-2803916"
+            }
+          ]
+        },
+        {
+          "titel": "Pflegegrad früh prüfen lassen",
+          "unterzeile": "Der Sozialverband rät dazu",
+          "text": "Der Sozialverband SoVD rät: Wer Hilfe im Alltag braucht, sollte früh prüfen lassen, ob ein Pflegegrad möglich ist. Auch wer schon einen hat, sollte prüfen lassen, ob eine höhere Stufe zusteht. Hintergrund: Die Bundesregierung plant ab 2027 strengere Regeln. Dann könnte man bei gleichem Bedarf weniger Hilfe bekommen. Das ist bisher nur ein Plan.",
+          "quellen": [
+            {
+              "name": "nachrichten-heute.net: SoVD rät zur Prüfung des Pflegegrads",
+              "url": "https://www.nachrichten-heute.net/1782462-sovd-raet-zur-pruefung-des-pflegegrads.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kleiner Tipp für heute",
+        "punkte": [
+          "Stell dir eine Kerze und einen Becher Tee auf den Tisch. Eine ruhige Viertelstunde tut gut."
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Der Adventskranz",
+    "text": "Tante Lotte hatte jedes Jahr denselben Brauch. Am Montag vor dem ersten Advent holte sie die große Schachtel vom Schrank. Darin lagen vier rote Kerzen und ein Knäuel Draht. Sie legte Tannenzweige auf den Küchentisch. Der Duft zog durch das ganze Haus. Die Enkelin Mia durfte die Zweige festbinden. Das war gar nicht einfach, und Mia lachte viel. Tante Lotte sagte: „Ein bisschen schief ist schön. Dann sieht man, dass er von uns ist.“ Zum Schluss steckten sie die Kerzen in den Kranz. Eine Kerze war etwas zu kurz. Niemand störte sich daran. Dann tranken sie heißen Tee mit Honig. Draußen wurde es früh dunkel, und die Küche war gemütlich warm. Mia fragte: „Wann zünden wir an?“ Tante Lotte lächelte und sagte: „Bald. Das Warten gehört dazu.“"
+  }
+}
