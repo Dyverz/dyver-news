@@ -1,0 +1,648 @@
+{
+ "gruss": "Guten Morgen, liebe Mama! Heute ist Dienstag, der 17. November. Draußen kann es stürmisch und regnerisch werden. Mach es dir mit einer Tasse Tee gemütlich und lies in Ruhe. Viel Freude mit deiner Zeitung!",
+ "aufmacher": {
+  "rubrik": "Sport",
+  "titel": "Deutschland gewinnt 5:0 gegen die Niederlande",
+  "unterzeile": "Ein Fußballabend zum Freuen, und heute Abend fällt die Entscheidung über die Stromsteuer",
+  "text": "Die deutsche Nationalmannschaft hat gestern Abend in Berlin 5:0 gegen die Niederlande gewonnen. Derry Scherhant, Florian Wirtz (zweimal), Nico Schlotterbeck und Brajan Gruda schossen die Tore. Deutschland ist damit Erster in der Gruppe und spielt im März im Viertelfinale der Nations League.\n\nTrainer Jürgen Klopp war zufrieden. Er sagte: „Wir haben unglaubliche Tore geschossen, ein tolles Fußballspiel.“\n\nAm Freitag wird ausgelost, gegen wen es im Viertelfinale geht. Mehr dazu auf Seite 6.",
+  "quellen": [
+   {
+    "name": "Sportschau: 5:0 – Deutschland gegen Niederlande wie im Rausch",
+    "url": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-setzt-auf-schlotterbeck-und-brown,deutschland-niederlande-spielbericht-102.html"
+   },
+   {
+    "name": "ZDFheute Newsticker",
+    "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+   }
+  ]
+ },
+ "seiten": [
+  {
+   "titel": "Aus Mülheim",
+   "artikel": [
+    {
+     "titel": "Heute können Busse und Bahnen ausfallen",
+     "unterzeile": "Die Ruhrbahn hat eine Versammlung",
+     "text": "Heute, am Dienstag, kann es bei der Ruhrbahn in Mülheim Verspätungen geben. Manche Fahrten fallen auch aus. Der Grund ist eine Versammlung der Mitarbeiter. Viele von ihnen sind dann nicht im Dienst.\n\nDas gilt etwa von 8.30 Uhr bis 16.30 Uhr. Plane deine Wege heute lieber mit etwas mehr Zeit.\n\nWenn du am Nachmittag fahren möchtest, sieh vorher kurz nach. Dann stehst du nicht lange an der Haltestelle.",
+     "quellen": [
+      {
+       "name": "Radio Mülheim: Ausfälle wegen Versammlung möglich",
+       "url": "https://radio-muelheim.de/artikel/ruhrbahn-muelheim-ausfaelle-wegen-versammlung-moeglich-2806288"
+      }
+     ]
+    },
+    {
+     "titel": "Eine große Kreuzung war ohne Ampel",
+     "unterzeile": "Duisburger Straße, Akazienallee und Saarner Straße",
+     "text": "Am Wochenende ist an einer großen Kreuzung in Mülheim die Ampel ausgefallen. Es geht um die Kreuzung von Duisburger Straße, Akazienallee und Saarner Straße. Nach der Meldung vom 14. November kann der Schaden vielleicht schneller repariert werden als gedacht. Wenn du dort unterwegs bist, fahre bitte langsam und achte auf die anderen.",
+     "quellen": [
+      {
+       "name": "Radio Mülheim: Große Kreuzung aktuell ohne Ampel",
+       "url": "https://radio-muelheim.de/artikel/muelheim-grosse-kreuzung-aktuell-ohne-ampel-2807388"
+      }
+     ]
+    },
+    {
+     "titel": "Mülheimer Feuerwehr hilft bei der Wasserversorgung",
+     "unterzeile": "Ein Rohr ist in Erkrath geplatzt",
+     "text": "Am Samstag, dem 14. November, ist in Erkrath eine große Wasserleitung geplatzt. Die Mülheimer Feuerwehr hat Spezialkräfte dorthin geschickt. Ein großer Wasserspeicher hat die Versorgung am Laufen gehalten. Er drohte aber leer zu werden. Die Helfer haben dafür gesorgt, dass die Menschen dort weiter Wasser hatten.",
+     "quellen": [
+      {
+       "name": "Radio Mülheim: Mülheimer Feuerwehr rettet Wasserversorgung",
+       "url": "https://radio-muelheim.de/artikel/muelheimer-feuerwehr-rettet-wasserversorgung-2807561"
+      }
+     ]
+    },
+    {
+     "titel": "Mehr Menschen haben Schulden",
+     "unterzeile": "Das zeigt eine neue Zahl für Mülheim",
+     "text": "In Mülheim sind in diesem Jahr mehr Menschen überschuldet als vorher. Der Anteil ist von 10,21 auf 14,01 Prozent gestiegen. Unter 400 Städten und Kreisen in Deutschland liegt Mülheim damit auf Platz 361. Wenn du oder jemand, den du kennst, Sorgen mit Geld hat: Hol dir früh Rat bei einer Beratungsstelle. Das ist keine Schande.",
+     "quellen": [
+      {
+       "name": "Radio Mülheim: Deutlich mehr Menschen überschuldet",
+       "url": "https://radio-muelheim.de/artikel/muelheim-deutlich-mehr-menschen-ueberschuldet-2805870"
+      }
+     ]
+    },
+    {
+     "titel": "Mülheim bekommt 2027 mehr Geld vom Land",
+     "unterzeile": "Das Land Nordrhein-Westfalen hilft den Städten",
+     "text": "Das Land Nordrhein-Westfalen will den Städten helfen, deren Kassen knapp sind. Dafür gibt es ein neues Geldpaket. Mülheim soll im Jahr 2027 deutlich mehr Geld bekommen als bisher. Wofür die Stadt das Geld einsetzt, steht in der Meldung noch nicht.",
+     "quellen": [
+      {
+       "name": "Radio Mülheim: Mülheim bekommt mehr Geld vom Land",
+       "url": "https://radio-muelheim.de/artikel/muelheim-bekommt-mehr-geld-vom-land-2801869"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Kurz gemeldet",
+    "punkte": [
+     "Sandstraße: Zwischen Wiesenstraße und Friedrich-Ebert-Straße ist nur die Fahrt Richtung Oberhausen frei. Grund ist eine Brücken-Baustelle der Bahn.",
+     "Das DRK bittet vor der Erkältungszeit um Blutspenden. Gesunde Menschen sollen früh einen Termin buchen."
+    ],
+    "quellen": [
+     {
+      "name": "Radio Mülheim: Sandstraße wieder teilweise gesperrt",
+      "url": "https://radio-muelheim.de/artikel/muelheim-sandstrasse-wieder-teilweise-gesperrt-2802435"
+     },
+     {
+      "name": "Radio Mülheim: DRK ruft zur Blutspende auf",
+      "url": "https://radio-muelheim.de/artikel/drk-ruft-in-muelheim-zur-blutspende-auf-2802531"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Mülheim erleben",
+   "artikel": [
+    {
+     "titel": "Ein Adventsmarkt in Saarn",
+     "unterzeile": "Am 28. November lädt die Brückengemeinde ein",
+     "text": "In Saarn gibt es am 28. November einen kleinen Adventsmarkt. Die Brückengemeinde richtet ihn aus. Er ersetzt den früheren Nikolausmarkt. Den kann es wegen strenger Sicherheitsregeln nicht mehr geben.\n\nSo kannst du dich schon auf die Adventszeit einstimmen. Nimm dir doch eine Freundin oder einen Nachbarn mit.",
+     "quellen": [
+      {
+       "name": "Radio Mülheim: Adventsmarkt lädt nach Saarn ein",
+       "url": "https://radio-muelheim.de/artikel/muelheim-adventsmarkt-laedt-nach-saarn-ein-2807223"
+      }
+     ]
+    },
+    {
+     "titel": "Die Ruhrkultur.Card für 2027 ist da",
+     "unterzeile": "Weniger zahlen für Museen und Theater",
+     "text": "Die Ruhrkultur.Card für das Jahr 2027 kann man jetzt kaufen. Mit ihr zahlst du weniger oder gar nichts, zum Beispiel in Museen, Theatern und alten Industrie-Anlagen im Ruhrgebiet. Auch Mülheim ist mit vielen Angeboten dabei. Vielleicht ist die Karte ein schönes Geschenk zu Weihnachten.",
+     "quellen": [
+      {
+       "name": "Radio Mülheim: Ruhrkultur.Card 2027",
+       "url": "https://radio-muelheim.de/artikel/ruhrkulturcard-2027-muelheim-mit-vielen-angebote-2802585"
+      }
+     ]
+    },
+    {
+     "titel": "Mit der Stadtrundfahrt zur Schiffsweihnacht",
+     "unterzeile": "Am 20. November um 15 Uhr geht es los",
+     "text": "Am Freitag, dem 20. November, startet um 15 Uhr eine Stadtrundfahrt an der Stadthalle. Dazu gibt es einen Gutschein für die Schiffsweihnacht. Die Karte kostet laut einem Anbieter ab 14 Euro. Frag vor dem Kauf noch einmal nach, ob die Angaben stimmen.",
+     "quellen": [
+      {
+       "name": "RevierTouristik: Stadtrundfahrt Mülheim",
+       "url": "https://reviertouristik.de/touren/stadtrundfahrt-muelheim/"
+      },
+      {
+       "name": "Mülheimer Schiffsweihnacht 2026",
+       "url": "https://www.deutsche-weihnachtsmaerkte.de/weihnachtsmarkt/muelheimer-schiffsweihnacht-1397"
+      }
+     ]
+    },
+    {
+     "titel": "Noch ein Weihnachtsmarkt: am Schloss Broich",
+     "unterzeile": "Mittelalterlich und gemütlich",
+     "text": "Im Veranstaltungskalender der Stadt steht auch ein mittelalterlicher Weihnachtsmarkt am Schloss Broich. Wann genau er stattfindet, haben wir noch nicht sicher gefunden. Schau bitte im Kalender nach, bevor du hingehst.",
+     "quellen": [
+      {
+       "name": "Eventkalender Mülheim",
+       "url": "https://www.mein-muelheim.de/event-kultur/events"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Termine",
+    "punkte": [
+     "Fr 20.11.: Die Schiffsweihnacht auf der Schleuseninsel öffnet. Weitere Tage: 21., 27., 28. und 29. November. Der Eintritt ist frei. Die Uhrzeiten unterscheiden sich je nach Quelle (Freitag 15 bis 21 Uhr).",
+     "Fr 20.11., 15 Uhr: Stadtrundfahrt ab Stadthalle mit Gutschein",
+     "Sa 28.11.: Adventsmarkt in Saarn"
+    ],
+    "quellen": [
+     {
+      "name": "Stadt Mülheim: Schiffsweihnacht 2026",
+      "url": "https://www1.muelheim-ruhr.de/veranstaltungen/muelheimer_schiffsweihnacht_am_28.11.2026/404114"
+     },
+     {
+      "name": "Deutsche Weihnachtsmärkte: Schiffsweihnacht",
+      "url": "https://www.deutsche-weihnachtsmaerkte.de/weihnachtsmarkt/muelheimer-schiffsweihnacht-1397"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Deutschland",
+   "artikel": [
+    {
+     "titel": "Soll der Strom billiger werden?",
+     "unterzeile": "Heute entscheidet die Regierung über die Stromsteuer",
+     "text": "Heute Abend treffen sich die Spitzen von CDU, CSU und SPD. Sie wollen über die Stromsteuer sprechen. Das ist ein Teil dessen, was du auf der Stromrechnung zahlst. Kanzler Merz hat versprochen, dass sie im Jahr 2027 auf den niedrigsten Wert sinkt, den die EU erlaubt. Das soll auch für Privathaushalte gelten.\n\nNoch ist nichts entschieden. Streit gibt es darüber, wer das bezahlt. Das Finanzministerium sagt, die Entlastung müsse dauerhaft ausgeglichen werden. Auch über die Rente wird gesprochen.\n\nWie viel du im Jahr sparen könntest, steht noch nirgends. Wir berichten, sobald es Neues gibt.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Merz erwartet Senkung der Stromsteuer",
+       "url": "https://www.zdfheute.de/politik/deutschland/merz-koalition-stromsteuer-100.html"
+      },
+      {
+       "name": "Epoch Times: Vor dem Koalitionsausschuss",
+       "url": "https://www.epochtimes.de/politik/deutschland/vor-koalitionsausschuss-merz-verspricht-einigung-zur-stromsteuersenkung-a5664993.html"
+      }
+     ]
+    },
+    {
+     "titel": "Ilse Aigner soll Bundespräsidentin werden",
+     "unterzeile": "CDU und CSU schlagen sie vor",
+     "text": "Die Union will Ilse Aigner von der CSU als Bundespräsidentin vorschlagen. Sie ist 61 Jahre alt und Präsidentin des Landtags in Bayern. Gewählt wird am 30. Januar 2027 von der Bundesversammlung. Wäre sie erfolgreich, wäre sie die erste Frau in diesem Amt. Ob andere Parteien eigene Kandidaten aufstellen, ist noch offen.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Aigner soll Bundespräsidentin werden",
+       "url": "https://www.zdfheute.de/politik/bundespraesidentin-aigner-koalition-merz-100.html"
+      },
+      {
+       "name": "ad-hoc-news: Wahl am 30. Januar",
+       "url": "https://www.ad-hoc-news.de/politik/ilse-aigner-soll-am-30-januar-bundespraesidentin-werden/70477662"
+      }
+     ]
+    },
+    {
+     "titel": "Mecklenburg-Vorpommern wählt seine Regierungschefin",
+     "unterzeile": "Manuela Schwesig stellt sich heute zur Wahl",
+     "text": "Im Landtag in Schwerin wird heute um 13 Uhr abgestimmt. Manuela Schwesig von der SPD möchte weiter Ministerpräsidentin bleiben. Das ist sie seit 2017. Ihre Regierung aus SPD, Linken und Grünen hat 39 von 71 Sitzen.",
+     "quellen": [
+      {
+       "name": "news.de: Das wird heute wichtig",
+       "url": "https://www.news.de/panorama/860190169/16-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-16-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "titel": "Streit um ein Zentrum in Ruanda",
+     "unterzeile": "Es geht um abgelehnte Asylbewerber",
+     "text": "Innenminister Dobrindt plant mit vier anderen EU-Staaten ein Zentrum in Ruanda. Dorthin sollen Menschen gebracht werden, deren Asylantrag abgelehnt wurde und die nicht in ihre Heimat zurückkönnen. Laut einem Bericht geht es zunächst um 100 Menschen. In der SPD und bei den Grünen gibt es Kritik. Sie sorgen sich um die Menschenrechte. Dobrindt verteidigt seine Pläne.",
+     "quellen": [
+      {
+       "name": "ZDFheute: SPD sperrt sich gegen Dobrindt-Pläne",
+       "url": "https://www.zdfheute.de/politik/ruanda-abschiebungen-hubs-dobrindt-spd-100.html"
+      },
+      {
+       "name": "Tagesspiegel: SPD-Abgeordnete gegen Zentren",
+       "url": "https://www.tagesspiegel.de/politik/wir-mussen-dobrindts-plane-stoppen-spd-abgeordnete-stellen-sich-gegen-geplante-abschiebezentren-in-ruanda-16286940.html"
+      }
+     ]
+    },
+    {
+     "titel": "Sturm und Regen am Dienstag",
+     "unterzeile": "So wird das Wetter",
+     "text": "Nach dem Deutschen Wetterdienst wird es am Dienstag im Süden und in der Mitte stürmisch. Im Westen setzt Dauerregen ein. Im Südwesten sind es bis zu 18 Grad. Im Norden und Osten werden es nur 4 bis 6 Grad. Die Quellen sind sich beim Norden nicht ganz einig. Pass beim Spaziergang gut auf dich auf.",
+     "quellen": [
+      {
+       "name": "wetter.com: Wetter morgen am Dienstag",
+       "url": "https://www.wetter.com/news/wetterbericht-fuer-morgen-am-dienstag-17-november-2026-nach-naechtlicher-glaettegefahr-im-norden-drohen-schwere-sturmboeen-im-suedwesten_aid_6afab7853b277352000517ee.html"
+      },
+      {
+       "name": "Deutscher Wetterdienst: Wochenvorhersage",
+       "url": "https://dwd.de/DE/wetter/warnungen_aktuell/wochenvorhersage/wochenvorhersage_node.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Aus aller Welt",
+   "artikel": [
+    {
+     "titel": "Der Papst beendet seine Reise",
+     "unterzeile": "Leo XIV. feiert in Lima mit sehr vielen Menschen",
+     "text": "Papst Leo XIV. hat seine Reise durch Südamerika mit einer Messe in Lima beendet. Nach Angaben des Vatikans waren rund 1,5 Millionen Menschen dabei. Auf der Fahrt im Papamobil traf ihn ein Rosenkranz im Gesicht. Er setzte seinen Weg fort und hielt die Messe. Solche Geschenke werden dem Papst oft zugeworfen. Beim Abschied sagte er „hasta pronto“, das heißt „bis bald“.",
+     "quellen": [
+      {
+       "name": "Berliner Zeitung: 1,5 Millionen bei Messe in Lima",
+       "url": "https://www.berliner-zeitung.de/article/papst-leo-xiv-15-millionen-menschen-bei-messe-in-lima-10603704"
+      },
+      {
+       "name": "katholisch.de: Papst von Rosenkranz getroffen",
+       "url": "https://www.katholisch.de/papst-und-vatikan/bei-papamobil-tour-papst-von-rosenkranz-in-gesicht-getroffen"
+      }
+     ]
+    },
+    {
+     "titel": "Tierbabys im Zoo",
+     "unterzeile": "Ein Nashorn in Basel, ein Schimpanse in Gelsenkirchen",
+     "text": "Im Zoo Basel ist am 5. November ein Nashorn-Kalb geboren worden. Es heißt Xshama. In Gelsenkirchen hat am 11. November die Schimpansin Jahaga ein gesundes Junges bekommen. Es ist wahrscheinlich ein Mädchen. Mit etwas Glück kannst du bald Bilder davon sehen.",
+     "quellen": [
+      {
+       "name": "Zoo-News Schweiz",
+       "url": "https://www.freizeit.ch/aktuell/susse-tierbabys-in-den-schweizer-zoos/"
+      },
+      {
+       "name": "ZOOM Erlebniswelt Gelsenkirchen",
+       "url": "https://www.zoom-erlebniswelt.de/tierische-neuigkeiten/"
+      }
+     ]
+    },
+    {
+     "titel": "Das Weltklima wird besprochen",
+     "unterzeile": "Die UN-Konferenz in der Türkei geht in die zweite Woche",
+     "text": "Die Klimakonferenz der Vereinten Nationen in der Türkei ist in der entscheidenden zweiten Woche. Fast 200 Staaten sind dabei. Umweltminister Carsten Schneider aus Deutschland ist vor Ort. Er soll gemeinsam mit seinem indischen Kollegen vermitteln. Am Freitag soll die Konferenz enden.",
+     "quellen": [
+      {
+       "name": "news.de: Das wird heute wichtig",
+       "url": "https://www.news.de/panorama/860190169/16-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-16-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "titel": "Gespräche über Waffen mit Computern",
+     "unterzeile": "In Genf reden 128 Länder",
+     "text": "In Genf sprechen Vertreter von 128 Ländern über sogenannte Killer-Roboter. Das sind Waffen, die sich mit Computern selbst steuern. Die Länder wollen klären, ob ein Vertrag sie verbieten oder begrenzen soll. Eine Entscheidung wird bis Freitag erwartet.",
+     "quellen": [
+      {
+       "name": "news.de: Das wird heute wichtig",
+       "url": "https://www.news.de/panorama/860190169/16-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-16-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Sport: Fußball-Bundesliga",
+   "artikel": [
+    {
+     "titel": "Deutschland gewinnt 5:0 gegen die Niederlande",
+     "unterzeile": "Ein toller Abend im Olympiastadion",
+     "text": "Die deutsche Nationalmannschaft hat gestern Abend in Berlin 5:0 gegen die Niederlande gewonnen. Derry Scherhant traf vor der Pause. Nach der Pause schossen Florian Wirtz (zweimal), Nico Schlotterbeck und Brajan Gruda die weiteren Tore.\n\nDamit ist Deutschland Erster in der Gruppe. Im März spielt das Team im Viertelfinale der Nations League. Trainer Jürgen Klopp sagte: „Wir haben unglaubliche Tore geschossen, ein tolles Fußballspiel.“",
+     "quellen": [
+      {
+       "name": "Sportschau: 5:0 – Deutschland gegen Niederlande wie im Rausch",
+       "url": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-setzt-auf-schlotterbeck-und-brown,deutschland-niederlande-spielbericht-102.html"
+      },
+      {
+       "name": "ZDFheute Newsticker",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Wer wird der nächste Gegner?",
+     "unterzeile": "Am Freitag wird gelost",
+     "text": "Am Freitag um 12 Uhr wird in Nyon in der Schweiz ausgelost, gegen wen Deutschland im Viertelfinale spielt. Möglich sind laut Sportschau Belgien oder Spanien. Die Niederlande kommen nicht infrage, denn sie waren in derselben Gruppe.",
+     "quellen": [
+      {
+       "name": "Sportschau: Spielbericht",
+       "url": "https://www.sportschau.de/fussball/nationalmannschaft/klopp-setzt-auf-schlotterbeck-und-brown,deutschland-niederlande-spielbericht-102.html"
+      }
+     ]
+    },
+    {
+     "titel": "Kimmich dankt Füllkrug im Flugzeug",
+     "unterzeile": "Ein schöner Moment nach dem Spiel in Serbien",
+     "text": "Niclas Füllkrug hat sein 25. Länderspiel bestritten. Das war beim 3:1 in Serbien. Kapitän Joshua Kimmich nahm im Flugzeug das Mikrofon und hielt eine kurze Rede. Er sagte, Füllkrugs Weg sei „sicherlich nicht der klassische Weg“ gewesen. Füllkrug stand auf und sagte: „Danke Männer.“",
+     "quellen": [
+      {
+       "name": "Tagesspiegel/dpa: Kimmich ehrt Jubilar Füllkrug",
+       "url": "https://www.tagesspiegel.de/sport/dpa-fussball-nationalmannschaft-kimmich-ehrt-jubilar-fullkrug-im-flieger-danke-manner-16286058.html"
+      },
+      {
+       "name": "Sport1: Füllkrug-Ehrung",
+       "url": "https://www.sport1.de/news/fussball/dfb-team/2026/11/fuellkrug-ehrung-sicherlich-nicht-der-klassische-weg"
+      }
+     ]
+    },
+    {
+     "titel": "Die Bundesliga macht Pause",
+     "unterzeile": "Bayern und Dortmund liegen gleichauf",
+     "text": "Wegen der Länderspiele ruht die Bundesliga. Nach den Angaben von Sky und Wikipedia lagen der FC Bayern und Borussia Dortmund nach neun Spielen mit je 21 Punkten vorn. Bayern hatte das bessere Torverhältnis. Die Zahlen stammen vom Stand 8. November. Die Quellen waren nicht ganz einheitlich, schau also im Zweifel noch einmal in die Tabelle.",
+     "quellen": [
+      {
+       "name": "Sky: Bundesliga-Tabelle",
+       "url": "https://sport.sky.de/bundesliga-tabelle"
+      },
+      {
+       "name": "Wikipedia: Bundesliga 2026/27",
+       "url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bundesliga_2026/27"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Tabellenspitze (Stand 8. November)",
+    "punkte": [
+     "1. FC Bayern: 21 Punkte, 29:9 Tore",
+     "2. Borussia Dortmund: 21 Punkte, 16:7 Tore"
+    ],
+    "quellen": [
+     {
+      "name": "Sky: Bundesliga-Tabelle",
+      "url": "https://sport.sky.de/bundesliga-tabelle"
+     },
+     {
+      "name": "Wikipedia: Bundesliga 2026/27",
+      "url": "https://de.wikipedia.org/wiki/Fu%C3%9Fball-Bundesliga_2026/27"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Sport: Vereine und mehr",
+   "artikel": [
+    {
+     "titel": "Magdeburg schlägt Flensburg deutlich",
+     "unterzeile": "37:29 im Spitzenspiel",
+     "text": "Der SC Magdeburg hat am Sonntag in der Handball-Bundesliga die SG Flensburg-Handewitt mit 37:29 geschlagen. Das ist ein klarer Sieg.\n\nDas Ergebnis steht so auf der Ergebnisseite der Sportschau.",
+     "quellen": [
+      {
+       "name": "Sportschau: Handball-Bundesliga",
+       "url": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/spiele-und-ergebnisse"
+      }
+     ]
+    },
+    {
+     "titel": "Zweimal Unentschieden",
+     "unterzeile": "Löwen und Melsungen teilen die Punkte",
+     "text": "Die Rhein-Neckar Löwen und der TBV Lemgo trennten sich 32:32. Auch Melsungen und Bietigheim spielten 31:31. In beiden Spielen gab es also je einen Punkt für jede Mannschaft. Eine Quelle zeigte für Melsungen noch 0:0, daher haben wir die Zahl der Sportschau-Ergebnisseite genommen.",
+     "quellen": [
+      {
+       "name": "Sportschau: Handball-Bundesliga",
+       "url": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/spiele-und-ergebnisse"
+      }
+     ]
+    },
+    {
+     "titel": "Handball in der Region: Bergischer HC und Gummersbach siegen",
+     "unterzeile": "Zwei Heimsiege",
+     "text": "Der Bergische HC hat am Samstag den ThSV Eisenach 29:23 geschlagen. Der VfL Gummersbach gewann am Sonntag 33:29 gegen Hannover-Burgdorf. Beide Mannschaften kommen aus dem Bergischen Land und Umgebung.",
+     "quellen": [
+      {
+       "name": "Sportschau: Handball-Bundesliga",
+       "url": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/spiele-und-ergebnisse"
+      }
+     ]
+    },
+    {
+     "titel": "Eishockey: München gewinnt gegen Krefeld",
+     "unterzeile": "4:1 in der DEL",
+     "text": "Der EHC München hat am Sonntag in der Deutschen Eishockey Liga die Krefeld Pinguine 4:1 geschlagen. Die Quelle zeigt außerdem einen Mannheimer Sieg gegen Ingolstadt. Das genaue Ergebnis dort kennen wir nicht.",
+     "quellen": [
+      {
+       "name": "Sportschau: DEL-Ergebnisse",
+       "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/spiele-und-ergebnisse"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Handball-Ergebnisse",
+    "punkte": [
+     "Bergischer HC – Eisenach 29:23",
+     "Rhein-Neckar Löwen – Lemgo 32:32",
+     "Magdeburg – Flensburg 37:29",
+     "Melsungen – Bietigheim 31:31",
+     "Gummersbach – Hannover-Burgdorf 33:29"
+    ],
+    "quellen": [
+     {
+      "name": "Sportschau: Handball-Bundesliga",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/spiele-und-ergebnisse"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Klatsch & Tratsch",
+   "artikel": [
+    {
+     "titel": "Dunja Hayali und Sarah Tacke bekommen einen Preis",
+     "unterzeile": "Der Hanns-Joachim-Friedrichs-Preis",
+     "text": "Die Fernsehjournalistinnen Dunja Hayali und Sarah Tacke haben den Hanns-Joachim-Friedrichs-Preis bekommen. Das Foto mit der Auszeichnung entstand am 5. November in Hamburg. Es ist ein bekannter Preis für gute Fernseh-Journalisten.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Promi-News in Bildern",
+       "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Neue Show „Prominent verwandt“",
+     "unterzeile": "Seit dem 10. November bei RTL+",
+     "text": "Seit dem 10. November läuft die Show „Prominent verwandt“ bei RTL+. Es sind elf Folgen angekündigt, dazu ein Wiedersehen. Jeden Dienstag ab Mitternacht kommt eine neue Folge. Es gibt schon Klatsch um die Teilnehmer.",
+     "quellen": [
+      {
+       "name": "prisma: „Prominent verwandt“ 2026",
+       "url": "https://www.prisma.de/news/stars/Prominent-verwandt-2026-Alle-Infos-zur-neuen-RTL-Show,58330135"
+      }
+     ]
+    },
+    {
+     "titel": "„Promi-Büßen“ jetzt bei Sat.1",
+     "unterzeile": "Zum ersten Mal nicht bei ProSieben",
+     "text": "Die Show „Promi-Büßen“ läuft im November im Fernsehen. Zum ersten Mal ist sie bei Sat.1 zu sehen und nicht mehr bei ProSieben. Zehn Prominente müssen dabei etwas beichten.",
+     "quellen": [
+      {
+       "name": "TV Movie: Promi-Büßen 2026",
+       "url": "https://www.tvmovie.de/news/das-grosse-promi-buessen-2026-diese-10-stars-muessen-in-die-runde-der-schande-staffel-5-159256"
+      }
+     ]
+    },
+    {
+     "titel": "Die Scorpions im Kino",
+     "unterzeile": "Ein Film über die Rockband",
+     "text": "Über die deutsche Rockband Scorpions gibt es einen Film. Er läuft derzeit im Kino. Mehr als diese Angabe haben wir in unserer Quelle nicht gefunden.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Promi-News in Bildern",
+       "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Klatsch & Tratsch: TV, Shows und Stars der Welt",
+   "artikel": [
+    {
+     "titel": "Robert Pattinson wird der neue James Bond",
+     "unterzeile": "Das hat das Filmstudio bekannt gegeben",
+     "text": "Der britische Schauspieler Robert Pattinson (40) wird James Bond. Er folgt auf Daniel Craig. Das Filmstudio Amazon MGM hat es am Montag gesagt. Regie führt Denis Villeneuve, das Drehbuch schreibt Steven Knight.\n\nPattinson kennt man aus „Harry Potter“, „Twilight“ und „The Batman“. Eine Filmforscherin sagt, er könne dem Bond vielleicht mehr Leichtigkeit geben. Das ist ihre Meinung.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Robert Pattinson wird James Bond",
+       "url": "https://www.zdfheute.de/panorama/prominente/robert-pattinson-james-bond-007-film-schauspieler-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Ehren für Glenn Close und Phil Collins",
+     "unterzeile": "Zwei Stars werden gefeiert",
+     "text": "Glenn Close (79) hat einen Ehren-Oscar für ihr Lebenswerk bekommen. Es ist ihr erster Oscar, nachdem sie acht Mal nominiert war. Der Sänger Phil Collins ist in die Rock and Roll Hall of Fame aufgenommen worden. Dabei war auch seine Familie.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Promi-News in Bildern",
+       "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "William und Kate in Indien",
+     "unterzeile": "Straßen-Kricket in Mumbai",
+     "text": "Prinz William und Kate waren in Mumbai in Indien. Dort hat William auf der Straße mit einem Schläger Kricket gespielt. Das zeigt ein kurzes Video von ZDFheute.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Promi-News in Bildern",
+       "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Prinz Harry überraschend in der Ukraine",
+     "unterzeile": "Er traf einen Mann mit Armprothesen",
+     "text": "Prinz Harry hat überraschend die Ukraine besucht. Dort traf er einen Mann mit Armprothesen. Mehr Einzelheiten nennt unsere Quelle nicht.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Promi-News in Bildern",
+       "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Elton John und König Charles",
+     "unterzeile": "Ein Foto für eine Radiosendung",
+     "text": "Am 11. November haben sich Sänger Elton John und König Charles gemeinsam fotografieren lassen. Anlass war eine Sonderfolge von Elton Johns Sendung „Rocket Hour“ bei Apple Music.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Promi-News in Bildern",
+       "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "TV-Tipps für heute Abend (ohne Gewähr)",
+    "punkte": [
+     "20.15 Uhr, WDR: Tatort „Pumpen“ (laut tele.at)",
+     "20.15 Uhr, Sat.1: NCIS: Origins",
+     "20.15 Uhr, Kabel eins: xXx – Die Rückkehr des Xander Cage",
+     "21.45 Uhr, 3sat: „Die stillen Mörder“",
+     "Die Quellen sind nicht ganz einheitlich. Schau noch einmal in die Programmzeitschrift."
+    ],
+    "quellen": [
+     {
+      "name": "tele.at: Tatort",
+      "url": "https://www.tele.at/sendungsdetails/23012029/tatort.html"
+     },
+     {
+      "name": "TV Movie: Fernsehprogramm heute Abend",
+      "url": "https://www.tvmovie.de/tv/fernsehprogramm-heute-abend"
+     },
+     {
+      "name": "kino-zeit: TV-Tipps 17.11.",
+      "url": "https://www.kino-zeit.de/news-features/empfehlungen-tv-tipps/die-tv-tipps-fuer-dienstag-den-17-11-2026"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Zum Schluss: Gesundheit und Haushalt",
+   "artikel": [
+    {
+     "titel": "Ingwer-Getränke: oft viel Saft",
+     "unterzeile": "Selbst gekochter Tee ist besser",
+     "text": "Eine Untersuchung der Verbraucherzentrale hat Ingwer-Getränke geprüft. Viele bestehen zu bis zu 70 Prozent aus Apfel- oder Orangensaft. Ingwer war höchstens zu 18 Prozent darin. Oft ist auch Sirup zugesetzt. Selbst gekochter Ingwertee ist deshalb die bessere Wahl.",
+     "quellen": [
+      {
+       "name": "greenya: Erkältung Hausmittel",
+       "url": "https://greenya.de/gute-nachrichten/erkaeltung-hausmittel/"
+      }
+     ]
+    },
+    {
+     "titel": "Zink gegen Erkältung?",
+     "unterzeile": "Die Beweise sind schwach",
+     "text": "Bei Zink wurden in Studien sehr hohe Mengen gegeben, meist als Lutschtabletten. Die Verbraucherzentrale sagt, dass der Nutzen nicht gut belegt ist. Frag bitte zuerst deinen Arzt oder deine Apothekerin, bevor du etwas einnimmst.",
+     "quellen": [
+      {
+       "name": "greenya: Erkältung Hausmittel",
+       "url": "https://greenya.de/gute-nachrichten/erkaeltung-hausmittel/"
+      }
+     ]
+    },
+    {
+     "titel": "Was bei einer Erkältung gut tut",
+     "unterzeile": "Viel trinken und die Nase spülen",
+     "text": "Die Techniker Krankenkasse rät zu zwei bis drei Litern Flüssigkeit am Tag. Eine Nasenspülung mit Salzwasser und warme, nicht heiße, Wickel können helfen. Gegen Viren helfen keine Antibiotika.",
+     "quellen": [
+      {
+       "name": "Techniker Krankenkasse: Erkältung",
+       "url": "https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/alternativ-heilen/erkaeltung-loswerden-schnelle-hilfe-und-hausmittel-2016336"
+      },
+      {
+       "name": "greenya: Erkältung Hausmittel",
+       "url": "https://greenya.de/gute-nachrichten/erkaeltung-hausmittel/"
+      }
+     ]
+    },
+    {
+     "titel": "Blut spenden vor der Erkältungszeit",
+     "unterzeile": "Das Rote Kreuz bittet um Hilfe",
+     "text": "Das DRK in Mülheim bittet gesunde Menschen um Blutspenden. Wer krank wird, darf eine Zeit lang nicht spenden. Deshalb sollte man früh einen Termin buchen.",
+     "quellen": [
+      {
+       "name": "Radio Mülheim: DRK ruft zur Blutspende auf",
+       "url": "https://radio-muelheim.de/artikel/drk-ruft-in-muelheim-zur-blutspende-auf-2802531"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Kleiner Tipp für heute",
+    "punkte": [
+     "Trink über den Tag verteilt regelmäßig warmen Tee oder Wasser.",
+     "Lüfte kurz und kräftig, auch wenn es regnet."
+    ],
+    "quellen": [
+     {
+      "name": "Techniker Krankenkasse: Erkältung",
+      "url": "https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/alternativ-heilen/erkaeltung-loswerden-schnelle-hilfe-und-hausmittel-2016336"
+     }
+    ]
+   }
+  }
+ ],
+ "zumSchluss": {
+  "titel": "Der Regenschirm von Frau Lindner",
+  "text": "Frau Lindner stand am Fenster und sah in den grauen Regen. Der Wind pfiff um das Haus. Eigentlich wollte sie heute zum Markt gehen. Aber bei diesem Wetter? Sie seufzte und setzte Teewasser auf.\n\nDa klingelte es an der Tür. Draußen stand die kleine Nachbarstochter Lina mit nassen Haaren. „Mein Schirm ist kaputtgegangen“, sagte sie. „Darf ich bei Ihnen warten, bis es weniger regnet?“ Frau Lindner lächelte. „Natürlich, komm herein.“\n\nSie gab Lina ein Handtuch und eine Tasse warmen Tee. Dann holte sie ihren alten, großen Regenschirm aus dem Schrank. Er war gelb und hatte schon viele Jahre auf dem Buckel. „Der passt für uns beide“, sagte sie. „Wir gehen zusammen zum Markt.“\n\nSo gingen die beiden unter dem gelben Schirm durch den Regen. Lina sprang durch jede Pfütze. Frau Lindner lachte so laut wie lange nicht mehr. Auf dem Markt kauften sie Äpfel und frisches Brot. Zuhause war es dann noch gemütlicher als vorher."
+ }
+}
