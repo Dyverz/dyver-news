@@ -1,0 +1,674 @@
+{
+  "gruss": "Guten Morgen, Abenteurer! Heute ist Wartungsdienstag: Das Auktionshaus-Update steht an, dazu gibt es Warrior-Fixes, Hardcore-Pläne und die Termine bis zum Raid-Start am 9. Dezember.",
+  "aufmacher": {
+    "rubrik": "Hotfixes & Patches",
+    "titel": "Wartungsdienstag: Das Auktionshaus-Update ist fällig",
+    "unterzeile": "Mindestgebühr soll auf 1 Kupfer sinken – in Europa laut Quelle am 18. November",
+    "text": "Die regulären Wartungen am 17. (Amerika) und 18. November (Europa laut Quelle) sollen das Auktionshaus-Update bringen, das zuvor aus einem Hotfix herausgenommen wurde. Laut Fan-Tracker sinkt die Mindest-Hinterlegungsgebühr von 1 Silber auf 1 Kupfer.\n\nDazu kommt ein Hotfix vom 16. November mit Warrior-Anpassungen, bei dem unklar ist, ob Blizzard Notes veröffentlicht hat oder die Daten ausgelesen wurden. Sicher ist: Item Restoration bleibt seit dem 11. November deaktiviert, und die Raids kommen am 9. Dezember.",
+    "quellen": [
+      {
+        "name": "Blizzard-Forum: Hotfixes 13. November",
+        "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-13-2026/2403040"
+      },
+      {
+        "name": "foreverchanges.pro (Fan-Seite): Patch Notes",
+        "url": "https://foreverchanges.pro/patch-notes"
+      },
+      {
+        "name": "Blizzard News: What's Next Panel Recap",
+        "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Dienstags-Wartung: Auktionshaus-Änderungen sollen heute live gehen",
+          "unterzeile": "Mindestgebühr 1 Kupfer, Post-Fix – in Europa laut Quellen am 18. November",
+          "text": "Der Dienstag ist Wartungstag: Blizzard hat im Hotfix-Thread vom 13. November angekündigt, dass die aus einem früheren Hotfix herausgenommenen Auktionshaus-Änderungen mit der regulären Wochenwartung am 17. November kommen. Laut Fan-Tracker sinkt dabei die Mindest-Hinterlegungsgebühr von 1 Silber auf 1 Kupfer, außerdem soll Auktionspost wieder nach 60 Minuten statt nach etwa zwei Minuten ankommen.\n\nBei den Regionen unterscheiden sich die Angaben: Eine Quelle nennt den 17. November für Amerika und den 18. November für Europa. Eine offizielle Uhrzeit haben wir nicht gefunden – prüft den Realm-Status vor dem Einloggen.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 13. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-13-2026/2403040"
+            },
+            {
+              "name": "lfcarry (Fan-/Servicesite): Patch Notes",
+              "url": "https://lfcarry.com/guides/wow-forever-patch-notes"
+            }
+          ]
+        },
+        {
+          "titel": "Warrior-Fixes vom 16. November: Melee-Abilities zählen jetzt mit",
+          "unterzeile": "Unbridled Wrath, Flurry und Reckless Swings angepasst",
+          "text": "Laut foreverchanges.pro können Unbridled Wrath nun auch durch Melee-Abilities auslösen, nicht nur durch Auto Attacks. Flurry-Charges werden ebenfalls von Melee-Abilities verbraucht, und Reckless Swings zählt Abilities für die nächsten vier Melee-Angriffe mit. Beim Druid soll Genesis jetzt auch den Bleed von Pounce erhöhen.\n\nAchtung: Die Quellen widersprechen sich, ob Blizzard für diesen Hotfix Notes veröffentlicht hat oder ob die Einträge aus den Hotfix-Daten ausgelesen wurden (Datamining). Behandelt die Details deshalb als nicht offiziell bestätigt.",
+          "quellen": [
+            {
+              "name": "foreverchanges.pro (Fan-Seite): Patch Notes",
+              "url": "https://foreverchanges.pro/patch-notes"
+            },
+            {
+              "name": "Fan-Seite wowforevertalents.com: Patch Notes",
+              "url": "https://wowforevertalents.com/patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Build-Nummern: Quellen nennen drei verschiedene Versionen",
+          "unterzeile": "Client 1.60.1 – aber welcher Build?",
+          "text": "In den Patch-Übersichten tauchen für den aktuellen Client 1.60.1 unterschiedliche Build-Nummern auf: 70888, 70938 und 70755. Space4games und lfcarry führen 70938 als Build, andere Seiten nennen abweichende Zahlen. Eine offizielle Bestätigung haben wir nicht gefunden, die Nummer im Kasten ist daher mit Vorsicht zu lesen.",
+          "quellen": [
+            {
+              "name": "space4games (Fan-Seite): Patch Notes",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            },
+            {
+              "name": "lfcarry (Fan-/Servicesite): Patch Notes",
+              "url": "https://lfcarry.com/guides/wow-forever-patch-notes"
+            }
+          ]
+        },
+        {
+          "titel": "Rückblick: Die Hotfix-Chronik der ersten Woche",
+          "unterzeile": "Von Respawns bis Dungeon-XP",
+          "text": "Der Blizzard-Thread zeigt die Linie der letzten Tage: Am 5. November ging es um Respawns und Quest-Texte, am 9. November wurde die Dungeon-XP um 50 Prozent erhöht, am 10. November folgten große Klassen- und Berufe-Anpassungen sowie Gold-Belohnungen für die meisten Quests ab Level 48. Am 11. November wurde Paladin-Judgement als Ranged-Angriff neu eingeordnet und der Item-Restoration-Service vorübergehend abgeschaltet; am 13. November kamen DR-Fixes gegen Creature-Stuns und die Zero-XP-Regel für triviale Gegner.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 13. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-13-2026/2403040"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Stand der Dinge",
+        "punkte": [
+          "Client: 1.60.1 (Build laut Quellen uneinheitlich: 70888 / 70938 / 70755)",
+          "Wartung: Di 17. Nov (Amerika), laut Quelle Mi 18. Nov (Europa)",
+          "Auktionshaus: Mindestgebühr 1 Silber → 1 Kupfer (Fan-Tracker)",
+          "Item Restoration: seit 11. Nov deaktiviert (kritischer Bug)",
+          "Warrior-Notes vom 16. Nov: Herkunft unklar (offiziell oder Datamining)"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard-Forum: Hotfixes 13. November",
+            "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-13-2026/2403040"
+          },
+          {
+            "name": "space4games (Fan-Seite): Patch Notes",
+            "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Warrior: Ein Hotfix, der Fury-Spieler interessieren dürfte",
+          "unterzeile": "Unbridled Wrath und Flurry reagieren auf Abilities",
+          "text": "Der Fury Warrior lebt von Rage-Generierung und Crit-Fenstern. Mit den Änderungen vom 16. November können Melee-Abilities Unbridled Wrath auslösen und Flurry-Charges verbrauchen, was die Rotation spürbar verschiebt. Wie stark der Effekt in der Praxis ist, ist offen: Die Quelle ist eine Fan-Seite, und es gibt Zweifel, ob die Notes offiziell sind.",
+          "quellen": [
+            {
+              "name": "foreverchanges.pro (Fan-Seite): Patch Notes",
+              "url": "https://foreverchanges.pro/patch-notes"
+            },
+            {
+              "name": "conquestcapped: Fury Warrior Guide",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-fury-warrior-guide/"
+            }
+          ]
+        },
+        {
+          "titel": "Druid: Genesis verstärkt den Bleed von Pounce",
+          "unterzeile": "Kleiner Buff für Cat-Form-Druiden",
+          "text": "Laut foreverchanges.pro erhöht das Talent Genesis jetzt auch den Bleed-Schaden von Pounce. Für den Feral-Druiden ist das ein Bonus beim Opener. Eine zweite Quelle bestätigte diesen Punkt in unserer Suche nicht – bitte als Hinweis aus einer Fan-Seite lesen.",
+          "quellen": [
+            {
+              "name": "foreverchanges.pro (Fan-Seite): Patch Notes",
+              "url": "https://foreverchanges.pro/patch-notes"
+            }
+          ]
+        },
+        {
+          "titel": "Leveling-Ranglisten: Hunter und Mage vorn, Warrior hinten",
+          "unterzeile": "Fan-Listen sind sich nur halb einig",
+          "text": "Mehrere Fan-Seiten ordnen Hunter und Mage in die oberste Leveling-Stufe ein. Eine Liste sieht Hunter und Warlock in S, Mage, Paladin und Shaman in A; eine andere setzt Mage und Paladin auf S. Einigkeit herrscht darin, dass der Warrior beim Leveln am unteren Ende landet. Eine Seite prüft ihre Liste anhand des Live-Rennens zu Level 60 – offizielle Daten gibt es nicht.",
+          "quellen": [
+            {
+              "name": "metaroad: Leveling Tier List",
+              "url": "https://metaroad.gg/news/wow-forever-leveling-tier-list"
+            },
+            {
+              "name": "timesaver.gg: Best Class to Level",
+              "url": "https://timesaver.gg/blog/wow-forever-best-class-to-level-beta-tier-list"
+            },
+            {
+              "name": "conquestcapped: Best Leveling Class",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-best-leveling-class/"
+            }
+          ]
+        },
+        {
+          "titel": "Skyborne: Welche Klasse passt zur neuen Rasse?",
+          "unterzeile": "Windshaper-Shaman oder High-Order-Mage",
+          "text": "Die neue Rasse Skyborne wählt bei der Charaktererstellung Horde (Shaman) oder Allianz (Mage). Laut Blizzards Panel-Recap können beide Fraktionen zusätzlich Warrior, Hunter, Rogue und Druid spielen. Fan-Guides empfehlen Hunter für einen glatten Solo-Start und Windshaper-Shaman oder High-Order-Mage für Skyborne-Exklusives.",
+          "quellen": [
+            {
+              "name": "Blizzard News: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            },
+            {
+              "name": "rankedboost: Skyborne",
+              "url": "https://rankedboost.com/world-of-warcraft/forever/race/skyborne/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Leveling-Tipps der Fan-Listen",
+        "punkte": [
+          "Oft in S/A: Hunter, Mage",
+          "Je nach Liste: Warlock, Paladin, Shaman",
+          "Meist unten: Warrior",
+          "Alle Listen sind inoffiziell"
+        ],
+        "quellen": [
+          {
+            "name": "metaroad: Leveling Tier List",
+            "url": "https://metaroad.gg/news/wow-forever-leveling-tier-list"
+          },
+          {
+            "name": "conquestcapped: Best Leveling Class",
+            "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-best-leveling-class/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Hyjal Summit, Barrow Deeps und Onyxia: Der 9. Dezember rückt näher",
+          "unterzeile": "Drei Raids für Level-60-Gruppen",
+          "text": "Laut Blizzards Panel-Recap kommen am 9. Dezember neue Raids: Hyjal Summit mit 20 Spielern und Barrow Deeps als 10-Spieler-Herausforderung. Fan-Guides nennen zusätzlich Onyxia's Lair und sprechen von 13 Bossen im Hyjal Summit.\n\nBeim Zugang widersprechen sich die Guides: Eine Seite sagt, es gebe keine Attunement, eine andere, Blizzard habe dazu nichts angekündigt. Bossnamen, Loot und Taktiken sind laut Guides noch nicht bestätigt.",
+          "quellen": [
+            {
+              "name": "Blizzard News: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            },
+            {
+              "name": "allthings.how: Hyjal Summit",
+              "url": "https://allthings.how/wow-forever-hyjal-summit/"
+            },
+            {
+              "name": "lfcarry: Raids Guide",
+              "url": "https://lfcarry.com/guides/wow-forever-raids"
+            }
+          ]
+        },
+        {
+          "titel": "Neun neue Dungeons: Der Überblick",
+          "unterzeile": "Von Hall of Thanes bis Shaper's Terrace",
+          "text": "Blizzard nennt neun neue Dungeons: Hall of Thanes unter Ironforge, Ruins of Lordaeron, eine Ausgrabungsstätte über Whelgar's Excavation, City of Dalaran, Blackmaw Hold, The Drowned City, Krol'dok Stronghold, Alcaz Prison und Shaper's Terrace. Zockify führt eine Dungeon-Liste nach Level und aktualisiert laut Eigenangabe täglich Quest-Voraussetzungen und Loot.",
+          "quellen": [
+            {
+              "name": "Blizzard News: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            },
+            {
+              "name": "Zockify: WoW Forever Dungeons",
+              "url": "https://www.zockify.com/forever/dungeons/"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-XP: Blizzard korrigiert nach – zwei Anläufe in 24 Stunden",
+          "unterzeile": "Die erste Änderung „verfehlte das Ziel“",
+          "text": "GamesRadar und GameRant berichten, dass Blizzard die Dungeon-XP-Regeln nach dem Update vom 13. November erneut angepasst hat. Die Überschrift von GamesRadar zitiert, die erste Änderung habe „missed the mark“. Der Blizzard-Hotfix-Thread nennt als Inhalt vom 13. November die Zero-XP-Regel für triviale Gegner.",
+          "quellen": [
+            {
+              "name": "GamesRadar: Blizzard und der Dungeon-Grind",
+              "url": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-takes-another-swing-at-world-of-warcraft-forevers-dungeon-grind-after-changes-made-just-24-hours-earlier-missed-the-mark/"
+            },
+            {
+              "name": "GameRant: Dungeon XP",
+              "url": "https://gamerant.com/world-of-warcraft-forever-dungeon-xp-boosting/"
+            },
+            {
+              "name": "Blizzard-Forum: Hotfixes 13. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-13-2026/2403040"
+            }
+          ]
+        },
+        {
+          "titel": "Hyjal Summit vorbereiten: Flasks brauchen Death Lotus",
+          "unterzeile": "Fan-Guide rät zum Vorrat",
+          "text": "Ein Raid-Guide weist darauf hin, dass die Rezepte für die Hyjal-Flasks jeweils einen Death Lotus und ein Imbued Vial benötigen. Wer Alchemie oder Kräuterkunde betreibt, kann also schon jetzt sammeln. Das ist eine Einschätzung einer Fan-Seite, keine Blizzard-Vorgabe.",
+          "quellen": [
+            {
+              "name": "lfcarry: Raids Guide",
+              "url": "https://lfcarry.com/guides/wow-forever-raids"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Riverglades, Shen'dralas, Hyjal: Welche Zone wann?",
+          "unterzeile": "Level-Spannen sind Fan-Schätzungen",
+          "text": "Laut Blizzard bietet Riverglades eine Frontier etwa von Mitte 30 bis Mitte 40 mit mehr als 150 Quests; Shen'dralas liegt versteckt zwischen Mulgore und Desolace, Mount Hyjal ist die Endgame-Zone. Fan-Guides setzen Riverglades eher bei 35 bis 45, Shen'dralas bei 38 bis 45 (andere: 45 bis 53) und Hyjal bei 54/55 bis 60. Eine Seite merkt an, dass Blizzard für Shen'dralas keine Level-Spanne genannt hat.",
+          "quellen": [
+            {
+              "name": "Blizzard News: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            },
+            {
+              "name": "eXputer: Leveling Zones",
+              "url": "https://exputer.com/news/games/wow-forever-leveling-zones/"
+            },
+            {
+              "name": "outputlag: Zones by Level",
+              "url": "https://outputlag.com/guides/wow-forever-new-zones-by-level/"
+            }
+          ]
+        },
+        {
+          "titel": "RestedXP: Riverglades ja, Shen'dralas und Hyjal noch nicht",
+          "unterzeile": "Routen-Lücken beim Addon",
+          "text": "Laut realmfirst.net deckt RestedXP in seinem kostenpflichtigen Forever-Guide Riverglades-Routen für Level 38 bis 44 beider Fraktionen ab. Für Shen'dralas und Hyjal gibt es demnach noch keine Route. Wer dort levelt, muss vorerst ohne fertigen Pfad auskommen.",
+          "quellen": [
+            {
+              "name": "realmfirst: RestedXP und Riverglades",
+              "url": "https://realmfirst.net/world-of-warcraft-forever/leveling-addons/does-restedxp-cover-riverglades/"
+            }
+          ]
+        },
+        {
+          "titel": "Zephras Isle: Skyborne starten in der Luft",
+          "unterzeile": "Startgebiet für Level 1 bis 12",
+          "text": "Die neue Rasse Skyborne beginnt in Zephras Isle, einem schwebenden Startgebiet für Level 1 bis 12. Blizzard betont, dass es weder Flugreittiere noch Level-Scaling gibt. Das Leveln soll laut Design-Grundsatz so wichtig sein wie das Endgame.",
+          "quellen": [
+            {
+              "name": "Blizzard News: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            }
+          ]
+        },
+        {
+          "titel": "Über 1.000 neue Quests auf dem Weg zu Level 60",
+          "unterzeile": "Blizzards Versprechen zum Umfang",
+          "text": "Der Weg von Level 1 bis 60 enthält laut Blizzard mehr als tausend neue Quests. Dazu kommen laut Panel-Recap Camping-Systeme (Lagerfeuer, die andere besuchen und mit Berufen ausbauen können) und ein optionales Transmog-System. Die Lagerfeuer-Buffs sind ein Detail, das im Panel kurz angerissen wurde.",
+          "quellen": [
+            {
+              "name": "Blizzard News: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Auktionshaus-Update: Was die Mindestgebühr bedeutet",
+          "unterzeile": "Mehr Spielraum für kleine Händler",
+          "text": "Mit der erwarteten Wartung sinkt laut Fan-Tracker die Mindest-Hinterlegungsgebühr auf 1 Kupfer. Billige Items rechnen sich damit wieder eher, besonders für Low-Level-Charaktere. Wer auf seine Einnahmen schaut, sollte laut LePrestore nach Gebühren und Deposits den Netto-Ertrag vergleichen und nicht den Verkaufspreis.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 13. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-13-2026/2403040"
+            },
+            {
+              "name": "lfcarry (Fan-/Servicesite): Patch Notes",
+              "url": "https://lfcarry.com/guides/wow-forever-patch-notes"
+            },
+            {
+              "name": "LePrestore: Gold Farming Guide",
+              "url": "https://leprestore.com/guides/world-of-warcraft-forever/wow-forever-gold-farming-guide/"
+            }
+          ]
+        },
+        {
+          "titel": "Gold beim Leveln: Zwei Sammelberufe, Rohmaterial verkaufen",
+          "unterzeile": "Tipp aus mehreren Guides",
+          "text": "Mmonster empfiehlt, beim Leveln zwei Sammelberufe zu wählen und Rohmaterial zu verkaufen, besonders kurz nach dem Launch. GamsGo nennt Skinning als einfache Ergänzung, weil Leder in Leatherworking und Waylaid Crates fließt. Ein Preisvergleich zwischen Crates und Rezepten lohnt sich vor der Verarbeitung.",
+          "quellen": [
+            {
+              "name": "mmonster: Gold Guide",
+              "url": "https://mmonster.co/wow-forever/guides/gold"
+            },
+            {
+              "name": "GamsGo: WoW Forever Gold Guide",
+              "url": "https://www.gamsgo.com/blog/wow-forever-gold-guide"
+            }
+          ]
+        },
+        {
+          "titel": "Kräuterkunde vorn? Ein einzelner Scan vom 14. November",
+          "unterzeile": "Mit Vorsicht zu genießen",
+          "text": "EpicCarry zitiert einen Scan vom 14. November, laut dem Herbalism beim Tagesgewinn vorne lag. Die Zahlen stammen aus einer einzigen Momentaufnahme und von einem kommerziellen Service. ExpCarry rät zusätzlich, Reagenzien und blaue BoE-Items vor dem Vendoren mit Auktionspreisen zu vergleichen.",
+          "quellen": [
+            {
+              "name": "EpicCarry: Gold Farming November 2026",
+              "url": "https://epiccarry.com/blogs/wow-forever-gold-farming/"
+            },
+            {
+              "name": "ExpCarry: Gold Farming Guide",
+              "url": "https://expcarry.com/wow-forever-gold-farming-guide"
+            }
+          ]
+        },
+        {
+          "titel": "Quest-Gold ab Level 48",
+          "unterzeile": "Seit dem 10. November",
+          "text": "Im Hotfix vom 10. November hat Blizzard den meisten Quests ab Level 48 Gold-Belohnungen gegeben. Die Änderung steht in der Hotfix-Chronik des Blizzard-Forums. Wie viel Gold im Schnitt pro Stunde herauskommt, nennt die Quelle nicht.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 13. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-13-2026/2403040"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Gold-Faustregeln",
+        "punkte": [
+          "Netto nach Gebühren rechnen, nicht den Preis",
+          "Vor dem Vendoren Auktionspreis prüfen",
+          "Guide-Zahlen stammen oft von Boosting-Seiten"
+        ],
+        "quellen": [
+          {
+            "name": "LePrestore: Gold Farming Guide",
+            "url": "https://leprestore.com/guides/world-of-warcraft-forever/wow-forever-gold-farming-guide/"
+          },
+          {
+            "name": "ExpCarry: Gold Farming Guide",
+            "url": "https://expcarry.com/wow-forever-gold-farming-guide"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Community: Rekorde, Gilden, Streamer, Server",
+      "artikel": [
+        {
+          "titel": "Race to 60: Wer war zuerst?",
+          "unterzeile": "Die Tracker sind uneins",
+          "text": "Zwei Tracker zeigen unterschiedliche Ergebnisse: Einer nennt Team JokerD als Weltersten auf 60, am 7. November (australische Zeit); ein anderer führt einen Hunter namens Ksuper Worldfirst auf EU Normal am 7. November um 14:31 UTC. Forever Pulse gibt den Start des Rennens mit dem 5. November um 0 Uhr (MEZ) an. Sicher ist: Das Rennen wurde in den ersten Tagen nach dem Launch gewonnen; wer genau, zeigen die Quellen nicht eindeutig.",
+          "quellen": [
+            {
+              "name": "race.aotc.gg: Race to 60",
+              "url": "https://race.aotc.gg/"
+            },
+            {
+              "name": "aotc.gg: First to 60",
+              "url": "https://www.aotc.gg/forever/first-to-60"
+            },
+            {
+              "name": "Forever Pulse: Statistik",
+              "url": "https://forever-pulse.com/"
+            }
+          ]
+        },
+        {
+          "titel": "Horde-PvP gesperrt: Blizzard erreicht die 55/45-Grenze",
+          "unterzeile": "Aggrend: „Make other arrangements“",
+          "text": "Laut einer Fan-Seite zur Podcast-Folge vom 12. November hat Blizzard die Horde-Erstellung auf PvP gesperrt, weil das Fraktionsverhältnis die Grenze von 55/45 erreichte. Aggrend soll Betroffene aufgefordert haben, andere Wege zu finden. Die Aussage stammt aus einer inoffiziellen Zusammenfassung – prüft die Blizzard-Foren für den Wortlaut.",
+          "quellen": [
+            {
+              "name": "wowsod.pro (Fan-Seite): Horde PvP Lock",
+              "url": "https://wowsod.pro/articles/wow-forever-horde-pvp-lock-aggrend-make-other-arrangements"
+            },
+            {
+              "name": "MMONerds: Layering and Faction Lock",
+              "url": "https://mmonerds.com/wow-forever-layering-and-faction-lock-explained/"
+            }
+          ]
+        },
+        {
+          "titel": "Überfüllte Zonen: Blizzard drosselt Spielerzahlen",
+          "unterzeile": "Layering ist das Thema",
+          "text": "Am 5. November sagte Aggrend im Forum, Blizzard kenne Probleme mit nicht richtig bevölkerten Gebieten. Eine Fan-Zeitleiste verweist auf einen Hotfix vom 9. November, der die Spielerzahl in überfüllten Zonen senkte. Wowsod.pro erklärt, warum Zonen am Wochenende dennoch voll sein können.",
+          "quellen": [
+            {
+              "name": "wowsod.pro (Fan-Seite): Überfüllte Layer",
+              "url": "https://wowsod.pro/articles/wow-forever-overcrowded-layers-weekend-respawn"
+            },
+            {
+              "name": "MMONerds: Layering and Faction Lock",
+              "url": "https://mmonerds.com/wow-forever-layering-and-faction-lock-explained/"
+            }
+          ]
+        },
+        {
+          "titel": "Warcraft Forever Collection: Verkaufsende am 11. Januar 2027",
+          "unterzeile": "Hinweis einer Fan-Seite",
+          "text": "Laut wowforever.co endet der Verkauf der Warcraft Forever Collection am 11. Januar 2027. Die Angabe stammt von einer Fan-Seite, eine Bestätigung bei Blizzard haben wir nicht gefunden. Wer die Collection will, sollte das auf dem Blizzard Shop prüfen.",
+          "quellen": [
+            {
+              "name": "wowforever.co (Fan-Seite): News",
+              "url": "https://wowforever.co/news/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Dual Specialization ab Level 40",
+          "unterzeile": "Laut Zockify von Blizzard bestätigt",
+          "text": "Zockify gibt im Talent-Calculator an, dass Dual Specialization in WoW Forever ab Level 40 verfügbar ist, und verweist auf eine Bestätigung von Blizzard. Praktisch heißt das: Wer tankt oder heilt und zwischendurch questen will, kann bald ein zweites Spec aufbauen.",
+          "quellen": [
+            {
+              "name": "Zockify: Talent Calculator",
+              "url": "https://www.zockify.com/forever/talents/"
+            }
+          ]
+        },
+        {
+          "titel": "Skyborne-Start: Zephras Isle gezielt nutzen",
+          "unterzeile": "Leveling-Guide für Level 1 bis 12",
+          "text": "Ein Fan-Guide empfiehlt Hunter für einen reibungslosen Solo-Start. Wer die Skyborne-Klassen will, geht zu Windshaper-Shaman oder High-Order-Mage. Die Level-1-bis-12-Route steht auf einer eigenen Guide-Seite.",
+          "quellen": [
+            {
+              "name": "wowforeverleveling.com: Skyborne Leveling Guide",
+              "url": "https://wowforeverleveling.com/guides/skyborne-leveling-guide"
+            },
+            {
+              "name": "rankedboost: Skyborne",
+              "url": "https://rankedboost.com/world-of-warcraft/forever/race/skyborne/"
+            }
+          ]
+        },
+        {
+          "titel": "Zockify: Dungeon-Guides mit Quest-Voraussetzungen",
+          "unterzeile": "Praktisch vor jedem Run",
+          "text": "Zockify bietet Dungeon-Guides, Berufe-Guides und Klassen-Guides sowie Tools wie Talent-Calculator, Gear Planner und Tier-List-Maker. Der Gear Planner basiert laut Seite auf dem Beta-Client, Items künftiger Raids fehlen noch.",
+          "quellen": [
+            {
+              "name": "Zockify: WoW Forever",
+              "url": "https://www.zockify.com/forever/"
+            },
+            {
+              "name": "Zockify: WoW Forever Dungeons",
+              "url": "https://www.zockify.com/forever/dungeons/"
+            }
+          ]
+        },
+        {
+          "titel": "Item Restoration: Nicht verkaufen, was ihr zurückholen wollt",
+          "unterzeile": "Eigener Tipp",
+          "text": "Solange Item Restoration deaktiviert ist (seit dem 11. November wegen eines kritischen Bugs), solltet ihr Items, die ihr später vielleicht wiederhaben wollt, nicht löschen oder verkaufen. Einen Termin für die Rückkehr kennen wir nicht.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 13. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-13-2026/2403040"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen, Interviews, Entwickler-Aussagen",
+      "artikel": [
+        {
+          "titel": "Hardcore kommt – aber nicht zum Launch",
+          "unterzeile": "Winter 2026/27, nach den Raids",
+          "text": "Blizzard hat auf dem BlizzCon-Panel einen Hardcore-Modus mit Permadeath bestätigt. Er ist nicht zum Launch verfügbar; Fan-Quellen verorten ihn im Winter 2026/27 nach den Raids vom 9. Dezember. Einen genauen Termin nennt Blizzard nicht. Sterbende Charaktere sollen laut Berichten in ein anderes Regelset wechseln können. Feinregeln wie Handel und Gruppen sind unveröffentlicht.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Hardcore Mode Coming",
+              "url": "https://www.icy-veins.com/wow-forever/news/hardcore-mode-coming-to-warcraft-forever/"
+            },
+            {
+              "name": "readdork: Hardcore confirmed for winter",
+              "url": "https://readdork.com/gaming/world-of-warcraft-forever-hardcore-mode-winter-f87596acf2"
+            },
+            {
+              "name": "Blizzard News: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            }
+          ]
+        },
+        {
+          "titel": "Blizzard-Podcast: Lore und Technik",
+          "unterzeile": "Mit Aggrend und Sean Copeland",
+          "text": "Die Podcast-Reihe „WoW: Forever Podcast“ hat laut Blizzard News eine Lore-Folge vom 12. November mit Josh „Aggrend“ Greenfield und Lore Historian Lead Sean Copeland. Die Technik-Folge mit Aggrend, Ana Resendez und Frank Williams ist ebenfalls online. Beide stehen auf den Blizzard-News-Seiten.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW: Forever Podcast – All About Tech",
+              "url": "https://news.blizzard.com/en-us/article/24315819/watch-the-wow-forever-podcast-all-about-tech"
+            },
+            {
+              "name": "Blizzard: WoW: Forever Podcast",
+              "url": "http://worldofwarcraft.blizzard.com/en-us/news/24316981"
+            }
+          ]
+        },
+        {
+          "titel": "Designprinzipien: Keine Flugmounts, kein Level-Scaling",
+          "unterzeile": "„Nicht ein Modus, eine Season oder eine neue Classic-Version“",
+          "text": "Laut dem Panel-Recap beschreiben die Entwickler das Projekt als weder einen Modus, noch eine Season, noch eine neue Version von Classic. Es gibt keine Flugreittiere und kein Level-Scaling; Leveln ist so wichtig wie das Endgame. Offiziell unterstützt werden Gamepads, HD- und SD-Charaktermodelle und optionale Transmog-Presets.",
+          "quellen": [
+            {
+              "name": "Blizzard News: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            }
+          ]
+        },
+        {
+          "titel": "Launch am 4. November: Zugang über Abo",
+          "unterzeile": "Offizielle Ankündigung",
+          "text": "Blizzard bestätigte den weltweiten Start am 4. November 2026, 15 Uhr PST. Der Zugang ist im WoW-Abo oder in der Spielzeit enthalten.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Carve a New Path",
+              "url": "https://news.blizzard.com/en-us/article/24302093/carve-a-new-path-with-world-of-warcraft-forever"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Dienstags-Wartung: 17./18. November",
+          "unterzeile": "Realm-Status prüfen",
+          "text": "Mit der regulären Wartung soll das Auktionshaus-Update live gehen. Blizzard nennt laut den Quellen den 17. November für Amerika; eine Quelle nennt den 18. November für Europa. Uhrzeiten haben wir nicht gefunden.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Hotfixes 13. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-13-2026/2403040"
+            },
+            {
+              "name": "lfcarry (Fan-/Servicesite): Patch Notes",
+              "url": "https://lfcarry.com/guides/wow-forever-patch-notes"
+            }
+          ]
+        },
+        {
+          "titel": "Stranglethorn Fishing Extravaganza: Sonntag, 22. November",
+          "unterzeile": "Wöchentlich von 14 bis 16 Uhr Realm-Zeit",
+          "text": "Laut todayinwow läuft das Event jeden Sonntag von 14 bis 16 Uhr Realm-Zeit in Stranglethorn Vale; die letzte Runde war der 15. November, die nächste ist der 22. November. Eine Seite nennt andere Uhrzeiten, vermutlich in einer anderen Zeitzone – nutzt den Ingame-Kalender.",
+          "quellen": [
+            {
+              "name": "todayinwow: Stranglethorn Fishing Extravaganza",
+              "url": "https://www.todayinwow.com/forever/event/stranglethorn-fishing-extravaganza-531"
+            },
+            {
+              "name": "endgametools (Fan-Seite): Events",
+              "url": "https://endgametools.com/en/wow-forever/events"
+            }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire: Nächster Halt Mulgore am 7. Dezember",
+          "unterzeile": "Zwischen Elwynn und Mulgore im Wechsel",
+          "text": "Die Faire läuft einmal im Monat sieben Tage lang abwechselnd in Elwynn Forest und Mulgore. Laut Fan-Seiten war die Elwynn-Runde vom 9. bis 15. November, die nächste beginnt am 7. Dezember am Fuß von Thunder Bluff. Einige Quellen nennen als Ende den 16. November.",
+          "quellen": [
+            {
+              "name": "wowforever.be: Darkmoon Faire",
+              "url": "https://wowforever.be/guides/darkmoon-faire/"
+            },
+            {
+              "name": "endgametools (Fan-Seite): Events",
+              "url": "https://endgametools.com/en/wow-forever/events"
+            }
+          ]
+        },
+        {
+          "titel": "9. Dezember: Raid-Start",
+          "unterzeile": "Der Termin der Saison",
+          "text": "Blizzard nennt den 9. Dezember als Start der neuen Raids. Bis dahin sind es noch gut drei Wochen.",
+          "quellen": [
+            {
+              "name": "Blizzard News: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            },
+            {
+              "name": "wowforever.co (Fan-Seite): News",
+              "url": "https://wowforever.co/news/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "Di 17. Nov (Amerika) / Mi 18. Nov (Europa): Wartung",
+          "So 22. Nov, 14–16 Uhr Realm-Zeit: Fishing Extravaganza",
+          "Mo 7. Dez: Darkmoon Faire in Mulgore",
+          "Mi 9. Dez: Hyjal Summit und weitere Raids"
+        ],
+        "quellen": [
+          {
+            "name": "todayinwow: Stranglethorn Fishing Extravaganza",
+            "url": "https://www.todayinwow.com/forever/event/stranglethorn-fishing-extravaganza-531"
+          },
+          {
+            "name": "wowforever.be: Darkmoon Faire",
+            "url": "https://wowforever.be/guides/darkmoon-faire/"
+          },
+          {
+            "name": "Blizzard News: What's Next Panel Recap",
+            "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages",
+    "text": "Schaut vor der Wartung in euer Auktionshaus und holt laufende Auktionen ein, die ihr bei neuen Gebühren günstiger neu einstellen könntet. Und prüft den Realm-Status: Der Europa-Termin liegt laut Quelle einen Tag nach dem US-Termin."
+  }
+}
