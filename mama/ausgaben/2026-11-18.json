@@ -1,0 +1,535 @@
+{
+ "gruss": "Guten Morgen, liebe Mama! Heute ist Mittwoch, der 18. November. Draußen ist es jetzt richtig Herbst. Mach es dir gemütlich und lies in Ruhe. Heute gibt es Neues von William und Kate, vom Fußball und von der Schiffsweihnacht. Viel Freude mit deiner Zeitung!",
+ "aufmacher": {
+  "rubrik": "Klatsch & Tratsch",
+  "titel": "William und Kate in Indien",
+  "unterzeile": "In Mumbai wurden gestern die Sieger des Earthshot-Preises gekürt",
+  "text": "Prinz William und Prinzessin Kate sind gerade in Indien. Es ist ihre erste gemeinsame Auslandsreise seit vier Jahren. Am ersten Tag spielten sie Cricket auf der Straße und fuhren mit der U-Bahn.\n\nGestern Abend gab es in Mumbai den Earthshot-Preis. Er geht an Ideen, die der Umwelt helfen. Fünf Sieger bekamen jeweils eine Million Pfund. Prinz William überreichte die Preise.\n\nHeute wollen die beiden Indiens Premierminister Narendra Modi treffen. Mehr dazu auf Seite 9.",
+  "quellen": [
+   {
+    "name": "Earthshot Prize: Gewinner 2026",
+    "url": "https://earthshotprize.org/winners-finalists/2026/"
+   },
+   {
+    "name": "CP24: Prince William presents Earthshot Prize winners",
+    "url": "https://www.cp24.com/news/world/2026/11/18/prince-william-presents-earthshot-prize-winners-with-13m-each-in-mumbai/"
+   },
+   {
+    "name": "Royal News Recap, 16. November",
+    "url": "https://www.unofficialroyalty.com/royal-news-recap-for-monday-november-16-2026/"
+   }
+  ]
+ },
+ "seiten": [
+  {
+   "titel": "Aus Mülheim",
+   "artikel": [
+    {
+     "titel": "Die Kirche in Heißen soll aufgegeben werden",
+     "unterzeile": "Die evangelische Gemeinde sucht einen Geldgeber für die Erlöserkirche",
+     "text": "Die evangelische Gemeinde in Heißen will die Erlöserkirche am Sunderplatz aufgeben. Auch das Gemeindezentrum gehört dazu. Spätestens bis 2030 soll es so weit sein.\n\nDer Grund ist das Geld. Die Gemeinde kann das Haus auf Dauer nicht mehr bezahlen. Bis dahin sucht sie einen Investor, der das Gebäude übernimmt.\n\nDas meldet Radio Mülheim.",
+     "quellen": [
+      {
+       "name": "Radio Mülheim: Evangelische Gemeinde gibt Erlöserkirche auf",
+       "url": "https://radio-muelheim.de/artikel/muelheim-evangelische-gemeinde-gibt-erloeserkirche-auf-2808742"
+      }
+     ]
+    },
+    {
+     "titel": "Der Winterdienst ist bereit",
+     "unterzeile": "Streusalz und Fahrzeuge stehen in Mülheim bereit",
+     "text": "Bei der MEG hat der Winterdienst begonnen. Die Stadt hat 16 Fahrzeuge bereit. Dazu liegen 2.500 Tonnen Streusalz im Lager.\n\nAm ersten Wochenende sind die Fahrzeuge schon einmal vorsorglich gefahren. So ist alles ausprobiert, bevor es wirklich glatt wird.",
+     "quellen": [
+      {
+       "name": "Radio Mülheim: MEG startet in den Winterdienst",
+       "url": "https://radio-muelheim.de/artikel/muelheim-meg-startet-in-den-winterdienst-2808502"
+      }
+     ]
+    },
+    {
+     "titel": "Zwei neue Boote für die Feuerwehr",
+     "unterzeile": "Sie helfen auf der Ruhr, wenn jemand Hilfe braucht",
+     "text": "Die Feuerwehr Mülheim hat Ende Oktober zwei neue Rettungsboote getauft. Sie heißen „Branddirektor Boehme“ und „Branddirektor Sorge“. Die Namen erinnern an zwei frühere Chefs der Feuerwehr.\n\nDie alten Boote waren etwa 30 Jahre im Dienst. Die neuen haben feste Liegeplätze am Wasserbahnhof. So geht es im Notfall schneller. Auf jedes Boot passen bis zu 12 Personen. Eine große Klappe vorne hilft, Menschen sicher an Bord zu holen, auch mit Rollstuhl oder Trage.",
+     "quellen": [
+      {
+       "name": "Feuerwehr Mülheim: Neue Rettungsboote (Presseportal)",
+       "url": "https://www.presseportal.de/blaulicht/pm/115880/6379713"
+      }
+     ]
+    },
+    {
+     "titel": "Ab morgen fährt die Linie 129 anders",
+     "unterzeile": "Mehrere Buslinien in Mülheim haben Umleitungen",
+     "text": "Die Ruhrbahn weist auf mehrere Umleitungen hin. Die Linie 129 fährt vom 19. November bis zum 3. Dezember anders. Grund sind Bauarbeiten in der Hatzper Straße und der Velauer Straße.\n\nDie Linie 134 wird wegen einer gesperrten Straße noch bis zum 29. November umgeleitet. Schau am besten vor der Fahrt kurz in die Verkehrsinfo.",
+     "quellen": [
+      {
+       "name": "Ruhrbahn: Verkehrsinfo Mülheim",
+       "url": "https://www.ruhrbahn.de/muelheim/aktuelles/verkehrsinfo"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Umleitungen im Überblick",
+    "punkte": [
+     "Linie 129: 19.11. bis 3.12. (Hatzper Straße, Velauer Straße)",
+     "Linie 134: bis 29.11. (Veilchenweg gesperrt)",
+     "Linie 151: bis 22.11. (Walkmühlenstraße)",
+     "Linien 129 und 976: bis 26.11. (Mannesmannallee)"
+    ],
+    "quellen": [
+     {
+      "name": "Ruhrbahn: Verkehrsinfo Mülheim",
+      "url": "https://www.ruhrbahn.de/muelheim/aktuelles/verkehrsinfo"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Mülheim erleben",
+   "artikel": [
+    {
+     "titel": "Am Freitag öffnet die Schiffsweihnacht",
+     "unterzeile": "Musik, Kunsthandwerk und Leckereien auf der Schleuseninsel",
+     "text": "Auf der Schleuseninsel startet am Freitag die Schiffsweihnacht. Sie hat an fünf Tagen geöffnet. Der Eintritt ist frei.\n\nAm Freitag singt von 16 Uhr an der Shanty-Chor Kormoran. Um 18.30 Uhr spielt eine Blaskapelle in Bergmannsuniform. Um 20 Uhr singt ein Gospelchor. Am Samstag gibt es unter anderem ein Winterkonzert von Dirk Elfgen um 19 Uhr.\n\nDie Insel ist eben und für Rollstuhl und Rollator geeignet. Die Stände auf den Schiffen erreichst du nur über Treppen.",
+     "quellen": [
+      {
+       "name": "Mülheimer Schiffsweihnacht 2026",
+       "url": "https://www.mein-muelheim.de/event/muelheimer-schiffsweihnacht-2026"
+      }
+     ]
+    },
+    {
+     "titel": "Zwei Konzerte am Samstag",
+     "unterzeile": "Klaus Hoffmann in der Stadthalle, Comedy im Ringlokschuppen",
+     "text": "Am Samstag, dem 21. November, ist in Mülheim viel los. In der Stadthalle singt Klaus Hoffmann sein Programm „Ich bin“. Karten gibt es laut Veranstaltungsportal ab 39,90 Euro.\n\nIm Ringlokschuppen tritt der Comedian David Kebekus auf. Sein Programm heißt „Sensible Inhalte“. Schon am Freitag spielt in der Stadthalle das Litauische Staatliche Sinfonieorchester.",
+     "quellen": [
+      {
+       "name": "mvp.de: Veranstaltungen in Mülheim",
+       "url": "https://www.mvp.de/muelheim-an-der-ruhr/veranstaltungen/"
+      }
+     ]
+    },
+    {
+     "titel": "Filmmusik und ein Weihnachtsmusical",
+     "unterzeile": "Das erwartet dich Ende des Monats in der Stadthalle",
+     "text": "Am 27. November gibt es in der Stadthalle zwei Filmmusik-Konzerte. Um 16 Uhr spielt ein Orchester Musik aus „Der Herr der Ringe“ und „Der Hobbit“. Um 20 Uhr folgt eine Hommage an den Filmkomponisten Hans Zimmer.\n\nAm 28. November läuft dort das neue Weihnachtsmusical „Santa Claus“. Das ist auch etwas für Familien mit Kindern.",
+     "quellen": [
+      {
+       "name": "mvp.de: Veranstaltungen in Mülheim",
+       "url": "https://www.mvp.de/muelheim-an-der-ruhr/veranstaltungen/"
+      },
+      {
+       "name": "Veranstaltungen Mülheim (regioactive.de)",
+       "url": "https://www.regioactive.de/events/21167/muelheim/veranstaltungen-party-konzerte"
+      }
+     ]
+    },
+    {
+     "titel": "Lesen ohne Grenzen",
+     "unterzeile": "Vorlesetage mit Tiergeschichten in der ganzen Stadt",
+     "text": "Noch bis zum 20. November gibt es in Mülheim Vorlesetage mit Tiergeschichten. Schulen, Kindergärten und Bibliotheken machen mit. Das Motto lautet „Lesen ohne Grenzen“.\n\nEine schöne Gelegenheit, den Enkeln etwas vorzulesen.",
+     "quellen": [
+      {
+       "name": "Radio Mülheim",
+       "url": "https://www.radiomuelheim.de/"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Termine",
+    "punkte": [
+     "Fr 20.11., 15 bis 21 Uhr: Schiffsweihnacht, Schleuseninsel",
+     "Fr 20.11.: Litauisches Staatliches Sinfonieorchester, Stadthalle",
+     "Sa 21.11., 20 Uhr: Klaus Hoffmann, Stadthalle",
+     "Sa 21.11., 20 Uhr: David Kebekus, Ringlokschuppen",
+     "Fr 27.11., 16 und 20 Uhr: Filmmusik-Konzerte, Stadthalle",
+     "Sa 28.11.: Weihnachtsmusical „Santa Claus“, Stadthalle",
+     "Änderungen sind möglich. Frag im Zweifel beim Veranstalter nach."
+    ],
+    "quellen": [
+     {
+      "name": "Mülheimer Schiffsweihnacht 2026",
+      "url": "https://www.mein-muelheim.de/event/muelheimer-schiffsweihnacht-2026"
+     },
+     {
+      "name": "mvp.de: Veranstaltungen in Mülheim",
+      "url": "https://www.mvp.de/muelheim-an-der-ruhr/veranstaltungen/"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Deutschland",
+   "artikel": [
+    {
+     "titel": "Wird der Strom billiger?",
+     "unterzeile": "Die Regierung sucht Geld für eine kleinere Stromsteuer",
+     "text": "Gestern Abend haben die Spitzen von Union und SPD beraten. Es ging um die Stromsteuer. Sie soll für alle auf das niedrigste Maß in Europa sinken. Das hatte Kanzler Merz angekündigt.\n\nDafür braucht der Staat etwa fünf Milliarden Euro. Im Haushalt ist dafür bisher kein Geld eingeplant. Merz sagte: „Wir werden uns einigen.“\n\nWie das Treffen ausgegangen ist, stand bei Redaktionsschluss noch nicht fest. Wir berichten, sobald es Neues gibt.",
+     "quellen": [
+      {
+       "name": "t-online: Koalitionsausschuss ringt um die Stromsteuer",
+       "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101531150/stromsteuer-koalitionsausschuss-geht-in-nachverhandlungen.html"
+      },
+      {
+       "name": "news.de: News des Tages, 17. November",
+       "url": "https://www.news.de/panorama/860194459/17-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-17-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "titel": "Die EU rechnet mit wenig Wachstum",
+     "unterzeile": "Teure Energie bremst die deutsche Wirtschaft",
+     "text": "Die EU-Kommission hat gestern ihre Herbstprognose vorgestellt. Für Deutschland rechnet sie mit 0,6 Prozent Wachstum. Das ist wenig. Bisher waren 1,2 Prozent erwartet worden.\n\nAls Grund nennt die Kommission die hohen Energiepreise. Sie hängen mit dem Krieg im Iran zusammen.",
+     "quellen": [
+      {
+       "name": "news.de: News des Tages, 17. November",
+       "url": "https://www.news.de/panorama/860194459/17-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-17-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "titel": "Bauen soll billiger werden",
+     "unterzeile": "Die Bauministerin hat sich etwas vorgenommen",
+     "text": "Bauministerin Verena Hubertz will im nächsten Jahr die Baukosten senken. Das sagte sie am Dienstag. Wohnungen sollen so wieder günstiger gebaut werden können.\n\nWie das genau gehen soll, steht noch nicht fest.",
+     "quellen": [
+      {
+       "name": "ZDFheute Newsticker",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Mehr Elektro-Lastwagen auf der Straße",
+     "unterzeile": "Das Statistische Bundesamt hat gezählt",
+     "text": "Im Jahr 2025 wurden in Deutschland rund 4.200 neue Elektro-Lastwagen zugelassen. Gemeint sind Lkw über 3,5 Tonnen. Das sind etwa 40 Prozent mehr als im Jahr davor.",
+     "quellen": [
+      {
+       "name": "ZDFheute Newsticker",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Aus aller Welt",
+   "artikel": [
+    {
+     "titel": "Ein Brötchen so lang wie ein Haus",
+     "unterzeile": "Sachsen hat jetzt einen Mett-Rekord",
+     "text": "In Sachsen gibt es ein neues Rekord-Mettbrötchen. Es ist 59,19 Meter lang. Ein Möbelhaus in Siebenlehn hat es zur Eröffnung gemacht.\n\nDafür wurden lange Baguettes der Länge nach aufgeschnitten. Etwa 20 Kilogramm Mett kamen darauf, dazu rohe Zwiebeln. Das Rekord-Institut für Deutschland hat den Rekord bestätigt.",
+     "quellen": [
+      {
+       "name": "Leipziger Zeitung: Wochenende 7./8. November",
+       "url": "https://www.l-iz.de/en/the-day/2026/11/the-weekend-of-7-8-november-2026-world-record-for-mettbroetchen-one-person-seriously-injured-following-a-brawl-rb-leipzig-on-a-scoring-spree-hcl-crushed-675490"
+      }
+     ]
+    },
+    {
+     "titel": "Ein Riesenkarpfen und ein besonderer Anhänger",
+     "unterzeile": "Ein Angler hat in Ungarn einen sehr großen Fisch gefangen",
+     "text": "Ein britischer Angler hat in Ungarn einen Karpfen von 52 Kilogramm gefangen. Das berichtet die Jagd- und Angelzeitschrift Pirsch. Der Fisch hatte an einer Angel angebissen, an der ein Schlüsselanhänger hing. Darauf war das einzige gemeinsame Foto des Anglers mit seinem verstorbenen Vater.\n\nAls offizieller Weltrekord wird der Fang wohl nicht gelten. Das ist nur eine Einschätzung der Zeitschrift.",
+     "quellen": [
+      {
+       "name": "Pirsch: Neuer Karpfen-Weltrekord",
+       "url": "https://www.pirsch.de/news/neuer-karpfen-weltrekord-angler-faengt-unfassbaren-52-kilo-giganten-44152"
+      }
+     ]
+    },
+    {
+     "titel": "Die USA sind nicht mehr „masernfrei“",
+     "unterzeile": "Das Virus verbreitet sich dort seit mindestens einem Jahr",
+     "text": "Die Gesundheitsorganisation PAHO hat festgestellt: Die USA gelten nicht mehr als masernfrei. Das Virus verbreitet sich dort seit mindestens zwölf Monaten.\n\nMasern lassen sich durch eine Impfung gut verhindern. Wenn du unsicher bist, ob dein Impfschutz noch stimmt, frag bei deiner Hausarztpraxis nach.",
+     "quellen": [
+      {
+       "name": "ZDFheute Newsticker",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Große Proteste in Frankreich",
+     "unterzeile": "Viele Menschen sind wegen der hohen Preise auf der Straße",
+     "text": "In Frankreich sind wieder viele Menschen auf die Straße gegangen. Sie protestierten gegen die hohen Lebenshaltungskosten. Das Innenministerium spricht von 146.000 Menschen. Die Gewerkschaft CGT zählt mehr als 500.000.\n\nBei den Zahlen sind sich die Seiten also nicht einig.",
+     "quellen": [
+      {
+       "name": "ZDFheute Newsticker",
+       "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Sport: Fußball-Bundesliga",
+   "artikel": [
+    {
+     "titel": "Die Bundesliga ist zurück",
+     "unterzeile": "Nach der Länderspielpause geht es am Freitag wieder los",
+     "text": "Am Wochenende vom 20. bis 22. November spielt die Bundesliga wieder. Davor gab es zwei Wochenenden Pause wegen der Länderspiele.\n\nDen Anfang macht am Freitag der FC Bayern gegen den 1. FC Köln. Am Samstag spielt unter anderem Gladbach gegen Dortmund. Leverkusen empfängt Paderborn, und in Berlin spielt Union gegen Leipzig. Um 18.30 Uhr ist Schalke gegen Stuttgart dran.\n\nDie Anstoßzeiten sind je nach Quelle verschieden. Schau am besten kurz in dein Fernsehprogramm.",
+     "quellen": [
+      {
+       "name": "Spielplan der Bundesliga (Sport1)",
+       "url": "https://www.sport1.de/daten/fussball/bundesliga/spielplan"
+      },
+      {
+       "name": "Fussballdaten: Bundesliga-Spielplan",
+       "url": "https://www.fussballdaten.de/bundesliga/spielplan/"
+      }
+     ]
+    },
+    {
+     "titel": "Bayern und Dortmund liegen vorn",
+     "unterzeile": "So sieht die Tabelle nach neun Spielen aus",
+     "text": "Bayern München und Borussia Dortmund haben beide 21 Punkte. Bayern hat die besseren Tore und steht deshalb auf Platz eins. Dahinter folgt der SC Freiburg mit 19 Punkten.\n\nLeipzig ist Vierter mit 18 Punkten. Leverkusen hat 16 Punkte und Werder Bremen 15.",
+     "quellen": [
+      {
+       "name": "Sportschau: Bundesliga-Tabelle",
+       "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/tabelle"
+      }
+     ]
+    },
+    {
+     "titel": "Haaland schießt Norwegen ins Viertelfinale",
+     "unterzeile": "Ein wildes Spiel in Dänemark",
+     "text": "Norwegen hat in der Nations League 3:2 in Dänemark gewonnen. Zuerst lag das Team 0:2 hinten. Dann traf Erling Haaland, und Martin Ödegaard glich aus. Kurz vor Schluss machte Haaland per Elfmeter das Siegtor.\n\nNorwegen könnte im Viertelfinale auf Deutschland treffen. Das wird am Freitag in Nyon ausgelost. Deutschland kann auf Belgien, Spanien oder Norwegen treffen.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Norwegen steht im Viertelfinale",
+       "url": "https://www.zdfheute.de/sport/fussball-nations-league-daenemark-norwegen-100.html"
+      },
+      {
+       "name": "Eurosport: Mögliche Gegner im Viertelfinale",
+       "url": "https://www.eurosport.de/fussball/uefa-nations-league/2026-2027/viertelfinal-auslosung-moegliche-gegner-dfb-team-so-geht-es-fuer-deutschland-weiter_sto23356253/story.shtml"
+      }
+     ]
+    },
+    {
+     "titel": "Leipzig siegte 5:2 gegen Augsburg",
+     "unterzeile": "Ein Rückblick auf das Spiel vom 7. November",
+     "text": "Am 7. November hat Leipzig Augsburg mit 5:2 geschlagen. Augsburg ging schon in der ersten Minute in Führung. Dann traf Leipzig zweimal in einer Minute.\n\nWilli Orban wurde vor dem Spiel für sein 400. Spiel für den Verein geehrt.",
+     "quellen": [
+      {
+       "name": "Leipziger Zeitung: Wochenende 7./8. November",
+       "url": "https://www.l-iz.de/en/the-day/2026/11/the-weekend-of-7-8-november-2026-world-record-for-mettbroetchen-one-person-seriously-injured-following-a-brawl-rb-leipzig-on-a-scoring-spree-hcl-crushed-675490"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Tabellenspitze nach neun Spielen",
+    "punkte": [
+     "1. Bayern München: 21 Punkte",
+     "2. Borussia Dortmund: 21 Punkte",
+     "3. SC Freiburg: 19 Punkte",
+     "4. RB Leipzig: 18 Punkte",
+     "5. Bayer Leverkusen: 16 Punkte"
+    ],
+    "quellen": [
+     {
+      "name": "Sportschau: Bundesliga-Tabelle",
+      "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/tabelle"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Sport: Vereine und mehr",
+   "artikel": [
+    {
+     "titel": "Zverev steht im Halbfinale",
+     "unterzeile": "Zwei Siege in Turin bei den ATP Finals",
+     "text": "Alexander Zverev hat bei den ATP Finals in Turin auch sein zweites Spiel gewonnen. Er schlug den Amerikaner Ben Shelton 6:2 und 7:6. Damit steht er schon vor dem letzten Gruppenspiel im Halbfinale.\n\nEs ist das fünfte Mal, dass er dort ins Halbfinale kommt. Am Donnerstag spielt er noch gegen den Franzosen Arthur Fils.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Zverev mit starkem Auftritt",
+       "url": "https://www.zdfheute.de/sport/tennis-atp-finals-turin-zverev-shelton-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Deutsche Basketballerinnen gewinnen",
+     "unterzeile": "Gutes Jahresende in der EM-Qualifikation",
+     "text": "Die deutschen Basketballerinnen haben in Portugal 73:52 gewonnen. Beste Werferin war Frieda Bühner mit 15 Punkten. Sie holte auch zehn Rebounds.\n\nNach drei Spielen steht die Bilanz bei zwei Siegen und einer Niederlage. Für die EM 2027 muss das Team in der Gruppe unter die ersten zwei kommen. Die Entscheidung fällt im Februar.",
+     "quellen": [
+      {
+       "name": "ZDFheute: DBB-Frauen feiern Jahresabschluss",
+       "url": "https://www.zdfheute.de/sport/basketball-frauen-em-qualifikation-portugal-deutschland-fiebich-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Eishockey: Vier Teams ganz oben",
+     "unterzeile": "Nürnberg, Berlin, Mannheim und München haben 33 Punkte",
+     "text": "In der Deutschen Eishockey Liga liegen vier Mannschaften gleichauf. Nürnberg, die Eisbären Berlin, Mannheim und München haben jeweils 33 Punkte. Dahinter folgt Straubing mit 29.\n\nAm Donnerstag und Freitag geht es weiter. Zum Beispiel spielt Berlin gegen Ingolstadt und München gegen die Kölner Haie.",
+     "quellen": [
+      {
+       "name": "Sportschau: DEL-Tabelle",
+       "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/tabelle"
+      },
+      {
+       "name": "Sportschau: DEL-Spiele",
+       "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/spiele-und-ergebnisse"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Klatsch & Tratsch",
+   "artikel": [
+    {
+     "titel": "Lena Meyer-Landrut: Kommt sie zurück?",
+     "unterzeile": "Ein kurzer Satz bei TikTok macht Fans neugierig",
+     "text": "Lena Meyer-Landrut hat sich nach langer Zeit bei TikTok gemeldet. Ein Fan hatte sich ihre Rückkehr gewünscht. Sie schrieb nur: „Dauert noch bisschen“, dazu ein weißes Herz.\n\nEin Datum nannte sie nicht. Das Portal Joyn deutet es als Hinweis auf ein Comeback. Sicher ist das nicht.",
+     "quellen": [
+      {
+       "name": "Joyn: Lena Meyer-Landrut meldet sich",
+       "url": "https://www.joyn.de/bts/themen/stars/lena-meyer-landrut-meldet-sich-zu-einem-moeglichen-comeback-218068"
+      }
+     ]
+    },
+    {
+     "titel": "Jeanette Biedermann genießt ihr Baby",
+     "unterzeile": "Elf Wochen nach der Geburt ihres Sohnes",
+     "text": "Die Sängerin Jeanette Biedermann ist 46 und hat vor elf Wochen einen Sohn bekommen. Der „Bild“ erzählte sie, dass sie viel mit dem Baby draußen an der frischen Luft ist. Ihr Freund Sebastian ist oft dabei.\n\nSie sagt, der Kleine sei entspannt. Sie scherzt, dass sie wohl erst wieder durchschläft, wenn er 35 ist. Ein Konzert hat sie von November auf Juni 2027 verschoben.",
+     "quellen": [
+      {
+       "name": "Joyn: Jeanette Biedermann",
+       "url": "https://www.joyn.de/bts/themen/stars/jeanette-biedermann-private-einblick-baby-mama-alltag-218296"
+      }
+     ]
+    },
+    {
+     "titel": "Davina und Shania Geiss: Pech in der Liebe",
+     "unterzeile": "Im Beruf läuft es, beim Dating nicht",
+     "text": "Die Schwestern Davina und Shania Geiss sind beruflich erfolgreich. In der Liebe klappt es laut einem Interview mit der „Bunten“ nicht so gut. Sie sehen den Grund auch in ihrem Wohnort Monaco. Dort gebe es kaum neue Kontakte.\n\nShania sagt mit einem Augenzwinkern: „Vielleicht sind wir das Problem!“",
+     "quellen": [
+      {
+       "name": "Joyn: Davina und Shania Geiss",
+       "url": "https://www.joyn.de/bts/themen/stars/vielleicht-sind-wir-das-problem-geiss-schwestern-davina-und-shania-haben-eine-dating-flaute-217601"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Klatsch & Tratsch: TV, Shows und Stars der Welt",
+   "artikel": [
+    {
+     "titel": "William und Kate in Mumbai",
+     "unterzeile": "Beim Earthshot-Preis gab es fünf Sieger",
+     "text": "Prinz William und Prinzessin Kate sind drei Tage in Indien. Es ist ihre erste gemeinsame Auslandsreise seit vier Jahren. In Mumbai wurde der Earthshot-Preis für Ideen zum Schutz der Umwelt vergeben.\n\nDie fünf Sieger sind Bhutan, Mahindra Last Mile Mobility, die Niue Ocean Wide Trust, PFAS-Free France und die Firma Ørsted. Jeder bekommt eine Million Pfund. Heute wollen William und Kate Indiens Premierminister Narendra Modi treffen.",
+     "quellen": [
+      {
+       "name": "Earthshot Prize: Gewinner 2026",
+       "url": "https://earthshotprize.org/winners-finalists/2026/"
+      },
+      {
+       "name": "CP24: Prince William presents Earthshot Prize winners",
+       "url": "https://www.cp24.com/news/world/2026/11/18/prince-william-presents-earthshot-prize-winners-with-13m-each-in-mumbai/"
+      },
+      {
+       "name": "Royal News Recap, 16. November",
+       "url": "https://www.unofficialroyalty.com/royal-news-recap-for-monday-november-16-2026/"
+      }
+     ]
+    },
+    {
+     "titel": "Straßencricket und U-Bahn",
+     "unterzeile": "So war der erste Tag der Reise",
+     "text": "Am ersten Tag in Indien spielten William und Kate Cricket auf der Straße. Sie fuhren auch mit der Metro in Mumbai. König Charles schickte dem Paar danach eine freundliche Botschaft.",
+     "quellen": [
+      {
+       "name": "Royal News Recap, 16. November",
+       "url": "https://www.unofficialroyalty.com/royal-news-recap-for-monday-november-16-2026/"
+      },
+      {
+       "name": "Hello!: Message an König Charles",
+       "url": "https://www.hellomagazine.com/royalty/935018/prince-william-kate-middleton-public-message-king-charles/"
+      }
+     ]
+    },
+    {
+     "titel": "Prinzessin Estelle im Praktikum",
+     "unterzeile": "Die 14-Jährige war im Schloss bei ihrem Opa",
+     "text": "Prinzessin Estelle von Schweden ist 14 Jahre alt. Sie hat ein Schülerpraktikum im Schloss gemacht, bei König Carl Gustaf. Er ist ihr Großvater.\n\nIn Dänemark nahm Königin Mary an einem Gipfel für die Rechte von Frauen und Mädchen in Kopenhagen teil.",
+     "quellen": [
+      {
+       "name": "Royal News Recap, 16. November",
+       "url": "https://www.unofficialroyalty.com/royal-news-recap-for-monday-november-16-2026/"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "TV-Tipps für heute Abend",
+    "punkte": [
+     "20.15 Uhr, Kabel eins: „Krieg der Welten“ (Film von Steven Spielberg)",
+     "20.15 Uhr, Arte: „Alle in einem Boot“ (Film)",
+     "21.50 Uhr, Arte: „Das Biest“ (Film mit Léa Seydoux)",
+     "22.35 Uhr, Kabel eins: „Minority Report“ (Film)",
+     "Für ARD, ZDF und RTL fanden wir keine verlässlichen Angaben. Schau in dein Programmheft."
+    ],
+    "quellen": [
+     [
+      "kino-zeit.de: TV-Tipps für Mittwoch",
+      "https://www.kino-zeit.de/news-features/empfehlungen-tv-tipps/die-tv-tipps-fuer-mittwoch-den-18-11-2026"
+     ]
+    ]
+   }
+  },
+  {
+   "titel": "Zum Schluss: Gesundheit und Haushalt",
+   "artikel": [
+    {
+     "titel": "Richtig lüften, damit es nicht schimmelt",
+     "unterzeile": "Kurz und kräftig ist besser als gekippt",
+     "text": "Im Winter reicht es, drei bis fünf Minuten stoßzulüften, rät die Verbraucherzentrale. Das machst du am besten mehrmals am Tag. Die Luft im Zimmer soll etwa 40 bis 60 Prozent feucht sein.\n\nAls Richtwerte für die Wärme nennt sie etwa 20 Grad im Wohnzimmer und 18 Grad im Schlafzimmer. Wenig genutzte Räume sollen nicht unter 16 Grad fallen. Beim Lüften den Heizkörper am Fenster zudrehen. Möbel sollten 30 Zentimeter Abstand zur Heizung haben.",
+     "quellen": [
+      {
+       "name": "Verbraucherzentrale: Heizen und Lüften",
+       "url": "https://www.verbraucherzentrale.de/wissen/energie/heizen-und-warmwasser/heizen-und-lueften-so-gehts-richtig-10426"
+      },
+      {
+       "name": "Verbraucherzentrale BW: So heizen und lüften Sie richtig",
+       "url": "https://www.verbraucherzentrale-bawue.de/pressemeldungen/energie/frische-luft-und-warme-raeume-so-heizen-und-lueften-sie-richtig-116410"
+      }
+     ]
+    },
+    {
+     "titel": "Husten und Schnupfen: Wie ist die Lage?",
+     "unterzeile": "Noch ist es ruhig, aber der Winter kommt",
+     "text": "Nach den Daten des Robert Koch-Instituts waren Grippe, Corona und RSV in der Woche bis zum 8. November niedrig. Die nächsten Zahlen kommen am Donnerstag.\n\nDie Grippewelle kommt meist zwischen Januar und März. Wer Husten oder Schnupfen hat, sollte laut RKI drei bis fünf Tage zu Hause bleiben. Das schützt andere.",
+     "quellen": [
+      {
+       "name": "infektrisiko.de: Krankenstand in Deutschland",
+       "url": "https://infektrisiko.de/de/krankenstand-deutschland"
+      },
+      {
+       "name": "RKI: Akute Atemwegserkrankungen",
+       "url": "https://www.rki.de/SharedDocs/FAQs/DE/ARE-Surveillance/ARE_gesamt.html"
+      }
+     ]
+    },
+    {
+     "titel": "Eine Impfung gegen RSV ab 75",
+     "unterzeile": "Das empfiehlt die Ständige Impfkommission",
+     "text": "RSV ist ein Virus, das Atemwege befällt. Für ältere Menschen kann es gefährlich sein. Die Ständige Impfkommission empfiehlt allen ab 75 Jahren eine einmalige Impfung.\n\nAuch Menschen von 60 bis 74 mit einer schweren Vorerkrankung können sich impfen lassen. Das gilt auch für Bewohner von Pflegeheimen. Sprich dazu mit deiner Hausärztin oder deinem Hausarzt.",
+     "quellen": [
+      {
+       "name": "RKI: RSV-Infektionen, Fragen und Antworten",
+       "url": "https://www.rki.de/SharedDocs/FAQs/DE/RSV/FAQ_Liste_RSV.html"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "zumSchluss": {
+  "titel": "Die Teetasse von Oma Lotte",
+  "text": "An einem grauen Novembermorgen kam Finn zu seiner Oma Lotte. Draußen fiel der erste Nebel auf die Dächer. In der Küche duftete es nach Zimt und Äpfeln. Oma Lotte stellte zwei Tassen auf den Tisch. Die eine war blau und hatte einen kleinen Sprung am Rand. „Das ist meine Lieblingstasse“, sagte sie. „Sie ist schon sehr alt.“ Finn fragte, warum sie keine neue nehme. Oma Lotte lächelte. „Weil jeder Sprung eine kleine Geschichte hat“, sagte sie. Dann erzählte sie von dem Winter, in dem sie die Tasse bekam. Damals teilte sie den Tee mit der ganzen Nachbarschaft, weil der Ofen kaputt war. Finn hörte zu und wärmte sich die Hände. Als die Tasse leer war, wurde es draußen heller. Der Nebel zog sich zurück, und ein Streifen Sonne fiel auf den Tisch. „Siehst du“, sagte Oma Lotte. „Auch graue Tage haben ihr gutes Licht.“ Finn nahm sich vor, ihr bald wieder einen Besuch zu machen."
+ }
+}
