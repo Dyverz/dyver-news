@@ -1,0 +1,670 @@
+{
+  "gruss": "Guten Morgen, Abenteurer! Heute Morgen: Blizzard räumt nach dem Blackmaw-Gold-Exploit auf, Vampiric Embrace und Windfury wurden gedämpft, und das Auktionshaus-Update steht in Europa an.",
+  "aufmacher": {
+    "rubrik": "Hotfixes & Patches",
+    "titel": "Blackmaw-Exploit: Blizzard zieht Gold ein und sperrt Accounts",
+    "unterzeile": "Der Loot-Bug ist gepatcht – die Debatte um Streamer und Gold-Handel läuft weiter",
+    "text": "Nach dem Hotfix gegen den Blackmaw-Hold-Loot-Bug geht Blizzard laut Icy Veins gegen die Nutzer vor: Erfarmtes Gold wird entfernt, bei „significant abusers“ gibt es Account-Sperren. Wer den Dungeon nur ein paar Mal lief, soll nicht betroffen sein.\n\nIn der Community wird diskutiert, ob bekannte Streamer anders behandelt werden. Kotaku und Dexerto berichten über Vorwürfe gegen mehrere Streamer; eine Bestätigung von Blizzard zu einzelnen Personen gibt es laut Dexerto nicht.\n\nBalance-seitig bremst der Hotfix vom 16. November Vampiric Embrace (10 statt 20 Prozent) und Windfury Totem. Das Auktionshaus-Update kommt mit der Wochenwartung am 18. November in Europa.",
+    "quellen": [
+      {
+        "name": "Icy Veins",
+        "url": "https://www.icy-veins.com/wow-forever/news/account-suspensions-and-gold-removal-for-blackmaw-hold-exploit-abusers/"
+      },
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/world-of-warcraft-forevers-economy-problems-continue-because-some-people-just-cant-be-normal-about-fictional-money-2000757691"
+      },
+      {
+        "name": "Dexerto",
+        "url": "https://www.dexerto.com/world-of-warcraft/wow-forever-players-say-twitch-streamers-are-getting-away-with-the-same-gold-trick-that-got-them-banned-3429090/"
+      },
+      {
+        "name": "Space4Games",
+        "url": "https://space4games.com/en/games-en/wow-forever-class-hotfix-november-16/"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Blackmaw Hold: Loot-Bug gepatcht, Gold wird eingezogen",
+          "unterzeile": "Blizzard sperrt „erhebliche Missbraucher“ – Dauer der Sperren je nach Quelle unterschiedlich",
+          "text": "Der Hotfix kam zuerst: Normale Gegner im Dungeon Blackmaw Hold (Level 55 bis 60) ließen vollen Elite-Loot fallen. Nach dem Fix droppen die Blackmaw Devotees laut Game Rant gar nichts mehr, womit die Gold-Farm faktisch tot ist.\n\nBlizzard geht zusätzlich gegen die Nutzer vor: Laut Icy Veins wird das erfarmte Gold entfernt, bei „significant abusers“ gibt es Account-Sperren. Spieler, die den Dungeon nur ein paar Mal während des Bugs gelaufen sind, sollen nicht belangt werden. Zur Länge der Sperre widersprechen sich die Quellen (24 Stunden bzw. bis 18. November) – deshalb legen wir uns hier nicht fest.",
+          "quellen": [
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/account-suspensions-and-gold-removal-for-blackmaw-hold-exploit-abusers/"
+            },
+            {
+              "name": "Game Rant",
+              "url": "https://gamerant.com/world-of-warcraft-forever-blackmaw-hold-gold-exploit-ban/"
+            }
+          ]
+        },
+        {
+          "titel": "Class-Hotfix 16. November: Vampiric Embrace halbiert, Windfury Totem überarbeitet",
+          "unterzeile": "Wirkt laut Blizzard mit der planmäßigen Wochenwartung",
+          "text": "Die Heilung von Vampiric Embrace skaliert jetzt mit 10 statt 20 Prozent des Shadow-Schadens; der Priest selbst bekommt 100 Prozent erhöhte Heilung davon. Das ändert die Solo-Heilung nicht, senkt aber, was bei der Gruppe ankommt. Windfury-Totem-Angriffe ignorieren keine Rüstung mehr, haben einen internen Cooldown und erzeugen Rage.",
+          "quellen": [
+            {
+              "name": "Space4Games",
+              "url": "https://space4games.com/en/games-en/wow-forever-class-hotfix-november-16/"
+            },
+            {
+              "name": "Blizzard News: Hotfixes 16. November",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            }
+          ]
+        },
+        {
+          "titel": "Hotfixes vom 13. November: Windfury, Wild Growth und der Ring-Tausch",
+          "unterzeile": "Rückblick auf die Notes, die am 14. November erschienen",
+          "text": "Windfury Totem triggert seit dem 13. November von allen Nahkampf-Fähigkeiten; bei Dual-Wield löst nur der Main-Hand-Schlag aus. Restoration-Druiden können Wild Growth nicht mehr in Bewegung wirken, der Heilungs-Koeffizient stieg von 3,3 auf 6,6 Prozent. Außerdem verlor das Blessed Band of Light seinen Hit-Wert; bis zum Raidstart lässt es sich bei Pix Xizzix gegen den Channeler's Ring (Spell Power statt Spirit) tauschen – unumkehrbar.",
+          "quellen": [
+            {
+              "name": "Space4Games: Patch Notes",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Ausblick: Shaman-Talente frühestens 2027, Auktionshaus mit der Wochenwartung",
+          "unterzeile": "Was als Nächstes laut Blizzard-Notes ansteht",
+          "text": "Überarbeitungen der Shaman-Talente sind laut Space4Games frühestens für Anfang 2027 mit einem Patch geplant, ein genaues Datum gibt es nicht. Die aus einem früheren Hotfix herausgenommenen Auktionshaus-Änderungen (u. a. Mindestgebühr von 1 Silber auf 1 Kupfer) kommen mit der Wartung: 17. November in Nordamerika, 18. November in Europa.",
+          "quellen": [
+            {
+              "name": "Space4Games",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Stand der Notes",
+        "punkte": [
+          "Letzte offizielle Notes: „WoW: Forever Hotfixes – November 16, 2026“",
+          "Für den 18. November haben wir keine neuen Hotfix-Notes gefunden",
+          "Build-Nummer: Blizzard nennt in den Notes keine; die Drittseite lfcarry spricht von Patch 1.60.1 Build 70938 (nicht bestätigt)",
+          "Item Restoration bleibt laut Blue Tracker deaktiviert (kritischer Bug)",
+          "Auktionshaus-Update: Wartung 17./18. November"
+        ],
+        "quellen": [
+          {
+            "name": "Blue Tracker",
+            "url": "https://www.wowhead.com/blue-tracker/topic/eu/wow-forever-hotfixes-november-16-2026-639885"
+          },
+          {
+            "name": "lfcarry (Drittseite)",
+            "url": "https://lfcarry.com/guides/wow-forever-patch-notes"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Priest: Vampiric Embrace verliert die Hälfte",
+          "unterzeile": "Party-Heilung sinkt, Solo bleibt gleich",
+          "text": "Mit dem Hotfix vom 16. November skaliert Vampiric Embrace nur noch mit 10 Prozent des Shadow-Schadens (vorher 20). Der Priest selbst erhält 100 Prozent erhöhte Heilung durch den Effekt. Laut Blizzard bleibt die Solo-Heilung unverändert, es geht um die Verteilung an andere Gruppenmitglieder. Die Änderung greift mit der Wochenwartung. Zusätzlich stapelt Dark Inspiration nicht mehr, wenn mehrere Shadow Priests in der Gruppe sind.",
+          "quellen": [
+            {
+              "name": "Space4Games",
+              "url": "https://space4games.com/en/games-en/wow-forever-class-hotfix-november-16/"
+            },
+            {
+              "name": "MMO Huts",
+              "url": "https://mmohuts.com/news/wow-forever-hotfixes-adjust-priest-healing-windfury-totem-dungeons-and-quests"
+            }
+          ]
+        },
+        {
+          "titel": "Shaman: Windfury Totem verliert seine Rüstungs-Ignoranz",
+          "unterzeile": "Interner Cooldown, Rage-Generierung, weniger Proc-Versuche",
+          "text": "Windfury-Totem-Angriffe respektieren jetzt Rüstung und haben einen internen Cooldown; außerdem erzeugen sie Rage. Mehrere zusätzliche Proc-Versuche wurden entfernt. Eine Quelle nennt das einen deutlichen Dämpfer für Nahkampfgruppen mit Totem; ob und wie stark, hängt von eurer Gruppe ab. Shield Slam und Shield Bash sollen das Totem laut einer Quelle nicht mehr auslösen können.",
+          "quellen": [
+            {
+              "name": "Space4Games",
+              "url": "https://space4games.com/en/games-en/wow-forever-class-hotfix-november-16/"
+            },
+            {
+              "name": "Icy Veins: Weekly Hotfix Summary",
+              "url": "https://www.icy-veins.com/wow-forever/news/class-and-profession-changes-dungeon-tweaks-massive-quest-fixes-wow-forever-weekly-hotfix-summary-november-9-16/"
+            }
+          ]
+        },
+        {
+          "titel": "Paladin: Nur Judgement of Command zählt als Nahkampf",
+          "unterzeile": "Alle anderen Judgements bleiben Ranged-Angriffe",
+          "text": "Judgement of Command löst On-Hit-Effekte aus und zählt als Melee-Angriff. Die übrigen Judgements bleiben Ranged-Attacks mit dem Ranged-Hit-Wert des Paladins – so war es seit dem Hotfix vom 11. November festgelegt. Das betrifft vor allem Hit-Cap und Itemwahl.",
+          "quellen": [
+            {
+              "name": "Space4Games: Class Hotfixes 13. November",
+              "url": "https://space4games.com/en/games-en/wow-forever-class-hotfixes-november-13/"
+            }
+          ]
+        },
+        {
+          "titel": "Druid: Wild Growth wird stärker, aber stationär",
+          "unterzeile": "Koeffizient laut Quelle von 3,3 auf 6,6 Prozent",
+          "text": "Wild Growth kann nicht mehr beim Laufen gewirkt werden. Dafür steigt der Heilungs-Koeffizient laut Space4Games von 3,3 auf 6,6 Prozent. Beim Feral-Druiden wirkt Rend and Tear jetzt auch auf den Bleed von Pounce.",
+          "quellen": [
+            {
+              "name": "Space4Games",
+              "url": "https://space4games.com/en/games-en/wow-forever-class-hotfixes-november-13/"
+            },
+            {
+              "name": "Space4Games: Patch Notes",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Kleinere Fixes: Frost Nova und Berserker Rage",
+          "unterzeile": "Datum je nach Quelle 13. oder 16. November",
+          "text": "Frost Nova wird jetzt korrekt durch Schaden von Procs und Blizzard gebrochen, Berserker Rage entfernt Sap. Die Quellen datieren beide Fixes unterschiedlich (13. oder 16. November); sicher ist nur, dass sie live sind.",
+          "quellen": [
+            {
+              "name": "Epiccarry (Drittseite)",
+              "url": "https://epiccarry.com/blogs/world-of-warcraft-forever-class-tuning/"
+            },
+            {
+              "name": "Space4Games",
+              "url": "https://space4games.com/en/games-en/wow-forever-class-hotfixes-november-13/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Raids am 9. Dezember: Größen und Bosszahlen im Überblick",
+          "unterzeile": "Quellen sind Drittseiten – Blizzard-Overview prüfen",
+          "text": "Barrow Deeps (10 Spieler, 8 Bosse) und Hyjal Summit (20 Spieler, 13 Bosse) sowie Onyxia's Lair (40 Spieler) öffnen laut Guide-Seiten am 9. Dezember, alle mit Level-60-Anforderung und wöchentlichem Reset.\n\nDie Angaben stammen von Guide-Seiten (teils Boosting-Anbieter), die sich auf Blizzards Raid Overview berufen. Einen Startzeitpunkt am 9. Dezember nennen sie nicht.",
+          "quellen": [
+            {
+              "name": "Conquest Capped",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-raids-overview/"
+            },
+            {
+              "name": "WoWSod",
+              "url": "https://wowsod.pro/articles/wow-forever-raids-onyxia-attunement-raid-sizes"
+            }
+          ]
+        },
+        {
+          "titel": "Onyxia: Drakefire Amulet für jeden Raider",
+          "unterzeile": "Nur Onyxia verlangt eine Attunement-Kette",
+          "text": "Laut Guides braucht jeder Raider das Drakefire Amulet, erspielt über eine fraktionsspezifische Quest-Kette. Sie gilt nicht accountweit: Jeder Twink muss sie erneut machen. Barrow Deeps und Hyjal Summit haben demnach keine Attunement.",
+          "quellen": [
+            {
+              "name": "Senseos",
+              "url": "https://senseos.gg/guides/wow-forever/onyxia-attunement/"
+            },
+            {
+              "name": "Account Shark",
+              "url": "https://accountshark.net/blog/wow-forever-onyxia-attunement-drakefire-amulet-first-raid-preparation"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-XP: Die 12-Level-Regel",
+          "unterzeile": "Blizzard korrigierte den Hotfix vom 13. November binnen eines Tages",
+          "text": "Der erste Hotfix nahm der ganzen Gruppe die XP, sobald ein Mitglied für Gegner zu hoch war. Community Manager Kaivax räumte laut GamesRadar ein, das habe in manchen Dungeons „missed the mark“. Seit dem 14. November entfällt die XP nur, wenn ein Gruppenmitglied mehr als 12 Level über den Gegnern liegt; laufende Instanzen sind ausgenommen.",
+          "quellen": [
+            {
+              "name": "GamesRadar",
+              "url": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-takes-another-swing-at-world-of-warcraft-forevers-dungeon-grind-after-changes-made-just-24-hours-earlier-missed-the-mark/"
+            },
+            {
+              "name": "Timesaver",
+              "url": "https://timesaver.gg/blog/wow-forever-dungeon-leveling-vs-questing"
+            }
+          ]
+        },
+        {
+          "titel": "Shaper's Terrace: Dungeon für Level 58 bis 60",
+          "unterzeile": "Laut Fan-Seiten in Un'Goro, fünf Spieler",
+          "text": "Fan-Guides führen den Dungeon in Un'Goro Crater mit empfohlenem Level 58 bis 60. Die Power-Crystals sollen schon beim Questen in Un'Goro gesammelt werden. Zu Bossen gibt es in den Quellen keine verlässlichen Details.",
+          "quellen": [
+            {
+              "name": "Conquest Capped",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-leveling/"
+            },
+            {
+              "name": "Icy Veins Database",
+              "url": "https://db.icy-veins.com/wow-forever/quests/zones/the-shaper-s-terrace/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Dungeons oder Questen? Der Vergleich nach dem 50-Prozent-Buff",
+          "unterzeile": "Dungeon-Kill-XP wurde um 50 Prozent angehoben",
+          "text": "Nach der Anhebung der Dungeon-Kill-XP um 50 Prozent sind Dungeons als Level-Weg attraktiver geworden. Der Timesaver-Vergleich stellt Dungeons und Questen gegenüber; er ist eine Drittseite, die Zahlen sind keine offiziellen. Beachtet die 12-Level-Regel, wenn ihr mit höherlevligen Freunden lauft.",
+          "quellen": [
+            {
+              "name": "Timesaver",
+              "url": "https://timesaver.gg/blog/wow-forever-dungeon-leveling-vs-questing"
+            }
+          ]
+        },
+        {
+          "titel": "Skyborne: Zephras Isle bis Level 12, dann aufs Festland",
+          "unterzeile": "Guides weichen bei den Routen ab",
+          "text": "Skyborne beider Fraktionen starten auf Zephras Isle und leveln dort bis etwa Level 12. Danach geht es laut Guides mit der Skycutter aufs Festland; die Beschreibungen des Weges (Zeppelin, Portal) unterscheiden sich je nach Fraktion und Guide. Ein Guide nennt Teile der Route aus der Beta – prüft sie im Spiel.",
+          "quellen": [
+            {
+              "name": "Wow Forever Leveling",
+              "url": "https://wowforeverleveling.com/guides/skyborne-leveling-guide"
+            },
+            {
+              "name": "MMOEXP",
+              "url": "https://www.mmoexp.com/News/wow-forever-skyborne-guide-unlock-classes-racials-and-leveling-route.html"
+            }
+          ]
+        },
+        {
+          "titel": "Neue Zonen: Zephras Isle, Riverglades, Shen'dralas, Mount Hyjal",
+          "unterzeile": "Für Hyjal gibt es noch keine Level-Spanne",
+          "text": "Zockify führt eine Zonenübersicht mit Karten für die vier neuen Gebiete. Für Mount Hyjal hat Blizzard laut Zockify noch keine Level-Spanne genannt. Riverglades wird von einem Guide zusammen mit Stranglethorn Vale für Level 35 bis 48 geführt.",
+          "quellen": [
+            {
+              "name": "Zockify: Zonen",
+              "url": "https://www.zockify.com/forever/zones/"
+            },
+            {
+              "name": "The Forever Era",
+              "url": "https://theforeverera.com/en/guides/leveling/"
+            }
+          ]
+        },
+        {
+          "titel": "Quest- und Dungeon-Fixes im Wochenüberblick",
+          "unterzeile": "Drowned City, Sunken Temple und mehrere Quests",
+          "text": "Der Hotfix vom 16. November enthält laut Space4Games Fixes in The Drowned City, im Sunken Temple und bei mehreren Quests. Das Fishing Rack liefert Lures für alle, Bloated Fish droppen häufiger. Waylaid Crates und Craftsman's Writs können laut Blue Tracker nun auch in Dungeons droppen.",
+          "quellen": [
+            {
+              "name": "Space4Games",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            },
+            {
+              "name": "Blue Tracker",
+              "url": "https://www.wowhead.com/blue-tracker/topic/eu/wow-forever-hotfixes-november-16-2026-639885"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Gold-Scans: Herbalism und Alchemy vorn – mit Vorsicht lesen",
+          "unterzeile": "Zahlen einer Gold-Seller-Seite, nicht offiziell",
+          "text": "Epiccarry nennt für den 15./16. November Herbalism als stärksten Beruf in den USA (rund 792 Gold pro Tag) und Alchemy in der EU (rund 1.189 Gold pro Tag). Ein früherer Scan derselben Seite liegt niedriger (645 bzw. 941). Das Portal verkauft selbst Gold; die Werte stammen von unterschiedlichen Tagen und Realms.",
+          "quellen": [
+            {
+              "name": "Epiccarry",
+              "url": "https://epiccarry.com/blogs/blackmaw-hold-wow-forever"
+            },
+            {
+              "name": "Epiccarry: Gold Farming",
+              "url": "https://epiccarry.com/blogs/wow-forever-gold-farming/"
+            }
+          ]
+        },
+        {
+          "titel": "Preisdeckel: Black Lotus und Arcane Crystal beim Händler",
+          "unterzeile": "Zwei Guides nennen 50 Gold ohne Limit",
+          "text": "Laut mmonster und lfcarry verkauft ein Händler namens Mister Graphed Black Lotus und Arcane Crystal für 50 Gold ohne Stückzahl-Limit. Das deckelt, was am Auktionshaus bezahlt wird: Black Lotus lag im Scan bei rund 10 Gold.",
+          "quellen": [
+            {
+              "name": "mmonster",
+              "url": "https://mmonster.co/wow-forever/guides/gold"
+            },
+            {
+              "name": "lfcarry",
+              "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+            }
+          ]
+        },
+        {
+          "titel": "Kräuterpreise fallen schnell",
+          "unterzeile": "Firebloom von etwa 48 Silber auf 11 in zwei Tagen",
+          "text": "Ein Guide berichtet, Firebloom sei in zwei Tagen von etwa 48 auf 11 Silber gefallen, weil mehr Spieler die Gebiete erreichten. Wer Material hortet, sollte die Preisentwicklung beobachten – die Zahlen sind eine Einzelbeobachtung.",
+          "quellen": [
+            {
+              "name": "Conquest Capped",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-gold-farming/"
+            }
+          ]
+        },
+        {
+          "titel": "Berufe leveln: Cooking, First Aid und Alchemy am günstigsten",
+          "unterzeile": "Rechner mit Stand 17. November, US-Allianz",
+          "text": "Ein Profession-Rechner listet Cooking, First Aid und Alchemy als günstigste Craft-Berufe für 1 bis 300 (US, Alliance). Eine weitere Guide-Quelle empfiehlt Herbalism plus Alchemy als günstige Kombination.",
+          "quellen": [
+            {
+              "name": "Timesaver Rechner",
+              "url": "https://timesaver.gg/tools/wow-forever/professions"
+            },
+            {
+              "name": "lfcarry",
+              "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+            }
+          ]
+        },
+        {
+          "titel": "Blackmaw-Farm: Was sie so lukrativ machte",
+          "unterzeile": "Quellen nennen über 100 bis 160 Gold pro Stunde",
+          "text": "Vor dem Fix soll die Furbolg-Gruppe in Blackmaw Hold über 100 Gold pro Stunde gebracht haben; OutputLag spricht von 160 pro Stunde. Blizzard hatte die Farm zunächst ohne Ankündigung gepatcht. Die Zahlen sind Spieler-Schätzungen.",
+          "quellen": [
+            {
+              "name": "OutputLag",
+              "url": "https://outputlag.com/news/wow-forevers-blackmaw-hold-gold-farm-paid-160-an-hour-before-blizzard-silently-nerfed-it-raising-fears-about-the-economy/"
+            },
+            {
+              "name": "Game Rant",
+              "url": "https://gamerant.com/world-of-warcraft-forever-blackmaw-hold-gold-exploit-ban/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Community: Rekorde, Gilden, Streamer, Server",
+      "artikel": [
+        {
+          "titel": "Streamer unter Verdacht: Die Blackmaw-Debatte",
+          "unterzeile": "Blizzard hat laut Dexerto keine Maßnahmen gegen einzelne Streamer bestätigt",
+          "text": "Streamer Ziqo bestätigte auf X, Blackmaw Hold gefarmt zu haben, und bestritt, dass es ein Exploit gewesen sei. Laut Kotaku räumte er außerdem ein, rund 520 Gold von Zuschauern erhalten zu haben. Viele Spieler fordern Gleichbehandlung; Dexerto schreibt, Blizzard habe öffentlich nicht bestätigt, ob gegen Ziqo, Sodapoppin oder Brucewayner etwas unternommen wurde. Vorwürfe bleiben Vorwürfe, bis Blizzard sich äußert.",
+          "quellen": [
+            {
+              "name": "Kotaku",
+              "url": "https://kotaku.com/world-of-warcraft-forevers-economy-problems-continue-because-some-people-just-cant-be-normal-about-fictional-money-2000757691"
+            },
+            {
+              "name": "Dexerto",
+              "url": "https://www.dexerto.com/world-of-warcraft/wow-forever-players-say-twitch-streamers-are-getting-away-with-the-same-gold-trick-that-got-them-banned-3429090/"
+            }
+          ]
+        },
+        {
+          "titel": "Gold-Handel gegen echtes Geld: Blizzard greift durch",
+          "unterzeile": "Ein Spieler: „They left me with 9 silver“",
+          "text": "GamesRadar berichtet, Blizzard habe einem mutmaßlichen Regelbrecher Gold im Wert von rund 200 US-Dollar abgenommen. Die Angabe stammt von dem Betroffenen selbst und ist nicht von Blizzard bestätigt. Nach Kaivax will Blizzard weiter „against intentional abuse“ vorgehen.",
+          "quellen": [
+            {
+              "name": "GamesRadar",
+              "url": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-is-already-cracking-down-on-real-money-trading-in-world-of-warcraft-forever-as-devs-take-usd200-worth-of-gold-from-alleged-rule-breaker-they-left-me-with-9-silver/"
+            }
+          ]
+        },
+        {
+          "titel": "Race to 60: Team JokerD zuerst",
+          "unterzeile": "Rund 52 Stunden nach dem Start",
+          "text": "Die ersten Level-60-Charaktere stellte laut Wowhead-Berichten Team JokerD, fünf Horde-Charaktere auf einem EU-Normal-Realm, nach knapp 52 Stunden. Ein Tracker nennt Esfand Television als Allianz-Ersten, das ist dort als unbestätigt markiert.",
+          "quellen": [
+            {
+              "name": "WoWGuide.net",
+              "url": "https://wowguide.net/en/guides/wow-forever-world-first-level-60"
+            },
+            {
+              "name": "Forever Guides",
+              "url": "https://theforeverguides.com/news/world-first-60/"
+            }
+          ]
+        },
+        {
+          "titel": "Faction Lock: Blizzard widerspricht dem Trial-Account-Vorwurf",
+          "unterzeile": "Schlechtester Split laut Blizzard 55/45",
+          "text": "Kaivax nannte als ungünstigsten Split pro Region etwa 55/45 – das sei nicht nah genug an 50/50. Spieler vermuteten, Trial-Accounts würden für Wegwerf-Allianzcharaktere genutzt; Blizzard sagt, es gebe dafür „no evidence“. Die Sperren sollen laut Blizzard temporär sein.",
+          "quellen": [
+            {
+              "name": "OutputLag",
+              "url": "https://outputlag.com/news/wow-forever-level-1-trial-alts-unlocking-horde-alliance-fleeing-pvp/"
+            },
+            {
+              "name": "Destructoid",
+              "url": "https://www.destructoid.com/horde-pvp-character-lock-in-wow-forever-explained/"
+            }
+          ]
+        },
+        {
+          "titel": "Server-Probleme und Gold-Erstattung",
+          "unterzeile": "Verlorene Training-Käufe vom 9. November wurden per Post erstattet",
+          "text": "Space4Games meldet, Blizzard habe Gold für beim Serverproblem verlorene Training-Käufe per Ingame-Post erstattet. Das Zeitfenster geben Quellen uneinheitlich an. Am 13. November gab es außerdem eine kurzfristige Notwartung für einen Crash (laut Warcraftmaps).",
+          "quellen": [
+            {
+              "name": "Space4Games",
+              "url": "https://space4games.com/en/games-en/wow-forever-refund-lost-skills/"
+            },
+            {
+              "name": "Warcraftmaps",
+              "url": "https://warcraftmaps.com/realm-status"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Zockify: Klassenguides für Hunter, Mage und Warlock",
+          "unterzeile": "Beast Mastery zum Leveln, Affliction ab Level 10",
+          "text": "Der Hunter-Guide empfiehlt laut Zockify Beast Mastery zum Leveln, weil das Pet Gegner beschäftigt. Für den Warlock gibt es einen Affliction-Levelguide von 10 bis 60, außerdem existiert ein Mage-Guide mit Änderungen und Leveling-Build.",
+          "quellen": [
+            {
+              "name": "Zockify: Hunter",
+              "url": "https://www.zockify.com/forever/hunter/"
+            },
+            {
+              "name": "Zockify: Warlock",
+              "url": "https://www.zockify.com/forever/warlock/leveling/"
+            }
+          ]
+        },
+        {
+          "titel": "Wand-Progression von 1 bis 60",
+          "unterzeile": "Empfohlene Upgrades mit Quellen",
+          "text": "Zockify bietet eine Wand-Progression von Level 1 bis 60 mit Bezugsquellen.",
+          "quellen": [
+            {
+              "name": "Zockify: Wand Progression",
+              "url": "https://www.zockify.com/forever/wand-progression/"
+            }
+          ]
+        },
+        {
+          "titel": "Berufsguides: Blacksmithing und Lockpicking 1 bis 300",
+          "unterzeile": "Material-Listen und Zeitpunkt für Expert/Artisan",
+          "text": "Zockify führt eine Blacksmithing-Route 1–300 mit Materialien je Schritt und dem Hinweis, wann ihr Expert und Artisan lernt. Dazu gibt es einen Lockpicking-Guide (1–300) für beide Fraktionen.",
+          "quellen": [
+            {
+              "name": "Zockify: Blacksmithing",
+              "url": "https://www.zockify.com/forever/professions/blacksmithing/leveling/"
+            },
+            {
+              "name": "Zockify: Lockpicking",
+              "url": "https://www.zockify.com/forever/rogue/lockpicking/"
+            }
+          ]
+        },
+        {
+          "titel": "Pre-Raid-BiS für Barrow Deeps, Hyjal und Onyxia",
+          "unterzeile": "Fan-Seite, Raid-Öffnung 9. Dezember",
+          "text": "Timesaver hat eine Pre-Raid-BiS-Übersicht für die drei Raids veröffentlicht. Als Drittseite-Angabe ist sie vorläufig; bis zum Raidstart können sich Items durch Hotfixes ändern, wie das Ring-Tausch-Beispiel zeigt.",
+          "quellen": [
+            {
+              "name": "Timesaver",
+              "url": "https://timesaver.gg/blog/wow-forever-pre-raid-bis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen, Interviews, Entwickler-Aussagen",
+      "artikel": [
+        {
+          "titel": "Hardcore kommt später, nicht zum Launch",
+          "unterzeile": "BlizzCon-Panel: Tote Hardcore-Charaktere können in andere Rulesets",
+          "text": "Auf dem BlizzCon-Panel sagten die Entwickler laut Warcraft Tavern, dass Hardcore nicht zum Launch verfügbar ist, aber später hinzukommt. Gestorbene Hardcore-Charaktere sollen sich in die anderen drei Rulesets transferieren lassen. Senior Game Designer Josh „Aggrend“ Greenfield deutete einen „dedicated space“ für Mak'gora-Duelle an. Ein Datum nennt Blizzard nicht.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern",
+              "url": "https://www.warcrafttavern.com/forever/news/world-of-warcraft-forever-was-designed-with-hardcore-in-mind/"
+            }
+          ]
+        },
+        {
+          "titel": "Kaivax zum Blackmaw-Exploit",
+          "unterzeile": "„A couple hundred players“ farmten gezielt",
+          "text": "Laut Berichten sagte Community Manager Kaivax, wer Blackmaw Hold ein paar Mal lief, habe „nichts falsch gemacht“. Ein paar hundert Spieler weltweit hätten aber erkannt, dass es unbeabsichtigt war, und exklusiv gefarmt. Blizzard hatte Economy-Locks auf die Accounts gelegt und kündigte weitere Maßnahmen an.",
+          "quellen": [
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/account-suspensions-and-gold-removal-for-blackmaw-hold-exploit-abusers/"
+            },
+            {
+              "name": "Kotaku",
+              "url": "https://kotaku.com/world-of-warcraft-forevers-economy-problems-continue-because-some-people-just-cant-be-normal-about-fictional-money-2000757691"
+            }
+          ]
+        },
+        {
+          "titel": "Aggrend zu leeren Zonen",
+          "unterzeile": "Blizzard kennt Probleme mit der Bevölkerung",
+          "text": "Aggrend räumte ein, Blizzard sei bewusst, dass sich manche Gebiete weniger bevölkert anfühlen als sie sollten. Blizzard senkte am 9. November die Bevölkerung in überfüllten Zonen, auf PvP-Rulesets am stärksten (laut Timesaver). Eine Blizzard-Erklärung zur Layering-Technik haben wir nicht gefunden.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern",
+              "url": "https://www.warcrafttavern.com/forever/news/world-of-warcraft-forever-was-designed-with-hardcore-in-mind/"
+            },
+            {
+              "name": "Timesaver",
+              "url": "https://timesaver.gg/blog/wow-forever-layering-sharding-explained"
+            }
+          ]
+        },
+        {
+          "titel": "Launch-Rückblick: Abo reicht",
+          "unterzeile": "Start am 4. November, Zugang über bestehendes Abo oder Game Time",
+          "text": "Blizzard nennt als globalen Release den 4. November 2026. Der Zugang ist im bestehenden Abo oder über Game Time enthalten. Das Roadmap-Recap nennt neun neue Dungeons, die Skyborne und Raids ab dem 9. Dezember.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Carve a New Path",
+              "url": "https://news.blizzard.com/en-us/article/24302093/carve-a-new-path-with-world-of-warcraft-forever"
+            },
+            {
+              "name": "Blizzard News: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Wartung: Auktionshaus-Update in Europa am 18. November",
+          "unterzeile": "Region und Uhrzeit nach Quellen uneinheitlich",
+          "text": "Das Auktionshaus-Update kommt laut Space4Games und Blue-Tracker-Zusammenfassungen mit der Wochenwartung: Nordamerika am 17., Europa am 18. November. Eine Uhrzeit haben wir nicht gefunden – prüft den Realm-Status.",
+          "quellen": [
+            {
+              "name": "Space4Games",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            },
+            {
+              "name": "Blue Tracker",
+              "url": "https://www.bluetracker.gg/wow/topic/eu-en/639885-wow-forever-hotfixes-november-16-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "Stranglethorn Fishing Extravaganza: Sonntag, 22. November",
+          "unterzeile": "Wöchentlich, 14 Uhr Realmzeit",
+          "text": "Laut einem Kalender findet die Fishing Extravaganza jeden Sonntag um 14 Uhr Realmzeit in Stranglethorn Vale statt, das nächste Mal am 22. November.",
+          "quellen": [
+            {
+              "name": "WoW Forever Calendar",
+              "url": "https://wowcalc.net/en/forever/wiki/calendar"
+            },
+            {
+              "name": "Endgametools",
+              "url": "https://endgametools.com/en/wow-forever/events"
+            }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire: 7. bis 14. Dezember in Thunder Bluff",
+          "unterzeile": "Kalenderseiten, nicht von Blizzard bestätigt",
+          "text": "Die Faire wechselt monatlich zwischen Elwynn Forest (9.–16. November) und Thunder Bluff. Blizzard hat die Rotation nicht veröffentlicht; die Termine können sich verschieben.",
+          "quellen": [
+            {
+              "name": "WoW Forever Calendar",
+              "url": "https://wowcalc.net/en/forever/wiki/calendar"
+            }
+          ]
+        },
+        {
+          "titel": "Winter Veil: 15. Dezember bis 2. Januar",
+          "unterzeile": "Kalenderangabe, Realmzeit",
+          "text": "Das Fest läuft laut Kalender von Dienstag, 15. Dezember (6 Uhr) bis Samstag, 2. Januar 2027 (6 Uhr) Realmzeit, mit Greatfather Winter in Ironforge und Orgrimmar.",
+          "quellen": [
+            {
+              "name": "WoW Forever Calendar",
+              "url": "https://wowcalc.net/en/forever/wiki/calendar"
+            }
+          ]
+        },
+        {
+          "titel": "Raid-Start 9. Dezember",
+          "unterzeile": "Noch drei Wochen Vorbereitung",
+          "text": "Barrow Deeps, Hyjal Summit und Onyxia's Lair öffnen laut Blizzard-Panel-Recap und Guide-Seiten am 9. Dezember. Zockify meldet das in einer Nachricht vom 15. November.",
+          "quellen": [
+            {
+              "name": "Blizzard News: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            },
+            {
+              "name": "Zockify",
+              "url": "https://www.zockify.com/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "Mi 18.11.: Wochenwartung EU (Auktionshaus-Update)",
+          "So 22.11., 14 Uhr: Stranglethorn Fishing Extravaganza",
+          "7.–14.12.: Darkmoon Faire in Thunder Bluff (Kalenderseite)",
+          "9.12.: Raids",
+          "15.12.–2.1.: Winter Veil"
+        ],
+        "quellen": [
+          {
+            "name": "WoW Forever Calendar",
+            "url": "https://wowcalc.net/en/forever/wiki/calendar"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages",
+    "text": "Vor dem Einloggen nach der Wartung kurz den Realm-Status prüfen, und bei Guides und Gold-Zahlen von Drittseiten immer das Datum des Scans anschauen: Preise und Regeln ändern sich in Forever gerade wöchentlich."
+  }
+}
