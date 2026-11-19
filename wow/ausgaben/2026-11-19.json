@@ -1,0 +1,771 @@
+{
+  "gruss": "Guten Morgen, Abenteurer! Heute: Ziqos Sperre sorgt für Debatten, die Hotfixes vom 17. November, der Stand beim Auktionshaus und die Raid-Vorbereitung.",
+  "aufmacher": {
+    "rubrik": "Community",
+    "titel": "Ziqo gesperrt: Blizzards Blackmaw-Strafen sorgen für Streit",
+    "unterzeile": "Sieben Tage nach eigener Angabe, einige hundert Spieler betroffen",
+    "text": "Ziqo hat am 17. November bestätigt, dass er wegen der Blackmaw-Hold-Farm sieben Tage gesperrt wurde. Die Dauer stützt sich auf seine eigene Aussage, denn Blizzard äußert sich nicht zu einzelnen Accounts. Icy Veins schreibt, er habe die Farm offen geplant und über 4.000 Gold gezeigt; manche Spieler sagen, sie seien für weniger härter bestraft worden.\n\nBlizzard erklärte in „Actions For Blackmaw Hold Abuse – November 17“, einige hundert Spieler hätten fehlerhaften Loot wissentlich ausgenutzt. Das Gold wird entfernt, die schwersten Fälle werden gesperrt. Ziqo nannte auch Sodapoppin und Brucewayner als Teilnehmer, beide haben sich nicht geäußert; das ist unbestätigt.\n\nParallel stehen die Hotfixes vom 17. November an: Upper Blackrock Spire ist wieder schwerer, Paladin-Tanks bekommen Spell Power auf dem Soulforge-Set.",
+    "quellen": [
+      {
+        "name": "Icy Veins",
+        "url": "https://www.icy-veins.com/wow-forever/news/blackmaw-hold-bans-spark-outrage-as-ziqo-receives-7-day-suspension/"
+      },
+      {
+        "name": "Blizzard-Forum",
+        "url": "https://us.forums.blizzard.com/en/wow/t/actions-for-blackmaw-hold-abuse-november-17/2419757/1"
+      },
+      {
+        "name": "Kami Labs",
+        "url": "https://kami-labs.fr/en/wow-forever/ziqo-suspendu-7-jours-wow-forever/"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Hotfixes vom 17. November: UBRS schwerer, Soulforge-Set für Paladin-Tanks",
+          "unterzeile": "Blizzards Notes erschienen am 18. November",
+          "text": "Blizzard hat die Hotfix-Notes vom 17. November veröffentlicht. Auf der Klassenseite stehen nur zwei Punkte: Das Dungeon-Set Soulforge Armor (Paladin-Tank) gibt jetzt Spell Power statt Strength, und beim Shaman verliert Flurry keine Stacks mehr fälschlich, wenn Windfury-Totem-Angriffe landen. Might of Stormwind und Warchief's Blessing werden außerdem beim Tod zuverlässig entfernt und wirken nicht mehr auf Nicht-Spieler.\n\nDazu kommen Korrekturen bei Items, Berufen und Quests: Shadow Priests dürfen die Night Watchman's Torch tragen, Whiteout Staff und Crackling Staff haben nun passende Werte, und mehrere Blacksmithing-, Herbalism- und Skinning-Fixes sind drin. Im PvP sind die Alterac-Valley-Quests erst ab Level 58 annehmbar, und das Aufsitzen in den Starträumen der Warsong Gulch ist behoben.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            },
+            {
+              "name": "PC Games Hardware",
+              "url": "https://www.pcgameshardware.de/World-of-Warcraft-Forever-Spiel-78891/News/update-18-november-2026-auktionshaus-schattenpriester-1560336/"
+            }
+          ]
+        },
+        {
+          "titel": "Upper Blackrock Spire ist wieder so schwer wie gedacht",
+          "unterzeile": "Gegner hatten zu wenig Leben und Schaden",
+          "text": "Laut PC Games Hardware wurden Lebenspunkte und Schaden der Gegner in der Upper Blackrock Spire korrigiert; sie hatten zuvor weniger als vorgesehen. Für den Abschluss braucht es damit wieder eine vollständige, passend vorbereitete Gruppe. Die Dungeon-XP-Regeln bleiben unverändert. Blizzards Notes nennen die Korrektur ebenfalls.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            },
+            {
+              "name": "PC Games Hardware",
+              "url": "https://www.pcgameshardware.de/World-of-Warcraft-Forever-Spiel-78891/News/update-18-november-2026-auktionshaus-schattenpriester-1560336/"
+            }
+          ]
+        },
+        {
+          "titel": "Camping: Schlafsack nicht mehr auf dem Mount",
+          "unterzeile": "Resting-Aura im Bereich des Bags",
+          "text": "Der Cozy Sleeping Bag lässt sich nicht mehr nutzen, solange man auf einem Reittier sitzt. Er kann an Orten wie Hunter-Fallen platziert werden und gibt einen Resting-Effekt im Umkreis. Auch zusätzliche Aura-Anzeige und Platzierungsregeln wurden laut PCGH angepasst.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            },
+            {
+              "name": "PC Games Hardware",
+              "url": "https://www.pcgameshardware.de/World-of-Warcraft-Forever-Spiel-78891/News/update-18-november-2026-auktionshaus-schattenpriester-1560336/"
+            }
+          ]
+        },
+        {
+          "titel": "Shen'dralas und Mining: Quest-Fixes mit Komfort",
+          "unterzeile": "Pylonen-Fortschritt wird in der Gruppe geteilt",
+          "text": "Bei den Shen'dralas-Quests teilt sich der Fortschritt beim Reparieren von Pylonen mit nahen Gruppenmitgliedern, und das Exhausted Crystal Heart steht allen berechtigten Mitgliedern offen (PCGH). Spectral Iron Ore lässt sich laut PCGH jetzt mit Find Minerals aufspüren, die Spawnrate wurde erhöht.",
+          "quellen": [
+            {
+              "name": "PC Games Hardware",
+              "url": "https://www.pcgameshardware.de/World-of-Warcraft-Forever-Spiel-78891/News/update-18-november-2026-auktionshaus-schattenpriester-1560336/"
+            },
+            {
+              "name": "Blizzard News: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Item Restoration bleibt vorerst aus",
+          "unterzeile": "Kritischer Bug seit den Hotfixes vom 11. November",
+          "text": "Blizzard hat den Item-Restoration-Service am 11. November wegen eines kritischen Bugs abgeschaltet. Einen Rückkehrtermin nennen die uns vorliegenden Berichte nicht; wir fanden bis heute keine Meldung, dass er wieder läuft. Icy Veins rät, Gear nicht zu verkaufen oder zu löschen, das man eventuell zurückholen will.",
+          "quellen": [
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/dont-vendor-gear-you-might-want-back-item-restoration-disabled/"
+            },
+            {
+              "name": "Blizzard News: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Stand der Hotfixes",
+        "punkte": [
+          "Letzte offizielle Notes: Hotfixes 17. November (veröffentlicht 18.11.)",
+          "Build-Nummer: in den Blizzard-Notes nicht genannt",
+          "Neu: Soulforge Armor mit Spell Power, UBRS-Korrektur, Shaman-Flurry-Fix",
+          "AV-Quests ab Level 58",
+          "Item Restoration: weiterhin deaktiviert (laut letzten Berichten)"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard News: Hotfixes 17. November",
+            "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Paladin-Tanks: Spell Power wird Hauptwert",
+          "unterzeile": "Soulforge Armor im Fokus",
+          "text": "Blizzard stellt das Dungeon-Set Soulforge Armor (Protection Paladin) von Strength auf Spell Power um. Laut PC Games Hardware soll Spell Power damit der Hauptschadenswert für Paladin-Tanks werden; die Änderung betrifft nur dieses Set. Wie sich das auf die Bedrohungserzeugung auswirkt, ist in den Notes nicht beschrieben.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            },
+            {
+              "name": "PC Games Hardware",
+              "url": "https://www.pcgameshardware.de/World-of-Warcraft-Forever-Spiel-78891/News/update-18-november-2026-auktionshaus-schattenpriester-1560336/"
+            }
+          ]
+        },
+        {
+          "titel": "Undead Paladins kommen nicht an drei Rare-Items",
+          "unterzeile": "Sunken-Temple-Questreihe startet nicht",
+          "text": "Icy Veins berichtet, dass Undead Paladins die Sunken-Temple-Klassenquests nicht beginnen können, weil beteiligte NPCs feindlich sind. Damit fehlt ihnen die Abschlussquest Forging the Mightstone samt drei Belohnungen. Icy Veins hält das für ein Versehen, das wohl korrigiert wird; Blizzard hat sich dazu in den gefundenen Quellen nicht geäußert.",
+          "quellen": [
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/undead-paladins-are-locked-out-of-three-rare-items-in-wow-forever/"
+            },
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/paladin-class-quests"
+            }
+          ]
+        },
+        {
+          "titel": "Rückblick: Das erste Class-Tuning vom 10. November",
+          "unterzeile": "Shaman, Warlock und Hunter-Pets",
+          "text": "Am 10. November senkte Blizzard bei Enhancement-Shamans den Stormstrike-Schaden auf 100 % Waffenschaden (vorher 150 %) bei 8 statt 6 Sekunden Cooldown. Wrack der Warlocks verliert 30 % Schaden und ist ein 6-Sekunden-Channel. Die Pet-Gesundheit der Hunter wurde auf 115 % korrigiert (vorher 150 %), Warlock-Pets bekamen etwa 15 % mehr Basis-Leben.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            },
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/first-class-tuning-pass-coming-to-wow-forever-november-10th/"
+            }
+          ]
+        },
+        {
+          "titel": "Warlock-Deep-Dive: Pets, Banes und Demonology",
+          "unterzeile": "Nur eine Bane pro Warlock und Ziel",
+          "text": "Icy Veins beschreibt in einem Deep Dive eine überarbeitete Master Demonologist und das neue Talent Demonic Brand. Ein tankendes Pet wie der Voidwalker erzeugt zusätzliche Bedrohung, ein Imp nicht. Pro Warlock kann nur eine Bane auf einem Ziel aktiv sein.",
+          "quellen": [
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/poisons-daggers-pet-scaling-and-banes-rogue-and-warlock-forever-deep-dives/"
+            }
+          ]
+        },
+        {
+          "titel": "Skyborne: Tier-Listen widersprechen sich",
+          "unterzeile": "Fan-Meinungen aus der Beta-Zeit",
+          "text": "Horde-Skyborne (Windshaper) können Shaman spielen, Allianz-Skyborne (High Order) Mage. Wind Blessed gibt allen Skyborne Haste, wurde am 26. Oktober von 3 auf 2 % gesenkt. Eine Seite sieht den Skyborne-Mage in S-Tier, eine andere den Hunter ganz vorn. Alle Listen sind Fan-Einschätzungen und teils älter als die letzten Patches.",
+          "quellen": [
+            {
+              "name": "Rankedboost",
+              "url": "https://rankedboost.com/world-of-warcraft/forever/race/skyborne/"
+            },
+            {
+              "name": "Scrywow",
+              "url": "https://scrywow.com/wow-forever-race-class-picker/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Shaman: Flurry-Fix (17.11.)",
+          "Paladin: Soulforge-Set mit Spell Power",
+          "Priest: Vampiric Embrace seit 16.11. abgeschwächt",
+          "Quelle für alle: Blizzard-Hotfix-Notes"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard News: Hotfixes 17. November",
+            "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Raids am 9. Dezember: So plant ihr den Start",
+          "unterzeile": "Barrow Deeps 10, Hyjal Summit 20, Onyxia 40",
+          "text": "Laut Guide-Seiten öffnen am 9. Dezember drei Raids: Barrow Deeps für 10 Spieler mit 8 Bossen, Hyjal Summit für 20 Spieler mit 13 Bossen und Onyxia's Lair für 40 Spieler. Blizzard hat für Barrow Deeps und Hyjal Summit keine Attunement angekündigt.\n\nGuides raten, den Raid zur realistischen Rostergröße zu wählen: eine stabile 20er-Gilde startet in Hyjal Summit, eine feste 10er-Gruppe in Barrow Deeps. Die Zahlen stammen von Drittseiten, der Termin vom Blizzard-Panel-Recap.",
+          "quellen": [
+            {
+              "name": "EZG",
+              "url": "https://www.ezg.com/blog/wow-forever-raids-december-9-barrow-deeps-hyjal-onyxia"
+            },
+            {
+              "name": "Blizzard News: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            }
+          ]
+        },
+        {
+          "titel": "Onyxia: Die Attunement-Kette läuft über BRD und BRS",
+          "unterzeile": "Nicht account-weit",
+          "text": "Nur Onyxia's Lair braucht eine Attunement, das Drakefire Amulet. Die fraktionsspezifische Quest-Kette ist nicht account-weit und führt durch Blackrock Depths und Blackrock Spire. Fire Resistance empfiehlt Blizzard laut Guides, eine Zahl gibt es nicht; ältere Classic-Werte sollte man nicht blind übernehmen.",
+          "quellen": [
+            {
+              "name": "Accountshark",
+              "url": "https://accountshark.net/blog/wow-forever-onyxia-attunement-drakefire-amulet-first-raid-preparation"
+            },
+            {
+              "name": "Bald.gg",
+              "url": "https://bald.gg/wow-forever/blog/wow-forever-raid-release-date-prep"
+            }
+          ]
+        },
+        {
+          "titel": "Weekly Gold Quest verlangt BRS und BRD",
+          "unterzeile": "Level 60",
+          "text": "Laut Wowhead verlangt die Gold Quest dieser Woche für Level-60-Charaktere den Abschluss von Blackrock Spire und Blackrock Depths. Zur Belohnung widersprechen sich Guides: Eine Seite nennt eine Satchel mit 10 bis 100 Gold, eine andere eine Dire-Maul-Variante, vermutlich einer früheren Woche. Garantiert sind 100 Gold nach den Quellen nicht.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/news/weekly-gold-quest-requires-blackrock-spire-and-blackrock-depths-in-wow-forever-383919"
+            },
+            {
+              "name": "EZG",
+              "url": "https://www.ezg.com/blog/wow-forever-weekly-quest-100-gold"
+            },
+            {
+              "name": "Space4Games",
+              "url": "https://space4games.com/en/games-en/wow-forever-weekly-quest-level-60/"
+            }
+          ]
+        },
+        {
+          "titel": "Sunken Temple: Klick-Reihenfolge der Statuen",
+          "unterzeile": "Laut Zockify",
+          "text": "Zockify nennt für das Statuen-Rätsel im Sunken Temple die Reihenfolge Süd, Nord, Südwest, Südost, Nordwest, Nordost. Die Seite aktualisiert Dungeon-Guides nach eigenen Angaben täglich mit neuen Quest-Voraussetzungen und Loot.",
+          "quellen": [
+            {
+              "name": "Zockify: Sunken Temple",
+              "url": "https://www.zockify.com/forever/dungeons/sunken-temple/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Raids im Überblick",
+        "punkte": [
+          "Barrow Deeps: 10 Spieler, 8 Bosse",
+          "Hyjal Summit: 20 Spieler, 13 Bosse",
+          "Onyxia's Lair: 40 Spieler, Attunement nötig",
+          "Start: 9. Dezember"
+        ],
+        "quellen": [
+          {
+            "name": "EZG",
+            "url": "https://www.ezg.com/blog/wow-forever-raids-december-9-barrow-deeps-hyjal-onyxia"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Dungeon-XP: Die 12-Level-Regel vom 14. November",
+          "unterzeile": "Zweiter Anlauf nach 24 Stunden",
+          "text": "Am 13. November hatte Blizzard festgelegt, dass Dungeon-Gegner keine XP geben, wenn sie für ein Gruppenmitglied trivial sind. Ein Level-Abstand von nur 6 reichte nach Berichten, um Freunden die XP zu nehmen. Am Abend des 14. November lockerte Blizzard die Regel: Sie greift nur noch, wenn der höchste Spieler mehr als 12 Level über den Gegnern liegt (Kaivax).\n\nLaufende Instanzen sind nicht betroffen; wer weiter keine XP sieht, soll eine neue Instanz starten. GamesRadar schreibt, die erste Änderung habe „missed the mark“.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Player-Level Dungeon XP Adjustment",
+              "url": "https://us.forums.blizzard.com/en/wow/t/player-level-dungeon-xp-adjustment-november-14/2416343"
+            },
+            {
+              "name": "PCGamesN",
+              "url": "https://www.pcgamesn.com/world-of-warcraft/dungeon-xp-hotfix"
+            },
+            {
+              "name": "GamesRadar",
+              "url": "https://www.gamesradar.com/games/world-of-warcraft/blizzard-takes-another-swing-at-world-of-warcraft-forevers-dungeon-grind-after-changes-made-just-24-hours-earlier-missed-the-mark/"
+            }
+          ]
+        },
+        {
+          "titel": "Quest-Marker im Spiel: Navigation ohne Addon",
+          "unterzeile": "Wowhead-Meldung vom 19. November",
+          "text": "Wowhead hat heute einen Hinweis veröffentlicht, wie sich die eingebauten Quest-Objective-Marker aktivieren lassen. Den genauen Menüpfad konnten wir nicht prüfen. Ein Mobalytics-Guide bestätigt, dass Forever bereits eine eingebaute Quest-Markierung mitbringt; Addons wie „No Quest Hints Forever“ blenden sie wieder aus.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/news=383924/turn-on-in-game-quest-objective-markers-for-easier-navigation-in-wow-forever"
+            },
+            {
+              "name": "Mobalytics: Addons & Settings",
+              "url": "https://mobalytics.gg/wow-forever/guides/addons-and-settings"
+            }
+          ]
+        },
+        {
+          "titel": "Quests ab Level 48 geben Gold",
+          "unterzeile": "Hotfix vom 10. November",
+          "text": "Seit den Hotfixes vom 10. November geben die meisten Quests ab Level 48 zusätzlich Gold. Das ist eine Entlastung für alle, die auf das Reittier und die Dual Specialization sparen.",
+          "quellen": [
+            {
+              "name": "Blizzard News: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeons oder Questen? Aggrend sieht kaum Vorteil",
+          "unterzeile": "Zweitquelle, nicht von Blizzard",
+          "text": "Ein Beitrag auf mythic-store gibt wieder, Aggrend habe gesagt, perfektes Dungeon-Leveling komme höchstens nahe an optimales Questen heran. Wir konnten die Aussage nicht an einer Blizzard-Quelle prüfen. Ein Verkaufsportal fasst sie zusammen, nehmt sie mit Vorsicht.",
+          "quellen": [
+            {
+              "name": "Mythic-Store",
+              "url": "https://mythic-store.com/blog/dungeon-leveling-vs-questing-in-wow-forever-what-s-actually-faster"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "XP-Regel in Kürze",
+        "punkte": [
+          "13.11.: Trivial-Gegner geben keine Dungeon-XP",
+          "14.11.: Regel greift nur bei mehr als 12 Level Abstand",
+          "Laufende Instanzen: neu starten"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard-Forum",
+            "url": "https://us.forums.blizzard.com/en/wow/t/player-level-dungeon-xp-adjustment-november-14/2416343"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Auktionshaus: Mindestkaution sinkt auf 1 Kupfer",
+          "unterzeile": "EU-Wartung am 18. November, Live-Status unbestätigt",
+          "text": "Die Mindestkaution im Auktionshaus soll von 1 Silber auf 1 Kupfer fallen, ein Minus von 99 Prozent. Die Änderung war für den 10. November geplant, wurde zurückgenommen und kam mit der Wochenwartung: Amerika am 17., Europa am 18. November. Profitieren sollen vor allem Verkäufer billiger Materialien wie Erze, Kräuter und Stoffe, weil das Risiko unverkaufter Auktionen sinkt.\n\nEine Bestätigung, dass die Änderung in Europa live ist, haben wir nicht gefunden. Ein Preis-Tracker zeigte am Morgen des 18. November noch den alten Stand. Bereits höhere Kautionen werden nicht gesenkt.",
+          "quellen": [
+            {
+              "name": "PC Games Hardware",
+              "url": "https://www.pcgameshardware.de/World-of-Warcraft-Forever-Spiel-78891/News/update-18-november-2026-auktionshaus-schattenpriester-1560336/"
+            },
+            {
+              "name": "Space4Games",
+              "url": "https://space4games.com/en/games-en/wow-forever-auction-house-deposit/"
+            },
+            {
+              "name": "Wowfah",
+              "url": "https://wowfah.com/"
+            }
+          ]
+        },
+        {
+          "titel": "Das erste Mount kostet 100 Gold",
+          "unterzeile": "Beta-Zahlen, ab Level 40",
+          "text": "Laut Method.gg kostet Apprentice Riding mit Level 40 insgesamt 100 Gold; Kami Labs weist darauf hin, dass die Zahlen aus der Beta stammen. Warlocks bekommen ihr Mount über die Klassenquest bei Strahad Farsan in Ratchet. Icy Veins empfiehlt, früh kein Silber zu verschwenden.",
+          "quellen": [
+            {
+              "name": "Method",
+              "url": "https://www.method.gg/wow-forever/how-to-get-a-mount-in-wow-forever-cost-requirement-and-mount-options"
+            },
+            {
+              "name": "Kami Labs",
+              "url": "https://kami-labs.fr/en/wow-forever/wow-forever-niveau-40-monture-double-specialisation/"
+            },
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/stop-wasting-silver-early-in-wow-forever-if-you-want-your-level-40-mount/"
+            }
+          ]
+        },
+        {
+          "titel": "Kein WoW-Token: Gold müsst ihr selbst machen",
+          "unterzeile": "Forever-Wirtschaft",
+          "text": "Icy Veins betont, dass es in Forever keinen WoW-Token gibt, Gold also über Berufe, Quests und Auktionshaus kommt. GDKP-Raids sind laut Blizzard-Entwicklern nicht erlaubt (Conquest Capped). Auf der Gegenseite warnt Blizzard, es werde Goldkäufer mit echtem Geld „very aggressively“ bestrafen (PC Gamer).",
+          "quellen": [
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/stop-wasting-silver-early-in-wow-forever-if-you-want-your-level-40-mount/"
+            },
+            {
+              "name": "Conquest Capped",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-gold-making/"
+            },
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early/"
+            }
+          ]
+        },
+        {
+          "titel": "Preise rutschen, wenn viele verkaufen",
+          "unterzeile": "Beispiel Traveler's Backpack",
+          "text": "Conquest Capped beschreibt, dass ein einzeln für 100 Gold gelistetes Traveler's Backpack auf etwa 30 Gold fiel, als zehn Stück verkauft wurden. AHledger zählt rund 5,5 Millionen Gold über 21 Megaserver, ein Plus von 245 % auf die Woche. Preis-Scanner sind Momentaufnahmen.",
+          "quellen": [
+            {
+              "name": "Conquest Capped",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-auction-house/"
+            },
+            {
+              "name": "AHledger",
+              "url": "https://ahledger.com/"
+            }
+          ]
+        },
+        {
+          "titel": "Blacksmithing 1 bis 300 für etwa 352 Gold?",
+          "unterzeile": "Eine Fan-Rechnung",
+          "text": "Ein Guide rechnet für Blacksmithing 1 bis 300 mit etwa 352 Gold bei EU-Preisen. AHledger zählt 484 Blacksmithing-Rezepte, 176 davon neu in Forever. Auctionator und TradeSkillMaster laufen nach mmonster auch in Forever.",
+          "quellen": [
+            {
+              "name": "Conquest Capped",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-auction-house/"
+            },
+            {
+              "name": "AHledger",
+              "url": "https://ahledger.com/"
+            },
+            {
+              "name": "mmonster",
+              "url": "https://mmonster.co/de/wow-forever/guides/addons/professions-and-gold"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Auktionshaus",
+        "punkte": [
+          "Mindestkaution: 1 Silber auf 1 Kupfer (EU-Wartung 18.11., live unbestätigt)",
+          "Mount mit Level 40: 100 Gold (Beta-Zahl)",
+          "Kein WoW-Token in Forever"
+        ],
+        "quellen": [
+          {
+            "name": "Space4Games",
+            "url": "https://space4games.com/en/games-en/wow-forever-auction-house-deposit/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Community: Rekorde, Gilden, Streamer, Server",
+      "artikel": [
+        {
+          "titel": "Größter Wochen-Spielerstand seit 15 Jahren",
+          "unterzeile": "Blizzard nennt keine absolute Zahl",
+          "text": "Executive Producer Holly Longdale sagte laut GamesRadar, Forever habe mehr wöchentliche Spieler, als WoW seit 15 Jahren gesehen hat. Blizzard nannte 15.160.147 erstellte Charaktere und 1.480.343.357 abgeschlossene Quests; Charaktere sind aber nicht gleich Spieler. Wie viele Menschen spielen, bleibt offen.\n\nInoffizielle Tracker wie Raider.io sehen Horde leicht vorn und den Hunter als häufigste Klasse. Das sind keine Blizzard-Daten.",
+          "quellen": [
+            {
+              "name": "GamesRadar",
+              "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-has-more-people-playing-weekly-than-blizzard-has-seen-in-15-years-lead-says-as-the-new-mmo-reaches-15-million-players/"
+            },
+            {
+              "name": "GameSpot",
+              "url": "https://www.gamespot.com/articles/wow-forever-weekly-player-numbers-are-the-highest-for-blizzards-mmo-in-15-years/"
+            }
+          ]
+        },
+        {
+          "titel": "Ziqo: 7 Tage Sperre, Debatte um Streamer",
+          "unterzeile": "Blackmaw-Hold-Farm",
+          "text": "Ziqo bestätigte am 17. November eine siebentägige Sperre wegen der Blackmaw-Hold-Farm. Die Dauer stützt sich auf seine eigene Aussage, Blizzard kommentiert einzelne Accounts nicht. Icy Veins schreibt, er habe die Farm offen geplant und über 4.000 Gold gezeigt; manche Spieler sagen, sie hätten für weniger längere Sperren bekommen. Ziqo nannte Sodapoppin und Brucewayner als weitere Teilnehmer, beide haben sich nicht geäußert, das bleibt unbestätigt.",
+          "quellen": [
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/blackmaw-hold-bans-spark-outrage-as-ziqo-receives-7-day-suspension/"
+            },
+            {
+              "name": "Kami Labs",
+              "url": "https://kami-labs.fr/en/wow-forever/ziqo-suspendu-7-jours-wow-forever/"
+            },
+            {
+              "name": "WoWsod",
+              "url": "https://wowsod.pro/articles/wow-forever-blackmaw-hold-gold-removed-suspensions-ziqo-7-days"
+            }
+          ]
+        },
+        {
+          "titel": "Blizzards Stand: Gold weg, schwerste Fälle gesperrt",
+          "unterzeile": "Wenige hundert Spieler",
+          "text": "Blizzard veröffentlichte „Actions For Blackmaw Hold Abuse – November 17“. Demnach nutzten einige hundert Spieler fehlerhaften Loot der Blackmaw Devotees wissentlich aus. Das Gold wird entfernt, die schwersten Fälle werden gesperrt. Zuvor lagen Accounts unter Wirtschaftsbeschränkungen.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum",
+              "url": "https://us.forums.blizzard.com/en/wow/t/actions-for-blackmaw-hold-abuse-november-17/2419757/1"
+            },
+            {
+              "name": "PCGamesN",
+              "url": "https://pcgamesn.com/world-of-warcraft/forever-gold-farming-exploit-bans"
+            },
+            {
+              "name": "PlayCentral",
+              "url": "https://playcentral.de/wow-forever-gold-exploit-blackmaw-hold-sperren"
+            }
+          ]
+        },
+        {
+          "titel": "RP-PvP-Ruleset auf Community-Wunsch",
+          "unterzeile": "Vierter Ruleset, Namensreservierung ab 27. Oktober",
+          "text": "GameSpot berichtete, Blizzard habe nach Community-Druck ein RP-PvP-Ruleset ergänzt. Bis dahin gab es nur einen PvP-Server, auf dem viele Streamer spielen. In der Beta zählte Asmongolds Gilde Olympus laut GameSpot knapp 74.000 Mitglieder, ein Beta-Wert, kein aktueller Stand.",
+          "quellen": [
+            {
+              "name": "GameSpot: New Server Option",
+              "url": "https://tech.yahoo.com/gaming/articles/wow-forever-getting-server-option-172413696.html"
+            },
+            {
+              "name": "GameSpot: Streamer Problem",
+              "url": "https://www.gamespot.com/articles/wow-forever-has-a-streamer-problem/"
+            }
+          ]
+        },
+        {
+          "titel": "Twitch-Peak: 1,12 Millionen Zuschauer am Launchtag",
+          "unterzeile": "Zuschauer, nicht Spieler",
+          "text": "Streams Charts meldete laut Kami Labs einen Twitch-Peak von 1.119.734 gleichzeitigen Zuschauern am 4. November. Das misst Zuschauer, nicht Spieler im Spiel.",
+          "quellen": [
+            {
+              "name": "Kami Labs",
+              "url": "https://kami-labs.fr/en/wow-forever/record-lancement-wow-forever/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen",
+        "punkte": [
+          "15.160.147 Charaktere erstellt (Blizzard)",
+          "1.480.343.357 Quests abgeschlossen (Blizzard)",
+          "Twitch-Peak 4.11.: 1.119.734 Zuschauer",
+          "Ziqo: 7 Tage Sperre (eigene Angabe)"
+        ],
+        "quellen": [
+          {
+            "name": "GamesRadar",
+            "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-has-more-people-playing-weekly-than-blizzard-has-seen-in-15-years-lead-says-as-the-new-mmo-reaches-15-million-players/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "PvP-Überblick: Rank Points und Honor sind getrennt",
+          "unterzeile": "Blizzard-Video vom 18. November",
+          "text": "Blizzard hat ein PvP-Overview-Video zu Honor-Belohnungen und Battlegrounds veröffentlicht. Laut Guides steigt man über Rank Points im Rang auf, Honor ist eine Währung für Ausrüstung und Verbrauchsgüter. Battlegrounds sind Warsong Gulch, Arathi Basin, Darkspear Islands und Alterac Valley; ein Sieg bringt drei Marks of Honor, eine Niederlage eins.\n\nBei den Rang-Belohnungen widersprechen sich die Quellen. Icy Veins nennt Rang 14 mit epischen Waffen. Prüft die Liste im Spiel.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/news=383918/wow-forever-pvp-overview-video-honor-rewards-and-battlegrounds"
+            },
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/how-honor-rewards-battlegrounds-work-in-wow-forever/"
+            },
+            {
+              "name": "Conquest Capped",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-pvp-overview/"
+            }
+          ]
+        },
+        {
+          "titel": "Zockify: Tools für Talente, Gear und Dungeons",
+          "unterzeile": "Daten aus dem Client",
+          "text": "Zockify bietet Talent-Calculator, Gear Planner, Legacy-Points-Rechner, Tier List Maker und Hunter-Pet-Finder. Die Tools basieren auf Client-Daten und werden bei neuen Builds aktualisiert. Der Gear Planner kennt nur Items aus dem aktuellen Client, viele Raid-Items fehlen noch.",
+          "quellen": [
+            {
+              "name": "Zockify",
+              "url": "https://www.zockify.com/forever/"
+            },
+            {
+              "name": "Zockify: Gear Planner",
+              "url": "https://www.zockify.com/forever/gear/"
+            }
+          ]
+        },
+        {
+          "titel": "Hunter als sicherster Leveler, Mage als schnellster?",
+          "unterzeile": "Quellen uneinig",
+          "text": "Mehrere Guides nennen den Hunter als sichersten Solo-Leveler, der mit dem ersten Pet auf Level 10 stark wird. Andere sehen den Mage beim Tempo vorn. Icy Veins bestätigt den Pet-Schub mit Level 10. Tier-Listen sind Meinungen und teils Beta-Stand.",
+          "quellen": [
+            {
+              "name": "GoldBoosting",
+              "url": "https://goldboosting.com/blog/beginners-guide-fastest-leveling-wow-forever"
+            },
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/countdown-to-forever-2-they-hunt-alone/"
+            },
+            {
+              "name": "Timesaver",
+              "url": "https://timesaver.gg/blog/wow-forever-best-class-to-level-beta-tier-list"
+            }
+          ]
+        },
+        {
+          "titel": "Scarlet Hearthstone: ein neues Sammelstück",
+          "unterzeile": "Nur die Überschrift geprüft",
+          "text": "Icy Veins stellt den Scarlet Hearthstone vor, einen feurigen Hearthstone, der die Heimreise optisch verändert. Wie man ihn bekommt, ließ sich in unseren Quellen nicht prüfen.",
+          "quellen": [
+            {
+              "name": "Wowhead: Newsliste",
+              "url": "https://www.wowhead.com/forever/news"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen, Interviews, Entwickler-Aussagen",
+      "artikel": [
+        {
+          "titel": "Hardcore kommt im Winter, ein Datum gibt es nicht",
+          "unterzeile": "Vor dem Frühjahrs-Update",
+          "text": "Hardcore war zum Launch nicht dabei. Laut Zockify liegt es in Blizzards Roadmap im Winter, nach dem Raid-Start am 9. Dezember und vor dem Frühjahrs-Update, mit dem Hinweis „subject to change“. Hardcore wird ein geschlossenes System; stirbt ein Charakter, kann er auf ein anderes Ruleset wechseln. Zum Start gibt es 12 neue Legacy Challenges.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern",
+              "url": "https://www.warcrafttavern.com/forever/news/legacy-rewards-will-be-separate-on-the-wow-forever-hardcore-ruleset/"
+            },
+            {
+              "name": "Zockify",
+              "url": "https://www.zockify.com/forever/"
+            }
+          ]
+        },
+        {
+          "titel": "Lore-Podcast: Scarlet Enclave und Ashbringer kommen später",
+          "unterzeile": "Aggrend mit Sean Copeland",
+          "text": "Laut Fan-Hub Half Baked Warcraft bestätigte Aggrend im Podcast mit Lore Historian Lead Sean Copeland, dass die Scarlet-Enclave- und Ashbringer-Geschichte irgendwann zurückkehrt, ohne Termin. Moderne WoW-Rassen sind laut Entwicklern derzeit nicht geplant.",
+          "quellen": [
+            {
+              "name": "Half Baked Warcraft",
+              "url": "https://halfbakedwarcraft.com/wow-forever-developer-interviews/"
+            }
+          ]
+        },
+        {
+          "titel": "Tech-Podcast mit Aggrend und zwei Engineers",
+          "unterzeile": "Zum Launch",
+          "text": "Der Blizzard-Podcast „All About Tech“ mit Aggrend, Lead Software Engineer Ana Resendez und Principal Software Engineer Frank Williams behandelt die Technik hinter Forever. Veröffentlichungsdatum nennt die Seite nicht.",
+          "quellen": [
+            {
+              "name": "Blizzard News",
+              "url": "https://news.blizzard.com/en-us/article/24315819/watch-the-wow-forever-podcast-all-about-tech"
+            }
+          ]
+        },
+        {
+          "titel": "Kaivax zur 60:40-Zahl",
+          "unterzeile": "Aktive Spieler aller Level",
+          "text": "Kaivax stellte laut Half Baked Warcraft klar, dass sich die 60:40-Horde-Zahl auf aktive eingeloggte Spieler aller Level in einem Zeitraum bezieht. Blizzard hat die Zahl nicht bestätigt.",
+          "quellen": [
+            {
+              "name": "Half Baked Warcraft",
+              "url": "https://halfbakedwarcraft.com/wow-forever-developer-interviews/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Stranglethorn Fishing Extravaganza: Sonntag, 22. November",
+          "unterzeile": "Wöchentlich, 14 Uhr Realmzeit",
+          "text": "Laut Kalender startet die Extravaganza jeden Sonntag um 14 Uhr Realmzeit in Stranglethorn Vale. Nach dem Hotfix vom 13. November können mehr Spieler je Ruleset gewinnen.",
+          "quellen": [
+            {
+              "name": "WoW Forever Calendar",
+              "url": "https://wowcalc.net/en/forever/wiki/calendar"
+            },
+            {
+              "name": "Blizzard News: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Weekly Gold Quest: BRS und BRD",
+          "unterzeile": "Diese Woche",
+          "text": "Wowhead meldet die Gold Quest dieser Woche für Level 60 mit Blackrock Spire und Blackrock Depths.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/news/weekly-gold-quest-requires-blackrock-spire-and-blackrock-depths-in-wow-forever-383919"
+            }
+          ]
+        },
+        {
+          "titel": "Raids öffnen am 9. Dezember",
+          "unterzeile": "Drei Wochen",
+          "text": "Barrow Deeps, Hyjal Summit und Onyxia's Lair öffnen laut Blizzard am 9. Dezember.",
+          "quellen": [
+            {
+              "name": "Blizzard News: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire und Winter Veil",
+          "unterzeile": "Kalenderseite, nicht von Blizzard",
+          "text": "Laut Kalenderseite gastiert die Darkmoon Faire vom 7. bis 14. Dezember in Thunder Bluff, Winter Veil läuft vom 15. Dezember bis 2. Januar 2027.",
+          "quellen": [
+            {
+              "name": "WoW Forever Calendar",
+              "url": "https://wowcalc.net/en/forever/wiki/calendar"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "So 22.11., 14 Uhr: Fishing Extravaganza",
+          "Ca. 25.11.: Ziqos Sperre endet voraussichtlich (unbestätigt)",
+          "7.–14.12.: Darkmoon Faire (Kalenderseite)",
+          "9.12.: Raids",
+          "15.12.–2.1.: Winter Veil"
+        ],
+        "quellen": [
+          {
+            "name": "WoW Forever Calendar",
+            "url": "https://wowcalc.net/en/forever/wiki/calendar"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Erst überlegen, dann vendoren",
+    "text": "Der Item-Restoration-Service ist laut letzten Berichten seit dem 11. November aus. Verkauft oder löscht deshalb nichts, was ihr eventuell zurückholen wollt, bis Blizzard Entwarnung gibt. Lagert Unsicheres lieber in der Bank oder bei einem Twink ein."
+  }
+}
