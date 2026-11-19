@@ -1,0 +1,452 @@
+{
+  "gruss": "Guten Morgen, Tim! Donnerstag, 19. November: Der Koalitionsausschuss hat geliefert (Stromsteuer runter, Rente vertagt), in Mülheim gab es Drogenfestnahmen am Hans-Böckler-Platz, die Pflegereform geht auf die Anhörung zu, und bei Steam gibt es keinen Black-Friday-Sale von Valve selbst. Dazu: neue Switch-2-Spiele für diese Woche.",
+  "aufmacher": {
+    "rubrik": "Deutschland",
+    "titel": "Stromsteuer sinkt 2027 auf das EU-Minimum, die Rente bleibt offen",
+    "unterzeile": "Koalitionsausschuss nach acht Stunden: Spritpreisdeckel ab Januar, Rente mit 63 und kalte Progression vertagt",
+    "text": "Union und SPD haben sich im Koalitionsausschuss in der Nacht zum 18. November auf eine Senkung der Stromsteuer geeinigt: Ab dem 1. Januar 2027 sinkt sie von 2,05 Cent auf 0,1 Cent je Kilowattstunde, das europäische Mindestmaß. Für einen Drei-Personen-Haushalt mit 4.000 kWh werden rund 7,75 Euro im Monat genannt, für einen Single-Haushalt mit 1.500 kWh etwa drei Euro. Den Bund kostet das rund 5,4 Milliarden Euro im Jahr.\n\nHaken: Gesichert ist die Finanzierung nur für 2027, und zwar aus Rücklagen des EEG-Kontos. Eine dauerhafte Senkung setzt laut Koalitionspapier eine nachhaltige Gegenfinanzierung im Haushalt 2028 voraus. Im Gespräch sind Subventionskürzungen oder höhere Steuern, etwa auf Kapitalerträge.\n\nAußerdem soll der Tankrabatt Ende Dezember auslaufen und ab 1. Januar durch einen zunächst auf drei Monate befristeten Spritpreisdeckel abgelöst werden; das Kabinett soll am 2. Dezember entscheiden. Bei der Rente mit 63 und beim Ausgleich der kalten Progression gab es dagegen keine Einigung.",
+    "quellen": [
+      { "name": "cash-online (dpa-AFX, Handelsblatt, Tagesspiegel)", "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/" },
+      { "name": "t-online", "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101534002/stromsteuer-koalition-beschliesst-senkung-mit-einem-haken.html" },
+      { "name": "Handelsblatt", "url": "https://www.handelsblatt.com/politik/deutschland/koalitionsausschuss-merz-drueckt-stromsteuersenkung-durch-aber-nur-halb/100270780.html" }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Mülheim an der Ruhr",
+      "artikel": [
+        {
+          "titel": "Hans-Böckler-Platz: Vier mutmaßliche Dealer festgenommen",
+          "unterzeile": "Zivilfahnder beobachteten den Handel, drei Männer sitzen in Untersuchungshaft",
+          "text": "Zivile Einsatzkräfte der Polizei haben am Freitag, 13. November, auf dem Hans-Böckler-Platz in der Altstadt vier Männer beim Drogenhandel beobachtet. Der Platz war der Polizei von früheren Einsätzen bekannt. Gegen 17 Uhr wurden drei Männer (28, 24 und 22 Jahre alt) in einem Mehrfamilienhaus am Platz festgenommen, ein vierter (27) in einer Wohnung in Oberhausen, die schon zuvor beobachtet worden war.\n\nDie Beamten fanden verpackte mutmaßliche Drogen, Bargeld, Verpackungsmaterial, mehrere Handys, ein Pfefferspray und zwei Macheten. Die Staatsanwaltschaft Duisburg erwirkte Haftbefehle gegen den 28-, den 22- und den 27-Jährigen. Beim 24-Jährigen lag bereits ein offener Haftbefehl vor, der nun vollstreckt wurde. Die Meldung der Polizei Essen erschien erst am 18. November.",
+          "quellen": [
+            { "name": "Polizei Essen via Presseportal", "url": "https://www.presseportal.de/blaulicht/pm/11562/6393346" },
+            { "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/artikel/vier-festnahmen-in-muelheim-polizei-stoppt-drogenhandel-2810147" }
+          ]
+        },
+        {
+          "titel": "Falscher Bankbrief mit QR-Code: Sechsstellige Summe weg",
+          "unterzeile": "68-Jähriger aus Menden-Holthausen verliert Geld, Polizei sucht Zeugen",
+          "text": "Ein 68-Jähriger aus Menden-Holthausen scannte den QR-Code in einem Brief, der aussah, als käme er von seiner Bank. Danach rief ein angeblicher Bankmitarbeiter an, und am 17. November holte ein Bote Karte und PIN ab. Als er sich beim Kundenservice seiner Bank meldete, flog der Betrug auf, zu dem Zeitpunkt war aber schon ein niedriger sechsstelliger Betrag abgehoben. Hinweise nimmt die Polizei Essen unter 0201/829-0 oder hinweise.essen@polizei.nrw.de entgegen. Tipp für dich und alle anderen: Karte und PIN gibt die Bank nie an der Haustür ab oder holt sie ab.",
+          "quellen": [
+            { "name": "Polizei Essen via Presseportal", "url": "https://www.presseportal.de/blaulicht/pm/11562/6393317" },
+            { "name": "Radio Essen", "url": "https://www.radioessen.de/artikel/muelheim-an-der-ruhr-betrueger-erbeuten-sechsstellige-summe-2810148" }
+          ]
+        },
+        {
+          "titel": "Ruhrbahn: Diese Umleitungen laufen gerade",
+          "unterzeile": "Linien 129, 130, 134, 151 und 976 sind betroffen",
+          "text": "Laut Ruhrbahn-Verkehrsinfo wird die Linie 129 wegen Arbeiten an Hatzper Straße und Velauer Straße vom 19.11. bis 03.12. umgeleitet. Am Veilchenweg ist wegen einer Vollsperrung die Linie 134 bis 29.11. umgeleitet, an der Mannesmannallee fahren die Linien 129 und 976 bis 26.11. anders. Über die Brücke Hauskampstraße wird die Linie 130 bis auf Weiteres umgeleitet. Die Linie 151 fährt wegen der Walkmühlenstraße bis 22.11. eine Umleitung. Die Ruhrbahn weist selbst darauf hin, dass die Angaben vor der Fahrt in der Verkehrsinfo geprüft werden sollten.",
+          "quellen": [
+            { "name": "Ruhrbahn Verkehrsinfo Mülheim", "url": "https://www.ruhrbahn.de/muelheim/aktuelles/verkehrsinfo" },
+            { "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/artikel/walkmuehlenstrasse-in-muelheim-vollsperrung-ab-9-november-2799703" }
+          ]
+        },
+        {
+          "titel": "Neue Polizeiinspektion: Stadt sucht Investoren",
+          "unterzeile": "Grundstücke werden ausgeschrieben",
+          "text": "Die Stadt Mülheim hat am 10. November mitgeteilt, dass sie für eine neue Polizeiinspektion Investorinnen und Investoren für Grundstücke sucht. Die Meldung steht in der Liste der aktuellen Meldungen der Stadt. Details zu Lage und Zeitplan haben wir hier nicht überprüft, sie stehen auf der Seite der Stadt.",
+          "quellen": [
+            { "name": "Stadt Mülheim: Aktuelle Meldungen", "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen" }
+          ]
+        },
+        {
+          "titel": "Stadt ist jetzt auch auf WhatsApp",
+          "unterzeile": "Neuer Kanal der Stadtverwaltung seit 13. November",
+          "text": "Die Stadt Mülheim hat am 13. November gemeldet, dass sie jetzt auch auf WhatsApp vertreten ist. Am selben Tag gewann Möbel Bernskötter den 4. Mülheimer Wirtschaftspreis, und am 17. November gab es einen Empfang für die Mülheimer Hockey-Spitzensportler im Rathaus. Alle drei Meldungen stehen in der Übersicht der Stadt.",
+          "quellen": [
+            { "name": "Stadt Mülheim: Aktuelle Meldungen", "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Notfallseelsorge für Mülheim, Oberhausen und Essen sucht Verstärkung: weitere Infoabende am 24.11. in Essen und 2.12. in Oberhausen.",
+          "27.11., 4:45 bis 4:55 Uhr: S 1 fällt wegen Oberleitungsarbeiten zwischen Mülheim-Styrum und Duisburg Hbf aus.",
+          "26.11.: Schlosskonzert im Rittersaal von Schloss Broich."
+        ],
+        "quellen": [
+          { "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/artikel/notfallseelsorge-informiert-ueber-ausbildung-2809592" },
+          { "name": "VRR Baustellen im SPNV", "url": "https://www.vrr.de/fahrplan-mobilitaet/baustellen-im-spnv/" },
+          { "name": "Radio Mülheim Schlosskonzert", "url": "https://www.radiomuelheim.de/artikel/exklusives-schlosskonzert-jetzt-tickets-gewinnen-2801652" }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim & Ruhrgebiet",
+      "artikel": [
+        {
+          "titel": "Weihnachtsmärkte: Dortmund, Bochum und Recklinghausen starten heute",
+          "unterzeile": "Gelsenkirchen folgt morgen, Duisburg läuft schon seit 12. November",
+          "text": "Nach Zusammenstellungen mehrerer Regionalportale öffnen die Weihnachtsmärkte in Dortmund, Bochum und Recklinghausen am 19. November, Gelsenkirchen folgt am 20. November. Duisburg läuft bereits seit 12. November bis 30. Dezember und ist mit 46 Tagen in diesem Jahr so lang wie noch nie. Am 22. November (Totensonntag) ist der Duisburger Markt geschlossen, ebenso am 24. und 25. Dezember. In Essen läuft der Markt vom 13. November bis 23. Dezember, in Oberhausen der Centro-Markt im selben Zeitraum; der City-Adventszauber auf dem Altmarkt kommt am 26. November dazu.",
+          "quellen": [
+            { "name": "Ruhr Nachrichten: Weihnachtsmärkte NRW 2026", "url": "https://www.ruhrnachrichten.de/regionales/weihnachtsmaerkte-nrw-2026-termine-bochum-dortmund-herne-koeln-dom-schloss-solingen-wochenende-w1098331-2001872191/" },
+            { "name": "Ruhr Nachrichten: Weihnachtsmarkt Duisburg", "url": "https://www.ruhrnachrichten.de/regionales/weihnachtsmarkt-duisburg-2026-staende-oeffnungszeiten-programm-eislaufen-eisstockschiessen-anfahrt-w664560-2000678601/" },
+            { "name": "IHK zu Essen", "url": "https://www.ihk.de/meo/produktmarken/branchen/aktuelles/weihnachtsmaerkte-7222108" }
+          ]
+        },
+        {
+          "titel": "Duisburg: Raub im Parkhaus am König-Heinrich-Platz",
+          "unterzeile": "Zwei Männer bedrohten 22-Jährigen mit Flasche und Messer",
+          "text": "Laut Polizei Duisburg bedrohten am Dienstagmorgen (17. November, 8 Uhr) zwei Männer einen 22-Jährigen in einem Parkhaus am König-Heinrich-Platz mit einer Glasflasche und einem Messer. In Bruckhausen wurde zudem eine Polizistin bei einem Widerstand während einer Unfallaufnahme auf der Kaiser-Wilhelm-Straße leicht verletzt. Weitere Details stehen in den Pressemitteilungen der Polizei Duisburg.",
+          "quellen": [
+            { "name": "Polizei Duisburg: Pressemitteilungen", "url": "https://duisburg.polizei.nrw/presse/pressemitteilungen" },
+            { "name": "Presseportal Duisburg", "url": "https://www.presseportal.de/regional/Duisburg" }
+          ]
+        },
+        {
+          "titel": "Bochum: Schultransport verunglückt, 89-Jährige überfallen",
+          "unterzeile": "Zwei Meldungen aus der Polizeistatistik der Stadt",
+          "text": "In Bochum ist ein Schultransport an der Hasenwinkeler Straße von der Fahrbahn abgekommen, der 73-jährige Fahrer ist laut Polizei in Lebensgefahr. In Stiepel wurde eine 89-Jährige überfallen und schwer verletzt, nachdem sie in einer Sparkassenfiliale Bargeld abgehoben hatte. Die Polizei sucht Zeugen. Die Überfallmeldung stammt vom 17. November.",
+          "quellen": [
+            { "name": "meinestadt.de: Polizeimeldungen Bochum", "url": "https://aktuell.meinestadt.de/bochum/polizeimeldungen#expired" },
+            { "name": "brdmap.de Bochum", "url": "https://brdmap.de/stadt/bochum/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine der Woche",
+        "punkte": [
+          "Do 19.11.: Weihnachtsmärkte Dortmund, Bochum, Recklinghausen öffnen",
+          "Fr 20.11.: Weihnachtsmarkt Gelsenkirchen öffnet",
+          "So 22.11. (Totensonntag): Duisburger Weihnachtsmarkt geschlossen",
+          "Di 24.11.: Infoabend Notfallseelsorge in Essen",
+          "Do 26.11.: Schlosskonzert im Rittersaal Schloss Broich; City-Adventszauber Oberhausen startet",
+          "Fr 27.11.: S 1 Ausfälle 4:45 bis 4:55 Uhr zwischen Styrum und Duisburg Hbf"
+        ],
+        "quellen": [
+          { "name": "Ruhr Nachrichten", "url": "https://www.ruhrnachrichten.de/regionales/weihnachtsmaerkte-nrw-2026-termine-bochum-dortmund-herne-koeln-dom-schloss-solingen-wochenende-w1098331-2001872191/" },
+          { "name": "Radio Mülheim", "url": "https://www.radiomuelheim.de/artikel/notfallseelsorge-informiert-ueber-ausbildung-2809592" }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Politik",
+      "artikel": [
+        {
+          "titel": "Koalitionsausschuss: Das wurde beschlossen",
+          "unterzeile": "Stromsteuer und Spritpreisdeckel ja, Rente und kalte Progression später",
+          "text": "Nach acht Stunden im Kanzleramt stand das Ergebnis in der Nacht zum 18. November. Die Stromsteuer sinkt ab 1. Januar 2027 auf 0,1 Cent je Kilowattstunde, finanziert zunächst nur für 2027 aus Rücklagen des EEG-Kontos. Der Tankrabatt endet Ende Dezember, ab 1. Januar soll ein Spritpreisdeckel kommen, zunächst für drei Monate. Wie genau der Deckel aussieht, ist offen: Der frühere Entwurf von Wirtschaftsministerin Reiche sah einen Eingriff nur bei enger Bedingung vor, die SPD hielt ihn für praktisch wirkungslos. Das Kabinett soll am 2. Dezember entscheiden.\n\nKanzler Merz wertete das Ergebnis als Erfolg. Laut Handelsblatt hat er die Stromsteuersenkung für alle durchgesetzt, aber nur befristet.",
+          "quellen": [
+            { "name": "cash-online", "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/" },
+            { "name": "Handelsblatt", "url": "https://www.handelsblatt.com/politik/deutschland/koalitionsausschuss-merz-drueckt-stromsteuersenkung-durch-aber-nur-halb/100270780.html" },
+            { "name": "news.de", "url": "https://www.news.de/politik/860198035/spritpreisbremse-und-stromsteuersenkung-beschlossen-von-union-und-spd-stromsteuer-sinkt-nur-2027-gegenfinanzierung-im-haushalt-fraglich/1/" }
+          ]
+        },
+        {
+          "titel": "Rente mit 63: Weiter keine Einigung, Kabinett im Dezember",
+          "unterzeile": "DIW rechnet vor, was eine Abschaffung bringen würde",
+          "text": "Bei der abschlagsfreien Rente nach 45 Beitragsjahren hat der Koalitionsausschuss keine Entscheidung getroffen, ob sie eingeschränkt oder abgeschafft wird. Angestrebt ist ein Kabinettsbeschluss am 9. oder 16. Dezember; bei einer Einigung bis 9. Dezember könnte der Bundestag noch vor Weihnachten beraten. Eine Berechnung des DIW Berlin im Auftrag der Bertelsmann Stiftung kommt auf rund 10,4 Milliarden Euro Entlastung für die Rentenversicherung (Jahrgang 1957, brutto), warnt aber, dass eine komplette Streichung ohne Ausnahmen gesundheitlich beeinträchtigte Menschen hart träfe.",
+          "quellen": [
+            { "name": "cash-online", "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/" }
+          ]
+        },
+        {
+          "titel": "Kalte Progression: Ausgleich 2027 bleibt offen",
+          "unterzeile": "Kosten bei vollem Ausgleich: rund 4,2 Milliarden Euro",
+          "text": "Auch beim Ausgleich der kalten Progression gab es keine Einigung. Bei vollem Ausgleich im Jahr 2027 würde das Bund, Länder und Kommunen zusammen rund 4,2 Milliarden Euro kosten, davon etwa 1,8 Milliarden Euro den Bund. CDU-Generalsekretärin Franziska Hoppermann sagte, man habe sich auf die Senkung der Energiepreise konzentriert und sei beim Ausgleich noch nicht zu einem Ergebnis gekommen.",
+          "quellen": [
+            { "name": "cash-online", "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/" }
+          ]
+        },
+        {
+          "titel": "Heute Berlin: Treffen der „Koalition der Willigen“",
+          "unterzeile": "Merz lädt mit Macron und dem britischen Premier ein",
+          "text": "Laut Kalender des Bundeskanzlers lädt Friedrich Merz am Donnerstag gemeinsam mit Frankreichs Präsident Emmanuel Macron und Großbritanniens Premierminister Andy Burnham zu einem Treffen der „Koalition der Willigen“ nach Berlin ein. Das Bundeskabinett tagte, wie in der Regierungspressekonferenz vom 13. November angekündigt, am Mittwoch um 10 Uhr; Ergebnisse dazu haben wir nicht gefunden.",
+          "quellen": [
+            { "name": "Kalender des Kanzlers", "url": "https://www.bundeskanzler.de/bk-de/content/kalender-des-kanzlers-1881018?view=renderNewsletterHtml" },
+            { "name": "Regierungspressekonferenz 13.11.", "url": "https://www.bundesregierung.de/breg-de/aktuelles/regierungspressekonferenz-vom-13-november-2026-2461076" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Deutschland: Wirtschaft, Gesellschaft, Verbraucher",
+      "artikel": [
+        {
+          "titel": "ZEW-Index springt auf +35,6 Punkte",
+          "unterzeile": "Höchster Stand seit Februar, aber die Erholung hängt am Staat",
+          "text": "Die ZEW-Konjunkturerwartungen für Deutschland sind im November um 7,5 Punkte auf +35,6 Punkte gestiegen, der höchste Stand seit Februar (damals +58,3). Ökonomen hatten weniger erwartet. Die Lagebewertung verbesserte sich leicht auf -33,2 Punkte. ZEW-Präsident Achim Wambach nennt steigende Industrieaufträge und gesunkene Ölpreise als Stützen, warnt aber, dass die Erholung bisher vor allem von staatlichen Ausgaben getragen wird. Für die Eurozone stiegen die Erwartungen auf +26,5 Punkte. Der ifo-Index folgt am 24. November.",
+          "quellen": [
+            { "name": "dpa-AFX via investing.com", "url": "https://de.investing.com/news/economic-indicators/roundupdeutschland-zewkonjunkturerwartungen-steigen-starker-als-erwartet-3772368" },
+            { "name": "aktiencheck.de", "url": "https://aktiencheck.de/artikel/deutschland-zew-umfrage-zuversicht-fuer-die-deutsche-wirtschaft-waechst" }
+          ]
+        },
+        {
+          "titel": "Erwerbstätigkeit im 3. Quartal leicht gesunken",
+          "unterzeile": "Minus 57.000 Personen zum Vorquartal",
+          "text": "Im 3. Quartal 2026 hatten laut Statistischem Bundesamt rund 45,67 Millionen Personen ihren Arbeitsort in Deutschland. Saisonbereinigt waren das 57.000 weniger als im Vorquartal, ein Minus von 0,1 Prozent.",
+          "quellen": [
+            { "name": "Destatis", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_404_13321.html" }
+          ]
+        },
+        {
+          "titel": "Weniger Baugenehmigungen, aber mehr Aufträge in der Industrie",
+          "unterzeile": "Zwei Destatis-Zahlen vom 18. November",
+          "text": "Im September 2026 wurde der Bau von rund 20.800 Wohnungen genehmigt, 14,8 Prozent oder 3.600 weniger als im September 2025. Besser sah es bei der Industrie aus: Der reale Auftragsbestand im Verarbeitenden Gewerbe stieg im September saison- und kalenderbereinigt um 0,8 Prozent, getragen vor allem von Maschinenbau und Autoindustrie.",
+          "quellen": [
+            { "name": "Destatis: Auftragsbestand", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_403_421.html" },
+            { "name": "Destatis: Pressemitteilungen", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/_inhalt_2.html" }
+          ]
+        },
+        {
+          "titel": "Was die Stromsteuer-Senkung für dich heißt",
+          "unterzeile": "Rechenbeispiele aus dem Koalitionsbeschluss",
+          "text": "Ab 1. Januar 2027 sollen alle Verbraucher profitieren. Genannt werden rund 7,75 Euro im Monat für einen Drei-Personen-Haushalt mit 4.000 kWh und etwa 3 Euro für einen Single-Haushalt mit 1.500 kWh. Das gilt zunächst für 2027; ob es danach so bleibt, hängt an der Gegenfinanzierung. Ob dein Versorger die Senkung eins zu eins weitergibt, steht in den Quellen nicht.",
+          "quellen": [
+            { "name": "cash-online", "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/" }
+          ]
+        },
+        {
+          "titel": "Verbraucherzentrale warnt: Abzocke per Mail, Anruf und WhatsApp",
+          "unterzeile": "338-Euro-Forderung, Fake-Mails zu WhatsApp und CHECK24",
+          "text": "Die Verbraucherzentrale Brandenburg warnt vor einer Firma „Data Service Deutschland“, die 338 Euro für angeblich gelieferte Datenlöschung fordert. Im Phishing-Radar stehen außerdem Fake-Mails, die mit Kontosperrung bei WhatsApp innerhalb von 24 Stunden drohen, und eine falsche CHECK24-Rückerstattung von 102,99 Euro, mit der Kartendaten abgegriffen werden sollen. Nach der weltweiten Störung von Microsoft 365 am 12. und 13. November kursiert zudem eine Phishing-Kampagne.",
+          "quellen": [
+            { "name": "teltarif.de", "url": "https://www.teltarif.de/data-service-deutschland-datenloeschung-338-euro/news/107722.html" },
+            { "name": "Verbraucherzentrale NRW: Phishing-Radar", "url": "https://www.verbraucherzentrale.nrw/wissen/digitale-welt/phishingradar/phishingradar-aktuelle-warnungen-6059" },
+            { "name": "Verbraucherzentrale: Microsoft-Phishing", "url": "https://www.verbraucherzentrale.de/warnungen/microsoft-warnt-nach-outlookstoerung-vor-phishingkampagne-127229" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen des Tages",
+        "punkte": [
+          "ZEW-Erwartungen: +35,6 Punkte",
+          "Erwerbstätige Q3: 45,67 Mio.",
+          "Baugenehmigungen Sept.: rund 20.800 Wohnungen (-14,8 %)",
+          "Stromsteuer ab 2027: 0,1 statt 2,05 Cent/kWh"
+        ],
+        "quellen": [
+          { "name": "Destatis", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_404_13321.html" }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Politik, Recht, Pflegeversicherung",
+      "artikel": [
+        {
+          "titel": "Pflegereform: So eng ist der Zeitplan bis Weihnachten",
+          "unterzeile": "Anhörung am 25. November, Verabschiedung am 11. Dezember geplant, aber knapp",
+          "text": "Am Mittwoch, 25. November, hört der Gesundheitsausschuss des Bundestags Sachverständige zum Pflegeneuordnungsgesetz an. Die zweite und dritte Lesung sind für den 11. Dezember geplant. Laut einem Fachbericht könnte der Ausschuss seine Beratungen aber erst am 16. Dezember abschließen, was den Zeitplan gefährden würde, weil dem Bundesrat dann kaum Zeit bliebe. Die Reform soll weitgehend am 1. Januar 2027 greifen und ein erwartetes Defizit von 7,6 Milliarden Euro decken.\n\nGesundheitsminister Linnemann hat Nachbesserungen angekündigt, vor allem um „harte Brüche“ zum Jahreswechsel zu vermeiden. Am Sparvolumen hält er fest. Konkrete neue Regelungen zu Entlastungsbetrag und Verhinderungspflege nennen die Quellen noch nicht.",
+          "quellen": [
+            { "name": "carevor9: So geht es weiter mit dem Pflegeneuordnungsgesetz", "url": "https://www.carevor9.de/inside/so-geht-es-weiter-mit-dem-pflegeneuordnungsgesetz" },
+            { "name": "Altenpflege: Linnemann will nachbessern", "url": "https://www.altenpflege-online.net/linnemann-will-pflegereform-nachbessern-und-harte-brueche-vermeiden/" },
+            { "name": "ms-aktuell", "url": "https://ms-aktuell.de/welt/pflegereform-2027-05-11-2026/" }
+          ]
+        },
+        {
+          "titel": "Pflegegrad 1: Entlastungsbetrag von 131 Euro soll wegfallen",
+          "unterzeile": "Wer schon eingestuft ist, behält seinen Pflegegrad",
+          "text": "Nach dem Entwurf entfällt für Pflegegrad 1 der Entlastungsbetrag von 131 Euro im Monat, zudem steigen die Hürden für die Pflegegrade 1 bis 3. Wer bereits eingestuft ist, soll seinen Grad behalten. Der VdK kritisiert den Wegfall; gegen-hartz.de beschreibt ihn als besonders umstritten.",
+          "quellen": [
+            { "name": "Altenpflege: Linnemann will nachbessern", "url": "https://www.altenpflege-online.net/linnemann-will-pflegereform-nachbessern-und-harte-brueche-vermeiden/" },
+            { "name": "gegen-hartz.de", "url": "https://www.gegen-hartz.de/news/pflegegeld-linnemann-will-weiter-sparen-angehoerige-zahlen-den-preis-dafuer" }
+          ]
+        },
+        {
+          "titel": "Beitragsseite: Kinderlosenzuschlag und Bemessungsgrenze steigen",
+          "unterzeile": "Laut ZDFheute Teil des Gesetzentwurfs",
+          "text": "Neben den Leistungsänderungen sollen laut zdfheute unter anderem der Beitragszuschlag für Kinderlose und die Beitragsbemessungsgrenze steigen. Das Geld soll helfen, das erwartete Defizit der Pflegeversicherung zu schließen. Welche Beträge genau gelten sollen, haben wir in den Quellen nicht gefunden; maßgeblich ist der Gesetzentwurf.",
+          "quellen": [
+            { "name": "ZDFheute", "url": "https://www.zdfheute.de/politik/deutschland/pflege-reform-sparpaket-linnemann-bundestag-100.html" }
+          ]
+        },
+        {
+          "titel": "Langzeitplan: Fachkommission, Überbrückungsbudget, Pflegebegleitung",
+          "unterzeile": "Was nach dem 1. Januar 2027 kommen soll",
+          "text": "Nach dem Bericht von Altenpflege sollen Ende Januar 2027 Vorschläge einer Fachkommission für tiefergehende Änderungen vorliegen und vor Ostern 2027 ein Kabinettsbeschluss dazu angestrebt werden. Empfehlungen sollen am 1. Juli 2027 in Kraft treten. Ab 2028 ist ein Überbrückungsbudget geplant, auch mit kurzzeitigem Heimaufenthalt, 2029 soll die Pflegebegleitung starten, und die Leistungsbeträge sollen dann jährlich mit der Inflation steigen.",
+          "quellen": [
+            { "name": "Altenpflege: Linnemann will nachbessern", "url": "https://www.altenpflege-online.net/linnemann-will-pflegereform-nachbessern-und-harte-brueche-vermeiden/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine Pflegereform",
+        "punkte": [
+          "25.11.: öffentliche Anhörung im Gesundheitsausschuss",
+          "11.12.: 2./3. Lesung geplant (Ausschuss könnte erst 16.12. fertig sein)",
+          "1.1.2027: Reform soll weitgehend greifen",
+          "Ende Januar 2027: Vorschläge der Fachkommission"
+        ],
+        "quellen": [
+          { "name": "carevor9", "url": "https://www.carevor9.de/inside/so-geht-es-weiter-mit-dem-pflegeneuordnungsgesetz" }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Praxis, Studien, Fachwissen, Arbeitsbedingungen",
+      "artikel": [
+        {
+          "titel": "Feste Bezugspflege im Heim: Pilotprojekt zeigt mehr Zeit für Bewohner",
+          "unterzeile": "Hochschule München testete Personalbemessung nach § 113c SGB XI in zwei Pflegezentren",
+          "text": "In einem dreijährigen Forschungsprojekt hat die Hochschule München untersucht, wie die gesetzliche Personalbemessung in der stationären Langzeitpflege (§ 113c SGB XI, seit Juli 2023) praktisch umgesetzt werden kann. Projektpartner war die Hilfe im Alter gGmbH der Diakonie München und Oberbayern, erprobt wurde in zwei evangelischen Pflegezentren.\n\nKern des Modells: Jede Bewohnerin und jeder Bewohner hat eine feste Pflegefachperson als Pflegekoordination, die fachliche Verantwortung wird von der organisatorischen Verantwortung (Bereichsleitung) getrennt, Aufgaben richten sich nach Qualifikation. Laut Evaluation zeigten sich bei guter Begleitung mehr Zeit für direkten Kontakt, klarere Zuständigkeiten und eine systematischere Umsetzung der Vorgaben. Das Ergebnis ist ein Implementierungskonzept für Träger. Die Pressemeldung stammt vom 26. August 2026, es ist also ein Hintergrundstück.",
+          "quellen": [
+            { "name": "sozial.de", "url": "https://www.sozial.de/2026/studie-zur-beziehungsorientierten-pflege-test-in-2-piloteinrichtungen.html" }
+          ]
+        },
+        {
+          "titel": "Hintergrund: 300.000 Pflegekräfte könnten zurückkommen, wenn sich die Bedingungen ändern",
+          "unterzeile": "Hans-Böckler-Studie „Ich pflege wieder, wenn…“ (2022)",
+          "text": "Eine Befragung von 12.684 Beschäftigten (Herbst 2021) kam zu dem Ergebnis, dass konservativ rund 300.000 zusätzliche Vollzeit-Pflegekräfte möglich wären, optimistisch bis zu 660.000, vor allem durch Rückkehrer aus dem Beruf. Bedingungen: bedarfsgerechte Personalbemessung, bessere Bezahlung, verlässliche Dienstpläne, weniger Dokumentation und respektvolle Vorgesetzte. Die Studie ist von 2022, wir bringen sie als Einordnung zur aktuellen Debatte.",
+          "quellen": [
+            { "name": "Hans-Böckler-Stiftung", "url": "https://www.boeckler.de/de/pressemitteilungen-2675-neue-studie-mindestens-300-000-zusatzliche-pflegekrafte-40798.htm" }
+          ]
+        },
+        {
+          "titel": "Honorarkräfte in der Pflege: BSG sieht fast immer abhängige Beschäftigung",
+          "unterzeile": "Ältere Rechtsprechung, die Heime und Dienste kennen sollten",
+          "text": "Das Bundessozialgericht hat laut altenheim.net klargestellt, dass ambulante Pflegekräfte trotz freiberuflicher Verträge in der Regel abhängig beschäftigt sind (Az. B 12 R 6/20 R und B 12 R 17/19 R). Für Einrichtungen heißt das: Sozialversicherungspflicht ist der Normalfall, nicht die Ausnahme. Das Urteil ist nicht neu, bleibt aber für Träger relevant, die mit Honorarkräften planen.",
+          "quellen": [
+            { "name": "Altenheim", "url": "https://www.altenheim.net/urteil-honorar-pflegekraefte-fast-immer-abhaengig-beschaeftigt/" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Gaming: Steam & PC",
+      "artikel": [
+        {
+          "titel": "Kein Steam-Sale zum Black Friday, aber ein Special-Offers-Hub",
+          "unterzeile": "26. bis 30. November laut Steamworks-Eventseite, Winter Sale ab 17. Dezember",
+          "text": "Valve veranstaltet 2026 keinen eigenen storeweiten Black-Friday-Sale. Laut Gaming Route listet die Steamworks-Eventseite einen Black-Friday-Hub vom 26. November (10 Uhr PT) bis 30. November (10 Uhr PT); Valve lenkt den Traffic auf den Special-Offers-Hub, die Rabatte setzen die Publisher. Welche Spiele oder Hardware reduziert werden, hat Valve nicht benannt. Der nächste große Sale ist der Winter Sale vom 17. Dezember 2026 bis 4. Januar 2027. Gaming Route konnte Valves Original-Post nicht lesen, die Daten stammen von der Eventseite.",
+          "quellen": [
+            { "name": "Gaming Route", "url": "https://gamingroute.com/steam-black-friday-sale/" },
+            { "name": "Gaming Route: Steam Deck Black Friday", "url": "https://gamingroute.com/steam-deck-black-friday-2026/" }
+          ]
+        },
+        {
+          "titel": "Valve hängt bei der Spiele-Freigabe hinterher",
+          "unterzeile": "Review-Wartezeit länger, neue Checkliste für Entwickler",
+          "text": "Laut PC Gamer (3. November) räumt Valve ein, bei der Freigabe von Steam-Spielen hinterherzuhinken; als Folge fehlen bei Wunschlisten-Spielen teils die Release-Termine. Valve hat eine Checkliste veröffentlicht, damit Einreichungen beim ersten Mal durchgehen. Konkrete Wartezeiten stehen in dem, was wir lesen konnten, nicht. In Suchergebnissen werden bis zu 12 Werktage genannt, das konnten wir nicht an der Primärquelle belegen.",
+          "quellen": [
+            { "name": "PC Gamer", "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/" }
+          ]
+        },
+        {
+          "titel": "Speicherpreise: Nvidia räumt Druck auf PC-Käufer ein, AMD soll nachlegen",
+          "unterzeile": "Bei AMD handelt es sich um einen Bericht, nicht um eine Bestätigung",
+          "text": "PCWorld berichtet, dass auch Nvidia einräumt, dass steigende Speicherpreise PC-Käufer treffen. VideoCardz und TechPowerUp berichten unter Berufung auf Quellen, AMD plane im November eine weitere Preiserhöhung für Radeon-GPUs und GDDR6-Kits. Das ist ein Gerücht, AMD hat es nicht bestätigt. Dazu passt: Samsung, SK hynix und Micron konnten eine Klage wegen angeblicher DRAM-Preisabsprachen nicht abweisen lassen.",
+          "quellen": [
+            { "name": "PCWorld", "url": "https://www.pcworld.com/article/3289334/nvidia-admits-soaring-memory-prices-are-hurting-pc-buyers.html" },
+            { "name": "VideoCardz: AMD", "url": "https://videocardz.com/newz/amd-reportedly-plans-another-radeon-gpu-and-gddr6-price-increase-in-november" },
+            { "name": "VideoCardz: DRAM-Klage", "url": "https://videocardz.com/newz/samsung-sk-hynix-and-micron-fail-to-dismiss-lawsuit-alleging-dram-price-fixing" }
+          ]
+        },
+        {
+          "titel": "Nvidia RTX Spark: Mini-PCs von ASUS, Dell und MSI seit 18. November",
+          "unterzeile": "Desktop-Minis mit Windows",
+          "text": "Laut VideoCardz startet Nvidia die RTX-Spark-Mini-PCs mit Windows, erste Partner sind ASUS, Dell und MSI, ab dem 18. November. MSI hat dem Bericht zufolge seinen EdgeMesa N AI+ um 300 Dollar auf 4.399 Dollar gesenkt. Mini-PCs in dieser Preisklasse sind eher etwas für KI-Arbeit als fürs Gaming-Budget.",
+          "quellen": [
+            { "name": "VideoCardz", "url": "https://videocardz.com/newz/nvidia-launches-rtx-spark-mini-pc-desktops-with-windows-os-asus-dell-and-msi-first" },
+            { "name": "Mezha", "url": "https://mezha.net/eng/news/mezha-ee9c81e4cec05aa23fc9920e_msi_cuts_edgemesa" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Nintendo Switch 2 & Konsolen",
+      "artikel": [
+        {
+          "titel": "Diese Woche neu auf der Switch 2",
+          "unterzeile": "Isaac, Boltgun 2 und ein paar Ports",
+          "text": "Laut Nintendos Terminliste und Nintendo Life erscheinen am 19. November unter anderem The Binding of Isaac: Repentance+ und Warhammer 40,000: Boltgun 2 für die Switch 2, dazu Figment 1 und 2 sowie Reverie in the Moonlight (Switch 2 Edition); Termine gelten teils nur für bestimmte Regionen. Ravenswatch: Nintendo Switch 2 Edition ist nach Nintendo Life für UK/EU am selben Tag gelistet. Schon am 18. November kam Disney Dreamlight Valley: The Keepsake Sea. Am 23. November folgt Jaden Industries: Cozy Automation Puzzler, am 26. November Grime II (jeweils US-Termin).",
+          "quellen": [
+            { "name": "Nintendo Life: Alle bestätigten Switch-2-Spiele", "url": "https://www.nintendolife.com/guides/nintendo-switch-2-all-confirmed-games-and-release-dates" },
+            { "name": "Nintendo: Upcoming Games November 2026", "url": "https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html" }
+          ]
+        },
+        {
+          "titel": "Ravenswatch kommt am 18. Dezember als Modul",
+          "unterzeile": "Echtes Cartridge, auch auf der alten Switch lauffähig",
+          "text": "Nintendo Everything berichtet, dass Ravenswatch: Nintendo Switch 2 Edition am 18. Dezember 2026 physisch erscheint, als vollwertiges Cartridge statt Game-Key-Card, das auch auf der ersten Switch läuft. Außerdem sind physische Switch-2-Editionen von Kernel Hearts und Little Rocket Lab in Arbeit (Little Rocket Lab: 4.000 Exemplare).",
+          "quellen": [
+            { "name": "Nintendo Everything", "url": "https://nintendoeverything.com/" }
+          ]
+        },
+        {
+          "titel": "Coral Island erscheint am 7. Dezember für die Switch 2",
+          "unterzeile": "Am selben Tag kommt das Update 1.4 „Kids Grow Up“",
+          "text": "Die Switch-2-Version von Coral Island startet laut Nintendo Everything am 7. Dezember 2026, gleichzeitig mit dem Update 1.4 „Kids Grow Up“. Am 7. Dezember kommt außerdem Agefield High: Rock the School für die Switch. Auch Atelier Karia hat eine Switch-2-Version, sie ist laut einem Interview für nächstes Jahr geplant.",
+          "quellen": [
+            { "name": "Nintendo Everything: Coral Island", "url": "https://nintendoeverything.com/coral-island-gets-nintendo-switch-2-release-date-1-4-kids-grow-up-update" },
+            { "name": "Nintendo Everything", "url": "https://nintendoeverything.com/" }
+          ]
+        },
+        {
+          "titel": "8BitDo: GameCube-Controller zum 25. Jubiläum",
+          "unterzeile": "Bluetooth-Gamepad soll am 10. Dezember erscheinen",
+          "text": "8BitDo hat laut Nintendo Everything ein GameCube-inspiriertes Bluetooth-Gamepad zum 25. Geburtstag der Konsole angekündigt; Start ist für den 10. Dezember 2026 geplant. Die Nintendo Switch Online hat zudem Icons zum Zelda-Ocarina-of-Time-Remake für Mitglieder: Charakter-Icons kosten 10 Platin-Punkte, andere Designs 5.",
+          "quellen": [
+            { "name": "Nintendo Everything", "url": "https://nintendoeverything.com/" }
+          ]
+        },
+        {
+          "titel": "Nintendo Switch 2 Holiday Experience in den USA",
+          "unterzeile": "25. November bis 23. Dezember in zehn Einkaufszentren",
+          "text": "Nintendo bringt die Switch 2 Holiday Experience laut Nintendo Life vom 25. November bis 23. Dezember in zehn US-Einkaufszentren, darunter Salt Lake City, Orlando, Los Angeles, Atlanta und Dallas-Fort Worth. Für Deutschland ist das nur ein Randthema; es zeigt aber, dass Nintendo das Weihnachtsgeschäft mit Zugpferden angeht.",
+          "quellen": [
+            { "name": "Nintendo Life", "url": "https://www.nintendolife.com/news/2026/11/nintendos-switch-2-holiday-experience-might-be-coming-to-a-city-near-you-next-month-us" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Neue Spiele der Woche",
+        "punkte": [
+          "19.11.: The Binding of Isaac: Repentance+ (Switch 2)",
+          "19.11.: Warhammer 40,000: Boltgun 2 (Switch 2)",
+          "19.11.: Figment 1 und 2, Reverie in the Moonlight – Switch 2 Edition",
+          "23.11.: Jaden Industries: Cozy Automation Puzzler (US-Termin)",
+          "26.11.: Grime II (US-Termin)"
+        ],
+        "quellen": [
+          { "name": "Nintendo Life", "url": "https://www.nintendolife.com/guides/nintendo-switch-2-all-confirmed-games-and-release-dates" }
+        ]
+      }
+    },
+    {
+      "titel": "Tech & Netz",
+      "artikel": [
+        {
+          "titel": "Java-Lücke: 65 Zeichen reichen für Schadcode, KI fand den Exploit für 200 Dollar",
+          "unterzeile": "Heise-Security-Meldungen vom 18. November",
+          "text": "Laut IT-Sicherheitsnews, die die Heise-Security-Meldungen bündeln, gefährdet eine Lücke Java-Anwendungen: Mit nur 65 Zeichen sei Schadcodeausführung möglich. Eine zweite Meldung beschreibt, wie eine KI für nur 200 Dollar einen Exploit dafür fand. Details zu betroffenen Versionen und Patches stehen in den Originalartikeln bei heise, die wir nicht gelesen haben. Wenn du Java-Software betreibst, lohnt sich ein Blick dorthin.",
+          "quellen": [
+            { "name": "IT-Sicherheitsnews: Java-Lücke", "url": "https://www.itsicherheitnews.de/luecke-gefaehrdet-java-anwendungen-mit-nur-65-zeichen-zur-schadcode-ausfuehung/" },
+            { "name": "IT-Sicherheitsnews: KI-Exploit", "url": "https://www.itsicherheitnews.de/gravierende-sicherheitsluecke-in-java-entdeckt-wie-eine-ki-fuer-nur-200-dollar-einen-exploit-fand/" }
+          ]
+        },
+        {
+          "titel": "N-central: Angriffe am Wochenende, Updates liegen bereit",
+          "unterzeile": "Lücken in der Fernwartungssoftware",
+          "text": "Heise security berichtet, dass am Wochenende Angriffe auf Lücken in der Fernüberwachungssoftware N-central bekannt wurden. Inzwischen stehen Updates bereit, die die Lücken schließen. Admins sollten sie zügig einspielen.",
+          "quellen": [
+            { "name": "heise Newsticker", "url": "https://www.heise.de/ix/newsticker" },
+            { "name": "IT-Sicherheitsnews Tageszusammenfassung", "url": "https://www.itsicherheitnews.de/it-sicherheitsnews-taegliche-zusammenfassung-2026-11-18-13h-18-posts/" }
+          ]
+        },
+        {
+          "titel": "Bundeswehr-Inspekteur: KI ist eine neue Dimension der Cyberbedrohung",
+          "unterzeile": "Dazu EU-Sanktionen gegen russische Desinformationsnetzwerke",
+          "text": "Der Inspekteur des Cyber- und Informationsraums der Bundeswehr bezeichnet KI laut einer Meldung vom 18. November als neue Dimension der Cyberbedrohung. Das passt zum Bericht der Google Threat Intelligence Group, der Angreifer beschreibt, die Angriffe mit KI-Hilfe vollständig automatisieren. Außerdem berichtet heise über EU-Sanktionen gegen russische Desinformationsnetzwerke und eine Hackergruppe.",
+          "quellen": [
+            { "name": "IT-Sicherheitsnews: Bundeswehr", "url": "https://www.itsicherheitnews.de/bundeswehr-inspekteur-ki-neue-dimension-der-cyberbedrohung/" },
+            { "name": "heise Newsticker", "url": "https://www.heise.de/ix/newsticker" }
+          ]
+        },
+        {
+          "titel": "Microsoft-365-Störung am 12. und 13. November: Jetzt kommt das Phishing",
+          "unterzeile": "Microsoft warnt vor Kampagne",
+          "text": "Nach der weltweiten Störung von Teams und Outlook am 12. und 13. November warnt die Verbraucherzentrale vor einer Phishing-Kampagne, vor der laut Überschrift auch Microsoft selbst warnt. Wer Mails mit „dringenden“ Aufforderungen zur Anmeldung bekommt, sollte Links nicht anklicken und die Seite selbst im Browser aufrufen.",
+          "quellen": [
+            { "name": "Verbraucherzentrale", "url": "https://www.verbraucherzentrale.de/warnungen/microsoft-warnt-nach-outlookstoerung-vor-phishingkampagne-127229" }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Bei „Konto wird in 24 Stunden gesperrt“ nie auf den Link klicken",
+    "text": "Fake-Mails drohen gern mit Fristen, damit du nicht nachdenkst. Öffne stattdessen die App oder die Webseite des Anbieters selbst und schau dort in deine Nachrichten. Steht dort nichts, war die Mail Fake. Das gilt für WhatsApp, Microsoft, Banken und alles andere, was mit Zeitdruck kommt."
+  }
+}
