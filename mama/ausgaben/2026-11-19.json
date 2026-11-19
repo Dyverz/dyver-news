@@ -1,0 +1,637 @@
+{
+ "gruss": "Guten Morgen, liebe Mama! Heute ist Donnerstag, der 19. November. Draußen ist es grau und windig, drinnen darf es gemütlich sein. Heute gibt es Neues von unseren Hockey-Weltmeistern in Mülheim, vom FC Bayern und von William und Kate. Viel Freude mit deiner Zeitung!",
+ "aufmacher": {
+  "rubrik": "Aus Mülheim",
+  "titel": "Hockey-Weltmeister im Mülheimer Rathaus",
+  "unterzeile": "Die Stadt hat ihre erfolgreichen Spitzensportler geehrt",
+  "text": "Mülheim hat Grund, stolz zu sein. Oberbürgermeister Marc Buchholz hat erfolgreiche Hockey-Sportler im Rathaus empfangen. Geehrt wurden Malte Hellwig, Moritz Ludwig, Lukas Windfeder und Maike Scheuer.\n\nMalte Hellwig und Moritz Ludwig wurden 2025 Europameister und 2026 auch Weltmeister. Maike Scheuer wurde 2026 Europameisterin. Lukas Windfeder konnte nicht kommen. Seine Erfolge wurden trotzdem gewürdigt.\n\nMehr aus der Stadt steht auf Seite 2. Auf Seite 3 findest du Tipps für das Wochenende.",
+  "quellen": [
+   {
+    "name": "Stadt Mülheim: Empfang der Hockey-Spitzensportler",
+    "url": "https://cms.muelheim-ruhr.de/rathaus/politik/repraesentation-der-stadt/veranstaltungen-und-empfaenge/empfang-der-muelheimer"
+   },
+   {
+    "name": "Stadt Mülheim: Pressemitteilungen",
+    "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen"
+   }
+  ]
+ },
+ "seiten": [
+  {
+   "titel": "Aus Mülheim",
+   "artikel": [
+    {
+     "titel": "Hockey-Weltmeister im Rathaus",
+     "unterzeile": "Die Stadt ehrt Mülheimer Spitzensportler",
+     "text": "Mülheim hat stolze Sportler. Oberbürgermeister Marc Buchholz hat sie im Rathaus empfangen. Es ging um die Hockey-Spieler Malte Hellwig, Moritz Ludwig und Lukas Windfeder. Auch Maike Scheuer wurde geehrt.\n\nMalte Hellwig und Moritz Ludwig wurden 2025 Europameister. 2026 kam der Weltmeister-Titel dazu. Maike Scheuer wurde 2026 Europameisterin. Lukas Windfeder konnte leider nicht dabei sein. Seine Erfolge wurden trotzdem gewürdigt.\n\nDie Stadt hat das am 17. November gemeldet. Die Spieler gehören nach Angaben aus dem Umfeld zum HTC Uhlenhorst Mülheim.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: Empfang der Hockey-Spitzensportler",
+       "url": "https://cms.muelheim-ruhr.de/rathaus/politik/repraesentation-der-stadt/veranstaltungen-und-empfaenge/empfang-der-muelheimer"
+      },
+      {
+       "name": "Wikipedia: HTC Uhlenhorst Mülheim",
+       "url": "https://en.wikipedia.org/wiki/HTC_Uhlenhorst_M%C3%BClheim"
+      }
+     ]
+    },
+    {
+     "titel": "Die Walkmühlenstraße bekommt eine neue Fahrbahn",
+     "unterzeile": "Bis zum 27. November gibt es Umleitungen",
+     "text": "Auf der Walkmühlenstraße wird die Fahrbahn erneuert. Das betrifft das Stück zwischen der Brücke an der B1 und der Essener Straße. Die Arbeiten laufen vom 9. bis zum 27. November. Rechne dort mit Einschränkungen und Umleitungen. Plane etwas mehr Zeit für deinen Weg ein.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: Instandsetzung der Fahrbahndecke Walkmühlenstraße",
+       "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/zwischen-bruecke-b1-und-essener-strasse-instandsetzung-der"
+      }
+     ]
+    },
+    {
+     "titel": "Die Stadt ist jetzt auf WhatsApp",
+     "unterzeile": "Schnelle Infos direkt aufs Handy",
+     "text": "Die Stadt Mülheim hat einen neuen Weg, um Neuigkeiten zu verbreiten. Sie nutzt jetzt WhatsApp als zusätzlichen Kanal. So kommen kurze Informationen schnell bei den Bürgern an. Das Rathaus gibt es dort also nun auch in der Hosentasche.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: Stadt jetzt auf WhatsApp",
+       "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/stadt-muelheim-an-der-ruhr-jetzt-auf-whatsapp"
+      }
+     ]
+    },
+    {
+     "titel": "Auf den Friedhöfen wird das Wasser abgestellt",
+     "unterzeile": "Vor dem Frost werden die Zapfstellen geschlossen",
+     "text": "Auf den städtischen Friedhöfen wird bald das Wasser abgestellt. Das soll voraussichtlich am 23. November passieren. Wenn früher Frost kommt, geschieht es auch früher. So frieren die Leitungen nicht ein. Die Toiletten bleiben in Betrieb. Wer Gräber pflegt, sollte sich Gießkannen also rechtzeitig füllen.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: Abschaltung der Wasserzapfstellen",
+       "url": "https://cms.muelheim-ruhr.de/leben-in-muelheim/natur-und-umwelt/friedhoefe-in-muelheim-an-der-ruhr/aktuelle-informationen-zu-7"
+      }
+     ]
+    },
+    {
+     "titel": "Der Abfallkalender für 2027 ist da",
+     "unterzeile": "Die Termine kann man sich selbst zusammenstellen",
+     "text": "Die Mülheimer Entsorgungsgesellschaft MEG hat die Abfuhrtermine für 2027 veröffentlicht. Auf der Internet-Seite der MEG kannst du dir einen eigenen Kalender erstellen. Dann siehst du genau, wann bei dir welche Tonne geleert wird.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: Abfallkalender 2027 der MEG",
+       "url": "https://cms.muelheim-ruhr.de/leben-in-muelheim/natur-und-umwelt/abfallentsorgung-und-gebuehren/abfallkalender-2027-der-meg"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Kurz gemeldet",
+    "punkte": [
+     "Am 24. November schließen die Dienststellen der Stadt schon um 11.30 Uhr (Personalversammlung).",
+     "Möbel Bernskötter hat den 4. Mülheimer Wirtschaftspreis gewonnen (5.000 Euro).",
+     "Für eine neue Polizeiinspektion werden Investoren gesucht."
+    ],
+    "quellen": [
+     {
+      "name": "Stadt Mülheim: Pressemitteilungen",
+      "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Mülheim erleben",
+   "artikel": [
+    {
+     "titel": "Ein Konzert zwischen Mystik und Dramatik",
+     "unterzeile": "Das Litauische Staatsorchester kommt in die Stadthalle",
+     "text": "Am Freitag, 20. November, gibt es in der Stadthalle das zweite Sinfoniekonzert der Saison. Es spielt das Litauische Staatsorchester. Am Pult steht Gintaras Rinkevičius. Solist ist Bastian Spier.\n\nDie Stadt beschreibt den Abend als Konzert zwischen Mystik und Dramatik. Karten gibt es über die Stadthalle. Schau am besten dort noch einmal nach der Uhrzeit.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: Konzertabend zwischen Mystik und Dramatik",
+       "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/konzertabend-zwischen-mystik-und-dramatik"
+      },
+      {
+       "name": "Stadthalle Mülheim: Veranstaltungskalender",
+       "url": "https://www.stadthalle-muelheim.de/veranstaltung-besuchen/veranstaltungskalender"
+      }
+     ]
+    },
+    {
+     "titel": "Im Garten der Kunst",
+     "unterzeile": "Eine Führung im Kunstmuseum",
+     "text": "Im Kunstmuseum Mülheim gibt es Bilder von Marc, Macke, Heckel und Jawlensky. Sie stammen aus der Sammlung von Karl und Maria Ziegler. Dazu gibt es Führungen unter dem Titel „Im Garten der Kunst“ (Teil 2). Sie finden am Donnerstag, Freitag und Samstag jeweils um 11 Uhr statt. Das Museum liegt am Synagogenplatz 1.",
+     "quellen": [
+      {
+       "name": "Mein Mülheim: Im Garten der Kunst",
+       "url": "https://www.mein-muelheim.de/event/im-garten-der-kunst-marc-macke-heckel-jawlensky-die-sammlung-karl-und-maria-ziegler-teil-2"
+      },
+      {
+       "name": "Mein Mülheim: Eventkalender",
+       "url": "https://www.mein-muelheim.de/event-kultur/events"
+      }
+     ]
+    },
+    {
+     "titel": "„Götterfunken“: Kunst über Demokratie",
+     "unterzeile": "Künstler aus Mülheim und Tours zeigen ihre Sicht",
+     "text": "In einer Ausstellung zeigen Künstlerinnen und Künstler aus Mülheim und der französischen Partnerstadt Tours ihre Gedanken zu Demokratie und Zusammenhalt. Die Ausstellung heißt „Götterfunken“. Es ist ein schönes Zeichen der Freundschaft zwischen beiden Städten.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: „Götterfunken“",
+       "url": "https://cms.muelheim-ruhr.de/leben-in-muelheim/stadtportrait/staedtepartnerschaften-und-patenschaften/aktionen-und-projekte-22"
+      }
+     ]
+    },
+    {
+     "titel": "Weihnachtsmärkte in der Nähe",
+     "unterzeile": "Essen, Duisburg und Oberhausen haben schon offen",
+     "text": "In der Nachbarschaft ist schon Weihnachtszeit. Der Internationale Weihnachtsmarkt in Essen läuft vom 13. November bis 23. Dezember. Am Totensonntag, dem 22. November, bleibt er geschlossen. In Duisburg dauert der Markt vom 12. November bis 30. Dezember. Auch dort ist am 22. November zu. Der Markt im Centro in Oberhausen läuft vom 13. November bis 23. Dezember. Die Stadt Mülheim hat zudem einen Überblick über die Mülheimer Märkte ins Netz gestellt.",
+     "quellen": [
+      {
+       "name": "Ruhr Nachrichten: Weihnachtsmärkte in NRW 2026",
+       "url": "https://www.ruhrnachrichten.de/regionales/weihnachtsmaerkte-nrw-2026-termine-bochum-dortmund-herne-koeln-dom-schloss-solingen-wochenende-w1098331-2001872191/"
+      },
+      {
+       "name": "IHK Essen: Weihnachtsmärkte 2026",
+       "url": "https://www.ihk.de/meo/produktmarken/branchen/aktuelles/weihnachtsmaerkte-7222108"
+      },
+      {
+       "name": "Stadt Mülheim: Mülheimer Weihnachtsmärkte",
+       "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Termine",
+    "punkte": [
+     "Fr 20.11., 15–21 Uhr: Schiffsweihnacht auf der Schleuseninsel (kostenlos)",
+     "Sa 21.11., 13–21 Uhr: Schiffsweihnacht auf der Schleuseninsel",
+     "Fr 20.11.: Sinfoniekonzert in der Stadthalle",
+     "Do–Sa, 11 Uhr: „Im Garten der Kunst“, Kunstmuseum",
+     "Sa 21.11., 11 Uhr: Lesestart in der Stadtbibliothek (MedienHaus)",
+     "Ab 23.11.: Mülheimer Weihnachtstreff (bis 23.12.)"
+    ],
+    "quellen": [
+     {
+      "name": "Mein Mülheim: Eventkalender",
+      "url": "https://www.mein-muelheim.de/event-kultur/events"
+     },
+     {
+      "name": "Mein Mülheim: Schiffsweihnacht 2026",
+      "url": "https://www.mein-muelheim.de/event/muelheimer-schiffsweihnacht-2026"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Deutschland",
+   "artikel": [
+    {
+     "titel": "Die Renten sollen um gut vier Prozent steigen",
+     "unterzeile": "So sieht es der neue Rentenbericht vor",
+     "text": "Rentnerinnen und Rentner können sich auf mehr Geld freuen. Im Juli 2027 sollen die Renten um etwa 4,1 Prozent steigen. Das steht im Rentenversicherungsbericht 2026.\n\nEndgültig ist die Zahl noch nicht. Sie wird erst im Frühjahr 2027 festgelegt. Früher hatte man mit etwas mehr gerechnet, nämlich mit 4,4 Prozent. Der Beitrag zur Rentenversicherung bleibt 2027 bei 18,6 Prozent.",
+     "quellen": [
+      {
+       "name": "cash-online: Rentenerhöhung 2027 um voraussichtlich 4,1 Prozent",
+       "url": "https://www.cash-online.de/a/rentenerhoehung-2027-renten-steigen-voraussichtlich-um-41-prozent-729419/"
+      },
+      {
+       "name": "ZDFheute: Rentenerhöhung 2027",
+       "url": "https://www.zdfheute.de/politik/deutschland/rente-anstieg-rentenbericht-102.html"
+      },
+      {
+       "name": "cash-online: Beitragssatz 2028",
+       "url": "https://www.cash-online.de/a/rentenerhoehung-2027-rentenbericht-sieht-beitragssatz-2028-bei-198-prozent-730866/"
+      }
+     ]
+    },
+    {
+     "titel": "Wird der Führerschein billiger?",
+     "unterzeile": "Am Freitag entscheidet der Bundesrat",
+     "text": "Der Bundestag hat eine Reform für den Führerschein beschlossen. Am Freitag, 20. November, muss der Bundesrat zustimmen. Es soll zum Beispiel keine Pflicht mehr geben, die Theorie im Unterricht zu lernen. Auch Eltern sollen beim Üben helfen dürfen.\n\nWie viel man spart, ist umstritten. Der Führerschein kostet heute im Schnitt rund 3.400 Euro. Ein Fahrlehrer rechnet nur mit etwa 200 Euro Ersparnis. Start soll im Wesentlichen der 1. Juli 2027 sein.",
+     "quellen": [
+      {
+       "name": "Bundestag/Bundesrat: Meldung zur Führerscheinreform",
+       "url": "https://www.netz-trends.de/fuehrerscheinreform-soll-bis-zu-1-000-euro-sparen-bundesrat-entscheidet/"
+      },
+      {
+       "name": "ZDFheute: Führerschein-Reform",
+       "url": "https://www.zdfheute.de/politik/deutschland/fahrschule-fuehrerschein-guenstiger-gesetz-faq-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Wer zahlt den Makler?",
+     "unterzeile": "Der Bundesgerichtshof verhandelt heute",
+     "text": "Heute um 11 Uhr verhandelt der Bundesgerichtshof in Karlsruhe über eine Frage rund ums Wohnen. Es geht um Mieter, die ihre Wohnung kaufen wollen. Darf man ihnen dann die ganze Maklerprovision aufbürden? Oder müssen sich Verkäufer und Käufer die Kosten teilen? Die Gerichte vor dem BGH haben das unterschiedlich gesehen. Ob heute schon ein Urteil fällt, steht noch nicht fest.",
+     "quellen": [
+      {
+       "name": "Deutsche Anwaltszeitung: Wer zahlt den Makler?",
+       "url": "https://deutsche-anwalts-zeitung.de/2026/10/05/wer-zahlt-den-makler-bgh-entscheidet-ueber-millionenfrage-beim-mietervorkaufsrecht/"
+      },
+      {
+       "name": "Kanzlei Übler: BGH-Verhandlungstermin",
+       "url": "https://kanzlei.ra-uebler.de/bgh-verhandlungstermin-am-19-november-2026-um-1100-uhr-in-sachen-i-zr-116-26-und-i-zr-117-26-reichweite-des-halbteilungsgrundsatzes-bei-ausuebung-eines-mietervorkaufsrechts/"
+      }
+     ]
+    },
+    {
+     "titel": "Wind und Regen, dann wird es kälter",
+     "unterzeile": "So wird das Wochenende",
+     "text": "Das Sturmtief Talia hat viel Regen und Wind gebracht. Vor allem im Süden und Südwesten gab es starke Böen. Zum Wochenende soll sich das Wetter langsam beruhigen. Es wird dann kühler. In den Nächten ist Frost eher möglich. Am Freitag ist es im Norden freundlich und trocken. Im Süden bleibt es nass und windig. Die Wetterberichte sind nicht ganz einheitlich. Schau am Wochenende noch einmal in die Wetter-App.",
+     "quellen": [
+      {
+       "name": "wetter.com: Sturmfahrplan Tief Talia",
+       "url": "https://www.wetter.com/news/sturmfahrplan-tief-talia-kommt-mit-orkanboeen-hoehepunkt-am-dienstag_aid_6afb1c10f8324e93d00a62e9.html"
+      },
+      {
+       "name": "Deutscher Wetterdienst: Thema des Tages",
+       "url": "https://www.dwd.de/DE/wetter/thema_des_tages/thema_des_tages_neuestes_node.html"
+      }
+     ]
+    },
+    {
+     "titel": "Das ändert sich im Dezember",
+     "unterzeile": "Neue Regeln für Verbraucher",
+     "text": "Schon bald gelten ein paar neue Regeln. Am 9. Dezember tritt ein neues Gesetz zur Produkthaftung in Kraft. Es gilt dann auch für Software und digitale Dienste. Bis Dezember sollen Wärme- und Wassermessgeräte in Wohnungen aus der Ferne ablesbar sein. Der Tankrabatt endet im Dezember. Ab Januar 2027 gelten wieder die normalen Steuersätze auf Sprit.",
+     "quellen": [
+      {
+       "name": "meinrecht.de: Das ändert sich im Dezember 2026",
+       "url": "https://www.meinrecht.de/magazin/recht-das-aendert-sich-im-dezember-2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Aus aller Welt",
+   "artikel": [
+    {
+     "titel": "Eine Maus kehrt zurück",
+     "unterzeile": "Nach fast 100 Jahren wiedergefunden",
+     "text": "Das ist eine schöne Nachricht aus Äthiopien. Forschende haben die Äthiopische Wassermaus wiedergefunden. Man hatte sie fast 100 Jahre nicht gesehen. Entdeckt wurde sie 1927, damals gab es nur ein einziges Tier.\n\nDer Forscher Mengistu Wale fing sie Mitte Oktober in einer Falle. Sie lebt zum Teil im Wasser und hat ein wasserabweisendes Fell. Angelockt wurde sie mit Erdnussbutter. Insgesamt wurden drei Tiere gefangen. Nun hoffen die Forscher, mehr über ihr Leben zu lernen.",
+     "quellen": [
+      {
+       "name": "National Geographic: Äthiopische Wassermaus wiederentdeckt",
+       "url": "https://nationalgeographic.de/tiere/2026/11/aethiopische-wassermaus-nach-fast-100-jahren-wiederentdeckt/"
+      },
+      {
+       "name": "Tagesspiegel: Fast 100 Jahre verschollen",
+       "url": "https://www.tagesspiegel.de/wissen/fast-100-jahre-verschollen-dieses-scheue-tier-taucht-plotzlich-wieder-auf-16265873.html"
+      }
+     ]
+    },
+    {
+     "titel": "Queen singen wieder zu Weihnachten",
+     "unterzeile": "Ein alter Song bekommt neuen Klang",
+     "text": "Die Band Queen hat ihr Weihnachtslied von 1984 neu aufgenommen. Es heißt jetzt „Thank God It's Christmas… Again!“. Brian May und Roger Taylor haben neue Gitarren, ein echtes Schlagzeug und einen neuen Chor dazugegeben. Nur der Gesang von Freddie Mercury ist geblieben. Er ist also noch genau so zu hören wie damals.",
+     "quellen": [
+      {
+       "name": "Berliner Kurier: Queen schicken Freddie auf die Weihnachtsmärkte",
+       "url": "https://www.berliner-kurier.de/article/queen-weihnachtssong-freddie-mercury-thank-god-its-christmas-weihnachtsmaerkte-10610567"
+      }
+     ]
+    },
+    {
+     "titel": "Ein Nashorn-Baby in Basel",
+     "unterzeile": "Die kleine Xshama ist da",
+     "text": "Im Zoo Basel ist am 5. November ein Panzernashorn zur Welt gekommen. Das Mädchen heißt Xshama. Der Zoo feiert damit 70 Jahre erfolgreiche Nashorn-Zucht. Panzernashörner sind selten. Jedes Jungtier ist deshalb eine große Freude.",
+     "quellen": [
+      {
+       "name": "Freizeit.ch: Süsse Tierbabys in den Schweizer Zoos",
+       "url": "https://www.freizeit.ch/aktuell/susse-tierbabys-in-den-schweizer-zoos/"
+      }
+     ]
+    },
+    {
+     "titel": "Weihnachtsmärkte öffnen in München und Montreux",
+     "unterzeile": "Ab Freitag gibt es Glühwein und Lichter",
+     "text": "Am Freitag, 20. November, öffnet der Christkindlmarkt am Marienplatz in München. Er läuft bis zum 24. Dezember. Am selben Tag startet in der Schweiz der Weihnachtsmarkt in Montreux am Genfer See. Auch er geht bis zum 24. Dezember.",
+     "quellen": [
+      {
+       "name": "München Tourismus: Christkindlmarkt am Marienplatz",
+       "url": "https://www.muenchen.travel/pois/maerkte-feste/christkindlmarkt-marienplatz"
+      },
+      {
+       "name": "SwissActivities: Weihnachtsmarkt Montreux",
+       "url": "https://www.swissactivities.com/weihnachtsmaerkte/montreux/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Sport: Fußball-Bundesliga",
+   "artikel": [
+    {
+     "titel": "Kompany kehrt zurück auf die Bank",
+     "unterzeile": "Bayern spielt am Freitag gegen Köln",
+     "text": "Gute Nachricht für den FC Bayern: Trainer Vincent Kompany ist zurück. Er war vor etwa vier Wochen wegen einer Hirnhautentzündung zusammengebrochen. Am Freitag soll er beim Heimspiel gegen den 1. FC Köln wieder am Spielfeldrand stehen. Das hat Vorstandschef Jan-Christian Dreesen gesagt.\n\nEine Schulterverletzung von dem Zusammenbruch ist noch nicht ganz ausgeheilt. Das Spiel beginnt um 20.30 Uhr und läuft bei Sky.",
+     "quellen": [
+      {
+       "name": "Sportschau/BR24: Kompany vor Rückkehr auf die Bank",
+       "url": "https://www.sportschau.de/regional/br/br-fcb-nach-der-pause-kompany-vor-rueckkehr-auf-die-bank-102.html"
+      },
+      {
+       "name": "Goslarsche Zeitung: 1. Bundesliga",
+       "url": "https://www.goslarsche.de/Nachrichten/bundesliga"
+      }
+     ]
+    },
+    {
+     "titel": "Wer fehlt den Bayern?",
+     "unterzeile": "Musiala ist wieder dabei, Davies verletzt",
+     "text": "Jamal Musiala trainiert wieder mit der Mannschaft. Laut Vorstand soll er am Freitag spielen. Alphonso Davies hat sich dagegen im Länderspiel für Kanada verletzt. Nach sechs Minuten musste er raus. Es ist der vierte Muskelfaserriss in zwei Jahren. Manuel Neuer fehlt weiter. Serge Gnabry trainiert wieder allein. Ob er dieses Jahr noch spielt, ist offen.",
+     "quellen": [
+      {
+       "name": "Sportschau/BR24: Kompany vor Rückkehr auf die Bank",
+       "url": "https://www.sportschau.de/regional/br/br-fcb-nach-der-pause-kompany-vor-rueckkehr-auf-die-bank-102.html"
+      }
+     ]
+    },
+    {
+     "titel": "Bayern und Dortmund liegen gleichauf",
+     "unterzeile": "21 Punkte nach neun Spielen",
+     "text": "An der Tabellenspitze ist es eng. Der FC Bayern und Borussia Dortmund haben beide 21 Punkte aus neun Spielen. Die Bayern liegen nur wegen der besseren Tordifferenz vorn. Sie haben 29 Tore geschossen und 9 kassiert. Dortmund steht bei 16 zu 7.",
+     "quellen": [
+      {
+       "name": "fussballdaten.de: Bundesliga-Tabelle 2026/27",
+       "url": "https://www.fussballdaten.de/bundesliga/tabelle/"
+      },
+      {
+       "name": "sport.de: Bundesliga 12. Spieltag",
+       "url": "https://www.sport.de/fussball/deutschland-bundesliga/md12/ergebnisse-und-tabelle/"
+      }
+     ]
+    },
+    {
+     "titel": "Das Spitzenspiel steigt im Dezember",
+     "unterzeile": "Bayern gegen Dortmund am 5. Dezember",
+     "text": "Schon vormerken: Am Samstag, 5. Dezember, um 15.30 Uhr treffen Dortmund und Bayern direkt aufeinander. Vorher müssen beide aber noch in den Europapokal. Dortmund spielt am Dienstag, 24. November, bei Arsenal. Bayern ist am Mittwoch, 25. November, bei Lille.",
+     "quellen": [
+      {
+       "name": "sport.de: Dortmund gegen Bayern",
+       "url": "https://www.sport.de/fussball/deutschland-bundesliga/ma10348001/borussia-dortmund_fc-bayern-muenchen/tabelle/"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Tabellenspitze nach 9 Spielen",
+    "punkte": [
+     "1. FC Bayern: 21 Punkte, Tore 29:9",
+     "2. Borussia Dortmund: 21 Punkte, Tore 16:7",
+     "Freitag: Bayern gegen Köln, 20.30 Uhr (Sky)"
+    ],
+    "quellen": [
+     {
+      "name": "fussballdaten.de: Tabelle",
+      "url": "https://www.fussballdaten.de/bundesliga/tabelle/"
+     },
+     {
+      "name": "Sportschau/BR24",
+      "url": "https://www.sportschau.de/regional/br/br-fcb-nach-der-pause-kompany-vor-rueckkehr-auf-die-bank-102.html"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Sport: Vereine und mehr",
+   "artikel": [
+    {
+     "titel": "Zverev steht im Halbfinale",
+     "unterzeile": "Sieg gegen Shelton bei den ATP Finals in Turin",
+     "text": "Alexander Zverev hat bei den ATP Finals in Turin das Halbfinale sicher. Am Dienstag besiegte er den Amerikaner Ben Shelton mit 6:2 und 7:6. Er ist damit der erste Spieler, der in der Runde der letzten Vier steht. Am Donnerstag spielt er noch gegen Arthur Fils. Wird er Gruppenerster, trifft er im Halbfinale wohl nicht auf Carlos Alcaraz.",
+     "quellen": [
+      {
+       "name": "Sportschau: Zverev vorzeitig im Halbfinale",
+       "url": "https://www.sportschau.de/tennis/zverev-vorzeitig-im-finals-halbfinale,spielbericht-zverev-shelton-102.html"
+      },
+      {
+       "name": "Eurosport: ATP Finals Turin",
+       "url": "https://www.eurosport.de/tennis/atp-finals-turin/2026/alexander-zverev-besiegt-ben-shelton-halbfinaleinzug-perfekt-nummer-eins-der-welt-turin_sto23356274/story.shtml"
+      }
+     ]
+    },
+    {
+     "titel": "Thüringer HC im Pokal-Halbfinale",
+     "unterzeile": "Deutlicher Sieg bei den Füchsen Berlin",
+     "text": "Die Handballerinnen des Thüringer HC haben das Viertelfinale im DHB-Pokal gewonnen. Sie siegten bei den Füchsen Berlin mit 37:25. Zur Pause stand es 17:14. Nach der Pause lief es sehr gut für den THC. Beste Werferin war Levke Kretschmann mit acht Toren. Das Final Four steigt in Stuttgart.",
+     "quellen": [
+      {
+       "name": "Sportschau: Thüringer HC löst Ticket für das Final Four",
+       "url": "https://www.sportschau.de/regional/mdr/spielbericht-dhb-pokal-fuechse-berlin-thueringer-hc,fue-thc-100.html"
+      },
+      {
+       "name": "Handball-World: THC zieht ins Pokal-Halbfinale ein",
+       "url": "https://www.handball-world.news/spiel/fuechse-berlin-gegen-thueringer-hc-2026-deutscher-handball-pokal-frauen-5270193/bericht"
+      }
+     ]
+    },
+    {
+     "titel": "Füchse Berlin verlieren in Aalborg",
+     "unterzeile": "Auftakt in der Champions League",
+     "text": "Die Handballer der Füchse Berlin haben ihr erstes Gruppenspiel in der Champions League verloren. Bei Aalborg Håndbold hieß es am Ende 31:34. Zur Pause stand es 18:16 für Aalborg.",
+     "quellen": [
+      {
+       "name": "Sportschau: Handball Champions League",
+       "url": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/spiele-und-ergebnisse"
+      }
+     ]
+    },
+    {
+     "titel": "Die „Nacht der Sieger“ kommt im März",
+     "unterzeile": "Karten gibt es seit gestern",
+     "text": "Mülheim ehrt seine besten Sportler wieder mit einer großen Show. Die „medl-Nacht der Sieger“ findet am 13. März 2027 statt. Der Vorverkauf hat am 18. November begonnen. Die ersten 300 Karten sind besonders günstig.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: Nacht der Sieger",
+       "url": "https://cms.muelheim-ruhr.de/aktuelles-aus-dem-sport/gaensehaut-show-und-sportler-des-jahres-medl-nacht-der-sieger-startet-in"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Klatsch & Tratsch",
+   "artikel": [
+    {
+     "titel": "Tanzen zu Weihnachten",
+     "unterzeile": "Neue Gesichter bei „Let's Dance“",
+     "text": "Die Weihnachtsshow von „Let's Dance“ kommt am Freitag, 18. Dezember, um 20.15 Uhr bei RTL. Sechs Paare tanzen mit. Zum ersten Mal dabei sind die Sängerin Yvonne Catterfeld und der Sänger Oli.P. Außerdem tanzen Sophia Thomalla, Gustav Schäfer, Ross Antony und Milano mit.\n\nDurch den Abend führen Victoria Swarovski und Daniel Hartwich. In der Jury sitzen Motsi Mabuse, Jorge González und Joachim Llambi. Wer gewinnt, wird „Christmas Dancing Star 2026“.",
+     "quellen": [
+      {
+       "name": "TV Movie: Let's Dance Weihnachtsshow 2026",
+       "url": "https://www.tvmovie.de/news/lets-dance-weihnachtsshow-2026-kandidaten-teilnehmer-termin-wer-tanzt-mit-162779"
+      },
+      {
+       "name": "Wunschliste: Let's Dance Weihnachtsshow",
+       "url": "https://www.wunschliste.de/tvnews/m/let-s-dance-weihnachtsshow-2026-mit-ueberraschenden-promi-teilnehmern"
+      }
+     ]
+    },
+    {
+     "titel": "Zehn Jahre „Schlagerbooom“",
+     "unterzeile": "Große Feier in Dortmund",
+     "text": "Florian Silbereisens Show „Schlagerbooom“ wurde zehn Jahre alt. Das feierte er am 17. Oktober in Dortmund vor mehr als 20.000 Gästen. Mit dabei waren zum Beispiel Andrea Berg, Roland Kaiser und Dieter Bohlen. Ein Silvester-Schlagerbooom soll laut Berichten aus der Produktion folgen. Das ist aber noch nicht offiziell bestätigt.",
+     "quellen": [
+      {
+       "name": "Salzburg24: Sensation in Silbereisen-Show",
+       "url": "https://www.salzburg24.at/news/welt/heute-lasse-ich-die-bombe-platzen-helene-fischer-kuendigt-neues-album-wir-an-sensation-in-silbereisen-show-art-341661"
+      },
+      {
+       "name": "TV Movie: Schlagerbooom Open Air",
+       "url": "https://www.tvmovie.de/news/schlagerbooom-open-air-uebertragung-gaeste-und-alle-stars-159356"
+      }
+     ]
+    },
+    {
+     "titel": "Helene Fischer kündigt ein neues Album an",
+     "unterzeile": "Mit neuem Song „Warum“",
+     "text": "Helene Fischer war beim Jubiläum zu Gast. Sie sang ihren neuen Song „Warum“. Dann sagte sie, sie lasse die Bombe platzen. Noch in diesem Jahr soll ein neues Album kommen. Mit ihrem früheren Partner Florian Silbereisen gab es eine herzliche Umarmung. Ihre eigene Weihnachtsshow ist laut Bericht für den 25. Dezember um 20.15 Uhr geplant.",
+     "quellen": [
+      {
+       "name": "Salzburg24: Helene Fischer kündigt Album an",
+       "url": "https://www.salzburg24.at/news/welt/heute-lasse-ich-die-bombe-platzen-helene-fischer-kuendigt-neues-album-wir-an-sensation-in-silbereisen-show-art-341661"
+      },
+      {
+       "name": "bluewin: Helene Fischer und Florian Silbereisen",
+       "url": "https://www.bluewin.ch/de/people/helene-fischer-herzt-florian-silbereisen-und-selbst-die-ki-verspricht-heile-welt-li.3639700"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Klatsch & Tratsch: TV, Shows und Stars der Welt",
+   "artikel": [
+    {
+     "titel": "William und Kate treffen Indiens Regierungschef",
+     "unterzeile": "Zum Abschluss der Reise",
+     "text": "Prinz William und Prinzessin Kate haben ihre Reise nach Indien beendet. Zum Schluss trafen sie Premierminister Narendra Modi in Neu-Delhi. Es ging laut Kensington-Palast um Handel, Technik, Bildung und Kultur.\n\nKate trug einen Anzug des indischen Designers Gaurav Gupta. Sie besuchte ein Krankenhaus für werdende Mütter und eine Werkstatt für traditionelles Handwerk. Es war die erste gemeinsame Auslandsreise des Paares seit vier Jahren.",
+     "quellen": [
+      {
+       "name": "Yahoo Nachrichten: Kate und William treffen Narendra Modi",
+       "url": "https://de.nachrichten.yahoo.com/kate-william-treffen-narendra-modi-170536425.html"
+      },
+      {
+       "name": "Volksstimme: William und Kate treffen Indiens Regierungschef",
+       "url": "https://www.volksstimme.de/panorama/stars/william-und-kate-treffen-indiens-regierungschef-4358781"
+      }
+     ]
+    },
+    {
+     "titel": "Der König und die Königin feiern mit Tänzern",
+     "unterzeile": "Empfang zum 100. Geburtstag der Royal Ballet School",
+     "text": "König Charles und Königin Camilla haben am Mittwoch zu einem Empfang in den Palast eingeladen. Anlass ist der 100. Geburtstag der Royal Ballet School. Schüler der Schule begrüßten das Königspaar.",
+     "quellen": [
+      {
+       "name": "trend magazin: Ballett-Empfang im Palast",
+       "url": "https://www.trendmagazin.ch/inside/1493418/koenig-charles-und-camilla-laden-zum-ballett-empfang-in-den-palast/"
+      }
+     ]
+    },
+    {
+     "titel": "Royal Variety Performance am Freitag",
+     "unterzeile": "Das Königspaar kommt in die Royal Albert Hall",
+     "text": "Am Freitag, 20. November, wollen König Charles und Königin Camilla zur „Royal Variety Performance“ kommen. Das hat der Palast laut Bericht bestätigt. Es ist eine große Show mit vielen Künstlern in der Royal Albert Hall in London. Für Camilla ist es der erste Besuch dort als Königin.",
+     "quellen": [
+      {
+       "name": "Yahoo: Next Royal Move Confirmed by Palace",
+       "url": "https://www.yahoo.com/entertainment/celebrity/royals/articles/king-charles-queen-camilla-next-102139191.html"
+      }
+     ]
+    },
+    {
+     "titel": "Pattinson als Bond: Fans sind geteilt",
+     "unterzeile": "Manche jubeln, manche zweifeln",
+     "text": "Robert Pattinson ist der neue James Bond. Die Reaktionen sind gemischt. Einige loben ihn als sehr vielseitigen Schauspieler. Andere sagen: Batman kann nicht Bond sein. Auch die Erben von Bond-Erfinder Ian Fleming haben die Wahl gelobt.",
+     "quellen": [
+      {
+       "name": "TheWrap: Pattinson 007 Casting reactions",
+       "url": "https://www.thewrap.com/creative-content/movies/robert-pattinson-james-bond-casting-reactions/"
+      },
+      {
+       "name": "SlashFilm: Fans react to Pattinson",
+       "url": "https://www.slashfilm.com/2317939/james-bond-fans-robert-pattinson-007-casting-reactions/"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "TV-Tipps für heute Abend, 20.15 Uhr",
+    "punkte": [
+     "ARD: Wolfsland – „Muttermord“",
+     "ZDF: Die Bergretter – „Niemandskind“",
+     "RTL: Wer wird Millionär? Prominenten-Special, Teil 1",
+     "ProSieben: Jenke.Report über ADHS"
+    ],
+    "quellen": [
+     {
+      "name": "TVinfo: Fernsehprogramm 19.11.2026",
+      "url": "https://www.tvinfo.de/fernsehprogramm/19.11.2026/0"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Zum Schluss: Gesundheit und Haushalt",
+   "artikel": [
+    {
+     "titel": "Jetzt an die Grippe-Impfung denken",
+     "unterzeile": "Das sagt das Robert Koch-Institut",
+     "text": "Die beste Zeit für die Grippe-Impfung ist von Oktober bis Mitte Dezember. Wer später dran ist, kann sich auch noch impfen lassen. Der Schutz baut sich nach etwa ein bis zwei Wochen auf. Empfohlen wird die Impfung vor allem für ältere Menschen, Schwangere und chronisch Kranke. Sie schützt nicht ganz sicher. Die Krankheit verläuft damit aber meist milder. Sprich am besten mit deiner Ärztin oder deinem Arzt.",
+     "quellen": [
+      {
+       "name": "RKI: Fragen zur Grippe-Impfung",
+       "url": "https://www.rki.de/SharedDocs/FAQs/DE/Impfen/Influenza/FAQ-Liste_gesamt.html"
+      },
+      {
+       "name": "Heidelberg Express: Grippe & Erkältung 2026/27",
+       "url": "https://heidelbergexpress.de/grippe-erkaeltung-saison-heidelberg-2026-27/"
+      }
+     ]
+    },
+    {
+     "titel": "Wie warm soll es in der Wohnung sein?",
+     "unterzeile": "Tipps der Verbraucherzentrale",
+     "text": "Im Wohnzimmer sind 19 bis 21 Grad gut. Im Schlafzimmer reichen etwa 18 Grad. Im Bad darf es wärmer sein, 21 bis 24 Grad. Räume, die du kaum nutzt, brauchen etwa 16 Grad. Wird es kälter, kann Schimmel entstehen. Jedes Grad weniger spart etwa sechs Prozent Heizkosten.",
+     "quellen": [
+      {
+       "name": "Verbraucherzentrale Niedersachsen: 12 Tipps zum Energiesparen",
+       "url": "https://www.verbraucherzentrale-niedersachsen.de/wissen/energie/preise-tarife-anbieterwechsel/12-tipps-zum-energiesparen-im-haushalt-120054"
+      }
+     ]
+    },
+    {
+     "titel": "Richtig lüften",
+     "unterzeile": "Kurz und kräftig statt Fenster auf Kipp",
+     "text": "Lüfte mehrmals am Tag kurz und kräftig. Öffne dafür die Fenster ganz. Das nennt man Stoßlüften. Ein dauerhaft gekipptes Fenster verschwendet Wärme. Wenn du doch kippst, dreh den Heizkörper darunter ganz ab.",
+     "quellen": [
+      {
+       "name": "Verbraucherzentrale Energieberatung: Energie sparen im Haushalt",
+       "url": "https://verbraucherzentrale-energieberatung.de/energie-sparen/allgemeines/haushalt/"
+      }
+     ]
+    },
+    {
+     "titel": "Heizkörper frei und entlüftet",
+     "unterzeile": "Kleine Handgriffe, die helfen",
+     "text": "Stelle keine Möbel vor die Heizkörper und hänge keine dicken Vorhänge davor. So verteilt sich die Wärme besser. Wenn ein Heizkörper gluckert, solltest du ihn entlüften. Vor dem Winter lohnt auch ein Blick auf die Heizungsanlage. Alte Pumpen verbrauchen viel Strom.",
+     "quellen": [
+      {
+       "name": "Verbraucherzentrale: Heizung optimieren",
+       "url": "https://www.verbraucherzentrale.de/wissen/energie/heizen-und-warmwasser/heizung-optimieren-und-heizkosten-sparen-so-gehts-30096"
+      },
+      {
+       "name": "Verbraucherzentrale Niedersachsen: Heizung fit für den Winter",
+       "url": "https://www.verbraucherzentrale-niedersachsen.de/pressemitteilungen/jetzt-die-heizung-fit-fuer-den-winter-machen-125609"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "zumSchluss": {
+  "titel": "Die Mütze im Flur",
+  "text": "Im Flur eines kleinen Hauses hing eine rote Mütze am Haken. Sie war schon ziemlich alt. Jeden Herbst holte Oma Lotte sie hervor. Dann klopfte sie einmal kurz auf den Wollbommel und lächelte. Heute war es wieder so weit. Draußen pfiff der Wind durch die Straße, und die Blätter tanzten über den Gehweg. Lotte zog die Mütze tief über die Ohren und nahm ihren Korb. Beim Bäcker an der Ecke roch es nach frischen Brötchen. Die Verkäuferin winkte ihr durch die Scheibe zu. Auf dem Heimweg traf Lotte die kleine Nachbarin. Das Mädchen fror an den Händen. Lotte holte aus der Manteltasche ein Paar Handschuhe, die sie letzte Woche gestrickt hatte. „Die sind für dich“, sagte sie. Das Mädchen strahlte. Zu Hause kochte Lotte sich einen Tee und setzte sich ans Fenster. Die rote Mütze legte sie neben sich. Sie dachte: Ein bisschen Wärme kann man immer weitergeben."
+ }
+}
