@@ -1,0 +1,592 @@
+{
+  "gruss": "Guten Morgen, Abenteurer! Heute: unbestätigte Hotfixes vom 18. und 19. November, Klassenänderungen im Detail, Hintergründe zu den Raids und die Termine bis zum Winter.",
+  "aufmacher": {
+    "rubrik": "Hotfixes",
+    "titel": "Neue Hotfixes ohne Notes: Paladin-Talent und Loot-Fixes, Soulforge noch nicht live",
+    "unterzeile": "Fan-Tracker meldet Änderungen vom 18. und 19. November, Blizzard schweigt noch",
+    "text": "Der Fan-Tracker ForeverChanges meldet zwei neue Hotfix-Tage ohne Blizzard-Notes. Am 18. November soll Two-Handed Weapon Specialization der Paladine auf alle physischen und Heiligschaden sowie die Bedrohung wirken, und Ruzzgot's Shipment soll für alle Gruppenmitglieder droppen. Am 19. November wurde das Mote of Unstable Magic Bind on Pickup.\n\nDas Soulforge-Set der Tanks ist laut dem Tracker mit Spell Power statt Strength zwar von Blizzard angekündigt, aber noch nicht im Spiel. Das alles ist unbestätigt, offiziell zuletzt: die Notes vom 17. November.\n\nBis zum Raidstart am 9. Dezember sind es noch 19 Tage, Zeit also, Items und Klassenänderungen zu prüfen.",
+    "quellen": [
+      {
+        "name": "ForeverChanges (Fan-Tracker)",
+        "url": "https://foreverchanges.pro/patch-notes"
+      },
+      {
+        "name": "Blizzard: Hotfixes 17. November",
+        "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Hotfixes vom 18. und 19. November: Kleinkram, aber Blizzard schweigt",
+          "unterzeile": "Laut Fan-Tracker ohne offizielle Notes",
+          "text": "Für den 18. und 19. November führt der Fan-Tracker ForeverChanges neue Hotfixes auf, zu denen Blizzard bislang keine Notes veröffentlicht hat. Alles Folgende ist deshalb unbestätigt und stammt aus ausgelesenen Spieldaten.\n\nAm 18. November soll Ruzzgot's Shipment für alle Gruppenmitglieder mit der Quest droppen. Außerdem soll Two-Handed Weapon Specialization der Paladine jetzt alle physischen und Heiligschaden sowie die Bedrohung abdecken. Am 19. November wurde laut Tracker das Mote of Unstable Magic Bind on Pickup, die Simple Dress und Simple Black Dress wurden zu Stoffrüstung und der Squall-breakers Potion lässt sich zerstören.\n\nOffiziell stehen bei Blizzard weiter die Notes vom 17. November als jüngster Eintrag. Wer auf Nummer sicher gehen will, wartet auf die Blizzard-Notes.",
+          "quellen": [
+            {
+              "name": "ForeverChanges (Fan-Tracker)",
+              "url": "https://foreverchanges.pro/patch-notes"
+            },
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Build 1.60.1.70959: Was der Client vom 17. November enthält",
+          "unterzeile": "Aktueller Build laut Fan-Tracker",
+          "text": "Der Fan-Tracker nennt 1.60.1.70959 als aktuellen Client-Build vom 17. November. Er enthalte die Hotfixes vom 13. und 16. November. Der Vorgänger 1.60.1.70938 vom 13. November enthielt die Änderungen vom 10. und 11. November. Blizzard hat laut Tracker zu beiden Builds keine eigenen Notes veröffentlicht, die Zuordnung ist also Fan-Arbeit.",
+          "quellen": [
+            {
+              "name": "ForeverChanges (Fan-Tracker)",
+              "url": "https://foreverchanges.pro/patch-notes"
+            }
+          ]
+        },
+        {
+          "titel": "Soulforge-Set: angekündigt, aber laut Tracker noch nicht im Spiel",
+          "unterzeile": "Spell Power statt Strength ist noch nicht live",
+          "text": "Blizzards Notes vom 17. November kündigen an, dass das Soulforge-Set der Tanks Spell Power statt Strength gibt. Der Fan-Tracker ForeverChanges vermerkt dazu, die Stat-Änderung sei angekündigt, aber noch nicht im Spiel. Wer Paladin-Tank-Gear plant, sollte das im Blick behalten und die Items vor dem Raidstart prüfen.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            },
+            {
+              "name": "ForeverChanges (Fan-Tracker)",
+              "url": "https://foreverchanges.pro/patch-notes"
+            }
+          ]
+        },
+        {
+          "titel": "PvP-Fixes vom 17. November: Kein Mounten in den WSG-Startzimmern mehr",
+          "unterzeile": "Alterac-Valley-Quests erst ab Level 58",
+          "text": "Laut Blizzards Hotfix-Notes können Spieler in den Startzimmern von Warsong Gulch nicht mehr aufsitzen. Die Quests für die Schlacht um Alterac Valley verlangen jetzt Level 58. Außerdem führt der Tod in der Gold Mine von Arathi Basin nicht mehr nach Riverglades, und eine unsichtbare Wand auf dem Dach der Allianz-Basis in WSG wurde entfernt. Beim Plainsrunning (Tauren) gilt: keine Stacks während der Vorbereitung im Battleground und sie enden beim Flaggentragen.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Build & Stand",
+        "punkte": [
+          "Build laut Fan-Tracker: 1.60.1.70959 (Client vom 17.11.)",
+          "Offiziell zuletzt: Blizzard-Hotfixes vom 17. November",
+          "18./19.11.: nur Fan-Tracker, keine Blizzard-Notes",
+          "Soulforge-Stat-Änderung: angekündigt, laut Tracker noch nicht live"
+        ],
+        "quellen": [
+          {
+            "name": "ForeverChanges (Fan-Tracker)",
+            "url": "https://foreverchanges.pro/patch-notes"
+          },
+          {
+            "name": "Blizzard: Hotfixes 17. November",
+            "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Paladin: Two-Handed Weapon Specialization greift jetzt breiter",
+          "unterzeile": "Laut Fan-Daten vom 18. November",
+          "text": "Laut ForeverChanges gilt Two-Handed Weapon Specialization nun für den gesamten physischen und Heiligschaden und für die gesamte Bedrohung, solange eine Zweihandwaffe geführt wird, nicht mehr nur für Waffenangriffe. Ein Talent-Guide nennt die Werte mit 2/4/6 % mehr Schaden und 7/14/20 % weniger Bedrohung. Blizzard hat dazu keine Notes veröffentlicht, die Angaben können sich noch ändern.\n\nBereits in Blizzards Notes vom 13. November wurde Judgement of Command als Nahkampfangriff eingestuft, während Judgements und Seals sonst als Fernkampf zählen und den Fernkampf-Hit nutzen.",
+          "quellen": [
+            {
+              "name": "ForeverChanges (Fan-Tracker)",
+              "url": "https://foreverchanges.pro/patch-notes"
+            },
+            {
+              "name": "Wow Forever Talents: Two-Handed Weapon Specialization",
+              "url": "https://wowforevertalents.com/paladin/talents/two-handed-weapon-specialization/"
+            },
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Hunter: Pet-Gesundheit sinkt auf 115 %, Hawk schlägt härter",
+          "unterzeile": "Hotfix vom 10. November",
+          "text": "Pets haben jetzt 115 % der normalen Gesundheit, vorher waren es 150 %. Arcane Shot kostet auf allen Rängen 11 % des Basis-Manas. Summon Hawk kostet ebenfalls 11 % und der Hawk macht etwa 80 % mehr Nahkampfschaden. Am 11. November wurde zudem Volley angepasst: Es löst keine Procs mehr aus und der Channel endet, wenn der Hunter sich bewegt.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Shaman: Stormstrike und Maelstrom Weapon neu justiert",
+          "unterzeile": "Blizzard erklärt die Richtung für Enhancement",
+          "text": "Stormstrike macht seit dem 10. November 100 % Waffenschaden statt 150 %, die Abklingzeit steigt von 6 auf 8 Sekunden. Mental Dexterity gibt 33/66/100 % statt 50/100/150 % Intelligenz als Angriffskraft. Maelstrom Weapon senkt auf allen Rängen Zauberzeit und Manakosten um 20 % je Anwendung, die Proc-Rate liegt je nach Rang bei 6 bis 10 pro Minute.\n\nLaut Berichten begründet Blizzard das damit, dass die Beta-Änderungen Enhancement zu stark auf Spell Power und Intellect-Gear und weg von Windfury geschoben hätten.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            },
+            {
+              "name": "Vice: Forevers erster großer Hotfix",
+              "url": "https://www.vice.com/en/article/world-of-warcraft-forevers-first-big-hotfix-makes-changes-to-7-classes/"
+            }
+          ]
+        },
+        {
+          "titel": "Warrior: Cleave und Heroic Strike verbrauchen kein Flurry mehr",
+          "unterzeile": "Fury-Fix vom 16. November",
+          "text": "Bei Fury aktivieren Cleave und Heroic Strike jetzt Unbridled Wrath und Reckless Swings und verbrauchen keine Flurry-Stacks mehr. Bei Arms verliert Sweeping Strikes ohne zweites Ziel keine Ladungen mehr (10. November), und Berserker Rage entfernt Sap (13. November).",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Rogue: Shank löscht keine Combo Points auf anderen Zielen mehr",
+          "unterzeile": "Plus Fix für Gift-Ränge",
+          "text": "Shank entfernt laut Blizzard nicht mehr die Combo Points auf anderen Zielen, wenn es auf ein Ziel ohne eigene Combo Points gewirkt wird. Giftränge können das Maximum nicht mehr überschreiten. Beides gilt seit dem 16. November. Die Shank-Tooltips zeigen Rang 1 und 2 sowie die Combo Points mit Boot Knife.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Drowned City: Nach den Nerfs vom 9. November",
+          "unterzeile": "Etwa 30 % Extraschaden waren ein Bug",
+          "text": "In der Drowned City wurde ein Fehler behoben, der etwa 30 % zusätzlichen Schaden verursachte. Die Gesundheit der Deathless-Marrow-Kreaturen sinkt um 25 %, das Fireball des Deathless Sorcerer ist 25 % schwächer, der Charge des Deathless Watcher 50 % schwächer, und das Shield Slam des Deathless Guardian kommt etwa 50 % seltener.\n\nAm 13. November kam hinzu: Nicht-Boss-Gegner respawnen nach 2 statt 1 Stunde.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Kleine Dungeon-Fixes: Stratholme, Sunken Temple, Blackrock Depths",
+          "unterzeile": "Aus den Notes vom 9. bis 16. November",
+          "text": "In Stratholme zählt Balnazzar jetzt für Master Spelunker, und man kann dort nicht mehr mounten. Die Serpent-Statuen im Sunken Temple bleiben interaktiv, auch wenn sie in falscher Reihenfolge aktiviert wurden. In Blackrock Depths öffnen sich die Türen des Thronsaals nach einem Wipe bei Emperor Thaurissan, und das Heart of the Mountain lässt sich mehrfach looten.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Raids am 9. Dezember: Was Blizzard offiziell sagt",
+          "unterzeile": "Drei Raids, Onyxia mit Attunement",
+          "text": "Barrow Deeps, Hyjal Summit und Onyxia's Lair öffnen laut Blizzard am 9. Dezember für Level 60. Barrow Deeps und Hyjal Summit brauchen keine Attunement-Kette, Onyxia schon. Zur Größe von Barrow Deeps widersprechen sich die Quellen (10, 20 oder 40 Spieler), hier gilt nur Blizzards Raid-Übersicht.",
+          "quellen": [
+            {
+              "name": "Blizzard: Raid Overview",
+              "url": "https://worldofwarcraft.blizzard.com/news/24303009"
+            },
+            {
+              "name": "Warcraft Tavern: Raid Overview",
+              "url": "https://www.warcrafttavern.com/forever/guides/raids/"
+            }
+          ]
+        },
+        {
+          "titel": "Vertical Progression: Kleine Power-Sprünge zwischen den Raid-Tiers",
+          "unterzeile": "Entwickler im Interview vom 12. Oktober",
+          "text": "Laut einem Bericht über das Interview sagte Clay Stone, zwischen den Raid-Tiers werde es nur ein wenig vertikale Power-Progression geben. Ältere Raid- und Dungeon-Items könnten lange Best in Slot bleiben. Ob Gear je einen Soft Reset bekommt, sei zu früh zu sagen. Das ist eine Aussage aus Oktober, Pläne können sich ändern.",
+          "quellen": [
+            {
+              "name": "AccountShark: Developer Interview 12. Oktober",
+              "url": "https://accountshark.net/blog/wow-forever-developer-interview-vertical-progression-collections-shaman-tanks-northrend-october-12"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Quest-Fixes vom 17. November: Agamaggan's Blood auch außerhalb des Dungeons",
+          "unterzeile": "Mehr Spawns, bessere Tracker",
+          "text": "„Agamaggan's Blood“ ist laut Blizzard kein Dungeon-Quest mehr und kann außerhalb von Razorfen Downs erledigt werden. In den Wetlands gibt es mehr Fen Creepers für „Blisters on the Land“, für „A New Ore Sample“ mehr Gravelsnout Diggers und Surveyors in Thousand Needles. Die Rockpiles für „Step One: Rock“ erscheinen im Find Minerals, und „Show Them How It's Done“ taucht auf der Karte auf.\n\nRogues bekommen den Brief für „The Manor, Ravenholdt“ wieder von Mathias Shaw.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Quest-Items für die ganze Gruppe",
+          "unterzeile": "Viele Drops sind jetzt geteilt",
+          "text": "Blizzard hat in mehreren Hotfixes Quest-Drops und Ziele so geändert, dass sie für die ganze Gruppe funktionieren, darunter Deadwood Key, Venom-dripping Heart, Blackthorne Intelligence, Croaky's Head und Broken Frond of Celastrus. In Shen'dralas werden Pylon-Reparaturen mit Gruppenmitgliedern geteilt und der Depleted Crystal Heart droppt für alle. Am 18. November soll laut Fan-Tracker auch Ruzzgot's Shipment für alle Gruppenmitglieder droppen (unbestätigt).",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            },
+            {
+              "name": "ForeverChanges (Fan-Tracker)",
+              "url": "https://foreverchanges.pro/patch-notes"
+            }
+          ]
+        },
+        {
+          "titel": "Riverglades: Gegner-Schaden gesenkt",
+          "unterzeile": "Hotfix vom 11. November",
+          "text": "Der Smash des Twilight Enforcer wurde stark gesenkt, Executioner Morgs Schaden ebenfalls. Die Mark of Flames des Twilight Forgemaster macht 50 Schaden statt 1000. Am 10. November kamen mehr Glade Vipers für „Poison Tips“, am 13. November bietet Jezap Jinglesprocket seine Quests während der Bloodmaster's-Ring-Quest an.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Wöchentliche Dungeon-Quests von Pix Xizzix verschwinden beim Reset",
+          "unterzeile": "Weekly Reset am 13. November angepasst",
+          "text": "Wöchentliche Dungeon-Quests von Pix Xizzix werden seit dem 13. November beim Weekly Reset aus dem Questlog entfernt. Außerdem geben die meisten Quests ab Level 48 zusätzlich Gold (10. November). Zum Tempo beim Leveln raten Guides, Dungeon-Quests vor dem Lauf zu holen und jeden Dungeon meist einmal zu laufen, die Zahlen unterscheiden sich je nach Guide.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            },
+            {
+              "name": "Gaming Debugged: Leveling-Tipps",
+              "url": "https://www.gamingdebugged.com/2026/11/19/leveling-from-1-to-60-in-wow-forever-how-to-spend-the-hours-wisely/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Tailoring-Taschen: mehr Slots, mehr Bolts",
+          "unterzeile": "Hotfix vom 11. November",
+          "text": "Mehrere Taschen brauchen mehr Stoffballen und fassen mehr: Red Mageweave Bag 5 Bolts und 14 Slots, Green Silk Pack 5 Bolts und 12 Slots, Black Silk Pack 6 Bolts und 12 Slots, Green und Red Woolen Bag je 5 Bolts und 10 Slots. Wer Taschen verkauft, sollte die neuen Materialkosten gegenrechnen.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Vendor-Preise gesenkt: Elixiere und Granaten",
+          "unterzeile": "Hotfix vom 10. November",
+          "text": "Minor Arcane Elixir verkauft sich an Händler für 5 statt 25 Kupfer, Iron Grenades für 1 Silber 25 Kupfer statt 5 Silber, Mild Spices für 1 statt 2 Kupfer. Auch einige gefertigte Leder-, Schneider- und Schmiederüstungen bringen beim Händler weniger. Als Goldquelle taugen Vendor-Verkäufe dadurch weniger.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Alchemy: Transmute-Cooldowns und der Wochenverdienst",
+          "unterzeile": "Fan-Rechner und Gold-Seiten, mit Vorsicht",
+          "text": "Eine Seite nennt für Alchemy acht Essence-Transmutes mit 23 Stunden Cooldown, Transmute: Arcanite und Legionite mit 47 Stunden, und Tailoring-Mooncloth alle 4 Tage. Ein Rechner sieht Legionite Bar am 19. November mit etwa 103 Gold pro Woche und Charakter auf der US-Allianz-AH vorn. Beides stammt von Seiten, die auch Gold verkaufen, die Zahlen sind keine neutrale Messung.",
+          "quellen": [
+            {
+              "name": "LFCarry: Gold Economy",
+              "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+            },
+            {
+              "name": "Timesaver: Profit-Rechner",
+              "url": "https://timesaver.gg/tools/wow-forever/professions/profit"
+            }
+          ]
+        },
+        {
+          "titel": "AH-Gebühren: 5 % Fraktions-AH, 15 % neutral (Beta-Daten)",
+          "unterzeile": "Laut Berichten, nicht offiziell geprüft",
+          "text": "Beta-Daten deuten laut einem Bericht darauf hin, dass die Fraktions-AH 5 % einbehält und die neutralen Häuser in den Goblin-Städten 15 %. Die Kaution liegt laut Blizzards Hotfix vom 10. November bei mindestens 1 Kupfer. Prüft die Gebühren im Spiel, bevor ihr große Mengen einstellt.",
+          "quellen": [
+            {
+              "name": "Games.gg: Gold in WoW Forever",
+              "url": "https://games.gg/world-of-warcraft/guides/how-to-make-gold-in-wow-forever-gathering-the-auction-house-and-bans/"
+            },
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Community: Rekorde, Gilden, Streamer, Server",
+      "artikel": [
+        {
+          "titel": "GameSpot: „WoW Forever hat ein Streamer-Problem“",
+          "unterzeile": "Olympus meldete in der Beta fast 74.000 Mitglieder",
+          "text": "GameSpot und Yahoo Tech berichten, Asmongolds Allianz-Gilde Olympus habe in der Beta fast 74.000 Mitglieder auf dem PvP-Server beansprucht. Beide Artikel beschreiben das Gedränge streamergetriebener Gilden als Problem.\n\nDie Zahlen stammen aus der Beta-Phase und sagen nichts über die aktuelle Lage auf den Live-Servern.",
+          "quellen": [
+            {
+              "name": "GameSpot",
+              "url": "https://www.gamespot.com/articles/wow-forever-has-a-streamer-problem/"
+            },
+            {
+              "name": "Yahoo Tech",
+              "url": "https://tech.yahoo.com/gaming/articles/wow-forever-streamer-problem-165142114.html"
+            }
+          ]
+        },
+        {
+          "titel": "Weniger Spieler in überfüllten Zonen",
+          "unterzeile": "Hotfix vom 9. November",
+          "text": "Blizzard hat die Spielerzahl in überfüllten Zonen gesenkt, auf dem PvP-Regelwerk stärker. Streams Charts schreibt, die Warteschlangen seien nach dem Launch praktisch verschwunden.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            },
+            {
+              "name": "Streams Charts",
+              "url": "https://streamscharts.com/news/world-warcraft-forever-launch-viewership"
+            }
+          ]
+        },
+        {
+          "titel": "Stranglethorn Fishing Extravaganza: mehr Gewinner",
+          "unterzeile": "Hotfix vom 13. November",
+          "text": "Beim wöchentlichen Angelturnier können jetzt deutlich mehr Spieler pro Regelwerk gewinnen. Performance-Probleme sind laut Blizzard noch nicht gelöst. Das Turnier läuft laut Event-Kalender sonntags von 14 bis 16 Uhr Realm-Zeit.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            },
+            {
+              "name": "Endgametools: Event-Kalender",
+              "url": "https://endgametools.com/en/wow-forever/events"
+            }
+          ]
+        },
+        {
+          "titel": "Fishing Rack: Köder für alle",
+          "unterzeile": "Hotfixes vom 10. und 16. November",
+          "text": "Das Fishing Rack gibt Ködern für alle berechtigten Spieler, und Bloated Fish daraus droppen häufiger. Das gilt seit dem 16. November.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 17. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-17-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Leveling-Tier-Lists: Hunter vorn, Warlock oft dahinter",
+          "unterzeile": "Beta-Rankings, Quellen uneinig",
+          "text": "In den meisten Leveling-Rankings steht der Hunter oben, Beast Mastery wird am häufigsten genannt. Warlock landet meist in der obersten Gruppe, bei einer Liste mit Affliction in S-Tier, weil er selten stirbt. Mage und Paladin tauchen ebenfalls oben auf.\n\nDie Listen stammen aus der Beta-Zeit und widersprechen sich im Detail.",
+          "quellen": [
+            {
+              "name": "Games.gg: Best Leveling Classes",
+              "url": "https://games.gg/world-of-warcraft/guides/best-world-of-warcraft-forever-classes-leveling/"
+            },
+            {
+              "name": "Mobalytics Tier List",
+              "url": "https://mobalytics.gg/wow-forever/profile/uncas/tier-lists/wow-forever-class-leveling-tier-list"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-Routen: Ruins of Lordaeron und Ragefire Chasm",
+          "unterzeile": "Guides nennen unterschiedliche Level",
+          "text": "Ruins of Lordaeron wird als früher Dungeon genannt (ein Guide Level 15 bis 20, ein anderer 17 bis 19 für Horde). Ragefire Chasm empfiehlt ein Guide für Horde etwa ab Level 13 bis 15 mit allen fünf Quests. Hall of Thanes hat laut einem Guide nur Allianz-Quests. Level-Angaben unterscheiden sich, im Zweifel prüft ihr die Quest-Level im Spiel.",
+          "quellen": [
+            {
+              "name": "Conquest Capped: Dungeon Leveling",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-dungeon-leveling/"
+            },
+            {
+              "name": "Gaming Debugged",
+              "url": "https://www.gamingdebugged.com/2026/11/19/leveling-from-1-to-60-in-wow-forever-how-to-spend-the-hours-wisely/"
+            }
+          ]
+        },
+        {
+          "titel": "PvP-Basics: Vier Battlegrounds, keine Rated Arenas",
+          "unterzeile": "Honor und Ränge",
+          "text": "Als Battlegrounds werden Warsong Gulch (ab Level 10), Arathi Basin, Darkspear Islands und Alterac Valley genannt. Forever hat weder Rated Arenas noch Rated Battlegrounds. Bracket-Angaben und Rotationsdetails sind in Fan-Guides widersprüchlich, offizielle Quelle für Details sind Blizzards Notes.",
+          "quellen": [
+            {
+              "name": "Icy Veins: PvP Overview",
+              "url": "https://www.icy-veins.com/wow-forever/pvp-overview"
+            },
+            {
+              "name": "Conquest Capped: PvP",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-pvp-overview/"
+            }
+          ]
+        },
+        {
+          "titel": "Onyxia-Attunement: Eigenes Drakefire Amulet pro Spieler",
+          "unterzeile": "Nicht account-weit zum Start",
+          "text": "Jeder Raider braucht sein eigenes Drakefire Amulet, getragen werden muss es nicht. Laut einem Bericht ist die Attunement nicht accountweit, zumindest nicht zum Start. Beide Fraktionen enden bei General Drakkisath in Upper Blackrock Spire.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern: Onyxia Attunement",
+              "url": "https://www.warcrafttavern.com/forever/news/onyxias-lair-raid-will-still-require-attunement-in-wow-forever/"
+            },
+            {
+              "name": "Blizzard: Raid Overview",
+              "url": "https://worldofwarcraft.blizzard.com/news/24303009"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen, Interviews, Entwickler-Aussagen",
+      "artikel": [
+        {
+          "titel": "Molten Core als „revampter“ Anchor Point, aber ohne Termin",
+          "unterzeile": "Entwickler halten sich bedeckt",
+          "text": "Laut Berichten über ein Entwickler-Gespräch fiel beim Thema Molten Core das Wort „revamped“, und Lead Josh Greenfield nannte den Raid einen künftigen „Anchor Point“. Zum Start ist er nicht dabei, einen Termin gibt es nicht. Ein Zitat lautet sinngemäß: Über die Zukunft von Molten Core rede man, wenn man über die Zukunft von Molten Core rede.\n\nDie Details stammen aus Zweitberichten, Blizzard hat keine Mechaniken bestätigt.",
+          "quellen": [
+            {
+              "name": "Gamefragger",
+              "url": "https://gamefragger.com/pc/warcraft/wow-forever-devs-tease-a-revamped-molten-core-that-wont-be-the-same-old-tank-and-spank-a29963"
+            },
+            {
+              "name": "PCGamesN",
+              "url": "https://www.pcgamesn.com/world-of-warcraft/forever-lore-podcast-season-of-discovery"
+            }
+          ]
+        },
+        {
+          "titel": "Kein Flying, keine Rated Arenas, kein geteiltes Tagging",
+          "unterzeile": "Dev-Interview laut Zweitbericht",
+          "text": "Laut einem Bericht über ein Interview vom 10. November werden Flugmounts, Rated Arenas und geteiltes Mob-Tagging nie nach Forever kommen. Ein Black Market wurde erwähnt. Die Seite dahinter war nicht abrufbar, die Aussage ist deshalb nur über die Suchzusammenfassung belegt.",
+          "quellen": [
+            {
+              "name": "Myrtana: Developer Interview",
+              "url": "https://www.myrtana.net/en/wow-forever/changelogy/2026-11-10-developer-interview"
+            }
+          ]
+        },
+        {
+          "titel": "Shaman-Tanks: Nicht zum Launch",
+          "unterzeile": "Aus dem Oktober-Interview",
+          "text": "Clay Stone sagte laut Bericht, Shaman-Tanking sei intern ein beliebtes Thema, aber zum Launch nicht offiziell geplant. Zu Northrend und Pandaria sagte Holly Longdale, nichts sei ausgeschlossen, aber nichts angekündigt. Der Fokus liege zunächst auf Kalimdor und den Östlichen Königreichen im ersten WoW-Jahr.",
+          "quellen": [
+            {
+              "name": "AccountShark",
+              "url": "https://accountshark.net/blog/wow-forever-developer-interview-vertical-progression-collections-shaman-tanks-northrend-october-12"
+            }
+          ]
+        },
+        {
+          "titel": "Hardcore: bestätigt, aber ohne Datum",
+          "unterzeile": "Offizielle Hardcore-Realms",
+          "text": "Hardcore kommt nicht zum Launch, sondern später. PC Gamer und PCGamesHardware berichten von einem Zeitraum im Winter, Icy Veins sieht es in der Roadmap zwischen 2026 und 2027. Offizielle Hardcore-Realms wurden laut Icy Veins bestätigt, Details wie Anzahl fehlen.",
+          "quellen": [
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/hardcore-mode-coming-to-warcraft-forever/"
+            },
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-will-get-a-hardcore-mode-by-winter-say-devs-whichll-be-interesting-given-all-the-new-and-undiscovered-ways-to-die/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Raid-Start am 9. Dezember: noch 19 Tage",
+          "unterzeile": "Barrow Deeps, Hyjal Summit, Onyxia",
+          "text": "Bis zum Raidstart am 9. Dezember sind es vom 20. November aus 19 Tage. Raiden dürfen Level-60-Charaktere. Wer Onyxia sehen will, sollte die Attunement-Kette über Upper Blackrock Spire rechtzeitig starten.\n\nEine genaue Uhrzeit nannten die Quellen nicht.",
+          "quellen": [
+            {
+              "name": "Blizzard: Raid Overview",
+              "url": "https://worldofwarcraft.blizzard.com/news/24303009"
+            },
+            {
+              "name": "Icy Veins: Roadmap",
+              "url": "https://www.icy-veins.com/wow-forever/roadmap"
+            }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire: die nächsten Termine bis Februar",
+          "unterzeile": "Laut Event-Kalender (Realm-Zeit)",
+          "text": "Der Kalender listet die Faire am Fuß von Thunder Bluff vom 7. bis 14. Dezember, dann vom 4. bis 11. Januar 2027 und vom 8. bis 15. Februar 2027. Der November-Termin in Elwynn Forest (9. bis 16.) ist vorbei. Eine allgemeine Angel-Seite nennt abweichende Dezember-Daten, im Zweifel gilt der Ingame-Kalender.",
+          "quellen": [
+            {
+              "name": "Endgametools: Events",
+              "url": "https://endgametools.com/en/wow-forever/events"
+            },
+            {
+              "name": "Foreverdb: Events",
+              "url": "https://foreverdb.net/events"
+            }
+          ]
+        },
+        {
+          "titel": "Winter Veil: 15. Dezember bis 2. Januar",
+          "unterzeile": "Quellen leicht uneinig",
+          "text": "Das Winterfest läuft laut Ingame-Kalender-Listen vom 15. Dezember bis 2. Januar 2027, eine Angel-Seite nennt den 16. Dezember als Start. Hardcore hat weiter kein Datum.",
+          "quellen": [
+            {
+              "name": "Endgametools: Events",
+              "url": "https://endgametools.com/en/wow-forever/events"
+            },
+            {
+              "name": "Icy Veins: Roadmap",
+              "url": "https://www.icy-veins.com/wow-forever/roadmap"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "So 22.11., 14-16 Uhr: Stranglethorn Fishing Extravaganza",
+          "9.12.: Raids öffnen",
+          "7.-14.12.: Darkmoon Faire (Thunder Bluff)",
+          "15.12.-2.1.: Winter Veil"
+        ],
+        "quellen": [
+          {
+            "name": "Endgametools: Events",
+            "url": "https://endgametools.com/en/wow-forever/events"
+          },
+          {
+            "name": "Blizzard: Raid Overview",
+            "url": "https://worldofwarcraft.blizzard.com/news/24303009"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages",
+    "text": "Prüft vor dem Raidstart im Spiel selbst, ob Tooltips und Item-Werte zu den Hotfix-Notes passen. Fan-Tracker und Guides hinken oft hinterher, und Soulforge ist ein Beispiel dafür, dass Angekündigtes nicht automatisch live ist."
+  }
+}
