@@ -1,0 +1,619 @@
+{
+  "gruss": "Guten Morgen, Abenteurer! Heute: Hotfixes vom 20. November mit halbiertem Dungeon-Limit, Podcast-Details zu Klassen und BiS, Gold-Märkte und die Termine bis zum Winterfest.",
+  "aufmacher": {
+    "rubrik": "Hotfixes",
+    "titel": "Dungeon-Limit halbiert: Blizzard senkt Resets auf 5 pro Stunde",
+    "unterzeile": "Hotfixes vom 20. November: Klassen-Fixes, LFG-Bug und Quest-Korrekturen",
+    "text": "Blizzard hat am 20. November neue Hotfixes für WoW: Forever veröffentlicht. Die größte Änderung: Jeder Dungeon lässt sich nur noch 5-mal pro Stunde resetten und betreten, vorher waren es 10.\n\nDazu kommen Fixes für Rogue (Blade Flurry trifft mit Shank ein zusätzliches Ziel), Warlock (Demonic Aegis wird beim Untalenten entfernt), den Stormshroud-3er-Bonus und einen LFG-Fehler, durch den manche Spieler weniger Gruppen sahen.\n\nDie Hotfixes vom 19. November hatten zuvor die Motes of Unstable Magic soulbound gemacht und den Seed Hybridizer zurückgebracht. In 18 Tagen, am 9. Dezember, öffnen die ersten Raids.",
+    "quellen": [
+      {
+        "name": "Blizzard: Hotfixes 20. November",
+        "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026"
+      },
+      {
+        "name": "Wowhead: Hotfixes 20. November",
+        "url": "https://www.wowhead.com/forever/news/lfg-bug-fix-causes-players-to-see-more-groups-wow-forever-hotfixes-for-november-383949"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Hotfixes vom 20. November: Dungeon-Limit halbiert, LFG-Fix",
+          "unterzeile": "Blizzard kürzt Resets und Eintritte von 10 auf 5 pro Stunde",
+          "text": "Blizzard hat am 20. November neue Hotfixes veröffentlicht. Die größte Änderung für Dungeon-Läufer: Ihr könnt jeden Dungeon nur noch 5-mal pro Stunde resetten und betreten, vorher waren es 10.\n\nDazu kommen Klassen-Fixes: Blade Flurry lässt den Schaden von Shank nun einen zusätzlichen Gegner treffen (Rogue Combat), und Demonic Aegis lässt sich nicht mehr in Demon Armor oder Demon Skin „snapshotten“ und nach dem Untalenten behalten (Warlock).\n\nWeitere Fixes betreffen den LFG-Bug, bei dem manche Spieler weniger Gruppen sahen als vorgesehen, die Schmiede von Toron Rockhoof am Summit of Eternity und mehrere Quests wie Witch Doctor Ti'ik in den Hinterlands.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 20. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026"
+            },
+            {
+              "name": "Wowhead: LFG-Fix, Hotfixes 20. November",
+              "url": "https://www.wowhead.com/forever/news/lfg-bug-fix-causes-players-to-see-more-groups-wow-forever-hotfixes-for-november-383949"
+            }
+          ]
+        },
+        {
+          "titel": "Stormshroud Armor: 3er-Bonus abgeschwächt",
+          "unterzeile": "Rogue-Set bekommt weniger Energy",
+          "text": "Der 3-Teile-Bonus der Stormshroud Armor löst jetzt mit 3 % Chance aus (vorher 4 %) und stellt 18 Energy wieder her (vorher 30). Das steht in den Hotfix-Notes vom 20. November. Betroffen sind Spieler, die das Set aus Leatherworking oder Drops tragen.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 20. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Hotfixes vom 19. November: Seed Hybridizer zurück, Motes soulbound",
+          "unterzeile": "Kleine Fixes für Herbalists, Paladine, Skyborne und Tauren",
+          "text": "Am 19. November kam der Seed Hybridizer zurück: mit angepassten Werten, die Kombination kann jetzt fehlschlagen, und Scarce Herb Seeds lassen sich nicht mehr verwenden. Two-Handed Weapon Specialization der Retribution-Paladine erhöht jetzt den gesamten Heiligschaden, solange eine Zweihandwaffe getragen wird.\n\nSkyborne bekommen den 10-%-Rabatt auf Reitskills bei Genn Fairweather, und Tauren Cultivation klappt zuverlässiger, auch mit Purple Lotus. Die Motes of Unstable Magic sind seitdem Soulbound.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 19./20. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026"
+            },
+            {
+              "name": "PCGamesN: Patch Notes",
+              "url": "https://www.pcgamesn.com/world-of-warcraft/forever-patch-notes-herbalist-hotfix"
+            }
+          ]
+        },
+        {
+          "titel": "Bekannte Probleme: Call of Earth und Biding Our Time",
+          "unterzeile": "Blizzard untersucht, ein Termin fehlt",
+          "text": "Laut PCGamesN untersucht Blizzard weiter, dass Call of Earth Skyborne-Shamanen nicht das Stoneskin Totem gibt. Außerdem vergibt die Rogue-Quest „Biding Our Time“ teils ein unbrauchbares Item statt der Filcher's Cowl. Blizzard hat dafür keinen Fix-Termin genannt.",
+          "quellen": [
+            {
+              "name": "PCGamesN: Patch Notes",
+              "url": "https://www.pcgamesn.com/world-of-warcraft/forever-patch-notes-herbalist-hotfix"
+            },
+            {
+              "name": "Wowhead: Known Issues",
+              "url": "https://www.wowhead.com/forever/news/wo-w-forever-known-issues-383760"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Stand der Hotfixes",
+        "punkte": [
+          "20. Nov: Dungeon-Reset/Eintritt 5 pro Stunde (vorher 10)",
+          "20. Nov: Blade Flurry trifft mit Shank zusätzliches Ziel",
+          "19. Nov: Seed Hybridizer wieder aktiv, Motes of Unstable Magic soulbound",
+          "Build-Nummer: in den offiziellen Notes nicht genannt"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard: Hotfixes 20. November",
+            "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Podcast Episode 8: Pro Patch eine Klasse mit Deep Rework",
+          "unterzeile": "Aidan Moon und Kris Zierhut über Klassen, Itemization und PvP",
+          "text": "In Episode 8 des WoW-Forever-Podcasts („Catching Up On Classes“, 19. November) sprachen Senior Game Designer Aidan Moon und Principal Designer Kris Zierhut mit Host countdowntoclassic über Klassen-Design, Itemization und mehr. Laut Zusammenfassungen will das Team pro Patch eine Klasse tiefgreifend überarbeiten.\n\nDie Kapitel der Folge nennen unter anderem einen Rogue-Rework, Balance Druids, Arms Warriors, Stormstrike der Shamanen, Discipline Priests, Hunter, Warlocks, Ice Lance der Mages und Holy Paladins. Genaue Zusagen sind in den Quellen nicht belegt, hört im Zweifel selbst in die Folge.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern: Episode 8",
+              "url": "https://www.warcrafttavern.com/forever/news/episode-8-of-the-wow-forever-podcast-returns-to-classes/"
+            },
+            {
+              "name": "ForeverAggro: Kapitelübersicht",
+              "url": "https://foreveraggro.com/post/wow-forever-podcast-episode-8-classes"
+            },
+            {
+              "name": "Wowhead: Podcast Episode 8",
+              "url": "https://www.wowhead.com/forever/news/wow-forever-podcast-episode-8-classes-itemization-and-bis-383926"
+            }
+          ]
+        },
+        {
+          "titel": "Healer-Mangel und PvP-Balance im Podcast",
+          "unterzeile": "Keine Resilience in Forever geplant",
+          "text": "Icy Veins fasst die Folge unter „Healer Shortage, PvP Balance & Class Tuning“ zusammen. Laut einer Zusammenfassung will Blizzard keine Werte wie Resilience einführen, die in PvP den erlittenen Schaden senken, erwägt aber mehr Stamina auf Gear. Das sind Zusammenfassungen von Dritten, keine offizielle Ankündigung.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Podcast Ep. 8",
+              "url": "https://www.icy-veins.com/wow-forever/news/healer-shortage-pvp-balance-class-tuning-the-wow-forever-podcast-ep-8/"
+            },
+            {
+              "name": "WoWSoD.pro: Podcast-Zusammenfassung",
+              "url": "https://wowsod.pro/articles/wow-forever-podcast-episode-8-classes-spell-power-healers-balance-druid-pvp-burst"
+            }
+          ]
+        },
+        {
+          "titel": "Paladin: Heiligschaden mit Zweihandwaffe",
+          "unterzeile": "Retribution-Fix vom 19. November",
+          "text": "Two-Handed Weapon Specialization erhöht jetzt den gesamten Heiligschaden, solange eine Zweihandwaffe angelegt ist. Das berichtet PCGamesN zu den Notes vom 19. November. Der Fix betrifft Retribution-Paladine direkt.",
+          "quellen": [
+            {
+              "name": "PCGamesN: Patch Notes",
+              "url": "https://www.pcgamesn.com/world-of-warcraft/forever-patch-notes-herbalist-hotfix"
+            },
+            {
+              "name": "Blizzard: Hotfixes",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Warlock: Demonic Aegis nicht mehr behalten",
+          "unterzeile": "Snapshot-Trick per Hotfix entfernt",
+          "text": "Demonic Aegis lässt sich seit dem 20. November nicht mehr in Demon Armor oder Demon Skin einfrieren. Beim Verlernen der Talente werden beide Effekte entfernt.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 20. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Rogue: Blade Flurry trifft mit Shank",
+          "unterzeile": "Combat-Fix vom 20. November",
+          "text": "Blade Flurry lässt den Schaden von Shank jetzt einen zusätzlichen Gegner treffen. Das steht in den Blizzard-Notes vom 20. November. Wowhead nennt den Fix ebenfalls.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 20. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026"
+            },
+            {
+              "name": "Wowhead: Hotfixes 20. November",
+              "url": "https://www.wowhead.com/forever/news/lfg-bug-fix-causes-players-to-see-more-groups-wow-forever-hotfixes-for-november-383949"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "9. Dezember: Barrow Deeps, Hyjal Summit und Onyxia",
+          "unterzeile": "Drei Raids öffnen gemeinsam",
+          "text": "Laut einer Roadmap-Übersicht öffnen am 9. Dezember drei Raids: Barrow Deeps (10 Spieler), Hyjal Summit (20 Spieler) und Onyxia's Lair (40 Spieler). Blizzards Recap zum What's-Next-Panel nennt neun neue Dungeons und einen 20-Spieler-Raid am Hyjal Summit.\n\nMolten Core ist nicht Teil dieser Raids und hat laut den Quellen kein Datum.",
+          "quellen": [
+            {
+              "name": "Endgametools: Dungeons und Raids",
+              "url": "https://endgametools.com/en/wow-forever/news/wow-forever-new-dungeons-raids"
+            },
+            {
+              "name": "Timesaver: Roadmap",
+              "url": "https://timesaver.gg/blog/wow-forever-roadmap-after-launch"
+            },
+            {
+              "name": "Blizzard: What's Next Panel Recap",
+              "url": "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-Limit: 5 pro Stunde",
+          "unterzeile": "Hotfix vom 20. November",
+          "text": "Ihr könnt jeden Dungeon nur noch 5-mal pro Stunde resetten und betreten (vorher 10). Das macht Dungeon-Farming enger planbar. In Blackrock Spire gibt es außerdem einen Fix für einen Stein-Pfeiler, der Spieler einsperrte.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 20. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Compound Key aus Krol'dok Stronghold",
+          "unterzeile": "Was er öffnet, ist laut Datamining unbekannt",
+          "text": "Ein Key-Guide beschreibt: Tunk im Krol'dok Stronghold (Riverglades) droppt ein Quest-Item. Das gebt ihr bei Kreza Darkthorn (Horde) oder Alphonse Dumas (Allianz) ab. Eine Folgequest mit 12 Iron Bar und 4 Thick Leather gibt den Key. Was er genau öffnet, ist laut Datamining-Liste noch unklar, die Shortcut-Angabe ist unbestätigt.",
+          "quellen": [
+            {
+              "name": "wowforever.ninja: Key Ring",
+              "url": "https://wowforever.ninja/guides/dungeons/key-ring/"
+            },
+            {
+              "name": "Wowhead: Compound Key",
+              "url": "https://www.wowhead.com/forever/news/unlock-a-dungeon-shortcut-in-wow-forever-with-the-compound-key-383890"
+            }
+          ]
+        },
+        {
+          "titel": "Blackrock Depths: Shadowforge Key spart den Weg",
+          "unterzeile": "Dark Iron Legacy Questreihe",
+          "text": "Der Shortcut in Blackrock Depths kommt über den Shadowforge Key aus der Quest „Dark Iron Legacy“. Als Geist sprecht ihr mit Franclorn Forgewright, holt Ironfel von Fineous Darkvire und legt es im Shrine of Thaurissan ab. Laut Guides lohnt sich das beim ersten Besuch. Die Forever-Guides sind noch jung, prüft Details im Spiel.",
+          "quellen": [
+            {
+              "name": "wowforever.ninja: Key Ring",
+              "url": "https://wowforever.ninja/guides/dungeons/key-ring/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Riverglades und Shen'dralas: So levelt ihr durch die neuen Zonen",
+          "unterzeile": "Level-Spannen laut Guides",
+          "text": "Riverglades ist laut Wowhead-Datenbank eine Zone für die Level 36 bis 44, die Warcraft Wiki nennt 35 bis 45. Ein Guide nennt für Shen'dralas 38 bis 45; der Zugang liegt südlich von Desolace über das Valley of Bones. Gängige Routen: Zephras, Wetlands, Riverglades, Hyjal, ab Level 40 Shen'dralas.\n\nDie Angaben stammen von Drittseiten und weichen leicht ab.",
+          "quellen": [
+            {
+              "name": "OutputLag: Zonen nach Level",
+              "url": "https://outputlag.com/guides/wow-forever-new-zones-by-level/"
+            },
+            {
+              "name": "ConquestCapped: Leveling",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-leveling/"
+            }
+          ]
+        },
+        {
+          "titel": "Kostenloser 16-Slot-Bag aus der Shockwave-Questreihe",
+          "unterzeile": "Ehemalige Season-of-Discovery-Quest, jetzt für alle Klassen",
+          "text": "Die frühere Warrior-Questreihe für die Shockwave-Rune steht in Forever allen Klassen offen. In der Mitte gibt es die Red Bag (16 Slots) aus „Red Bag Blues“. Die Route führt durch Tanaris, Winterspring und die Burning Steppes. Nachteil: Mit angelegter Tasche sinkt die Stealth-Stufe um 2, relevant für Rogues und Druiden. Am Ende wartet ein Boss mit über 200.000 Leben.",
+          "quellen": [
+            {
+              "name": "Wowhead: Free 16-Slot Bag",
+              "url": "https://www.wowhead.com/forever/news/earn-a-free-16-slot-bag-from-a-former-sod-questline-in-wow-forever-383896"
+            },
+            {
+              "name": "Wow.gg: Walkthrough",
+              "url": "https://wow.gg/guides/wow-forever-free-16-slot-red-bag"
+            }
+          ]
+        },
+        {
+          "titel": "Fixes für Quests vom 20. November",
+          "unterzeile": "Hinterlands, Feralas, Tanaris, Riverglades",
+          "text": "Witch Doctor Ti'ik droppt in den Hinterlands mehrere Köpfe für Gruppen mit der Quest. Perfect Yeti Hide droppt in Feralas nicht mehr erneut, solange ihr die Quest habt. Gor'marok in der Dunemaul Compound (Tanaris) respawnt schneller, und Dunston Willis in Riverglades läuft nicht mehr mitten in der Quest weg.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 20. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Quest-Fixes vom 19. November",
+          "unterzeile": "Rift Away, Stormpike's Deciphering, Hunting for Ectoplasm",
+          "text": "Rix Xizzix in Booty Bay vergibt nach „Rift Away“ kein falsches Tome mehr. Das Ensorcelled Parchment lässt sich in „Stormpike's Deciphering“ erneut erhalten, wenn es zerstört wurde. „Hunting for Ectoplasm“ nutzt den richtigen Kreaturentyp.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfixes 19./20. November",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Motes of Unstable Magic sind jetzt Soulbound",
+          "unterzeile": "Ende einer Gold-Strategie über das Auktionshaus",
+          "text": "Seit den Hotfixes vom 19. November sind die Motes of Unstable Magic Soulbound. Laut Wowhead traf das eine Gold-Strategie: Spieler kauften Motes günstig im Auktionshaus, gaben sie für Reputation ab und verkauften den Überschuss. PCGamesN verknüpft die Motes mit einem Exploit rund um das Blackmaw-Hold-Gold-Farming.\n\nMotes lassen sich weiter für Reputation nutzen. Ein Guide nennt 5 Motes für 150 Reputation und 65 Silber, die Zahl ist nicht eindeutig belegt.",
+          "quellen": [
+            {
+              "name": "Wowhead: Motes Soulbound",
+              "url": "https://www.wowhead.com/forever/news/motes-of-unstable-magic-now-soulbound-in-wow-forever-gold-strategy-nerfed-383935"
+            },
+            {
+              "name": "PCGamesN: Patch Notes",
+              "url": "https://www.pcgamesn.com/world-of-warcraft/forever-patch-notes-herbalist-hotfix"
+            },
+            {
+              "name": "ConquestCapped: Earthen Ring Rep",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-earthen-ring-reputation/"
+            }
+          ]
+        },
+        {
+          "titel": "Auktionshaus-Preise: Mehrheit der Mats seit Launch billiger",
+          "unterzeile": "Datenstand 12. November",
+          "text": "Ein Preisreport (Timesaver) fand am 12. November, dass 34 von 46 beobachteten Materialien billiger waren als eine Woche zuvor, der Median lag 41 % unter dem Stand vom 7. November. Vision Dust lag bei 14 bis 24 Silber und Goldthorn bei 22 Silber. Der Report ist ein Schnappschuss, und die Seite verkauft selbst Services.",
+          "quellen": [
+            {
+              "name": "Timesaver: AH-Preise 12. Nov",
+              "url": "https://timesaver.gg/blog/wow-forever-auction-house-prices-week-1"
+            }
+          ]
+        },
+        {
+          "titel": "Wer verdient was? Craft-Profit vom 20. November",
+          "unterzeile": "Daten von US Alliance, Fremdquelle",
+          "text": "Ein Rechner listet am 20. November Legionite Bar (Alchemy) mit rund 112 Gold pro Charakter und Woche (47 Stunden Cooldown). Die besten Crafts mit mindestens 10 Auktionen: Timbermaw Tunic (+81 g 53 s), Stormshroud Shoulders (+51 g 19 s) und Mooncloth (+38 g 10 s) nach 5 % AH-Gebühr. Preise unterscheiden sich je Realm, nehmt es als Anhaltspunkt.",
+          "quellen": [
+            {
+              "name": "Timesaver: Craft-Profit",
+              "url": "https://timesaver.gg/tools/wow-forever/professions/profit"
+            }
+          ]
+        },
+        {
+          "titel": "Kein WoW-Token: Gold müsst ihr selbst farmen",
+          "unterzeile": "Guide zur Gold-Wirtschaft",
+          "text": "Ein Guide hält fest, dass es in Forever keinen WoW-Token gibt. Für Gold bleiben Berufe, Farmen und das Auktionshaus. Der Guide stammt von einem Anbieter, der selbst Gold-Services verkauft, behandelt die Angaben also vorsichtig.",
+          "quellen": [
+            {
+              "name": "LFCarry: Gold-Wirtschaft",
+              "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+            },
+            {
+              "name": "ConquestCapped: Gold Making",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-gold-making/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Community: Rekorde, Gilden, Streamer, Server",
+      "artikel": [
+        {
+          "titel": "Blackmaw-Exploit: Gold entfernt, Accounts gesperrt",
+          "unterzeile": "Gamerant berichtet über Blizzards Maßnahmen",
+          "text": "Gamerant berichtet, dass Blizzard Gold entfernt und Accounts von Spielern gesperrt hat, die den Blackmaw-Devotees-Loot-Bug ausgenutzt haben. Dazu passt die Soulbound-Änderung bei den Motes. Eine offizielle Gesamtbilanz der Sperren liegt uns nicht vor.",
+          "quellen": [
+            {
+              "name": "Gamerant: Forever ein Erfolg",
+              "url": "https://gamerant.com/world-of-warcraft-forever-massive-success-blizzard/"
+            },
+            {
+              "name": "PCGamesN: Patch Notes",
+              "url": "https://www.pcgamesn.com/world-of-warcraft/forever-patch-notes-herbalist-hotfix"
+            }
+          ]
+        },
+        {
+          "titel": "Wöchentliche Logins auf 15-Jahres-Hoch",
+          "unterzeile": "Wowhead nennt über 15 Millionen erstellte Charaktere",
+          "text": "Gamerant meldet, die wöchentlichen Logins lägen auf einem Niveau, das seit rund 15 Jahren nicht erreicht wurde. Wowhead nennt über 15 Millionen erstellte Charaktere. Das sind Berichte von Medien, Blizzard hat keine detaillierte Statistik veröffentlicht.",
+          "quellen": [
+            {
+              "name": "Gamerant: Forever ein Erfolg",
+              "url": "https://gamerant.com/world-of-warcraft-forever-massive-success-blizzard/"
+            },
+            {
+              "name": "Wowhead: Forever",
+              "url": "https://www.wowhead.com/forever"
+            }
+          ]
+        },
+        {
+          "titel": "Race to 60: NOVAEEING vorne, Ksuper Zweiter",
+          "unterzeile": "Leaderboard-Stand, Daten widersprechen sich",
+          "text": "Die Tracker-Seite aotc.gg führt Team NOVAEEING an der Spitze, Ksuper wird mit Level 60 am 7. November um 14:31 UTC als Zweiter geführt. Forever Pulse nennt als Start den 5. November 2026, 00:00 CET. Eine zweite Seite zeigt andere Zwischenstände, die offizielle Endreihenfolge ist unbestätigt.",
+          "quellen": [
+            {
+              "name": "Race to 60 (aotc.gg)",
+              "url": "https://race.aotc.gg/"
+            },
+            {
+              "name": "Forever Pulse",
+              "url": "https://forever-pulse.com/"
+            }
+          ]
+        },
+        {
+          "titel": "EU-Spieler melden kaputte BG-Queues",
+          "unterzeile": "Forum-Berichte, kein offizielles Statement",
+          "text": "Wowhead berichtet über EU-Spieler, bei denen Battleground-Queues nicht poppen und Honor nicht gutgeschrieben wird. Forum-Posts nennen Alterac Valley, Warsong Gulch und Arathi Basin, und teils bestimmte Shards. Eine Blizzard-Bestätigung oder Lösung ist in den Ergebnissen nicht zu finden.",
+          "quellen": [
+            {
+              "name": "Wowhead: EU-PvP-Probleme",
+              "url": "https://www.wowhead.com/forever/news/some-eu-players-reporting-issues-with-pvp-queues-and-honor-gains-in-wow-forever-383937"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Itemization: BiS wechselt von Boss zu Boss",
+          "unterzeile": "Fantasy first, Optimization second",
+          "text": "Laut Zusammenfassungen von Podcast-Folge 8 sagte Aidan Moon, das beste Item solle je nach Boss-Kreaturentyp und Biome des Raid-Flügels wechseln. Erwartet also keine einzelne Standard-BiS-Liste. Wowhead titelt dazu „Blizzard Wants to Get Rid of BiS“.",
+          "quellen": [
+            {
+              "name": "Wowhead: BiS-Meldung",
+              "url": "https://wowhead.com/forever/news/blizzard-wants-to-get-rid-of-bis-in-wow-forever-383931"
+            },
+            {
+              "name": "Timesaver: BiS erklärt",
+              "url": "https://timesaver.gg/blog/wow-forever-bis-biome-raid-gear"
+            },
+            {
+              "name": "Icy Veins: Podcast Ep. 8",
+              "url": "https://www.icy-veins.com/wow-forever/news/healer-shortage-pvp-balance-class-tuning-the-wow-forever-podcast-ep-8/"
+            }
+          ]
+        },
+        {
+          "titel": "Zockify: Talent-, Gear- und Tier-List-Tools",
+          "unterzeile": "Daten aus dem Client",
+          "text": "Zockify bietet für Forever einen Talent-Calculator, einen Gear Planner, einen Legacy-Rechner, einen Tier-List-Maker und einen Hunter-Pet-Finder. Der Gear Planner nutzt laut Seite Beta-Client-Daten, die sich noch ändern können. Zockify nennt 29 Dungeons, davon neun neue.",
+          "quellen": [
+            {
+              "name": "Zockify: Forever",
+              "url": "https://www.zockify.com/forever/"
+            }
+          ]
+        },
+        {
+          "titel": "Dual Spec ab Level 40, Legacy bis 65 Punkte",
+          "unterzeile": "Grundlagen zum Launch",
+          "text": "Laut Zockify schaltet Dual Specialization ab Level 40 frei, so bestätigt von Blizzard. Beim Launch gibt es bis zu 65 Legacy Points, vor allem aus Klassenlevels, Berufsskill, PvP und Dungeon- und Raid-Achievements.",
+          "quellen": [
+            {
+              "name": "Zockify: Forever",
+              "url": "https://www.zockify.com/forever/"
+            },
+            {
+              "name": "Zockify: Legacy System",
+              "url": "https://www.zockify.com/forever/legacy-system/"
+            }
+          ]
+        },
+        {
+          "titel": "Spell-Power-Lücke beim Leveln",
+          "unterzeile": "Zierhut: 15 bis 40 „dünner als gedacht“",
+          "text": "Kris Zierhut räumte im Podcast laut Berichten ein, dass der Bereich von Level 15 bis 40 bei Spell-Power-Gear dünner sei als er sein sollte. Mehr Gear soll in künftigen Patches kommen. Spell-Power-Gear ist laut Zierhut weiter erhältlich, es geht um die Dichte.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Podcast Ep. 8",
+              "url": "https://www.icy-veins.com/wow-forever/news/healer-shortage-pvp-balance-class-tuning-the-wow-forever-podcast-ep-8/"
+            },
+            {
+              "name": "Wowhead: Spell-Power-Rüstung früh",
+              "url": "https://www.wowhead.com/forever/news/no-mail-spell-power-dungeon-and-quest-armor-in-wow-forever-early-levels-383520"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen, Interviews, Entwickler-Aussagen",
+      "artikel": [
+        {
+          "titel": "WoW Weekly: Klassen-Podcast und 22. Jubiläum",
+          "unterzeile": "Blizzards Wochenrückblick vom 20. November",
+          "text": "Der WoW Weekly stellt den Forever-Podcast zu Klassen vor („Catching Up on Classes“). Außerdem nennt er für Retail das Update Echoes of the Worldcore am 1. Dezember und die 22-Jahre-Feier vom 17. November bis 8. Dezember. Für Forever relevant ist vor allem die Podcast-Folge.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Weekly",
+              "url": "https://news.blizzard.com/en-us/article/24317681/wow-forever-class-design-echoes-of-the-worldcore-and-more-in-wow-weekly"
+            }
+          ]
+        },
+        {
+          "titel": "Zirene deutet Item mit Bonus-Stats bei vollen Taschen an",
+          "unterzeile": "Nur Teaser, Details fehlen",
+          "text": "Wowhead meldet, dass Zirene ein Item andeutete, das Bonus-Stats gibt, wenn die Taschen voll sind. Die Seite nennt weder Item noch Termin. Behandelt es als Teaser.",
+          "quellen": [
+            {
+              "name": "Wowhead: Zirene-Teaser",
+              "url": "https://wowhead.com/forever/news/zirene-teases-item-granting-bonus-stats-when-bags-are-full-383927"
+            }
+          ]
+        },
+        {
+          "titel": "Study The Well: Podcast-Board deutet neues Rätsel an",
+          "unterzeile": "Wowhead-Meldung",
+          "text": "Wowhead meldet, die Nachricht auf dem Podcast-Board „Study The Well“ deute ein neues Rätsel (Brainteaser) an. Details nennt die Seite nicht.",
+          "quellen": [
+            {
+              "name": "Wowhead: Study The Well",
+              "url": "https://wowhead.com/forever/news/study-the-well-wow-forever-podcast-board-message-hints-at-new-brainteaser-383929"
+            }
+          ]
+        },
+        {
+          "titel": "Roadmap: Frühjahr und Sommer 2027",
+          "unterzeile": "Quelle ist ein Fan-Guide",
+          "text": "Ein Roadmap-Guide nennt für Frühjahr 2027 zwei neue Raids (10 und 20 Spieler), zwei Dungeons, neue Quests und ein Gebiet sowie eine PvP-Season. Für den Sommer ist ein „revampter ikonischer Raid“ ohne Namen angekündigt. Das stammt von Drittseiten, nicht direkt von Blizzard.",
+          "quellen": [
+            {
+              "name": "Timesaver: Roadmap",
+              "url": "https://timesaver.gg/blog/wow-forever-roadmap-after-launch"
+            },
+            {
+              "name": "Endgametools: Devs zu Raids",
+              "url": "https://endgametools.com/en/wow-forever/news/wow-forever-developers-raids-black-market"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Stranglethorn Fishing Extravaganza: Sonntag, 22. November",
+          "unterzeile": "Realm-Zeit 14 bis 16 Uhr",
+          "text": "Der nächste Termin laut Client-Kalender ist Sonntag, der 22. November, 14:00 bis 16:00 Realm-Zeit. Weitere Termine: 29. November sowie 6., 13. und 20. Dezember. Zeitangaben der Seiten weichen ab, schaut im Spiel nach. Das Turnier hat seit dem 13. November mehr Gewinner.",
+          "quellen": [
+            {
+              "name": "Endgametools: Fishing Extravaganza",
+              "url": "https://endgametools.com/en/wow-forever/news/wow-forever-fishing-extravaganza"
+            },
+            {
+              "name": "ForeverDB: Event",
+              "url": "https://foreverdb.net/events/stranglethorn-fishing-extravaganza"
+            }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire in Mulgore ab 7. Dezember",
+          "unterzeile": "7. bis 13. Dezember",
+          "text": "Laut Guides steht die Faire vom 7. bis 13. Dezember in Mulgore, eine Seite nennt den 14. als Ende. Im November war sie in Elwynn Forest.",
+          "quellen": [
+            {
+              "name": "LFCarry: Darkmoon Faire",
+              "url": "https://lfcarry.com/guides/wow-forever-darkmoon-faire"
+            },
+            {
+              "name": "WoWCalc: Kalender",
+              "url": "https://wowcalc.net/en/forever/wiki/calendar"
+            }
+          ]
+        },
+        {
+          "titel": "Raid-Start am 9. Dezember",
+          "unterzeile": "Noch 18 Tage",
+          "text": "Barrow Deeps, Hyjal Summit und Onyxia's Lair laut Roadmap am 9. Dezember. Bis dahin sind es ab heute 18 Tage.",
+          "quellen": [
+            {
+              "name": "Endgametools: Dungeons und Raids",
+              "url": "https://endgametools.com/en/wow-forever/news/wow-forever-new-dungeons-raids"
+            },
+            {
+              "name": "Timesaver: Roadmap",
+              "url": "https://timesaver.gg/blog/wow-forever-roadmap-after-launch"
+            }
+          ]
+        },
+        {
+          "titel": "Feast of Winter Veil: 15. Dezember bis 2. Januar",
+          "unterzeile": "Laut In-Game-Kalender",
+          "text": "Das Winterfest läuft laut Kalender vom 15. Dezember 2026 bis 2. Januar 2027, etwa eine Woche nach dem Ende der Darkmoon Faire.",
+          "quellen": [
+            {
+              "name": "WoWCalc: Kalender",
+              "url": "https://wowcalc.net/en/forever/wiki/calendar"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "So 22.11., 14-16 Uhr: Stranglethorn Fishing Extravaganza",
+          "7.-13.12.: Darkmoon Faire (Mulgore)",
+          "9.12.: Raids öffnen",
+          "15.12.-2.1.: Winter Veil"
+        ],
+        "quellen": [
+          {
+            "name": "WoWCalc: Kalender",
+            "url": "https://wowcalc.net/en/forever/wiki/calendar"
+          },
+          {
+            "name": "Endgametools: Fishing",
+            "url": "https://endgametools.com/en/wow-forever/news/wow-forever-fishing-extravaganza"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Dungeon-Limit einplanen",
+    "text": "Mit nur 5 Dungeon-Resets pro Stunde lohnt sich ein Plan: Stellt Gruppen zusammen, bevor ihr resetet, und nutzt die Wartezeit für Quests oder Berufe. Den kostenlosen 16-Slot-Bag aus der Shockwave-Questreihe könnt ihr nebenbei angehen."
+  }
+}
