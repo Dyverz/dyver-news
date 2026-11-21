@@ -1,0 +1,578 @@
+{
+  "gruss": "Guten Morgen, Tim! Samstag, 21. November: Die Länder wollen bei der Pflegereform nachbessern, der Bundestag stimmt nächste Woche über den Haushalt ab, und in Mülheim sind Straßen gesperrt. Dazu Weihnachtsmärkte, eine Steam Machine ohne Warteliste und ein Browser, den du neu starten solltest.",
+  "aufmacher": {
+    "rubrik": "Altenpflege",
+    "titel": "Pflegereform: Länder wollen nachbessern, Mittwoch Anhörung im Bundestag",
+    "unterzeile": "Bundesrat-Ausschüsse fordern Deckel für Heim-Eigenanteile und Bundesgeld für Kommunen",
+    "text": "Am Freitag stand im Bundesrat die Stellungnahme zum Pflegeneuordnungsgesetz an (TOP 34, 1070. Sitzung). Den Beschluss selbst konnte ich nicht belegen, wohl aber die Empfehlungen der Ausschüsse: Der Bund soll sich an den Mehrkosten der Kommunen bei der Hilfe zur Pflege beteiligen, der Eigenanteil im Pflegeheim soll auf 1.500 Euro im Monat gedeckelt werden, das Überbrückungsbudget auf 2.900 Euro steigen. Wer schon Pflegegrad 1 hat, soll seine Leistungen behalten.\n\nWeiter geht es am Mittwoch, 25. November, 15 bis 17.15 Uhr: Der Gesundheitsausschuss des Bundestags hört Sachverständige an, auf dem Tisch liegen der Regierungsentwurf und acht Oppositionsanträge, 46 Verbände sind eingeladen. Der Entwurf sieht unter anderem den Wegfall der bisherigen Verhinderungspflege und des Entlastungsbetrags für Pflegegrad 1 vor. Zweite und dritte Lesung sind für Dezember geplant.\n\nDer AOK-Bundesverband kritisiert zugleich, die Lasten der Reform seien einseitig verteilt. Alle Details findest du auf Seite 6.",
+    "quellen": [
+      {
+        "name": "Pflege-Dschungel: PNOG-Anhörung am 25. November 2026",
+        "url": "https://pflege-dschungel.de/pnog-anhoerung-bundestag-25-november-2026/"
+      },
+      {
+        "name": "Altenheim: Bundestag hört am 25. November Sachverständige an",
+        "url": "https://www.altenheim.net/pflegeneuordnungsgesetz-bundestag-hoert-am-25-november-sachverstaendige-an/"
+      },
+      {
+        "name": "AOK: Gesetz zur Neuordnung der Pflegeversicherung",
+        "url": "https://www.aok.de/pp/gesetz/pnog/"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Mülheim an der Ruhr",
+      "artikel": [
+        {
+          "titel": "Lkw kippt in Heißen um: Fahrer durch die Windschutzscheibe gerettet",
+          "unterzeile": "Alexanderstraße zeitweise voll gesperrt",
+          "text": "Früh am Freitag, gegen 4 Uhr, ist im Gewerbegebiet an der Alexanderstraße in Heißen ein Lkw auf die Seite gekippt. Der Fahrer saß noch im Führerhaus fest, die Feuerwehr holte ihn über die Windschutzscheibe heraus. Der Rettungsdienst brachte ihn in ein Mülheimer Krankenhaus; zu seinem Zustand gibt es keine Angaben.\n\nAus dem Lkw lief Motoröl aus, die Feuerwehr streute die Fahrbahn großflächig ab, danach übernahm das Tiefbauamt die Reinigung. Die Alexanderstraße war während der Arbeiten voll gesperrt. Die Polizei hat die Unfallaufnahme übernommen und ermittelt die Ursache, die bisher nicht genannt wird. Ein Bergungsunternehmen holte den Lkw später ab.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim, 20.11.",
+              "url": "https://www.radiomuelheim.de/artikel/der-tag-bei-uns-am-20-november-2812429"
+            },
+            {
+              "name": "news.de: Blaulicht Mülheim, 20.11.",
+              "url": "https://www.news.de/lokales/860204278/blaulicht-news-polizei-einsatz-muelheim-an-der-ruhr-20-11-26-unfall-und-brand-heute/1/"
+            }
+          ]
+        },
+        {
+          "titel": "Velauer Straße gesperrt, Linie 129 fährt Umweg",
+          "unterzeile": "Dazu: A40-Baustelle am Samstag, A52 Ruhrtalbrücke einspurig",
+          "text": "Auf Höhe des Wasserturms wird die Velauer Straße für zwei Wochen komplett gesperrt, weil RWW dort baut. Ausweichen kannst du laut Radio Mülheim über das Rhein-Ruhr-Zentrum oder am Flughafen vorbei. Die Ruhrbahn leitet deshalb die Buslinie 129 um; die Quellen nennen leicht unterschiedliche Startdaten (ab 23. November bzw. 19. November bis 3. Dezember), schau also vor der Fahrt in die Ruhrbahn-Verkehrsinfo. Für drei Haltestellen gibt es keinen Ersatz. Am Samstag, 21. November, ist außerdem auf der A40 Richtung Essen von 8 bis 17 Uhr der rechte Fahrstreifen gesperrt. Auf der A52 ist die Ruhrtalbrücke von Montag bis Mittwoch wegen Fahrbahnreparaturen zeitweise nur einspurig befahrbar.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim, 20.11.",
+              "url": "https://www.radiomuelheim.de/artikel/der-tag-bei-uns-am-20-november-2812429"
+            },
+            {
+              "name": "ms-aktuell: Velauer Straße in Mülheim",
+              "url": "https://ms-aktuell.de/welt/velauer-strasse-muelheim-20-11-2026/"
+            },
+            {
+              "name": "Ruhrbahn: Verkehrsinfo Mülheim",
+              "url": "https://www.ruhrbahn.de/muelheim/aktuelles/verkehrsinfo"
+            },
+            {
+              "name": "news.de: A40-Tagesbaustelle am 21.11.",
+              "url": "https://www.news.de/auto/860206489/verkehrsmeldung-nw-muelheim-an-der-ruhr-zur-verkehrsstoerung-wegen-baustelle-am-21-11-2026-beschraenkungen-im-verkehr-nordrhein-westfalen-staugefahr-in-rechtsruhr-nord-auf-a40/1/"
+            }
+          ]
+        },
+        {
+          "titel": "Pharaoameisen an der Rembergschule",
+          "unterzeile": "Hallenbad und einige Räume bleiben zu",
+          "text": "An der Rembergschule am Rumbachtal haben sich Pharaoameisen ausgebreitet. Deshalb bleiben das Hallenbad der Schule und einige weitere Räume vorerst geschlossen. Wann dort wieder Normalbetrieb herrscht, ist laut Radio Mülheim völlig unklar.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim, 20.11.",
+              "url": "https://www.radiomuelheim.de/artikel/der-tag-bei-uns-am-20-november-2812429"
+            }
+          ]
+        },
+        {
+          "titel": "Totensonntag: Stille Kranzniederlegung, Friedhofswasser wird abgestellt",
+          "unterzeile": "Hinweise der Stadt",
+          "text": "Die Stadt weist auf eine stille Kranzniederlegung zum Totensonntag am 22. November hin. Außerdem soll das Wasser auf den städtischen Friedhöfen voraussichtlich am Montag, 23. November, über den Winter abgestellt werden; kommt der Frost früher, wird der Termin vorgezogen. Die Toiletten bleiben in Betrieb. Die Seite der Stadt trägt kein klares Veröffentlichungsdatum, die Angaben sind also mit Vorsicht zu lesen.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim an der Ruhr",
+              "url": "https://cms.muelheim-ruhr.de/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Sa 21.11., 8–17 Uhr: A40 Richtung Essen, rechter Fahrstreifen gesperrt",
+          "Mo–Mi: A52 Ruhrtalbrücke zeitweise einspurig",
+          "23.11.: Wasser auf städtischen Friedhöfen wird voraussichtlich abgestellt"
+        ],
+        "quellen": [
+          {
+            "name": "Radio Mülheim, 20.11.",
+            "url": "https://www.radiomuelheim.de/artikel/der-tag-bei-uns-am-20-november-2812429"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim & Ruhrgebiet",
+      "artikel": [
+        {
+          "titel": "Weihnachtsmärkte: Am Wochenende hat fast das ganze Revier offen",
+          "unterzeile": "Was schon läuft und was erst nächste Woche startet",
+          "text": "Dieses Wochenende kannst du im Ruhrgebiet schon fast überall Glühwein trinken: Essen-Steele läuft seit 30. Oktober, Duisburg und Castrop-Rauxel seit 12. November, Essen-Innenstadt, Oberhausen (Centro) und Unna seit 13. November. Seit Donnerstag, 19. November, sind auch Bochum, Dortmund, Hagen, Herne (Cranger Weihnachtszauber), Lünen und Recklinghausen dabei.\n\nErst nach dem Wochenende geht es in Hamm, Hattingen, Münster und Soest los (23. November). Bocholt folgt am 26. November, Mettmann am 27. November. Die Märkte in Solingen und Schloss Grünewald gibt es nur an den Adventswochenenden ab dem 27. November.",
+          "quellen": [
+            {
+              "name": "Ruhr Nachrichten: Weihnachtsmärkte NRW 2026",
+              "url": "https://www.ruhrnachrichten.de/regionales/weihnachtsmaerkte-nrw-2026-termine-bochum-dortmund-herne-koeln-dom-schloss-solingen-wochenende-w1098331-2001872191/"
+            }
+          ]
+        },
+        {
+          "titel": "Duisburg, Essen, Oberhausen: Laufzeiten im Überblick",
+          "unterzeile": "Am Totensonntag vorher Öffnungszeiten prüfen",
+          "text": "Der Duisburger Weihnachtsmarkt läuft laut Ruhr Nachrichten vom 12. November bis 30. Dezember, der Essener Markt vom 13. November bis 23. Dezember, der Oberhausener Markt am Centro ab 13. November. Beim Ende in Oberhausen (22. oder 23. Dezember) und bei Schließungen am Totensonntag, 22. November, widersprechen sich die Quellen. Check deshalb vorher die Seite des Veranstalters, bevor du losfährst.",
+          "quellen": [
+            {
+              "name": "Ruhr Nachrichten: Weihnachtsmarkt Duisburg 2026",
+              "url": "https://www.ruhrnachrichten.de/regionales/weihnachtsmarkt-duisburg-2026-staende-oeffnungszeiten-programm-eislaufen-eisstockschiessen-anfahrt-w664560-2000678601/"
+            },
+            {
+              "name": "Ruhr Nachrichten: Weihnachtsmärkte NRW 2026",
+              "url": "https://www.ruhrnachrichten.de/regionales/weihnachtsmaerkte-nrw-2026-termine-bochum-dortmund-herne-koeln-dom-schloss-solingen-wochenende-w1098331-2001872191/"
+            }
+          ]
+        },
+        {
+          "titel": "Hendrik Wüst ist neuer Bundesratspräsident",
+          "unterzeile": "NRW-Ministerpräsident löst Bremens Bürgermeister ab",
+          "text": "Der nordrhein-westfälische Ministerpräsident Hendrik Wüst hat am Freitag das Amt des Bundesratspräsidenten von Andreas Bovenschulte (Bremen) übernommen. Die Präsidentschaft wechselt jedes Jahr zum 1. November nach Einwohnerzahl der Länder, jedes Land stellt sie etwa alle 16 Jahre. Für seine Antrittsrede war Wüst laut Tagesordnung vorgesehen.",
+          "quellen": [
+            {
+              "name": "Bayerisches Bauministerium: Bundesrat am 20. November 2026",
+              "url": "https://www.stmb.bayern.de/med/aktuell/archiv/2026/261120bundesrat/"
+            }
+          ]
+        },
+        {
+          "titel": "Landesregierung: Kunstpreis NRW für Herbert Grönemeyer",
+          "unterzeile": "Dazu fünf Förderpreise",
+          "text": "Ministerpräsident Hendrik Wüst und Kulturministerin Ina Brandes haben den Kunstpreis des Landes an Herbert Grönemeyer verliehen. Dazu gab es fünf weitere Förderpreise an nordrhein-westfälische Künstlerinnen und Künstler. Die Meldung stammt vom 12. November, steht aber noch auf der Startseite des Landesportals.",
+          "quellen": [
+            {
+              "name": "Land NRW",
+              "url": "https://www.land.nrw/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine der Woche",
+        "punkte": [
+          "Sa 21.11.: A40 Richtung Essen, Tagesbaustelle 8–17 Uhr",
+          "So 22.11.: Totensonntag, stille Kranzniederlegung in Mülheim",
+          "Mo 23.11.: Weihnachtsmärkte in Hamm, Hattingen, Münster, Soest starten",
+          "Mi 25.11., 15 Uhr: Anhörung zur Pflegereform im Bundestag (Berlin)",
+          "Do 26.11.: Weihnachtsmarkt Bocholt startet",
+          "Fr 27.11.: Mettmann startet; Bundestag stimmt über Haushalt 2027 ab"
+        ],
+        "quellen": [
+          {
+            "name": "Ruhr Nachrichten: Weihnachtsmärkte NRW 2026",
+            "url": "https://www.ruhrnachrichten.de/regionales/weihnachtsmaerkte-nrw-2026-termine-bochum-dortmund-herne-koeln-dom-schloss-solingen-wochenende-w1098331-2001872191/"
+          },
+          {
+            "name": "Deutscher Bundestag: Haushalt 2027, dritte Lesung",
+            "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-haushaltsgesetz-2027-dritte-lesung-1232350"
+          },
+          {
+            "name": "Pflege-Dschungel: PNOG-Anhörung am 25. November 2026",
+            "url": "https://pflege-dschungel.de/pnog-anhoerung-bundestag-25-november-2026/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Politik",
+      "artikel": [
+        {
+          "titel": "Haushalt 2027: Am 27. November stimmt der Bundestag ab",
+          "unterzeile": "560,92 Milliarden Euro Ausgaben, fast 123 Milliarden neue Schulden",
+          "text": "Der Bundestag stimmt am Freitag, 27. November, nach 90 Minuten Debatte endgültig über den Bundeshaushalt 2027 ab. Nach der Bereinigungssitzung des Haushaltsausschusses sind Ausgaben von 560,92 Milliarden Euro vorgesehen, 5,48 Milliarden mehr als im Regierungsentwurf. Die Nettokreditaufnahme liegt bei 122,97 Milliarden Euro; rund 84,55 Milliarden davon fallen unter die Ausnahme der Schuldenbremse für Verteidigung und Sicherheit.\n\nDer größte Einzeletat bleibt Arbeit und Soziales mit 203,29 Milliarden Euro. Verteidigung bleibt bei 109,75 Milliarden. Der Verkehrsetat wird um 1,08 Milliarden auf 25,35 Milliarden gekürzt, vor allem bei der Autobahn GmbH. Der Gesundheitsetat steigt um rund 780 Millionen auf 15,12 Milliarden Euro. Die Koalition aus Union und SPD stimmte im Ausschuss zu, die Anträge der Opposition scheiterten.",
+          "quellen": [
+            {
+              "name": "Deutscher Bundestag: Haushalt 2027, dritte Lesung",
+              "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-haushaltsgesetz-2027-dritte-lesung-1232350"
+            }
+          ]
+        },
+        {
+          "titel": "Haushaltsbegleitgesetz: Zuckersteuer verschoben, Rentenzuschuss gekürzt",
+          "unterzeile": "Was im Kleingedruckten steht",
+          "text": "Der zusätzliche Bundeszuschuss zur Rentenversicherung wird 2027 um weitere zwei Milliarden Euro gekürzt; mit der schon im Entwurf enthaltenen einen Milliarde sind das drei Milliarden Euro Entlastung gegenüber dem bisherigen Recht. Die Abgabe auf zuckerhaltige Getränke kommt sechs Monate später, 2028, und wird in drei Stufen eingeführt. Die Anpassung der Sozialhilfe-Regelsätze wird auf den 1. Juli jedes Jahres gelegt, die nächste im Juli 2028. Das Kinderzuschlag-Aus ist vom Tisch, der Zuschlag bleibt bestehen.",
+          "quellen": [
+            {
+              "name": "Deutscher Bundestag: Haushalt 2027, dritte Lesung",
+              "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-de-haushaltsgesetz-2027-dritte-lesung-1232350"
+            }
+          ]
+        },
+        {
+          "titel": "Bundesrat: Führerscheinreform, Autobahn GmbH und Bahn-Initiative",
+          "unterzeile": "Sitzung am Freitag, Ergebnisse nur teilweise belegt",
+          "text": "Auf der Tagesordnung des Bundesrats standen am Freitag die Führerscheinreform (Änderung des Fahrlehrergesetzes, Ziel: billigere Führerscheine, mehr Digitalisierung, weniger Bürokratie), ein Gesetz zur Finanzierung der Autobahn GmbH aus Haushalt, Maut und privatem Kapital sowie eine bayerische Initiative für Fernverkehrshalte in der Fläche. Auf bundesregierung.de laufen Teaser unter „Im Bundesrat beschlossen“, die genauen Abstimmungsergebnisse konnte ich aber nicht prüfen. Behandle sie als Hinweis, nicht als Beleg.",
+          "quellen": [
+            {
+              "name": "Bayerisches Bauministerium: Bundesrat am 20. November 2026",
+              "url": "https://www.stmb.bayern.de/med/aktuell/archiv/2026/261120bundesrat/"
+            },
+            {
+              "name": "Bundesrat: Plenarsitzung 20.11.2026",
+              "url": "https://www.bundesrat.de/DE/plenum/bundesrat-kompakt/26/1070/1070-pk.html"
+            }
+          ]
+        },
+        {
+          "titel": "Ukraine-Diplomatie: Merz will Gespräche mit Russland auf neutralem Boden",
+          "unterzeile": "Nur eine Quelle, mit Vorsicht lesen",
+          "text": "Nach dem Treffen der „Koalition der Willigen“ in Berlin am Donnerstag sagte Kanzler Merz laut einem Bericht, Europa sei „selbstverständlich“ zu Gesprächen mit Russland bereit, möglichst auf neutralem Gebiet. Washington habe Sicherheitsgarantien genannt, Moskau Europäer zu Sondierungen eingeladen. Außenminister Wadephul erwartet die nächste Runde demnach vor Weihnachten. Ich habe dafür nur diese eine Quelle gefunden.",
+          "quellen": [
+            {
+              "name": "aktiencheck.de: Ukraine-Diplomatie",
+              "url": "https://aktiencheck.de/artikel/ukraine-diplomatie-merz-bietet-russland-gespraeche-an-kushner-nennt-garantien"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Deutschland: Wirtschaft, Gesellschaft, Verbraucher",
+      "artikel": [
+        {
+          "titel": "Seit dem 20. November: Strengere Regeln für Mini-Kredite und „Jetzt kaufen, später zahlen“",
+          "unterzeile": "Verbraucherkreditrichtlinie greift auch bei kleinen Summen",
+          "text": "Seit dem 20. November gelten die Verbraucherkreditregeln auch für Geschäfte, die bisher unter der Schwelle lagen. Dazu zählen Kleinkredite bis 200 Euro, zinsfreie Zahlungsaufschübe, Kredite mit höchstens drei Monaten Laufzeit und Modelle wie „Buy now, pay later“ bei Klarna oder PayPal.\n\nDie Verbraucherzentrale erwartet mehr Schutz vor undurchsichtigen Bedingungen und hohen Mahngebühren. Gerade rund um den Black Friday ist das praktisch: Wer auf Raten kauft, hat jetzt mehr Rechte.",
+          "quellen": [
+            {
+              "name": "Berliner Kurier: Änderungen im November 2026",
+              "url": "https://www.berliner-kurier.de/article/verbraucher-aenderungen-november-2026-10545767"
+            }
+          ]
+        },
+        {
+          "titel": "Black Friday: Echte Schnäppchen oder nur Trickserei?",
+          "unterzeile": "Verbraucherzentrale: Mit der UVP wird gern getrickst",
+          "text": "Black Friday ist am 27. November, Cyber Monday am 30. November (ein paar Seiten nennen abweichende Daten). Die Verbraucherzentrale Rheinland-Pfalz warnt: Viele Rabatte beziehen sich auf die UVP statt auf den üblichen Verkaufspreis, dann bringen „50 Prozent“ oft kaum etwas. Händler müssen bei Preissenkungen den niedrigsten Preis der letzten 30 Tage angeben. Vergleiche Preise und schau dir den Preisverlauf an. Gegen gefälschte Shops hilft der kostenlose Fakeshop-Finder der Verbraucherzentrale.",
+          "quellen": [
+            {
+              "name": "Verbraucherzentrale RLP: Black Friday",
+              "url": "https://www.verbraucherzentrale-rlp.de/pressemitteilungen/black-friday-echte-schnaeppchen-oder-trickserei-127067"
+            },
+            {
+              "name": "web.de: Black Friday 2026",
+              "url": "https://web.de/magazine/ratgeber/finanzen-verbraucher/black-friday-2026-infos-schnaeppchenjagd-42934176"
+            }
+          ]
+        },
+        {
+          "titel": "Konjunktur: Wirtschaft wächst um 0,2 Prozent, Erzeugerpreise legen kräftig zu",
+          "unterzeile": "Energie treibt die Preise auf Herstellerebene",
+          "text": "Das Bruttoinlandsprodukt ist im dritten Quartal 2026 um 0,2 Prozent gegenüber dem Vorquartal gewachsen, im Jahresvergleich um 1,3 Prozent. Die Erzeugerpreise lagen im Oktober 8,1 Prozent über dem Vorjahr, getrieben von Energie. Viele Händler vor allem bei Lebensmitteln und auch Industriefirmen wollen laut den Berichten ihre Preise anheben. Die Stimmung der Verbraucher bleibt gedämpft.",
+          "quellen": [
+            {
+              "name": "DATEV: Wirtschaftliche Lage im November 2026",
+              "url": "https://www.datev.de/web/de/berufsgruppenuebergreifend/nachrichten/ndsr/wirtschaft/Die-wirtschaftliche-Lage-in-Deutschland-November-2026"
+            },
+            {
+              "name": "netz-trends: Erzeugerpreise",
+              "url": "https://www.netz-trends.de/erzeugerpreise-anstieg-november-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "Euro 7 startet: Neue Abgasnorm zunächst nur für neu typgenehmigte Autos",
+          "unterzeile": "Dein aktuelles Auto ist nicht betroffen",
+          "text": "Im November startet die Abgasnorm Euro 7, zunächst nur für neu typgenehmigte Pkw und leichte Nutzfahrzeuge. Bereits zugelassene Autos und Modelle mit bestehender Typgenehmigung sind davon zunächst nicht betroffen.",
+          "quellen": [
+            {
+              "name": "Berliner Kurier: Änderungen im November 2026",
+              "url": "https://www.berliner-kurier.de/article/verbraucher-aenderungen-november-2026-10545767"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Black-Friday-Check",
+        "punkte": [
+          "Aktionspreis mit dem 30-Tage-Tiefstpreis vergleichen, nicht mit der UVP",
+          "Preisverlauf in Vergleichsportalen ansehen",
+          "Unbekannte Shops im Fakeshop-Finder der Verbraucherzentrale prüfen",
+          "Bei Ratenkauf: neue Kreditregeln seit 20.11."
+        ],
+        "quellen": [
+          {
+            "name": "Verbraucherzentrale RLP",
+            "url": "https://www.verbraucherzentrale-rlp.de/pressemitteilungen/black-friday-echte-schnaeppchen-oder-trickserei-127067"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Politik, Recht, Pflegeversicherung",
+      "artikel": [
+        {
+          "titel": "Pflegereform im Bundesrat: Länderausschüsse wollen Bund bei Pflegekosten der Kommunen in der Pflicht sehen",
+          "unterzeile": "Stellungnahme stand am Freitag auf der Tagesordnung",
+          "text": "Der Bundesrat sollte am Freitag (TOP 34, 1070. Sitzung) seine Stellungnahme zum Pflegeneuordnungsgesetz beschließen. Den Beschluss selbst konnte ich nicht belegen, wohl aber die Empfehlungen der Ausschüsse: Sie raten zu einer umfangreichen Stellungnahme.\n\nDie Ausschüsse fordern, dass der Bund sich an den Mehrkosten der Kommunen bei der Hilfe zur Pflege beteiligt. Das Überbrückungsbudget soll auf 2.900 Euro steigen, der Eigenanteil im Pflegeheim auf 1.500 Euro im Monat begrenzt werden. Pflegebegleitung und Sozialraumbudget sollen nachgebessert werden, und wer schon Pflegegrad 1 hat, soll seine Leistungen behalten. Das sind Empfehlungen, kein Gesetz.",
+          "quellen": [
+            {
+              "name": "Pflege-Dschungel: PNOG-Anhörung am 25. November 2026",
+              "url": "https://pflege-dschungel.de/pnog-anhoerung-bundestag-25-november-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "Anhörung am Mittwoch: Neun Vorlagen, 46 Verbände",
+          "unterzeile": "Wer was fordert",
+          "text": "Am Mittwoch, 25. November, 15 bis 17.15 Uhr, hört der Gesundheitsausschuss Sachverständige an. Auf der Tagesordnung stehen der Regierungsentwurf (Drucksache 21/8869) und acht Oppositionsanträge. Der Entwurf sieht Budgets ab 2027, den Wegfall der bisherigen Verhinderungspflege, ein Überbrückungsbudget, den Wegfall des Entlastungsbetrags für Pflegegrad 1 und eine Pflegebegleitung ab 2029 vor.\n\nDie Linke will unter anderem eine Pflegebürgerversicherung und den Erhalt von Verhinderungspflege und Entlastungsbetrag, die Grünen eine solidarische Finanzierung und mehr Prävention, die AfD eine strukturelle Reform und eine Betrugspräventionsdatenbank. Eingeladen sind 46 Verbände, darunter Pflegende Angehörige e. V. und wir pflegen e. V. Zweite und dritte Lesung sind für Dezember vorgesehen.",
+          "quellen": [
+            {
+              "name": "Pflege-Dschungel: PNOG-Anhörung am 25. November 2026",
+              "url": "https://pflege-dschungel.de/pnog-anhoerung-bundestag-25-november-2026/"
+            },
+            {
+              "name": "Altenheim: Bundestag hört am 25. November Sachverständige an",
+              "url": "https://www.altenheim.net/pflegeneuordnungsgesetz-bundestag-hoert-am-25-november-sachverstaendige-an/"
+            }
+          ]
+        },
+        {
+          "titel": "AOK-Bundesverband: Lasten der Reform einseitig verteilt",
+          "unterzeile": "Forderung: Darlehen für den Ausgleichsfonds",
+          "text": "Der AOK-Bundesverband kritisiert in seiner Stellungnahme zum Pflegeneuordnungsgesetz, dass die finanziellen Lasten der Reform einseitig verteilt seien. Er fordert ein Darlehen für Liquiditätsengpässe des Ausgleichsfonds.",
+          "quellen": [
+            {
+              "name": "AOK: Gesetz zur Neuordnung der Pflegeversicherung",
+              "url": "https://www.aok.de/pp/gesetz/pnog/"
+            }
+          ]
+        },
+        {
+          "titel": "Pflegegrad zu niedrig? So läuft der Widerspruch",
+          "unterzeile": "Service: Frist und Gutachten",
+          "text": "Gegen einen Pflegegrad-Bescheid kannst du innerhalb eines Monats Widerspruch einlegen, ohne Gebühren und zunächst ohne Begründung. Die Ratgeber empfehlen, zuerst das vollständige Gutachten des Medizinischen Dienstes anzufordern, denn der Bescheid nennt oft nur den Pflegegrad. Die 25-Arbeitstage-Frist nach § 18c SGB XI betrifft die Entscheidung über den Antrag, nicht über den Widerspruch. Die Quellen sind Ratgeberseiten, im Zweifel Sozialverband oder Pflegeberatung fragen.",
+          "quellen": [
+            {
+              "name": "ZBF: Widerspruch Pflegegrad",
+              "url": "https://www.zbf-assistenzdienst.de/ratgeber/widerspruch-pflegegrad/"
+            },
+            {
+              "name": "anwalt.de: Pflegegrad abgelehnt",
+              "url": "https://www.anwalt.de/rechtstipps/pflegegrad-abgelehnt-oder-zu-niedrig-so-begruende-ich-den-widerspruch-276820.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Altenpflege: Praxis, Studien, Fachwissen, Arbeitsbedingungen",
+      "artikel": [
+        {
+          "titel": "BGW-Gesundheitspreis 2026: Pflegezentrum Senden vorn, Vier-Tage-Woche auf Platz drei",
+          "unterzeile": "Gesunde Arbeitsbedingungen ausgezeichnet",
+          "text": "Den BGW-Gesundheitspreis 2026 hat das St. Elisabeth Pflegezentrum in Senden gewonnen. Platz zwei ging an den Pflegedienst provitus in Riesa, Platz drei an das DRK in Sangerhausen. Das Preisgeld beträgt 20.000, 15.000 und 10.000 Euro.\n\nDer Drittplatzierte berichtet von einer Vier-Tage-Woche und einer Fluktuation von rund einem Prozent. Für dich als Pflegekraft ist das ein Praxisbeispiel dafür, dass sich Arbeitsbedingungen messbar auf das Bleiben im Beruf auswirken können.",
+          "quellen": [
+            {
+              "name": "Altenheim: Drei Pflegeunternehmen für gesunde Arbeitsbedingungen ausgezeichnet",
+              "url": "https://altenheim.net/drei-pflegeunternehmen-fuer-gesunde-arbeitsbedingungen-ausgezeichnet"
+            }
+          ]
+        },
+        {
+          "titel": "Barmer-Analyse: Viele Pflegekräfte zweifeln früh an der Berufswahl",
+          "unterzeile": "15 Prozent steigen in den ersten drei Jahren aus",
+          "text": "Laut einer Barmer-Analyse, über die Altenpflege-Online berichtet, zweifeln viele Pflegekräfte schon früh an ihrer Berufswahl. 15 Prozent verlassen den Beruf innerhalb der ersten drei Jahre. Ich konnte nur die Teaser auf der Startseite einsehen, Details zur Studie fehlen mir.",
+          "quellen": [
+            {
+              "name": "Altenpflege-Online",
+              "url": "https://www.altenpflege-online.net/"
+            }
+          ]
+        },
+        {
+          "titel": "Hintergrund: Was die Personalbemessungs-Studie aus Bremen für Heime bedeutet",
+          "unterzeile": "Rothgang-Studie, keine neue Meldung",
+          "text": "Die Universität Bremen (Projektleiter Heinz Rothgang) hat die Grundlage für die bundesweite Personalbemessung in Heimen geliefert: Sie errechnete einen Mehrbedarf von 69 Prozent bei Pflegeassistenzkräften und 3,5 Prozent bei Fachkräften, zusammen rund 100.000 zusätzliche Beschäftigte. Für Heime mit durchschnittlichem Pflegegradmix empfahlen die Forscher eine Fachkraftquote von 38 Prozent. Fachkräfte sollen stärker planen, koordinieren und anleiten. Diese Zahlen stammen aus älteren Veröffentlichungen, es handelt sich nicht um eine aktuelle Studie.",
+          "quellen": [
+            {
+              "name": "Tagesspiegel: In Heimen fehlen rund 100.000 Hilfskräfte",
+              "url": "https://www.tagesspiegel.de/politik/in-heimen-fehlen-rund-100000-hilfskrafte-6867907.html"
+            }
+          ]
+        },
+        {
+          "titel": "Aragon übernimmt insolventen Pflegedienst in Cloppenburg und Hannover",
+          "unterzeile": "Alle Beschäftigten behalten ihre Jobs",
+          "text": "Die in Grünwald bei München ansässige Gruppe Aragon übernimmt den insolventen Pflegedienst DVL in Cloppenburg und Hannover. Laut Care vor9 behalten alle Beschäftigten ihre Stellen, die Versorgung der Patienten läuft weiter.",
+          "quellen": [
+            {
+              "name": "Care vor9",
+              "url": "https://www.carevor9.de/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Gaming: Steam & PC",
+      "artikel": [
+        {
+          "titel": "Steam Machine: 512 GB ohne Warteliste kaufbar, 2-TB-Liste geschlossen",
+          "unterzeile": "Valve verweist auf Speicherpreise und Lieferunsicherheit",
+          "text": "Valve verkauft die 512-GB-Variante der Steam Machine jetzt direkt, ohne Warteliste. Das Gerät lässt sich in den Steam-Warenkorb legen, solange Vorrat da ist. Ist es ausverkauft, wird es als nicht lieferbar geführt statt eine Warteliste zu öffnen. Die Lieferzeit liegt laut Berichten bei drei bis fünf Werktagen.\n\nDie Preise nennen die Berichte in Dollar: 1.049 Dollar für 512 GB, 1.349 Dollar für 2 TB; ein Steam Controller kostet 79 Dollar extra. Die Warteliste für das 2-TB-Modell hat Valve geschlossen, wegen Preisen und Unsicherheit bei Speicher und Speicherchips. Mehr zu Versorgung und Speicherkosten will Valve im Januar 2027 sagen. Deutsche Preise sind in den Quellen nicht genannt.",
+          "quellen": [
+            {
+              "name": "Notebookcheck",
+              "url": "https://www.notebookcheck.net/Steam-Machine-512GB-can-now-be-purchased-directly-as-Valve-closes-waitlist-for-the-2TB-model.1454763.0.html"
+            },
+            {
+              "name": "KeenGamer: Steam Machine ohne Warteliste",
+              "url": "https://www.keengamer.com/articles/news/valve-opens-steam-machine-sales-to-everyone-no-waitlist-needed/"
+            }
+          ]
+        },
+        {
+          "titel": "Steam Frame: Über 300 Spiele verifiziert",
+          "unterzeile": "Nur eine Überschrift als Beleg",
+          "text": "Steam Deck HQ meldet am 20. November, dass es inzwischen über 300 „Steam Frame Verified“-Spiele gibt. Mehr als diese Überschrift konnte ich nicht abrufen. Auch bei den Hardware-Terminen widersprechen sich die Quellen, nimm die Angabe also als Hinweis.",
+          "quellen": [
+            {
+              "name": "Steam Deck HQ",
+              "url": "https://steamdeckhq.com/"
+            }
+          ]
+        },
+        {
+          "titel": "Grafikkarten und RAM bleiben teuer: Aufschläge auf die UVP",
+          "unterzeile": "Laut TechSpot-Tracker für Q4 2026",
+          "text": "Laut dem Q4-Update von TechSpot kostet die RTX 5060 Ti 8GB in den USA rund 40 Prozent über der UVP, die RTX 5070 rund 60 Prozent. Der mittlere Preis für DDR5-Desktop-RAM lag am 12. Oktober bei 17,50 Dollar pro GB. Als Ursache gilt die KI-Nachfrage nach Speicher. Gerüchte, Nvidia bringe 2026 keine neuen GeForce-Karten mehr, sind unbestätigt. Die Zahlen gelten für die USA.",
+          "quellen": [
+            {
+              "name": "TechSpot: GPU Pricing Q4 2026",
+              "url": "https://www.techspot.com/article/3192-gpu-pricing-q4-2026/"
+            },
+            {
+              "name": "PC Gamer: Why PC hardware costs more than ever",
+              "url": "https://www.pcgamer.com/hardware/memory/ram-and-storage-is-ridiculously-expensive-right-now-because-of-drumroll-ai-of-course-and-theres-little-reason-to-think-prices-will-drop-any-time-soon/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Nintendo Switch 2 & Konsolen",
+      "artikel": [
+        {
+          "titel": "Zelda: Ocarina of Time als Remake seit 5. November",
+          "unterzeile": "Das große Switch-2-Spiel des Monats",
+          "text": "Das Highlight im November ist laut GameRant The Legend of Zelda: Ocarina of Time als Remake für die Switch 2, erschienen am 5. November. Es bringt deutlich verbesserte Grafik und neue Funktionen wie eine eigene Sprungtaste und die „Hall of Fallen Heroes“. Eine Nintendo Direct hatte das Spiel zusammen mit Kingdom Hearts IV und Xenoblade Genesis angekündigt.",
+          "quellen": [
+            {
+              "name": "GameRant: Neun große Switch-2-Spiele im November",
+              "url": "https://gamerant.com/nintendo-switch-2-new-games-coming-out-soon-list-november-oot-remake/"
+            },
+            {
+              "name": "Nintendo: Direct-Meldung",
+              "url": "https://www.nintendo.com/us/whatsnew/nintendo-direct-unveils-new-games-and-updates-for-nintendo-switch-2-and-nintendo-switch-including-the-legend-of-zelda-ocarina-of-time-kingdom-hearts-iv-xenoblade-genesis-and-more/"
+            }
+          ]
+        },
+        {
+          "titel": "Nintendos Black Friday: Details für die USA",
+          "unterzeile": "Bundles, 20 Dollar Rabatt auf Nintendo-Spiele, keine Konsolenpreissenkung",
+          "text": "Nintendo hat die Angebote bisher für die USA angekündigt; für Deutschland habe ich keine Ankündigung gefunden. Dort kostet das Switch-2-Bundle mit Mario Kart World vom 22. November bis 5. Dezember 499,99 Dollar, ein Bundle mit Switch Sports Resort 529,99 Dollar. Auf Switch-2-Spiele wie Donkey Kong Bananza, Metroid Prime 4: Beyond, Kirby Air Riders und Super Mario Party Jamboree gibt es vom 22. bis 29. November 20 Dollar Rabatt im Handel. Der digitale Sale im eShop läuft vom 19. November bis 2. Dezember. Die Konsole selbst wird nicht günstiger.",
+          "quellen": [
+            {
+              "name": "Nintendo Everything",
+              "url": "https://nintendoeverything.com/nintendo-announces-black-friday-2026-deals-and-offers-for-switch-2-and-switch/"
+            },
+            {
+              "name": "Kotaku",
+              "url": "https://kotaku.com/nintendo-black-friday-sale-first-party-games-donkey-kong-metroid-prime-2000756243"
+            }
+          ]
+        },
+        {
+          "titel": "Splatoon Raiders: 2,42 Millionen verkauft, Demo ist da",
+          "unterzeile": "Release war am 23. Juli",
+          "text": "Splatoon Raiders ist seit dem 23. Juli 2026 auf dem Markt und hat laut Wikipedia bis zum 30. September 2,42 Millionen Exemplare verkauft. Seit dem 19. November gibt es eine kostenlose Demo im eShop der Switch 2.",
+          "quellen": [
+            {
+              "name": "Wikipedia: Splatoon Raiders",
+              "url": "https://en.wikipedia.org/wiki/Splatoon_Raiders"
+            },
+            {
+              "name": "Nintendo: Demo",
+              "url": "https://www.nintendo.com/ph/news/article/PrI7MOrFLGY0Z0j7IjrEy"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Neue Spiele der Woche",
+        "punkte": [
+          "Seit 19.11. im eShop: Barbie Rewind, Reverie in the Moonlight (Switch 2 Edition), The Binding of Isaac: Repentance+ (laut Nintendo-Download-Listen)",
+          "Splatoon Raiders: Demo für Switch 2",
+          "Do 26.11.: Marupoyo: The Round Chick's Adventure",
+          "Letzte Woche (12.11.): Pikmin 4 Switch 2 Edition + Dandori Academy, Metaphor: ReFantazio, Sonic Pico Park"
+        ],
+        "quellen": [
+          {
+            "name": "Nintendo Download, 19.11. (My Nintendo News)",
+            "url": "https://mynintendonews.com/2026/11/19/us-nintendo-download-for-19th-november-2026/"
+          },
+          {
+            "name": "Nintendo Life: Woche ab 12.11.",
+            "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12"
+          },
+          {
+            "name": "OpenCritic: November-Spiele",
+            "url": "https://opencritic.com/news/38376/nintendo-switch-2-has-9-big-games-officially-confirmed-for-november"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Tech & Netz",
+      "artikel": [
+        {
+          "titel": "Chrome und Edge: Angegriffene Lücke, jetzt neu starten",
+          "unterzeile": "Die achte ausgenutzte Chrome-Lücke in diesem Jahr",
+          "text": "Google hat eine bereits ausgenutzte Lücke (CVE-2026-125350, Use-after-free im XML-Bereich) in Chrome geschlossen. Über eine präparierte Webseite könnten Angreifer Code im Browser ausführen. Die Lücke ist als hoch eingestuft.\n\nDas Update steckt in Chrome 157.0.8103.50; für Edge wird Version 157.0.4341.46 oder neuer genannt. Wichtig: Browser, die seit Tagen offen sind, musst du neu starten, damit das Update greift. Es ist laut it-daily die achte ausgenutzte Chrome-Lücke in diesem Jahr.",
+          "quellen": [
+            {
+              "name": "it-daily: Chrome achte ausgenutzte Lücke",
+              "url": "https://www.it-daily.net/shortnews/chrome-achte-ausgenutzte-luecke-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Patchday November: Outlook-Lücke wurde schon angegriffen",
+          "unterzeile": "Windows 10 ohne ESU bleibt offen",
+          "text": "Beim November-Patchday hat Microsoft unter anderem eine bereits ausgenutzte Outlook-Lücke geschlossen: Mit einer präparierten Mail können Angreifer sich im Namen ihrer Opfer anmelden. Das Windows-11-Update schaltet außerdem standardmäßig die NTLM-Signierung auf Clients ein, was Relay-Angriffe erschwert. Für Windows 10 ohne ESU und Windows 11 24H2 in Home und Pro gibt es keine Updates mehr; diese Rechner bleiben für die Lücken offen. Die Zahl der behobenen Lücken schwankt je nach Zählweise, deshalb nenne ich keine.",
+          "quellen": [
+            {
+              "name": "t-online: Windows-Update November 2026",
+              "url": "https://www.t-online.de/digital/aktuelles/id_101523448/windows-update-november-2026-microsoft-schliesst-luecken-am-patchday.html"
+            },
+            {
+              "name": "BleepingComputer: Patch Tuesday",
+              "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/"
+            }
+          ]
+        },
+        {
+          "titel": "Heise-Alerts: Angriffe auf Axis, Roller, LiteLLM, Synology",
+          "unterzeile": "Und N-central und UniFi Access",
+          "text": "Heise Security meldet Angriffe auf Lücken in Apache Axis, Roller, LiteLLM und Synology. Für UniFi Access von Ubiquiti gibt es einen Patch. Außerdem warnt heise vor Angriffen auf die Fernwartung N-central von N-able, wofür inzwischen Updates bereitstehen. Wenn du eines dieser Systeme betreibst, prüf, ob die Updates eingespielt sind.",
+          "quellen": [
+            {
+              "name": "heise security: Alerts",
+              "url": "https://www.heise.de/security/Alerts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Browser-Update in 30 Sekunden prüfen",
+    "text": "Öffne in Chrome das Menü, dann „Hilfe“ und „Über Google Chrome“. Der Browser sucht selbst nach Updates und zeigt dir die Version an. Danach auf „Neu starten“ klicken, sonst bleibt die alte, verwundbare Version aktiv. In Edge geht es genauso über „Einstellungen“ und „Über Microsoft Edge“."
+  }
+}
