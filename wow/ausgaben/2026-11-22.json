@@ -1,0 +1,531 @@
+{
+  "gruss": "Guten Morgen, Abenteurer! Heute: Blizzard sperrt Layer-Addons, die Alcaz-Prison-Dungeon im Check, Gold-Wächter am Auktionshaus und der Countdown zum Angelturnier und zu den ersten Raids.",
+  "aufmacher": {
+    "rubrik": "Hotfixes & Addons",
+    "titel": "Layer-Swap-Addons stehen vor dem Aus: Blizzard blendet Realm-IDs aus",
+    "unterzeile": "Addons, die gezielt den Layer wechseln, sollen mit dem Forever-Hotfix nicht mehr funktionieren",
+    "text": "Blizzard schaltet Addons ab, mit denen sich der Layer gezielt auswählen lässt. Laut Wowhead werden verschiedene API-Aufrufe, die eine Realm-ID zeigen, verschleiert. Layer Swap und ähnliche Tools erkennen den Layer genau darüber und verlieren damit ihre Grundlage. Seramate zitiert einen Blizzard-Hinweis, wonach die Realm-Abfragen künftig einen leeren Text oder 0 zurückgeben und die Änderung nur für Forever gilt.\n\nBei der Frage, ob das schon live ist, widersprechen sich die Quellen: Wowhead spricht von einem kommenden Hotfix, Entwickler von Addons wie TitanLayer melden dagegen, dass die Layer-Erkennung seit dem Hotfix vom 20. November nicht mehr funktioniert. Auch Addons, die gar nichts mit Layern zu tun haben, können betroffen sein, wenn sie den Realm-Namen abfragen.\n\nDen genauen Wortlaut der Blizzard-Ankündigung konnten wir nicht im Original prüfen; mehrere Seiten geben den Satz nur aus zweiter Hand wieder. Prüft nach dem nächsten Patch, ob eure Addons noch laufen.",
+    "quellen": [
+      {
+        "name": "Wowhead: Layer Swap und Co. werden deaktiviert",
+        "url": "https://www.wowhead.com/forever/news/layer-swap-and-other-targeted-layering-addons-will-be-disabled-soon-in-wow-383943"
+      },
+      {
+        "name": "Seramate: Layer-Swap-Addons deaktiviert",
+        "url": "https://seramate.com/forever/news/2026/11/20/forever-layer-swap-addons-disabled-hotfix-a7016b64"
+      },
+      {
+        "name": "GitHub: TitanLayer, Issue 7",
+        "url": "https://github.com/Spotnick2/TitanLayer/issues/7"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Blizzards Hotfix-Liste wächst weiter: Blackrock Spire, Orgrimmar und mehr",
+          "unterzeile": "Neue Einträge vom 20. November, dazu Meldungen zu Priestern und Paladinen",
+          "text": "Der Blizzard-Beitrag „WoW: Forever Hotfixes“ wird laufend ergänzt. Unter den jüngsten Einträgen steht, dass die Rebel-Stone-Säule in Blackrock Spire Spieler nicht mehr einsperrt. In Orgrimmar wurden die leuchtenden Augen von Mayhoa Skyhoof entfernt, und die Quests in Feralas, Tanaris und Riverglades bekamen Korrekturen.\n\nEine Suchzusammenfassung der Blizzard-Seite nennt außerdem Einträge, die wir in der abgerufenen Fassung nicht fanden: Shadow Priests können eine Night Watchman's Torch halten, Escape Plan bekommt korrekte Reichweite und Schadenswerte, und für Berufe wird das Tracking von Spectral Iron Ore angepasst. Betrachtet diese Punkte als noch nicht gegengeprüft.\n\nBlizzard schreibt selbst, dass die Liste mit weiteren Hotfixes aktualisiert wird. Die Dungeon-Begrenzung auf 5 pro Stunde und die Klassen-Fixes stehen auch bei Vice.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            },
+            {
+              "name": "Vice: Klassen- und Dungeon-Änderungen im Hotfix vom 20. November",
+              "url": "https://www.vice.com/en/article/world-of-warcraft-forever-all-class-and-dungeon-changes-in-november-20-hotfix/"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-Limit: Wowhead fragt nach dem Solo-Gold-Farming",
+          "unterzeile": "Die Einordnung: Warum 5 Läufe pro Stunde die wenigsten bremsen",
+          "text": "Wowhead stellt die Senkung des Limits von 10 auf 5 Dungeons pro Stunde unter die Frage, ob es sich um einen Nerf für Solo-Gold-Farmer handelt. Das Limit entspricht laut dem Artikel dem Wert der ursprünglichen Classic-Era-Lockouts. Volle Clears dauern meist mindestens 30 Minuten, deshalb stoßen die meisten Gruppen nicht an die Grenze. Ob Blizzard damit gezielt Farmer treffen will, ist eine Vermutung der Redaktion, keine Blizzard-Aussage.",
+          "quellen": [
+            {
+              "name": "Wowhead: Dungeon-Limit gesenkt",
+              "url": "https://www.wowhead.com/forever/news/maximum-dungeons-per-hour-reduced-in-wow-forever-hotfix-solo-gold-farming-nerf-383950"
+            },
+            {
+              "name": "Blizzard: Hotfix-Liste",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            }
+          ]
+        },
+        {
+          "titel": "Layer-Addons: Folgen für andere Tools",
+          "unterzeile": "Addon-Autoren melden leere Realm-Namen und Realm-ID 0",
+          "text": "Mehrere Addon-Entwickler berichten, dass seit dem Hotfix vom 20. November weder Realm-Name noch Layer aus NPC-GUIDs auslesbar sind. In den Issue-Trackern von TitanLayer und GlassPanel wird deshalb über das Entfernen der Layer-Funktionen diskutiert. Kami-Labs schreibt, dass auch Addons ohne Layer-Bezug betroffen sind, weil sie den Realm-Typ über den Namen erkannten. Das sind Berichte der Community, eine offizielle Liste betroffener Addons gibt es nicht.",
+          "quellen": [
+            {
+              "name": "GitHub: TitanLayer, Issue 7",
+              "url": "https://github.com/Spotnick2/TitanLayer/issues/7"
+            },
+            {
+              "name": "Kami-Labs: Layer Swap und Realm-Abfragen",
+              "url": "https://kami-labs.fr/en/wow-forever/layer-swap-addons-de-couche-wow-forever/"
+            }
+          ]
+        },
+        {
+          "titel": "Rückblick: Zwei Notfall-Wartungen in der ersten Woche",
+          "unterzeile": "Am 9. und 13. November gingen die Realms ohne lange Vorwarnung offline",
+          "text": "Am 9. November gingen die Realms nach Disconnects und Login-Problemen gegen 22:00 UTC offline, laut Berichten mit wenigen Minuten Vorwarnung. Am 13. November kündigte Blizzard Restarts mit etwa 30 Minuten Vorlauf an, um einen dringenden Crash zu beheben. Wowhead nennt ein Fenster von 11:00 bis etwa 12:00 Uhr PST. Eine offizielle Erklärung der Ursache fanden wir nicht.",
+          "quellen": [
+            {
+              "name": "Wowhead: Realms gehen in 30 Minuten offline",
+              "url": "https://www.wowhead.com/forever/news/blizzard-taking-down-wow-forever-realms-in-30-minutes-to-fix-urgent-server-crash-383870"
+            },
+            {
+              "name": "GamingHQ: Notfall-Wartung",
+              "url": "https://gaminghq.eu/2026/11/10/world-of-warcraft-forever-servers-down-emergency-maintenance/"
+            }
+          ]
+        },
+        {
+          "titel": "Seit Launch geändert: Dungeon-XP, Quest-Gold und Alterac Valley",
+          "unterzeile": "Drei Hotfix-Weichen aus der Blizzard-Liste im Überblick",
+          "text": "Laut Blizzards Liste stieg die Erfahrung für Dungeon-Kills am 9. November um 50 %, am 13. November gab es keine XP mehr für triviale Gegner. Am 10. November kamen Goldbelohnungen für die meisten Quests ab Level 48 dazu. Am 17. November wurde festgelegt, dass Battle for Alterac Valley Level 58 verlangt.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Hotfix-Stand auf einen Blick",
+        "punkte": [
+          "Build-Nummer: In unseren Quellen nicht genannt",
+          "Dungeons: 5 Resets/Eintritte pro Stunde (vorher 10)",
+          "Blackrock Spire: Rebel-Stone-Säule fängt Spieler nicht mehr ein",
+          "Orgrimmar: Augen von Mayhoa Skyhoof entfernt",
+          "Layer-Addons: Realm-Abfragen werden verschleiert (Zeitpunkt strittig)"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard: WoW Forever Hotfixes",
+            "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Nicht gleich stark, aber überall gefragt: Blizzards Klassenphilosophie",
+          "unterzeile": "Aus den Development Notes: mehr Schaden, mehr Monster-Leben",
+          "text": "Laut den offiziellen Development Notes, die Wowhead zusammenfasst, soll jede Klasse für die Gruppen wertvoll sein, in die sie kommt. Numerische Gleichheit ist nicht das Ziel. In der Beta stellte das Team fest, dass ein Festhalten an den Classic-Power-Budgets keinen Platz für neue Elemente lässt, ohne anderes zu streichen.\n\nDeshalb wurde der Schaden klassenübergreifend erhöht und die Gesundheit höherstufiger Kreaturen angehoben, um das auszugleichen.\n\nIn Podcast-Folge 2 ging es um Details wie das Druiden-Talent Shifting Power statt Powershifting und die Rolle des Druiden als stärkste Dauer-Cleave-Klasse. Hybride DPS sollen innerhalb von etwa 5 % der reinen Schadensklassen liegen, mit begrenztem Off-Healing als Ausgleich. In den Kommentaren der Community gehen die Meinungen zu den Hybriden auseinander.",
+          "quellen": [
+            {
+              "name": "Wowhead: Offizielle Development Notes und Klassen-Tuning",
+              "url": "https://www.wowhead.com/forever/news/wow-forever-official-development-notes-and-class-tuning-383704"
+            },
+            {
+              "name": "Wowhead: Podcast Ep. 2, Class Design",
+              "url": "https://www.wowhead.com/forever/news/wow-forever-podcast-ep-2-class-design-383202"
+            }
+          ]
+        },
+        {
+          "titel": "Hunter: Summon Hawk und Arcane Shot mit festen 11 % Mana",
+          "unterzeile": "Warlock- und Hunter-Tuning war bereits live",
+          "text": "Wowhead meldete Tuning für Warlock und Hunter. Beim Hunter kosten Summon Hawk und Arcane Shot in allen Rängen pauschal 11 % des Basis-Manas. Blizzards Hotfix-Liste führt dazu am 10. November eine vereinheitlichte Mana-Kostenstruktur für Arcane Shot, die Pet-Gesundheit bei 115 % und etwa 80 % mehr Nahkampfschaden für Hawk.",
+          "quellen": [
+            {
+              "name": "Wowhead: Warlock- und Hunter-Tuning live",
+              "url": "https://www.wowhead.com/forever/news/warlock-and-hunter-class-tuning-now-live-in-wow-forever-383826"
+            },
+            {
+              "name": "Blizzard: WoW Forever Hotfixes",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            }
+          ]
+        },
+        {
+          "titel": "Warlock, Shaman, Druide: Was seit dem Launch angepasst wurde",
+          "unterzeile": "Überblick aus der Hotfix-Liste, 9. bis 16. November",
+          "text": "Warlock: Wrack wurde überarbeitet und der Schaden um 30 % gesenkt, Soul Siphon geändert, und Voidwalker, Imp, Incubus und Succubus bekamen mehr Basis-Gesundheit (10. November). Shaman: Windfury Totem wurde überarbeitet (16. November), Stormstrike abgeschwächt und Maelstrom Weapon neu aufgebaut (10. November). Druide: Wild Growth wurde korrigiert, der Heilungskoeffizient steigt auf 6,6 % (13. November). Priest: Vampiric Embrace sinkt auf 10 % (16. November).",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Alcaz Prison: Der neue Forever-Dungeon im Überblick",
+          "unterzeile": "Für Stufe 48 bis 53, Eingang auf Alcaz Island vor Dustwallow Marsh",
+          "text": "Alcaz Prison ist ein Forever-exklusiver Dungeon auf Alcaz Island vor der Nordostküste von Dustwallow Marsh. Er ist laut Guides für die Stufen 48 bis 53 gedacht. Der Eingang liegt im Keller eines großen Gebäudes auf der Insel.\n\nZur Bossliste gibt es widersprüchliche Angaben: Eine Quelle nennt nur Blazeroar als offiziell bestätigt, eine andere listet zusätzlich Katerina the Cleaner, Tidemistress Ca'zass und The Questioner. Die Insel gilt in der Lore als Gefängnis, in dem König Varian Wrynn gehalten werden soll. Bestätigt hat Blizzard das nicht.\n\nEinige Guides stützen sich auf vorläufige Blizzard-Infos und Datamining. Details können sich also noch ändern.",
+          "quellen": [
+            {
+              "name": "Warcraft Wiki: Alcaz Prison",
+              "url": "https://warcraft.wiki.gg/wiki/Alcaz_Prison"
+            },
+            {
+              "name": "Method: Alcaz Prison",
+              "url": "https://www.method.gg/wow-forever/dungeons/alcaz-prison"
+            },
+            {
+              "name": "Warcraft Tavern: Alcaz Island Prison",
+              "url": "https://www.warcrafttavern.com/forever/guides/alcaz-island-prison/"
+            }
+          ]
+        },
+        {
+          "titel": "Raid-Start am 9. Dezember: Was die Guides zu Barrow Deeps und Hyjal Summit sagen",
+          "unterzeile": "Boss-Zahlen und Orte stammen teils aus Beta-Daten",
+          "text": "Barrow Deeps ist ein 10er-Raid, Hyjal Summit ein 20er, dazu kommt Onyxia's Lair. Laut Icy Veins hat Hyjal Summit 13 Bosse und liegt bei Nordrassil. Für Barrow Deeps nennt allthings.how acht Bosse, die Quellen nennen aber unterschiedliche Orte. Das Warcraft Wiki führt Sonya Darkhallow als Endboss von Barrow Deeps. Boss-für-Boss-Loottabellen sind noch nicht veröffentlicht.",
+          "quellen": [
+            {
+              "name": "Method: Barrow Deeps, Hyjal Summit und Onyxia's Lair",
+              "url": "https://www.method.gg/wow-forever/wow-forever-raids-a-look-at-barrow-deeps-hyjal-summit-and-onyxias-lair"
+            },
+            {
+              "name": "Icy Veins: Raid Overview",
+              "url": "https://www.icy-veins.com/wow-forever/raid-overview"
+            },
+            {
+              "name": "Warcraft Wiki: Barrow Deeps",
+              "url": "https://warcraft.wiki.gg/wiki/Barrow_Deeps_(instance)"
+            }
+          ]
+        },
+        {
+          "titel": "Tier-Sets: Teile gedroppt, vier Slots craftbar",
+          "unterzeile": "Wowhead zeigt die Itemization der gecrafteten Sets",
+          "text": "Jede Klasse bekommt ein Tier-Set mit sechs Teilen. Laut Wowhead lassen sich vier Slots craften, Kopf und Brust nicht. Die Boni enden bei fünf Teilen. Das Set verteilt sich auf Barrow Deeps, Hyjal Summit und Onyxia's Lair. Beim Item-Level der gecrafteten Teile widersprechen sich die Quellen: Wowhead nennt 60, andere Seiten 61. Datamining-Seiten melden zudem, dass die Set-Items noch nicht in den Spieldaten stehen.",
+          "quellen": [
+            {
+              "name": "Wowhead: Itemization der gecrafteten Tier-Sets",
+              "url": "https://www.wowhead.com/forever/news/itemization-of-crafted-tier-sets-revealed-in-wow-forevers-first-raid-tier-383946"
+            }
+          ]
+        },
+        {
+          "titel": "Warum BiS-Listen vorerst falsch liegen",
+          "unterzeile": "Blizzard versteckt Item-Stats bis zum ersten Loot",
+          "text": "Icy Veins weist darauf hin, dass Blizzard in Forever die Stats von Items vor allen verbirgt, auch vor Dataminern. Deshalb bleiben BiS-Listen unvollständig, bis Spieler die Beute selbst erhalten haben. Method berichtete zuvor über das Aus für PTRs und neue Datamining-Beschränkungen. Rechnet bei Raid-BiS also mit Überraschungen nach dem 9. Dezember.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Jede BiS-Liste ist vorerst falsch",
+              "url": "https://www.icy-veins.com/wow-forever/news/every-wow-forever-bis-list-is-wrong-for-now-heres-why/"
+            },
+            {
+              "name": "Method: Keine PTRs, neue Datamining-Beschränkungen",
+              "url": "https://www.method.gg/wow-forever/no-ptrs-and-new-datamining-restrictions-coming-to-world-of-warcraft-forever"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Alcaz-Prison-Quests: Wer wo startet",
+          "unterzeile": "Allianz und Horde beginnen vor dem Dungeon, die Level-Angaben schwanken",
+          "text": "Bei der Allianz starten Quests wie The Dragon's Journal bei Archmage Lan'dalock, The Secret Prison und A Bit of Wet Work bei Sully McCleary. Die Horde beginnt bei Sergeant Ulka, einem Level-55-Kor'kron-Elite vor dem Gefängnis. Im Dungeon beginnt The Man in the Iron Chains bei Mason Connery.\n\nZu den Level-Anforderungen widersprechen sich die Quellen: Sie reichen von Level 40 für die State-Secrets-Quests über 46 bis 48 bis zu Level 48 Minimum mit Quest-Level 53. Ein Guide warnt, The Questioner nicht zu töten, bevor man die Folgequest geholt hat, wenn man beide Quests will.",
+          "quellen": [
+            {
+              "name": "Method: Alcaz Prison, Quests",
+              "url": "https://www.method.gg/wow-forever/dungeons/alcaz-prison"
+            },
+            {
+              "name": "Icy Veins Datenbank: Alcaz-Prison-Quests",
+              "url": "https://db.icy-veins.com/wow-forever/quests/zones/alcaz-prison/"
+            }
+          ]
+        },
+        {
+          "titel": "Quest-Fixes vom 20. November: Yeti, Gor'marok und Dunston Willis",
+          "unterzeile": "Kleine Korrekturen in Feralas, Tanaris und Riverglades",
+          "text": "Laut Blizzards Hotfix-Liste droppt in Feralas der Perfect Yeti Hide wieder korrekt. In Tanaris respawnt Gor'marok schneller. In Riverglades läuft Dunston Willis nicht mehr mitten in der Quest davon. In den Hinterlands lässt Witch Doctor Ti'ik für Gruppen mehrere Köpfe fallen.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            }
+          ]
+        },
+        {
+          "titel": "Leveln lohnt sich: Dungeon-XP, Quest-Gold ab 48",
+          "unterzeile": "Zwei Änderungen aus der ersten Woche",
+          "text": "Blizzard hat die Erfahrung für Dungeon-Kills um 50 % erhöht und trivialen Gegnern die XP gestrichen. Die meisten Quests ab Level 48 geben zusätzlich Gold. Damit wird Leveln im Endspurt vor Stufe 60 merklich lohnender, ohne dass es einen XP-zu-Gold-Umtausch auf Level 60 gibt.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Gold-Wächter: Blizzard greift bei Exploits und Goldkäufern durch",
+          "unterzeile": "Ein Grind brachte Frühstartern tausende Gold, inzwischen ist er per Hotfix entschärft",
+          "text": "PC Gamer berichtete, dass ein inzwischen per Hotfix entschärfter Grind Spielern, die früh dabei waren, tausende Gold eingebracht hat. Blizzard hat laut Berichten Gold-Käufern mit aggressiven Strafen gedroht, bis hin zu dauerhaften Account-Sperren.\n\nGamesRadar zitiert Blizzard dazu, dass GDKP-Systeme in Forever nicht erlaubt sind und die Wirtschaft „sehr ernst“ genommen wird.\n\nWelche Strafen wann verhängt wurden, geht aus den Quellen nur zum Teil hervor. Manches ist als Warnung formuliert, anderes als bereits angewandt.",
+          "quellen": [
+            {
+              "name": "PC Gamer: Forever-Wirtschaft hat ein Problem",
+              "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-economy-has-a-problem-as-a-now-hotfixed-grind-rakes-in-thousands-of-gold-for-the-people-who-got-in-early/"
+            },
+            {
+              "name": "PC Gamer: Blizzard warnt Goldkäufer",
+              "url": "https://www.pcgamer.com/games/world-of-warcraft/blizzard-warns-world-of-warcraft-forever-players-it-will-very-aggressively-punish-anyone-who-buys-gold-with-real-money/"
+            },
+            {
+              "name": "GamesRadar: Kein GDKP in Forever",
+              "url": "https://www.gamesradar.com/games/world-of-warcraft/wow-forever-doesnt-allow-gdkp-blizzard-says-the-new-mmos-economy-is-something-were-taking-very-seriously/"
+            }
+          ]
+        },
+        {
+          "titel": "Auktionshaus: Änderungen kehrten nach Wartung zurück",
+          "unterzeile": "Blue-Tracker-Zusammenfassung zu AH und Wartung am 18. November",
+          "text": "Laut Zusammenfassung des Blue Trackers wurden Änderungen am Auktionshaus aus einem früheren Update zurückgenommen und sollten mit der regulären Wartung am 18. November wieder live gehen. Spieler meldeten zudem Probleme mit einer Auktionshaus-Hinterlegungsgebühr.",
+          "quellen": [
+            {
+              "name": "Blue Tracker: Hotfixes 20. November",
+              "url": "https://www.bluetracker.gg/wow/topic/eu-en/639885-wow-forever-hotfixes-november-20-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "Berufs-Fixes im Überblick: Tanning Rack, Blacksmithing, Cultivation",
+          "unterzeile": "Aus der Blizzard-Hotfix-Liste",
+          "text": "Das Tanning Rack verlangt nur noch Skill 125 (6. November). Beim Blacksmithing wurde das Rezept für Orcish War Leggings korrigiert, Bronze Mace ist Bind on Equip (17. November). Die Anbau-Mechanik (Cultivation) bekam Fixes für Tauren, Mageroyal und Purple Lotus (17. und 19. November). Die Taschen-Änderungen beim Tailoring stammen vom 11. November.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes",
+              "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315281"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Community: Rekorde, Gilden, Streamer, Server",
+      "artikel": [
+        {
+          "titel": "15 Millionen Charaktere und 1,5 Milliarden Quests",
+          "unterzeile": "Blizzards Zwei-Wochen-Zahlen zum Forever-Launch",
+          "text": "Laut Wowhead wurden in Forever über 15 Millionen Charaktere erstellt, und es wurden etwa 1,5 Milliarden Quests abgeschlossen. PC Gamer berichtet ebenfalls über die Marke von 15 Millionen. Die Zahl sagt nichts über aktive Spieler aus, da ein Account mehrere Charaktere anlegen kann.\n\nDie Meldung ist die offizielle Blizzard-Zahl in der Presse. Ältere Zahlen aus früheren Ausgaben des Forever-Boten bleiben davon unberührt.",
+          "quellen": [
+            {
+              "name": "Wowhead: Über 15 Millionen Charaktere",
+              "url": "https://www.wowhead.com/forever/news/wow-forever-continuing-to-break-records-with-over-15-million-characters-created-383912"
+            },
+            {
+              "name": "PC Gamer: 15 Millionen Charaktere",
+              "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-is-huge-players-have-created-over-15-million-characters-so-far/"
+            }
+          ]
+        },
+        {
+          "titel": "Größter WoW-Launch aller Zeiten, aber ohne Zahl",
+          "unterzeile": "Blizzard nennt den Rekord, nennt aber keine Spielerzahl",
+          "text": "Blizzard erklärte über den Warcraft-Account, Forever sei nach Peak-Spielern der größte Launch der WoW-Geschichte und liege vor Wrath of the Lich King. Eine Zahl nannte Blizzard nicht, frühere Launches wurden nie mit Peak-Zahlen veröffentlicht, ein Vergleich ist daher nicht prüfbar. Streams Charts meldete rund 1,12 Millionen Peak-Zuschauer auf Twitch, das sind Zuschauer und keine Spieler.",
+          "quellen": [
+            {
+              "name": "Windows Central: Größter Launch in WoW-Geschichte",
+              "url": "https://www.windowscentral.com/gaming/blizzard/blizzard-confirms-world-of-warcraft-forever-is-the-biggest-launch-in-wow-history-beating-wrath-of-the-lich-king-is-wow-retail-cooked"
+            },
+            {
+              "name": "TechPowerUp: Rekord bei Peak Concurrent Players",
+              "url": "https://www.techpowerup.com/354583/wow-forever-sets-a-new-franchise-record-for-peak-concurrent-players"
+            }
+          ]
+        },
+        {
+          "titel": "Race to 60: Die Tracker sind sich nicht einig",
+          "unterzeile": "Offizielles Ergebnis gibt es nicht",
+          "text": "Mehrere Tracker sehen den Paladin Cloud Bells (EU, Normal) am 7. November um 3:09 UTC als ersten Charakter auf Level 60. Der Tracker aotc.gg führt dagegen den Hunter Ksuper Worldfirst vorn, der am 7. November um 14:31 UTC Level 60 erreichte. Blizzard hat keinen Sieger bestätigt. Es handelt sich um Community-Tracker, nicht um ein offizielles Ergebnis.",
+          "quellen": [
+            {
+              "name": "AOTC.gg: First to 60",
+              "url": "https://www.aotc.gg/forever/first-to-60"
+            },
+            {
+              "name": "worldfirst60.com: Final Standings",
+              "url": "https://worldfirst60.com/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Ta'shkal zähmen: Figurine, Laterne, Tame Beast",
+          "unterzeile": "So kommt ihr an die geheime Katze mit der 1.0-Angriffsgeschwindigkeit",
+          "text": "Ta'shkal ist ein geheimes Hunter-Pet im Mount Hyjal. Zuerst braucht ihr die Corrupted Cat Figurine, die laut Spielerberichten unter der Oberfläche der grünen Fel-Pools bei etwa 47, 75 liegt. Sie ist Bind on Pickup, sammelt sie also mit dem Hunter, der zähmen soll.\n\nDann geht ihr mit der Figurine in den Taschen zur Lonely Lantern bei etwa 26, 65 über Mourning's Rest und klickt sie an. Ta'shkal erscheint sofort, bereitet also Freezing Trap vor und nutzt dann Tame Beast. Ihr braucht laut Wowhead und mehreren Guides Level 58, einige Hunter melden 57. Koordinaten stammen aus der Community, bestätigt sie vorher im Spiel.",
+          "quellen": [
+            {
+              "name": "Wowhead: Secret Hunter Pet",
+              "url": "https://www.wowhead.com/forever/news/tame-a-secret-hunter-pet-in-wow-forever-383902"
+            },
+            {
+              "name": "wow.gg: Ta'shkal",
+              "url": "https://wow.gg/guides/wow-forever-tashkal-hunter-pet"
+            },
+            {
+              "name": "GameLeap: How to Tame Ta'shkal",
+              "url": "https://www.gameleap.com/articles/wow-forever-how-to-tame-tashkal-secret-hunter-pet"
+            }
+          ]
+        },
+        {
+          "titel": "Honor und Ränge: So funktioniert PvP-Progression",
+          "unterzeile": "Rank Points, Wochenlimit und zwei Gear-Sets",
+          "text": "Rank Points gibt es aus Battlegrounds und PvP-Quests, die Ränge haben ein Wochenlimit. Laut Guides läuft die Leiter über 14 Ränge bis Grand Marshal (Allianz) oder High Warlord (Horde). Honor kauft zwei PvP-Sets, ein blaues und ein episches. Blizzard hat laut einem Guide den Honor-Vorteil von Alterac Valley gesenkt, damit niemand nur dort farmt. Warteschlangen funktionieren laut Icy Veins über Rulesets hinweg.",
+          "quellen": [
+            {
+              "name": "Icy Veins: PvP Overview",
+              "url": "https://www.icy-veins.com/wow-forever/pvp-overview"
+            },
+            {
+              "name": "Warcraft Tavern: PvP-Progression",
+              "url": "https://www.warcrafttavern.com/forever/news/pvp-progression-in-wow-forever-ranks-honor-seasons/"
+            }
+          ]
+        },
+        {
+          "titel": "Itemization-Tipp: Gear pro Biome planen",
+          "unterzeile": "Blizzard will, dass nicht ein Item pro Slot alles dominiert",
+          "text": "Laut Warcraft Tavern sollen mehr Items mit besonderen Effekten gegen bestimmte Kreaturen oder in bestimmten Biomen kommen. Raids bestehen aus mehreren Biomen und Boss-Typen, wer min-maxen will, braucht also unterschiedliche Ausrüstung je Boss. Das heißt mehr Items im Gepäck. Blizzard plant dafür größere Taschen und bessere Sortierung. Tipp: Hebt Alternativ-Gear erst einmal auf, bevor ihr es verkauft.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern: Raid-Itemization in WoW Forever",
+              "url": "https://www.warcrafttavern.com/forever/news/i-essentially-want-to-get-rid-of-bis-raid-itemization-in-wow-forever/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen, Interviews, Entwickler-Aussagen",
+      "artikel": [
+        {
+          "titel": "Ion und Holly im Interview: Addons bleiben, Steam nicht geplant",
+          "unterzeile": "Aus dem BlizzCon-2026-Interview von Warcraft Tavern",
+          "text": "Ion sagt, Blizzard entferne keine Addons, Millionen Spieler nutzten sie weiterhin. Die Änderungen sollten Addons beschneiden, die Wettbewerbsvorteile bringen. Holly räumt ein, man hätte das besser kommunizieren können. Interrupt-Tracker könnten weiter eingeschränkt werden, Audio-Cues für Barrierefreiheit werden ausdrücklich unterstützt.\n\nZu Forever sagt Ion, es sei ein „excellent starting point“ für Neulinge. Forever ist im selben Abo wie das moderne WoW enthalten. Einen Steam-Release plant Blizzard nach Ions Worten nicht, weil Battle.net bei einem Abo-Modell „a better fit“ sei. Gestaffelte regionale Patch-Rollouts sollen bleiben.\n\nDas Interview stammt vom BlizzCon 2026, spätere Entwicklungen sind darin nicht abgebildet.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern: Ion- und Holly-Interview, BlizzCon 2026",
+              "url": "https://www.warcrafttavern.com/forever/news/ion-holly-interview-blizzcon-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "Kein XP-zu-Gold auf Level 60: Warum Blizzard darauf verzichtet",
+          "unterzeile": "Entwickler-Antwort aus den Foren",
+          "text": "Laut Zusammenfassung des Blue Trackers erklärten die Entwickler, dass Forever die Umwandlung von Quest-XP in Gold auf Level 60 aus dem Original-WoW auslässt. Sie fanden es unpassend, dass Spieler Quests horten und später gegen viel Gold einlösen müssten. Wer auf 60 ist, sammelt also keine Erfahrung mehr zum Umwandeln.",
+          "quellen": [
+            {
+              "name": "Blue Tracker: Hotfixes 20. November",
+              "url": "https://www.bluetracker.gg/wow/topic/eu-en/639885-wow-forever-hotfixes-november-20-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "Wirtschaft im Blick: Blizzard beobachtet Goldquellen",
+          "unterzeile": "Laut Zockify prüfen die Entwickler Quellen und Kosten",
+          "text": "Laut Zockify sagten die Entwickler, sie beobachteten die Spielwirtschaft genau, damit Goldquellen und Kosten ausgewogen sind. Das passt zu den Hotfixes gegen den Gold-Grind und zu den Aussagen zu GDKP und Goldkäufen. Details zu einer geplanten Anpassung nannten die Quellen nicht.",
+          "quellen": [
+            {
+              "name": "Zockify: WoW Forever News",
+              "url": "https://www.zockify.com/forever/news/"
+            },
+            {
+              "name": "GamesRadar: GDKP und Wirtschaft",
+              "url": "https://www.gamesradar.com/games/world-of-warcraft/wow-forever-doesnt-allow-gdkp-blizzard-says-the-new-mmos-economy-is-something-were-taking-very-seriously/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Heute: Stranglethorn Fishing Extravaganza",
+          "unterzeile": "Sonntag, 14 Uhr Serverzeit, Abgabe in Booty Bay",
+          "text": "Das Angelturnier findet jeden Sonntag ab 14 Uhr Serverzeit in Stranglethorn Vale statt. Ihr liefert 40 Speckled Tastyfish bei Riggle Bassbait in Booty Bay ab. Laut Method gibt es als Preise den Titel Master Angler, eine Arcanite Fishing Pole und eine Extravagant Extravaganza Coin. Zur Zahl der Gewinner widersprechen sich die Quellen: Eine nennt 250 pro Ruleset, eine andere keine Zahl.",
+          "quellen": [
+            {
+              "name": "Method: Stranglethorn Fishing Extravaganza",
+              "url": "https://www.method.gg/wow-forever/stranglethorn-fishing-extravaganza-in-wow-forever-what-it-is-how-to-win"
+            }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire: Mulgore im Dezember, danach Elwynn",
+          "unterzeile": "Die Quellen unterscheiden sich um einen Tag",
+          "text": "Der Darkmoon Faire steht laut Wowhead-Guide und Playnews im Dezember in Mulgore am Fuß von Thunder Bluff. Der Zeitraum wird mit 7. bis 13. Dezember angegeben, eine Seite nennt den Start schon am 6. Dezember. Danach folgt laut einer Quelle der Elwynn Forest vom 4. bis 10. Januar 2027.",
+          "quellen": [
+            {
+              "name": "Wowhead: Darkmoon Faire Guide",
+              "url": "https://www.wowhead.com/forever/guide/darkmoon-faire-event-overview-guide"
+            },
+            {
+              "name": "Playnews: Darkmoon Faire in Mulgore",
+              "url": "https://www.playnews.gg/en/updates/wow-forever-where-is-the-darkmoon-faire-and-when-does-it-move-to-mulgore"
+            }
+          ]
+        },
+        {
+          "titel": "Countdown: 17 Tage bis zum Raid-Start, Hardcore im Winter",
+          "unterzeile": "9. Dezember: Barrow Deeps, Hyjal Summit und Onyxia's Lair",
+          "text": "Die ersten Raids öffnen am 9. Dezember. Hardcore ist laut BlizzCon-Aussagen für den Winter angekündigt, ein Datum nennt Blizzard nicht. PC Gamer weist darauf hin, dass Inhalt und Zeitplan der Roadmap unter Vorbehalt stehen.",
+          "quellen": [
+            {
+              "name": "Zockify: WoW Forever Roadmap",
+              "url": "https://www.zockify.com/forever/roadmap/"
+            },
+            {
+              "name": "PC Gamer: Hardcore bis Winter",
+              "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-will-get-a-hardcore-mode-by-winter-say-devs-whichll-be-interesting-given-all-the-new-and-undiscovered-ways-to-die/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "So 22. Nov, 14 Uhr Serverzeit: Stranglethorn Fishing Extravaganza",
+          "7. bis 13. Dez: Darkmoon Faire in Mulgore (eine Quelle nennt den 6. Dez als Start)",
+          "9. Dez: Barrow Deeps, Hyjal Summit, Onyxia's Lair",
+          "15. Dez bis 2. Jan: Feast of Winter Veil (laut Fan-Kalender, Blizzard hat keinen vollständigen Plan veröffentlicht)"
+        ],
+        "quellen": [
+          {
+            "name": "Wowcalc: Forever-Kalender (Fan-Seite)",
+            "url": "https://wowcalc.net/en/forever/wiki/calendar"
+          },
+          {
+            "name": "Zockify: Roadmap",
+            "url": "https://www.zockify.com/forever/roadmap/"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Addons nach dem Hotfix prüfen",
+    "text": "Nach Änderungen an den Realm-Abfragen lohnt ein kurzer Check: Starte das Spiel, öffne die Addon-Liste und achte auf Fehlermeldungen. Aktualisiere Addons, die oft Updates bekommen, und deaktiviere testweise Layer-Tools, wenn sich etwas seltsam verhält. Sichere vorher dein Interface- und WTF-Verzeichnis, dann kannst du bei Problemen schnell zurück."
+  }
+}
