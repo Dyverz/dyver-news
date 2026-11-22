@@ -1,0 +1,491 @@
+{
+  "gruss": "Guten Morgen, Tim! Es ist Sonntag, der 22. November. Morgen startet die Bundestagswoche, in Mülheim rollen die Baustellenbagger an, und GTA 6 hat gerade alle Rekorde gesprengt. Kaffee holen, los geht's.",
+  "aufmacher": {
+    "rubrik": "Politik & Pflege",
+    "titel": "Haushalt und Pflegereform: Eine Woche voller Entscheidungen im Bundestag",
+    "unterzeile": "Ab Montag ist Sitzungswoche: Haushalt 2027 in der 2. Beratung, Mittwoch Anhörung zur Pflegereform",
+    "text": "Der Bundestag tagt vom 23. bis 27. November. Auf dem Ablaufplan für Dienstag steht laut Bundestag die 2. Beratung des Haushaltsgesetzes 2027. Der Haushaltsausschuss hatte den Etat am 13. November beschlossen. Schon am Montag gibt es zwei öffentliche Anhörungen: um 11 Uhr im Verkehrsausschuss zur Finanzierung der Infrastrukturgesellschaft und um 14 Uhr im Innenausschuss zum KI-Migrationsverwaltungsgesetz.\n\nFür dich als Pflege-Beobachter der wichtigste Termin: Am Mittwoch, 25. November, von 15 bis 17:15 Uhr hört der Gesundheitsausschuss Sachverständige zum Pflegeneuordnungsgesetz (BT-Drucksache 21/8869) an. Dazu liegen mehrere Oppositionsanträge von AfD, Grünen und Linken vor. Die Sitzung ist öffentlich. Gesundheitsministerin Warken bezifferte den Fehlbetrag der Pflegeversicherung für 2027 laut Ärzteblatt auf sechs Milliarden Euro.\n\nWas die Pflegereform im Detail bedeutet und wer was kritisiert, findest du auf den Seiten 6 und 7. Die Haushaltsthemen für Verbraucher stehen auf Seite 4 und 5.",
+    "quellen": [
+      { "name": "Bundestag: Öffentliche Anhörungen KW 48", "url": "https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261116-oea-kw48-1233408" },
+      { "name": "Bundestag: Anhörung Pflegeneuordnungsgesetz", "url": "https://www.bundestag.de/ausschuesse/gesundheit/anhoerungen/1232420-1232420" },
+      { "name": "Bundestag: Ablaufplan der Plenarsitzungen", "url": "https://www.bundestag.de/resource/blob/189966/Ablaufplan.pdf" },
+      { "name": "Ärzteblatt: Pflegereform, Kritik von allen Seiten", "url": "https://www.aerzteblatt.de/news/pflegereform-kritik-von-allen-seiten-warken-verteidigt-plane-dce90b3d-a969-4d9f-a23d-f7af9517d85d" }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Mülheim an der Ruhr",
+      "artikel": [
+        {
+          "titel": "Baustellenwoche: Walkmühlenstraße, Velauer Straße und Veilchenweg",
+          "unterzeile": "Ab Montag wird an mehreren Stellen gesperrt, die Ruhrbahn fährt Umwege",
+          "text": "Auf der Walkmühlenstraße zwischen der Brücke B1 und der Essener Straße läuft die Instandsetzung der Fahrbahndecke. Nach den Vorarbeiten bis 22. November folgen laut Stadt vom 23. bis 27. November das Fräsen und der Asphalteinbau. Dabei wird die Einbahnregelung aufgehoben, und zwischen Essener und Tilsiter Straße ist die Straße für das Fräsen voll gesperrt.\n\nDie Ruhrbahn meldet dazu Umleitungen: Die Linie 151 ist vom 23. bis 27. November wegen der Arbeiten in der Walkmühlenstraße betroffen (Haltestellen Fischenbeck, Fünter Weg, Walkmühle). Die Linie 129 fährt vom 23. November bis 7. Dezember wegen der Bauarbeiten in Hatzper und Velauer Straße einen anderen Weg. Die Velauer Straße selbst ist laut Radio Mülheim ab 23. November etwa zwei Wochen voll gesperrt, weil die RWW Hausanschlüsse und Straßenkappen bearbeitet. Die Linie 134 muss wegen der Vollsperrung des Veilchenwegs noch bis 29. November umfahren.\n\nTipp: Vor der Fahrt kurz auf die Verkehrsinfo der Ruhrbahn schauen, die Liste ist lang.",
+          "quellen": [
+            { "name": "Stadt Mülheim: Walkmühlenstraße", "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/zwischen-bruecke-b1-und-essener-strasse-instandsetzung-der" },
+            { "name": "Ruhrbahn: Verkehrsinfo Mülheim", "url": "https://www.ruhrbahn.de/muelheim/aktuelles/verkehrsinfo" },
+            { "name": "Radio Mülheim: Nachrichten", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" }
+          ]
+        },
+        {
+          "titel": "Lidl an der Essener Straße eröffnet nach Umbau neu",
+          "unterzeile": "Fast sieben Monate Renovierung, 336 Quadratmeter mehr Verkaufsfläche",
+          "text": "Der Lidl an der Essener Straße macht nach knapp sieben Monaten Umbau wieder auf. Die Verkaufsfläche wächst um 336 Quadratmeter auf rund 1.325 Quadratmeter. Radio Mülheim nennt als Termin den 26. November, schreibt dazu aber „Mittwoch“. Das passt nicht zusammen, schau also kurz vor dem Einkauf nach.",
+          "quellen": [
+            { "name": "Radio Mülheim: Nachrichten", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" }
+          ]
+        },
+        {
+          "titel": "Hans-Böckler-Platz: Polizei stoppt mutmaßliche Drogenhändler",
+          "unterzeile": "Vier Festnahmen nach Beobachtung durch Zivilkräfte",
+          "text": "Die Polizei hat am Hans-Böckler-Platz in der Innenstadt vier mutmaßliche Drogenhändler festgenommen. Zivilbeamte hatten die Männer zuvor eine Zeit lang beobachtet. Ein genaues Datum nennt Radio Mülheim in der Meldung nicht.",
+          "quellen": [
+            { "name": "Radio Mülheim: Nachrichten", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" }
+          ]
+        },
+        {
+          "titel": "Winterdienst: Die MEG ist bereit",
+          "unterzeile": "16 Fahrzeuge, 2.500 Tonnen Salz, Abfallkalender 2027 schon da",
+          "text": "Der Winterdienst der MEG ist gestartet. Zur Verfügung stehen 16 Fahrzeuge und 2.500 Tonnen Streusalz, vorsorglich waren die Streufahrzeuge schon am Wochenende davor unterwegs. Passend dazu: Den Abfallkalender 2027 gibt die MEG in diesem Jahr früher aus, schon seit Mitte November. Wie glatt es werden kann, zeigte der 8. November: Laut Polizei Düsseldorf gab es auf der A 52 an der Ruhrtalbrücke bei Mülheim fünf Unfälle durch Glätte, drei Menschen wurden leicht verletzt.",
+          "quellen": [
+            { "name": "Radio Mülheim: Nachrichten", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" },
+            { "name": "Presseportal: Polizei Düsseldorf zur A 52", "url": "https://www.presseportal.de/blaulicht/pm/13248/6386208" }
+          ]
+        },
+        {
+          "titel": "Notfallseelsorge sucht Verstärkung",
+          "unterzeile": "Infoabende in Mülheim, Essen und Oberhausen",
+          "text": "Die Notfallseelsorge für Mülheim, Oberhausen und Essen wirbt um neue Ehrenamtliche. Der erste Infoabend fand an der Feuerwache Heißen statt, weitere Termine gibt es am 24. November in Essen und am 2. Dezember in Oberhausen.",
+          "quellen": [
+            { "name": "Radio Mülheim: Nachrichten", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Ruhrbahn schickt drei Weihnachtsbahnen durch Mülheim und Essen, eine mehr als im Vorjahr, bis Ende Dezember.",
+          "Drei Mülheimer Metzgereien stehen im „Feinschmecker“-Ranking der 500 besten Metzgereien Deutschlands.",
+          "Die Stadt fördert 2027 wieder Besuche zwischen Gruppen aus Mülheim und den Partnerstädten.",
+          "Vorverkauf für die medl „Nacht der Sieger“ am 13. März läuft, früh buchen ist günstiger."
+        ],
+        "quellen": [
+          { "name": "Radio Mülheim: Nachrichten", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim & Ruhrgebiet",
+      "artikel": [
+        {
+          "titel": "Grundsteuer: Essen senkt, Mülheim bleibt bei 990 Prozent",
+          "unterzeile": "Im Zehnjahresvergleich hat Mülheim den zweithöchsten Anstieg im Revier",
+          "text": "Der Essener Rat hat am 18. November beschlossen, den Hebesatz der Grundsteuer B zum 1. Januar 2027 von 925 auf 897 Prozent zu senken. Das spart bei 1.000 Euro Grundsteuer rund 30 Euro im Jahr. Mülheim lag laut dem Vergleich von Lokalklick 2026 bei 990 Prozent, 2016 waren es 640 Prozent. Das ist ein Plus von 54,7 Prozent, nur in Gelsenkirchen stieg der Satz stärker (+79,8 Prozent auf 980 Prozent). Duisburg liegt bei 1.169, Oberhausen bei 922, Dortmund bei 800 Prozent. Wichtig: Wegen der Grundsteuerreform heißt ein höherer Hebesatz nicht automatisch mehr Steuer für jeden Eigentümer. Die Steuer ist aber umlagefähig, Mieter können also betroffen sein.",
+          "quellen": [
+            { "name": "Lokalklick: Grundsteuer Essen 2027", "url": "https://lokalklick.eu/2026/11/22/grundsteuer-essen-2027-anstieg-im-ruhrgebietsvergleich" }
+          ]
+        },
+        {
+          "titel": "Bahn: RE 2 fällt zwischen Essen und Düsseldorf bis 12. Dezember aus",
+          "unterzeile": "Auch die RB 50 hatte in der Nacht zu Samstag einen Totalausfall",
+          "text": "Pendler im Revier brauchen Geduld: Laut der NRW-Zuginfo fallen die Züge der Linie RE 2 noch bis zum 12. Dezember zwischen Essen Hbf und Düsseldorf Hbf aus. In der Nacht zum 21. November fiel die RB 50 wegen eines kurzfristigen Personalausfalls auf dem gesamten Laufweg aus. Am Duisburger Hauptbahnhof gab es außerdem Beeinträchtigungen durch eine Weichenreparatur. Aktuelle Infos gibt es auf zuginfo.nrw.",
+          "quellen": [
+            { "name": "zuginfo.nrw", "url": "https://www.zuginfo.nrw/" },
+            { "name": "mobil.nrw: SPNV-Meldungen", "url": "https://www.mobil.nrw/spnv-meldungen.html" }
+          ]
+        },
+        {
+          "titel": "Weihnachtsmärkte: Wo diese und nächste Woche geöffnet ist",
+          "unterzeile": "Nächstes Wochenende starten weitere Märkte, die Schiffsweihnacht läuft bis 29. November",
+          "text": "Laut einer Übersicht von Weihnachtsmarkt-Portalen laufen am Wochenende 21./22. November unter anderem Herne, Essen, Moers und Bottrop. Bochum, Dortmund und Recklinghausen sollen in der folgenden Woche starten. In Gelsenkirchen öffnet am 28. November der Schalker Weihnachtsmarkt (Grilloplatz, 15 bis 20 Uhr), am 29. November der Horster Markt (11 bis 18 Uhr, mit verkaufsoffenem Sonntag). Die Mülheimer Schiffsweihnacht an der Schleuseninsel läuft vom 20. bis 29. November. Die Angaben stammen von Aggregator-Seiten, Öffnungszeiten bitte vor dem Besuch prüfen.",
+          "quellen": [
+            { "name": "Ruhr Nachrichten: Weihnachtsmärkte NRW 2026", "url": "https://www.ruhrnachrichten.de/regionales/weihnachtsmaerkte-nrw-2026-termine-bochum-dortmund-herne-koeln-dom-schloss-solingen-wochenende-w1098331-2001872191/" },
+            { "name": "Ruhr-Guide: Gelsenkirchen", "url": "https://www.ruhr-guide.de/veranstaltung/weihnachtliche-vorfreude-in-gelsenkirchen-maerkte-konzerte-und-winterfeste-laden-zum-adventszauber-ein/" },
+            { "name": "alle-weihnachtsmaerkte.de: Ruhrgebiet", "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/ruhrgebiet/" }
+          ]
+        },
+        {
+          "titel": "Polizei im Revier: Handy-Diebstahl in Steele, Raub in Duisburg",
+          "unterzeile": "Fotofahndung in Essen, zwei Tatverdächtige in Duisburg",
+          "text": "Die Polizei Essen fahndet mit Fotos nach einem Mann, der in Steele Mobiltelefone aus einem Telekommunikationsgeschäft gestohlen haben soll. In Duisburg wurde laut Polizei und Staatsanwaltschaft ein Mann am Samstagmorgen mit schweren Kopfverletzungen im Hausflur eines Mehrfamilienhauses gefunden und beraubt. Die Ermittler nahmen zwei Tatverdächtige im Alter von 19 und 21 Jahren ins Visier.",
+          "quellen": [
+            { "name": "Presseportal: Polizei Essen", "url": "https://www.presseportal.de/blaulicht/nr/11562" },
+            { "name": "meinestadt.de: Duisburg aktuell", "url": "https://aktuell.meinestadt.de/duisburg" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine der Woche",
+        "punkte": [
+          "23.–27.11.: Walkmühlenstraße, Fräsen und Asphalt, Linie 151 fährt Umweg",
+          "bis 29.11.: Mülheimer Schiffsweihnacht, Schleuseninsel (Eintritt frei)",
+          "bis 29.11.: Veilchenweg gesperrt, Linie 134 mit Umleitung",
+          "24.11.: Infoabend Notfallseelsorge in Essen",
+          "26.11.: Neueröffnung Lidl Essener Straße (Datum laut Radio Mülheim, bitte prüfen)",
+          "28.11., 15–20 Uhr: Schalker Weihnachtsmarkt, Gelsenkirchen",
+          "29.11., 11–18 Uhr: Horster Weihnachtsmarkt mit verkaufsoffenem Sonntag",
+          "2.12.: Infoabend Notfallseelsorge in Oberhausen"
+        ],
+        "quellen": [
+          { "name": "Radio Mülheim: Nachrichten", "url": "https://www.radiomuelheim.de/nachrichten/nachrichten-aus-muelheim" },
+          { "name": "Ruhrbahn: Verkehrsinfo Mülheim", "url": "https://www.ruhrbahn.de/muelheim/aktuelles/verkehrsinfo" },
+          { "name": "Ruhr-Guide: Gelsenkirchen", "url": "https://www.ruhr-guide.de/veranstaltung/weihnachtliche-vorfreude-in-gelsenkirchen-maerkte-konzerte-und-winterfeste-laden-zum-adventszauber-ein/" }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Politik",
+      "artikel": [
+        {
+          "titel": "Bundestagswoche: Haushalt 2027, Infrastrukturgesellschaft, KI in der Migrationsverwaltung",
+          "unterzeile": "Was ab Montag im Parlament ansteht",
+          "text": "Die Sitzungswoche läuft vom 23. bis 27. November. Montag um 11 Uhr befasst sich der Verkehrsausschuss in einer öffentlichen Anhörung mit der Finanzierung der Infrastrukturgesellschaft, um 14 Uhr der Innenausschuss mit dem KI-Migrationsverwaltungsgesetz. Im Plenum steht am Dienstag laut Ablaufplan vom 13. November unter anderem die 2. Beratung des Haushaltsgesetzes 2027. Regierungsbefragung, Fragestunde und Aktuelle Stunde sind an diesem Tag nicht vorgesehen. Am Mittwoch folgt die Anhörung zur Pflegereform. Der Haushaltsausschuss hatte den Etat am 13. November beschlossen.",
+          "quellen": [
+            { "name": "Bundestag: Öffentliche Anhörungen KW 48", "url": "https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261116-oea-kw48-1233408" },
+            { "name": "Bundestag: Ablaufplan", "url": "https://www.bundestag.de/resource/blob/189966/Ablaufplan.pdf" }
+          ]
+        },
+        {
+          "titel": "Haushalt 2027: Regelsatz bleibt bei 563 Euro, Wohngeld-Kürzung vom Tisch",
+          "unterzeile": "Aber: Die Wohngelderhöhung im Januar fällt aus",
+          "text": "Laut einer Zusammenfassung von gegen-hartz.de (Stand 21. November) bleibt der Regelsatz für Alleinstehende bei 563 Euro, eine Anpassung ist erst zum 1. Juli 2028 geplant. Die zunächst geplanten Kürzungen beim Wohngeld wurden zurückgenommen, rund 1,3 Millionen Haushalte sind davon betroffen. Die reguläre Erhöhung zum Januar 2027 entfällt aber. Der Kindersofortzuschlag von 25 Euro bleibt für die meisten Kinder, nicht aber für Kinder mit Asylbewerberleistungen. Alle Maßnahmen brauchen noch die Zustimmung des Parlaments. Die Quelle ist ein Sozialrechtsportal, die Details lohnen sich also zu prüfen, sobald die Gesetzestexte vorliegen.",
+          "quellen": [
+            { "name": "gegen-hartz.de: Kürzungen zunächst vom Tisch", "url": "https://www.gegen-hartz.de/news/krzungen-zunchst-vom-tisch-wohngeld-bezieher-familien-und-alleinerziehende-knnen-vorerst-aufatmen" }
+          ]
+        },
+        {
+          "titel": "Elterngeld-Reform: Das 4+6+4-Modell",
+          "unterzeile": "Kabinett hat am 12. November beschlossen, Start 1. November 2027",
+          "text": "Das Kabinett hat laut gegen-hartz.de am 12. November eine Elterngeld-Reform beschlossen, die zum 1. November 2027 starten soll. Vier Monate sind je einem Elternteil vorbehalten, sechs Monate teilen sich beide. In den reservierten Monaten gibt es 80 Prozent Ersatzrate, sonst 50 Prozent. Der Mindestbetrag steigt von 300 auf 330 Euro, der Höchstbetrag von 1.800 auf 1.900 Euro. Den Partnerschaftsbonus soll es nicht mehr geben. Auch hier muss das Parlament noch zustimmen.",
+          "quellen": [
+            { "name": "gegen-hartz.de: Sozialleistungen 2027", "url": "https://www.gegen-hartz.de/news/krzungen-zunchst-vom-tisch-wohngeld-bezieher-familien-und-alleinerziehende-knnen-vorerst-aufatmen" }
+          ]
+        },
+        {
+          "titel": "Ukraine: Abu-Dhabi-Gespräche, aber nichts Neues zum Wochenende",
+          "unterzeile": "Dritte Dreierrunde begann am 10. November",
+          "text": "Die dritte Runde der Dreiergespräche zwischen den USA, der Ukraine und Russland begann laut Wikipedia am 10. November in Abu Dhabi. Die Bundesregierung sprach in der Regierungspressekonferenz vom 11. November von einer Verständigung auf Grundzüge. Zuerst solle über Frieden in der Ukraine gesprochen werden, danach über die Sicherheitsordnung in Europa, der Kern der Verhandlungen müsse zwischen der Ukraine und Russland stattfinden. Für das Wochenende 21./22. November fand die Redaktion keine belastbare neue Meldung.",
+          "quellen": [
+            { "name": "Bundesregierung: Regierungspressekonferenz 11.11.2026", "url": "https://www.bundesregierung.de/breg-de/aktuelles/regierungspressekonferenz-vom-11-november-2026-2460578" },
+            { "name": "Wikipedia: Abu-Dhabi-Treffen 2026", "url": "https://en.wikipedia.org/wiki/2026_United_States%E2%80%93Ukraine%E2%80%93Russia_meetings_in_Abu_Dhabi" }
+          ]
+        },
+        {
+          "titel": "Killer-Roboter: UN-Konferenz endet ohne Verbot",
+          "unterzeile": "Nur ein Mandat, in zwei Jahren neue Regeln zu entwickeln",
+          "text": "Die siebte Überprüfungskonferenz der UN-Waffenkonvention CCW in Genf endete am Samstag mit einem Minimalkompromiss der 128 Vertragsstaaten: Es gibt kein Mandat für ein verbindliches Verbot vollautonomer Waffen, nur die Zusage, binnen zwei Jahren neue Regeln zu entwickeln. 98 Staaten hatten verbindliche Grenzen gefordert. Russland lehnte verbindliche Regeln ab, auch USA, Großbritannien, Israel und Belarus äußerten Vorbehalte. Die Bundesregierung hatte ein Verbot befürwortet, zeigte sich aber flexibel, um den Konsens nicht zu gefährden.",
+          "quellen": [
+            { "name": "heise online: UN-Konferenz ohne Mandat", "url": "https://www.heise.de/news/Killer-Roboter-UN-Konferenz-endet-ohne-Mandat-fuer-verbindliches-Verbot-11533596.html" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Bundestag: die Termine",
+        "punkte": [
+          "Mo 23.11., 11 Uhr: Anhörung Finanzierung der Infrastrukturgesellschaft",
+          "Mo 23.11., 14 Uhr: Anhörung KI-Migrationsverwaltungsgesetz",
+          "Di 24.11.: Plenum, u.a. Haushaltsgesetz 2027 (2. Beratung)",
+          "Mi 25.11., 15 Uhr: Anhörung Pflegeneuordnungsgesetz"
+        ],
+        "quellen": [
+          { "name": "Bundestag: Öffentliche Anhörungen KW 48", "url": "https://www.bundestag.de/presse/pressemitteilungen/2026/pm-261116-oea-kw48-1233408" }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Wirtschaft, Gesellschaft, Verbraucher",
+      "artikel": [
+        {
+          "titel": "Deutschlandticket: 66,80 Euro ab 1. Januar",
+          "unterzeile": "Bis Jahresende gelten noch 63 Euro",
+          "text": "Das Deutschlandticket kostet ab dem 1. Januar 2027 66,80 Euro im Monat, bis zum 31. Dezember sind es 63 Euro. Laut VDV wurde der Preis erstmals mit einem gemeinsam von Branche und Ländern entwickelten Preisindex festgelegt, beschlossen hat ihn der Koordinierungsrat Deutschlandticket. Für Abo-Kunden der Bahn gibt es laut Bahn-Hinweisen eine Rückmeldefrist im November, sonst endet das Abo zum Jahresende. Die genaue Frist stand in den Quellen nicht eindeutig, schau also in deine Abo-Mail oder ins Kundenkonto.",
+          "quellen": [
+            { "name": "Deutsche Bahn: Neuer Preis ab 1.1.2027", "url": "https://www.bahn.de/faq/deutschlandticket-neuer-preis" },
+            { "name": "VDV: Deutschland-Ticket", "url": "https://www.vdv.de/deutschlandticket.aspx" }
+          ]
+        },
+        {
+          "titel": "Fachkräfte: 157 Mangelberufe, Pflege hängt zunehmend an ausländischen Beschäftigten",
+          "unterzeile": "Bericht zu Arbeitsmarktdaten der Bundesagentur und des IW",
+          "text": "Die Bundesagentur für Arbeit zählte 2025 laut Berliner Zeitung 157 Berufe mit Fachkräfteengpässen, in denen rund 8,8 Millionen Menschen arbeiten. Das Institut der deutschen Wirtschaft beziffert die Fachkräftelücke 2025 auf 369.516 Stellen, weniger als 2024. Die Zeitung führt das vor allem auf die schwache Konjunktur zurück, nicht auf eine gelöste Strukturfrage. In der Pflege kamen binnen eines Jahres rund 46.000 ausländische Beschäftigte hinzu, die Zahl deutscher Beschäftigter sank um etwa 5.000.",
+          "quellen": [
+            { "name": "Berliner Zeitung: Dramatischer Fachkräftemangel", "url": "https://www.berliner-zeitung.de/article/dramatischer-fachkraeftemangel-die-unterschaetzte-gefahr-fuer-deutschlands-wohlstand-10614848" }
+          ]
+        },
+        {
+          "titel": "Black Friday am 27. November: So erkennst du Fake-Shops",
+          "unterzeile": "Warnzeichen laut Verbraucherschützern",
+          "text": "Das Verbraucherministerium Baden-Württemberg nennt als Warnzeichen für Fake-Shops auffällig niedrige Preise, ein fehlendes oder unvollständiges Impressum und Vorkasse als einzige Zahlungsart. Countdown-Uhren und angeblich knappe Bestände sollen Druck aufbauen. Verbraucherschützer raten, Preise mit mindestens zwei Suchmaschinen für identische Produkte zu vergleichen. Preisverläufe über Monate zeigen Portale wie Idealo oder Geizhals. Laut Stiftung Warentest nutzen viele Händler die Rabatttage, um ältere Modelle loszuwerden.",
+          "quellen": [
+            { "name": "Ministerium für Landesentwicklung und Wohnen BW: Black Friday", "url": "https://mlw.baden-wuerttemberg.de/de/service/presse-und-oeffentlichkeitsarbeit/pressemitteilung/pid/black-friday-echte-schnaeppchen-oder-rabatt-illusion" },
+            { "name": "Verbraucherschutzforum: Black Friday 2026", "url": "https://verbraucherschutzforum.berlin/2026-11-18/black-friday-2026-vorsicht-vor-der-grossen-rabattschlacht-nicht-jedes-schnaeppchen-ist-wirklich-eines-448019/" }
+          ]
+        },
+        {
+          "titel": "Hintergrund: Sprit und Heizöl trieben die Inflation im September",
+          "unterzeile": "Im Oktober sank die Rate auf 2,8 Prozent",
+          "text": "Im September lag die Inflationsrate laut Statistischem Bundesamt bei 3,3 Prozent. Kraftstoffe waren 37,1 Prozent teurer als ein Jahr zuvor, leichtes Heizöl sogar 74,9 Prozent. Im Oktober meldete Destatis 2,8 Prozent. Zum Vergleich: Im Jahresdurchschnitt 2025 lag die Rate bei 2,2 Prozent.",
+          "quellen": [
+            { "name": "Destatis: Inflationsrate September 2026", "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_364_611.html" },
+            { "name": "Mehrwertsteuerrechner.de: Inflation 2026", "url": "https://www.mehrwertsteuerrechner.de/inflation/inflation-deutschland/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen",
+        "punkte": [
+          "Deutschlandticket: 63 Euro (bis 31.12.2026), 66,80 Euro (ab 1.1.2027)",
+          "Inflation: 3,3 % im September, 2,8 % im Oktober",
+          "Grundsteuer B Mülheim: 990 % (2016: 640 %)",
+          "Fachkräftelücke 2025 laut IW: 369.516 Stellen"
+        ],
+        "quellen": [
+          { "name": "Deutsche Bahn", "url": "https://www.bahn.de/faq/deutschlandticket-neuer-preis" },
+          { "name": "Lokalklick", "url": "https://lokalklick.eu/2026/11/22/grundsteuer-essen-2027-anstieg-im-ruhrgebietsvergleich" }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Politik, Recht, Pflegeversicherung",
+      "artikel": [
+        {
+          "titel": "Mittwoch: Anhörung zum Pflegeneuordnungsgesetz",
+          "unterzeile": "Termin, Ort, Anträge und wer Stellung genommen hat",
+          "text": "Der Gesundheitsausschuss des Bundestags hört am Mittwoch, 25. November, von 15 bis 17:15 Uhr im Marie-Elisabeth-Lüders-Haus (Saal 3 101) Sachverständige an. Gegenstand ist der Regierungsentwurf zur Neuordnung der Pflegeversicherung (BT-Drucksache 21/8869). Die Sitzung ist öffentlich, Anmeldeschluss war der 22. November.\n\nZusätzlich beraten werden Anträge von AfD (strukturelle Reform, Pflegebetrug), Grünen (Krisenresilienz, nachhaltige Pflegereform) und Linken (solidarische Pflegeversicherung, Pflegelohn, Verhinderungspflege, Entlastungsbetrag). Themen sind Finanzierung, Entlastung von Angehörigen, Betrugsbekämpfung und Krisenvorsorge. Stellungnahmen reichten unter anderem GKV-Spitzenverband, AOK-Bundesverband, vdek und BVMed ein.",
+          "quellen": [
+            { "name": "Bundestag: Anhörung Pflegeneuordnungsgesetz", "url": "https://www.bundestag.de/ausschuesse/gesundheit/anhoerungen/1232420-1232420" }
+          ]
+        },
+        {
+          "titel": "Kritik von allen Seiten: Kürzungsreform oder ausgewogenes Paket?",
+          "unterzeile": "Grüne, ver.di und Union liegen weit auseinander",
+          "text": "Die Grünen nennen den Entwurf eine Kürzungsreform, Unionsfraktionschef Spahn verteidigt ihn als ausgewogenes Paket. Er sagte laut Ärzteblatt, die Pflegeversicherung sei „pleite“, es gebe ein Milliardendefizit. Gesundheitsministerin Warken bezifferte den Fehlbetrag für 2027 auf sechs Milliarden Euro. ver.di verlangt deutliche Nachbesserungen im Bundestag. Als Inkrafttreten nennt ver.di den Januar 2027.",
+          "quellen": [
+            { "name": "Ärzteblatt: Pflegereform, Kritik von allen Seiten", "url": "https://www.aerzteblatt.de/news/pflegereform-kritik-von-allen-seiten-warken-verteidigt-plane-dce90b3d-a969-4d9f-a23d-f7af9517d85d" },
+            { "name": "ver.di: Pflegereform beschlossen", "url": "https://www.verdi.de/politik-gesellschaft/pflegereform-beschlossen-verdi-verlangt-nachbesserungen-im-bundestag" }
+          ]
+        },
+        {
+          "titel": "Heimkosten: Eigenanteil im ersten Jahr bei 3.364 Euro",
+          "unterzeile": "Stand 1. Juli 2026, große Unterschiede zwischen den Ländern",
+          "text": "Wer 2026 ins Pflegeheim zieht, zahlt im ersten Jahr laut Erhebung des Ersatzkassenverbands vdek (Stichtag 1. Juli 2026) im Bundesschnitt 3.364 Euro im Monat selbst. Das sind laut einem Ratgeberportal 256 Euro mehr als ein Jahr zuvor. Spanne nach Bundesland: rund 2.891 Euro in Sachsen-Anhalt bis rund 3.761 Euro in Bremen. Die Zuschüsse der Pflegekasse im Heim betragen laut Ratgeberseiten 805 Euro (Pflegegrad 2), 1.319 (PG 3), 1.855 (PG 4) und 2.096 Euro (PG 5). Unterkunft, Verpflegung und Investitionskosten tragen die Bewohner immer selbst.",
+          "quellen": [
+            { "name": "Handelsblatt: Pflegeheim-Kosten 2026", "url": "https://www.handelsblatt.com/finanzen/vorsorge/altersvorsorge-sparen/pflegeheim-kosten-was-pflegebeduerftige-2026-zahlen-muessen-es-gibt/27122760.html" },
+            { "name": "Pflegekosten-berechnen.de: Eigenanteil", "url": "https://www.pflegekosten-berechnen.de/pflegeheim/pflegeheim-eigenanteil-hoehe" }
+          ]
+        },
+        {
+          "titel": "Was heute gilt: Pflegegeld nach Pflegegrad",
+          "unterzeile": "Und was im Entwurf für Pflegegrad 1 steht",
+          "text": "Zuhause gepflegt werden aktuell: Pflegegeld von 347 Euro (PG 2), 599 (PG 3), 800 (PG 4) und 990 Euro (PG 5) im Monat. Pflegegrad 1 hat kein Pflegegeld, dafür den Entlastungsbetrag von 131 Euro monatlich. Pflegegeld entfällt, sobald jemand vollstationär im Heim lebt. Laut einem Ratgeberportal soll nach dem Gesetzentwurf der Zuschuss für Pflegegrad 1 für neue Fälle wegfallen. Das ist ein Entwurf und kein geltendes Recht.",
+          "quellen": [
+            { "name": "Pflegekosten-berechnen.de: Pflegeheim-Eigenanteil", "url": "https://www.pflegekosten-berechnen.de/pflegeheim/pflegeheim-eigenanteil-hoehe" },
+            { "name": "Klinikkosten.de: Pflegekosten-Guide", "url": "https://www.klinikkosten.de/ratgeber/pflegekosten-guide/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zeitplan",
+        "punkte": [
+          "Mi 25.11., 15–17:15 Uhr: Anhörung Gesundheitsausschuss, öffentlich",
+          "Geplant: Inkrafttreten im Januar 2027 (laut ver.di)",
+          "Warken: Fehlbetrag 2027 sechs Milliarden Euro"
+        ],
+        "quellen": [
+          { "name": "Bundestag", "url": "https://www.bundestag.de/ausschuesse/gesundheit/anhoerungen/1232420-1232420" },
+          { "name": "ver.di", "url": "https://www.verdi.de/politik-gesellschaft/pflegereform-beschlossen-verdi-verlangt-nachbesserungen-im-bundestag" }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Praxis, Studien, Fachwissen, Arbeitsbedingungen",
+      "artikel": [
+        {
+          "titel": "Pflegefachkräfte: Zuwachs kommt aus dem Ausland",
+          "unterzeile": "Rechnerische Lücke in der Altenpflege: 15.233 Stellen",
+          "text": "Laut Berliner Zeitung (19. November) kamen in der Pflege innerhalb eines Jahres rund 46.000 ausländische Beschäftigte hinzu, während die Zahl deutscher Beschäftigter um etwa 5.000 zurückging. Der Anteil ausländischer Beschäftigter in Engpassberufen insgesamt hat sich von etwa 7 Prozent (2014) auf rund 14 Prozent verdoppelt. Die rechnerische Fachkräftelücke 2025 lag in der Altenpflege bei 15.233 Stellen, in der Gesundheits- und Krankenpflege bei 13.390.",
+          "quellen": [
+            { "name": "Berliner Zeitung: Dramatischer Fachkräftemangel", "url": "https://www.berliner-zeitung.de/article/dramatischer-fachkraeftemangel-die-unterschaetzte-gefahr-fuer-deutschlands-wohlstand-10614848" }
+          ]
+        },
+        {
+          "titel": "Hintergrund: Was Pflegekräfte zur Rückkehr bräuchten",
+          "unterzeile": "Studie „Ich pflege wieder, wenn …“ (2022)",
+          "text": "Für die bundesweite Studie wurden erstmals mehr als 12.000 ausgestiegene und in Teilzeit arbeitende Pflegekräfte befragt. 90 Prozent sehen keine Verbesserung der Arbeitsbedingungen. Die Studie ist von 2022, die Fragen sind aber weiter aktuell: Wer zurückkommen soll, braucht verlässliche Dienstpläne, mehr Personal und Wertschätzung. Das ist die Einordnung der Redaktion, die Studie selbst liefert die Zahlen.",
+          "quellen": [
+            { "name": "Altenheim: Studie „Ich pflege wieder, wenn …“ (Kurzfassung)", "url": "https://www.altenheim.net/wp-content/uploads/sites/2/2023/02/2022_CK20_Bundesweite_Studie_Ich_pflege_wieder_wenn_Kurzfassung.pdf" }
+          ]
+        },
+        {
+          "titel": "Hintergrund: DGB-Index Gute Arbeit zur Pflege",
+          "unterzeile": "Nur 22 Prozent glauben, den Job bis zur Rente zu schaffen",
+          "text": "Nach dem DGB-Index Gute Arbeit (Daten 2012 bis 2017) können sich nur 22 Prozent der Pflegebeschäftigten vorstellen, ihre Tätigkeit unter den damaligen Bedingungen bis zur Rente auszuüben. Drei Viertel fühlen sich häufig gehetzt, gleichzeitig sagen 94 Prozent, sie leisten einen wichtigen gesellschaftlichen Beitrag. Die Daten sind älter, zeigen aber das Spannungsfeld zwischen Sinn und Belastung.",
+          "quellen": [
+            { "name": "DGB-Index Gute Arbeit: Alten- und Krankenpflege", "url": "https://index-gute-arbeit.dgb.de/++co++fecfee2c-a482-11e8-85a5-52540088cada" }
+          ]
+        },
+        {
+          "titel": "Schockanrufe: Wieder Seniorinnen in Mülheim betroffen",
+          "unterzeile": "Polizei Essen warnt und sucht Zeugen",
+          "text": "Am 19. Oktober meldete die Polizei Essen, dass Betrüger eine 83-jährige Mülheimerin per Schockanruf um Wertgegenstände gebracht haben. Schon im September waren zwei Seniorinnen in Saarn und Speldorf um Schmuck und Bargeld betrogen worden. Die Polizei sucht jeweils Zeugen und warnt erneut vor der Masche. Wenn du Angehörige hast: Sprich mit ihnen darüber, dass echte Polizisten nie Geld oder Schmuck abholen.",
+          "quellen": [
+            { "name": "Presseportal: Schockanruf Mülheim (19.10.)", "url": "https://www.presseportal.de/blaulicht/pm/11562/6373940" },
+            { "name": "Presseportal: Betrug an Seniorinnen (23.09.)", "url": "https://www.presseportal.de/blaulicht/pm/11562/6357602" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen",
+        "punkte": [
+          "Fachkräftelücke Altenpflege 2025: 15.233 Stellen (rechnerisch)",
+          "+46.000 ausländische, −5.000 deutsche Pflegebeschäftigte binnen eines Jahres",
+          "Entlastungsbetrag Pflegegrad 1: 131 Euro im Monat"
+        ],
+        "quellen": [
+          { "name": "Berliner Zeitung", "url": "https://www.berliner-zeitung.de/article/dramatischer-fachkraeftemangel-die-unterschaetzte-gefahr-fuer-deutschlands-wohlstand-10614848" },
+          { "name": "Pflegekosten-berechnen.de", "url": "https://www.pflegekosten-berechnen.de/pflegeheim/pflegeheim-eigenanteil-hoehe" }
+        ]
+      }
+    },
+    {
+      "titel": "Gaming: Steam & PC",
+      "artikel": [
+        {
+          "titel": "SteamOS 3.10.1 Preview: 4K bei 120 Hz für die Steam Machine",
+          "unterzeile": "HDMI 2.1 für AMD-Grafik, neuer Kernel, neuer Desktop",
+          "text": "Valve hat SteamOS 3.10.1 im Preview-Kanal veröffentlicht. Es bringt HDMI-2.1-Unterstützung für AMD-Grafik (VRR, FRL, ALLM), womit laut Deck Ready 4K bei 120 Hz an der Steam Machine möglich wird. Zum Start fehlte das wegen eines Lizenzproblems. Außerdem: bessere Bildtaktung mit dem Framerate-Limiter, Fixes für Forza-Horizon-Startprobleme und Mesh-Shader-Support für Nvidia ab Turing. Der Kernel wechselt auf Linux 7.3, der Desktop-Modus auf Plasma 6.8.2. Du brauchst einen passenden Fernseher, den richtigen HDMI-Port und ein HDMI-2.1-Kabel. Preview-Builds können Bugs haben. Umschalten geht unter Einstellungen > System > Update-Kanal.",
+          "quellen": [
+            { "name": "Geeky Gadgets: SteamOS 3.10.1 Preview", "url": "https://geeky-gadgets.com/steamos-3-10-1-preview-update" },
+            { "name": "Vice: Valve bereitet Steam-Machine-Release vor", "url": "https://www.vice.com/en/article/valve-prepares-for-steam-machines-release-with-new-steam-update/" }
+          ]
+        },
+        {
+          "titel": "Steam Machine: US-Preise und Ausblick auf Januar",
+          "unterzeile": "Speicherknappheit setzt Valve unter Druck",
+          "text": "Laut Digital Trends kostet die Steam Machine in den USA aktuell 1.049 Dollar (512 GB) und 1.349 Dollar (2 TB), mit Steam Controller 1.128 beziehungsweise 1.428 Dollar. Die Warteliste für das 2-TB-Modell ist geschlossen, neue Anmeldungen gibt es nicht. Valve will im Januar weitere Preisinfos geben, ist sich bei Stückzahlen und Preis aber unsicher. Digital Trends rechnet nicht mit sinkenden Preisen und führt das auf die globale Knappheit bei DRAM und NAND-Flash zurück. Valve selbst hat keine Preiserhöhung angekündigt. Europapreise nennen die Quellen nicht.",
+          "quellen": [
+            { "name": "Digital Trends: Valve ends waitlist", "url": "https://digitaltrends.com/computing/valve-ends-waitlist-for-steam-machine-and-signals-imminent-price-hike-in-2027" },
+            { "name": "The Sixth Axis: Valve gives update on Steam Machine orders", "url": "https://www.thesixthaxis.com/2026/11/20/valve-gives-update-on-steam-machine-orders-and-it-sounds-like-price-hikes-are-coming/" }
+          ]
+        },
+        {
+          "titel": "Steam Deck OLED in den USA teurer",
+          "unterzeile": "512 GB jetzt 789, 1 TB 949 Dollar",
+          "text": "Nach einer Preisanhebung kostet das Steam Deck OLED in den USA laut Berichten 789 Dollar (512 GB) und 949 Dollar (1 TB). Die Angabe stammt aus einer einzelnen Quelle und gilt nur für die USA. Preise für Deutschland nennen die Quellen nicht, schau im Steam-Shop nach.",
+          "quellen": [
+            { "name": "TweakTown: Steam-Machine-Update nach Steam-Deck-Preiserhöhung", "url": "https://www.tweaktown.com/news/112217/valve-rolls-out-update-for-steam-machine-release-following-steam-deck-price-hike/index.html" }
+          ]
+        },
+        {
+          "titel": "GTA 6: Kein PC-Termin in Sicht",
+          "unterzeile": "Start nur auf PS5 und Xbox Series X/S",
+          "text": "Grand Theft Auto VI ist am 19. November erschienen, aber nur für PlayStation 5 und Xbox Series X/S. Laut heise online ist für den PC kein Termin angekündigt. Wer am Steam-Rechner warten will, muss also weiter warten.",
+          "quellen": [
+            { "name": "heise online: GTA-6-Start", "url": "https://www.heise.de/news/Start-von-GTA-6-schlaegt-saemtliche-Entertainment-Rekorde-11533544.html" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Nintendo Switch 2 & Konsolen",
+      "artikel": [
+        {
+          "titel": "GTA 6 sprengt alle Rekorde: 3,79 Milliarden Dollar am ersten Tag",
+          "unterzeile": "32,5 Millionen Vorbestellungen laut Take-Two",
+          "text": "Take-Two meldet für den ersten Tag von GTA 6 einen Umsatz von 3,79 Milliarden Dollar, so viel wie kein Unterhaltungsprodukt zuvor. Die Zahl der Vorbestellungen liegt bei 32,5 Millionen. Sensor Tower hatte vorab mindestens 2,36 Milliarden Dollar geschätzt. GTA 5 spielte 2013 laut Take-Two am ersten Tag rund 800 Millionen Dollar ein. Zum Vergleich: „Avengers: Endgame“ kam am Startwochenende auf 1,2 Milliarden Dollar. Die Entwicklungskosten sollen laut Medienberichten bei ein bis 1,5 Milliarden Dollar liegen, bestätigt hat Take-Two das nicht. Die Vergleichswerte sind nicht eins zu eins vergleichbar.",
+          "quellen": [
+            { "name": "heise online: GTA-6-Start schlägt Rekorde", "url": "https://www.heise.de/news/Start-von-GTA-6-schlaegt-saemtliche-Entertainment-Rekorde-11533544.html" }
+          ]
+        },
+        {
+          "titel": "Game Awards: GTA 6 und Zelda im Rennen um das Spiel des Jahres",
+          "unterzeile": "Review-Bombing-Zoff um Metacritic-Wertungen",
+          "text": "Für das Game of the Year nominiert sind laut xboxdynasty 007 First Light, Control Resonant, GTA 6, Phantom Blade Zero, Resident Evil Requiem und The Legend of Zelda: Ocarina of Time. Die Show ist am 10. Dezember in Los Angeles. Wie viele Nominierungen GTA 6 insgesamt hat, ist je nach Quelle unterschiedlich (xboxdynasty zählt acht). Dazu gibt es Streit um Nutzerwertungen: GTA 6 steht bei Metacritic bei 5,5 von 10, Zelda rutschte laut Push Square von 9,6 auf 8,9. Nintendo Life berichtet von mutmaßlichem Review-Bombing durch GTA-Fans. Bei den Kritikern liegen beide Spiele gleichauf an der Spitze.",
+          "quellen": [
+            { "name": "xboxdynasty: Alle Nominierungen", "url": "https://www.xboxdynasty.de/news/the-game-awards/alle-30-kategorien-und-nominierungen-2026/" },
+            { "name": "Nintendo Life: Ocarina-Wertung unter Beschuss", "url": "https://www.nintendolife.com/news/2026/11/ocarina-remakes-positive-user-review-score-is-now-under-fire" }
+          ]
+        },
+        {
+          "titel": "Xenoblade Chronicles 3 kommt am 3. Dezember für Switch 2",
+          "unterzeile": "Upgrade für 9,99 Dollar, 4K und 60 fps",
+          "text": "Die Switch-2-Edition von Xenoblade Chronicles 3 erscheint am 3. Dezember. Das Upgrade für Besitzer der Switch-Version kostet 9,99 Dollar beziehungsweise 7,99 Pfund. Es bringt 4K im TV-Modus, 60 fps, die neue Heldin Shimmer und den Modus Heroes' Vault. Event-Szenen sind komplett auf Englisch und Japanisch vertont. Version 3.0.0, die das Spiel für die Edition vorbereitet, ist seit 19. November live.",
+          "quellen": [
+            { "name": "Nintendo Life: Xenoblade 3 Version 3.0.0", "url": "https://www.nintendolife.com/news/2026/11/xenoblade-chronicles-3-version-3-0-0-is-now-live-here-are-the-patch-notes" }
+          ]
+        },
+        {
+          "titel": "Zelda-Switch-2: Nachschub erst im Januar (USA)",
+          "unterzeile": "Nintendo hat die Nachfrage unterschätzt",
+          "text": "Die Zelda-40th-Anniversary-Edition der Switch 2 ist in den USA ausverkauft. Laut US-Nintendo-Store kommt mehr Bestand im Januar 2027, vor Weihnachten wird es nichts mehr. Nintendos Latin-America-Chef Bill van Zyll räumte ein, man habe die Nachfrage unterschätzt. Das Ocarina-of-Time-Remake verkaufte sich in den ersten vier Tagen über fünf Millionen Mal. Für andere Regionen gibt es keine Angaben.",
+          "quellen": [
+            { "name": "Nintendo Life: Zelda Switch 2 Nachschub", "url": "https://www.nintendolife.com/news/2026/11/zelda-switch-2-console-is-back-in-stock-soon-if-you-missed-out-us" }
+          ]
+        },
+        {
+          "titel": "Deltarune Kapitel 6: Erster kompletter Entwurf steht",
+          "unterzeile": "Kapitel 7 hat gerade erst begonnen",
+          "text": "Toby Fox schreibt im Herbst-Newsletter, dass Kapitel 6 ein strukturell vollständiger Entwurf ist, der von Anfang bis Ende spielbar ist. Einzelne Szenen und Details brauchen noch Arbeit, deshalb dauert das Testen. Kapitel 7 ist erst angefangen. Das nächste Update soll kommen, wenn die Lokalisierung von Kapitel 6 fertig ist. Einen Termin nennt Fox nicht.",
+          "quellen": [
+            { "name": "Nintendo Life: Deltarune-Update", "url": "https://www.nintendolife.com/news/2026/11/toby-fox-shares-deltarune-chapter-6-and-7-development-update" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Neue Spiele der Woche",
+        "punkte": [
+          "Für die Woche ab 23.11. fand die Redaktion keine Liste, hier der Stand der Vorwoche:",
+          "19.11.: The Binding of Isaac: Repentance+ (Switch 2)",
+          "19.11.: Reverie in the Moonlight, Switch-2-Edition",
+          "Neu im eShop: Warhammer 40,000: Boltgun 2, Barbie Rewind",
+          "18.11.: Disney Dreamlight Valley, Erweiterung The Keepsake Sea",
+          "3.12.: Xenoblade Chronicles 3, Switch-2-Edition"
+        ],
+        "quellen": [
+          { "name": "Nintendo: eShop-Highlights 19.11.2026", "url": "https://www.nintendo.com/de-de/News/2026/November/Nintendo-eShop-Highlights-19-11-2026-3244888.html" },
+          { "name": "Nintendo Life: eShop-Neuheiten 19.11.", "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-19" }
+        ]
+      }
+    },
+    {
+      "titel": "Tech & Netz",
+      "artikel": [
+        {
+          "titel": "Riemannsche Vermutung: Anthropic-Mathematiker will KI-Beweis gefunden haben",
+          "unterzeile": "Lean-Code liegt vor, anerkannt ist noch nichts",
+          "text": "Levent Alpöge, Mathematiker bei Anthropic, sagt, er habe gemeinsam mit dem KI-Modell Claude einen möglichen Beweis der Riemannschen Vermutung gefunden. Die Argumente seien in der Beweissprache Lean formalisiert, der Code kompiliere und werde von zwei unabhängig entwickelten Lean-Kernels akzeptiert. Unabhängige Mathematiker halten den Beweis laut Scientific American für sehr wahrscheinlich korrekt. Offen ist, ob die formale Aussage exakt der Riemannschen Vermutung entspricht. Eine allgemein anerkannte Lösung gibt es also nicht. Ein lesbares Papier ist angekündigt, die 250.000 Seiten lange Rohfassung hat Alpöge nicht veröffentlicht. Es ist eines der sieben Millennium-Probleme mit einer Million Dollar Preisgeld. Mehr als zehn Billionen Nullstellen wurden bereits geprüft, das ist aber kein Beweis.",
+          "quellen": [
+            { "name": "heise online: Riemannsche Vermutung", "url": "https://www.heise.de/news/Riemannsche-Vermutung-Anthropic-Mathematiker-will-KI-Beweis-gefunden-haben-11533452.html" }
+          ]
+        },
+        {
+          "titel": "FBI: Zentrale Datenbank NCIC angeblich angegriffen",
+          "unterzeile": "Sorge vor manipulierten Einträgen",
+          "text": "Laut CNN, zitiert von heise online, haben Hacker das National Crime Information Center des FBI angegriffen, eine zentrale Datenbank unter anderem mit Haftbefehlen, die auch andere US-Behörden nutzen. Das FBI äußerte sich zunächst nicht. Ein früherer FBI-Ermittler sieht das größere Risiko in manipulierten Datensätzen. Es ist der zweite bekannte Vorfall beim FBI in diesem Jahr: Im September hatte die Gruppe ShinyHunters das Karriereportal fbijobs.gov geknackt. Alles ist bisher Medienbericht, nicht bestätigt.",
+          "quellen": [
+            { "name": "heise online: FBI-Datenbank angegriffen", "url": "https://www.heise.de/news/Medienbericht-Zentrale-FBI-Datenbank-angegriffen-11533560.html" }
+          ]
+        },
+        {
+          "titel": "Windows 11: Gesichtsentsperrung funktioniert im Dunkeln wieder",
+          "unterzeile": "Optionales Update KB5132057",
+          "text": "Das optionale Vorschau-Update KB5132057 hebt Windows 11 auf Build 26300.10075 (26H2) beziehungsweise 26200.10075 (25H2). Windows Hello erkennt Gesichter wieder bei wenig Licht, indem die Bildschirmhelligkeit angepasst wird. Die Option liegt unter Einstellungen > Konten > Anmeldeoptionen und wird schrittweise ausgerollt. Dazu kommen ein überarbeiteter Ausführen-Dialog und rote statt gelbe Rahmen bei Screenshot-Aufnahmen. Bekanntes Problem: Linked-Server-Verbindungen im SQL Server bleiben womöglich offen. Im Dezember gibt es wegen der Feiertage keine Vorschau.",
+          "quellen": [
+            { "name": "heise online: Windows-Update-Vorschau", "url": "https://www.heise.de/news/Windows-Update-Vorschau-Gesichts-Unlock-im-Dunkeln-11533459.html" }
+          ]
+        },
+        {
+          "titel": "XXRI OS: Linux-Desktop mit 75 MByte RAM",
+          "unterzeile": "Für alte 32-Bit-PCs, Version 2.7 jetzt auch in 64 Bit",
+          "text": "Die Mini-Distribution XXRI OS 2.7 (seit 10. November) kommt laut heise online mit rund 75 MByte RAM-Bedarf bei geöffnetem Terminal aus und belegt etwa 675 MByte auf der Platte. Sie baut auf Tiny Core Linux auf, hat einen schwebenden Dock wie bei macOS und einen eigenen App-Store. Neu in 2.7 ist ein x86-64-Image. Wer 256 MB RAM hat, sollte sich keine Hoffnung auf den Browser machen. Lizenz: GPLv3.",
+          "quellen": [
+            { "name": "heise online: XXRI OS", "url": "https://www.heise.de/news/Mini-Linux-XXRI-OS-bringt-Dock-und-App-Store-auf-alte-32-Bit-PCs-11533280.html" }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Preisverlauf prüfen, bevor du kaufst",
+    "text": "Black Friday ist am 27. November. Bevor du bei einem „Mega-Rabatt“ zuschlägst, schau auf Idealo oder Geizhals nach dem Preisverlauf der letzten Monate. Verbraucherschützer weisen darauf hin, dass sich Rabatte oft auf die unverbindliche Preisempfehlung beziehen. Ein Preis, der schon vor drei Wochen genauso niedrig war, ist kein Schnäppchen. Das ist ein Tipp der Redaktion, die Quellen dazu stehen auf Seite 4."
+  }
+}
