@@ -1,0 +1,657 @@
+{
+  "gruss": "Guten Morgen, liebe Mama! Heute ist Sonntag, der 22. November. Es ist Totensonntag, ein stiller Tag. Draußen ist es kalt, und nachts kann es frieren. Am Abend gibt es im Fernsehen schöne Sachen. Mach es dir gemütlich und viel Freude mit deiner Zeitung!",
+  "aufmacher": {
+    "rubrik": "Zum Sonntag",
+    "titel": "Ein stiller Sonntag mit kaltem Wetter",
+    "unterzeile": "Totensonntag in Mülheim, Frost in der Nacht und ein gemütlicher Fernsehabend",
+    "text": "Heute ist Totensonntag. Viele Menschen denken an ihre Lieben, die nicht mehr da sind. Auch die Stadt Mülheim legt auf dem Hauptfriedhof und in Speldorf still Kränze nieder.\n\nDas Wetter passt zum Tag. Es ist trüb und kalt. Der Deutsche Wetterdienst warnt vor Glätte, vor allem nachts. Dann kann es bis zu minus 5 Grad geben. Zieh dich warm an, wenn du hinausgehst.\n\nAm Abend wird es gemütlich. Im Ersten läuft um 20.15 Uhr der Tatort. Im ZDF fährt das Traumschiff nach Bangkok. Und morgen beginnt in Mülheim der Weihnachtstreff am Forum.",
+    "quellen": [
+      {
+        "name": "Stadt Mülheim: Stille Kranzniederlegung zum Totensonntag",
+        "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/stille-kranzniederlegung-zum-totensonntag"
+      },
+      {
+        "name": "ZDFheute: Wetter am Wochenende",
+        "url": "https://www.zdfheute.de/panorama/wetter-herbst-schauer-schnee-wochenende-100.html"
+      },
+      {
+        "name": "TVinfo: Programm 22.11.",
+        "url": "https://www.tvinfo.de/tv-programm/22.11.2026/20:15"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Aus Mülheim",
+      "artikel": [
+        {
+          "titel": "Der Ruhrinselweg ist gesperrt",
+          "unterzeile": "Neuer Belag zwischen Kahlenbergwehr und Florabrücke",
+          "text": "Wer gern am Wasser spazieren geht, braucht gerade etwas Geduld. Der Ruhrinselweg ist zwischen dem Kahlenbergwehr und der Florabrücke gesperrt. Dort bekommt die Straße einen neuen Belag. Die Arbeiten haben am 12. Oktober begonnen.\n\nSie sollen kurz vor Weihnachten fertig sein. Außerdem arbeitet die RWW am Damm an der Wehranlage Kahlenberg. Über den Damm kommt man deshalb im Moment nicht. Dort soll es Ende November fertig sein.\n\nEs gibt Umleitungen. Wer aus Richtung Kahlenberg kommt, wird über die Alte Schleuse, die Wilhelmstraße und die Friedrichstraße geführt. Für Radfahrer gibt es einen eigenen Hinweis. Die Stadt nennt auf ihrer Seite alle Straßen genau.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Sperrung Ruhrinselweg",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/sperrung-wegen-baumassnahme-instandsetzung-des-ruhrinselwegs"
+            }
+          ]
+        },
+        {
+          "titel": "Heute ist Totensonntag",
+          "unterzeile": "Die Stadt legt stille Kränze nieder",
+          "text": "Heute ist Totensonntag. An diesem Tag denken viele Menschen an die, die nicht mehr da sind. Auch die Stadt Mülheim erinnert still daran. Es gibt keine große Feier.\n\nAuf dem Hauptfriedhof liegen Kränze an den Gräbern von Heinrich Thöne, Max Kölges, Karl Ziegler und Dr. Paul Lembke. Ein weiterer Kranz liegt auf dem Friedhof Speldorf am Grab von Dieter aus dem Siepen. Auf den Schleifen steht: In ehrendem Gedenken, Stadt Mülheim an der Ruhr.\n\nWenn du heute ein Grab besuchst: Zieh dich warm an. Es kann nachts frieren.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Stille Kranzniederlegung zum Totensonntag",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/stille-kranzniederlegung-zum-totensonntag"
+            }
+          ]
+        },
+        {
+          "titel": "So sieht man, wo es schnelles Internet gibt",
+          "unterzeile": "Der Glasfaseratlas der Stadt",
+          "text": "Die Stadt Mülheim hat im Netz eine Landkarte zum schnellen Internet. Sie heißt Glasfaseratlas. Man sieht dort Straße für Straße, wo Glasfaser schon liegt oder bald gebaut wird. Auch der Zeitraum und die Firma stehen dabei.\n\nDie Angaben kommen von den Netz-Firmen. Sie können sich ändern. Die Stadt sagt: Verbindlich ist die Auskunft nur bei der Firma selbst. Fragen zur Karte kann man per E-Mail an KDI@muelheim-ruhr.de schicken. Vielleicht kann dir Tim oder jemand aus der Familie beim ersten Blick helfen.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Der Glasfaseratlas",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aemter-und-einrichtungen/amt-fuer-digitalisierung-und-it/der-glasfaseratlas-ihr-praeziser"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Mülheim erleben",
+      "artikel": [
+        {
+          "titel": "Ab morgen gibt es den Weihnachtstreff",
+          "unterzeile": "Täglich von 11 bis 20 Uhr am Forum",
+          "text": "Morgen, am Montag, 23. November, beginnt der Mülheimer Weihnachtstreff. Er steht auf dem Kurt-Schumacher-Platz vor dem Forum. Du kannst jeden Tag zwischen 11 und 20 Uhr kommen. Er dauert bis zum 23. Dezember.\n\nDer Eintritt ist frei. So kannst du zwischendurch einen Tee trinken, wenn du in der Stadt bist. Das passt gut zu einem Einkaufsbummel.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte 2026",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            },
+            {
+              "name": "Mein Mülheim: Eventkalender",
+              "url": "https://www.mein-muelheim.de/event-kultur/events"
+            }
+          ]
+        },
+        {
+          "titel": "Der Adventsmarkt in der Altstadt kommt am Freitag",
+          "unterzeile": "Vom 27. November bis zum 13. Dezember",
+          "text": "Am Freitag, 27. November, öffnet der Adventsmarkt in der Altstadt. Er läuft bis zum 13. Dezember. Montags ist er zu.\n\nDienstags bis donnerstags ist von 16 bis 20 Uhr offen. Freitags geht es von 16 bis 21 Uhr. Samstags kannst du von 14 bis 21 Uhr kommen. Sonntags ist von 14 bis 20 Uhr geöffnet. Am 13. Dezember ist schon um 19 Uhr Schluss.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte 2026",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            }
+          ]
+        },
+        {
+          "titel": "Schiffsweihnacht: Heute ist Pause",
+          "unterzeile": "Weiter geht es am Freitag",
+          "text": "Heute, am Sonntag, ist auf der Schiffsweihnacht kein Markt. Die Stadt schreibt: Am 22. November bleibt es zu. Es gibt noch ein letztes Wochenende. Der Markt ist am Freitag, 27. November, von 15 bis 21 Uhr offen. Am Samstag kannst du von 13 bis 21 Uhr kommen. Am Sonntag, 29. November, ist von 11 bis 20 Uhr geöffnet.\n\nDort stehen Schiffe der Weißen Flotte und das Haus Ruhrnatur. Es gibt Handgemachtes, Essen und Musik. Für Kinder gibt es Mitmach-Aktionen im Haus Ruhrnatur.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte 2026",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            },
+            {
+              "name": "Deutsche Weihnachtsmärkte: Mülheimer Schiffsweihnacht",
+              "url": "https://www.deutsche-weihnachtsmaerkte.de/weihnachtsmarkt/muelheimer-schiffsweihnacht-1397"
+            }
+          ]
+        },
+        {
+          "titel": "Fahrten mit dem Nikolaus auf dem Wasser",
+          "unterzeile": "Die Weiße Flotte lädt Anfang Dezember ein",
+          "text": "Die Weiße Flotte fährt im Dezember mit dem Nikolaus. Die Termine: Freitag, 4. Dezember, von 17 bis 19 Uhr. Samstag, 5. Dezember, von 17 bis 19 Uhr. Am Sonntag, 6. Dezember, gibt es eine Frühstücksfahrt von 10 bis 13 Uhr. Dazu kommt eine Fahrt von 16 bis 18 Uhr.\n\nDie Stadt nennt keine Preise. Wer mitfahren will, fragt am besten beim Veranstalter nach.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte 2026",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            }
+          ]
+        },
+        {
+          "titel": "Märkte im Kunstmuseum und in der Stadthalle",
+          "unterzeile": "Am ersten Adventswochenende",
+          "text": "Am Wochenende vor dem ersten Advent gibt es noch mehr Märkte. Im Museumsshop des Kunstmuseums ist ein Adventsmarkt. Er ist am Samstag, 28. November, von 11 bis 18 Uhr. Am Sonntag, 29. November, ist er von 11 bis 17 Uhr offen.\n\nAm Sonntag, 29. November, gibt es auch den Kreativmarkt in der Stadthalle. Er ist von 11 bis 17 Uhr. Dort findest du Selbstgemachtes. Das ist eine schöne Idee für Geschenke.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte 2026",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "So 22.11., 11 Uhr: Führung „Im Garten der Kunst“ (Teil 2), Kunstmuseum, Synagogenplatz 1",
+          "So 22.11., 18 Uhr: Trio Mélo, „La vie en rose“, Kloster Saarn, Klosterstraße 53",
+          "Mo 23.11., 11 Uhr: Weihnachtstreff startet, Schloßstraße/Forum",
+          "Di 24.11., 11 Uhr: „Im Garten der Kunst“, Kunstmuseum",
+          "Di 24.11., 11.30 Uhr: Sprechstunde mit Superintendent Michael Manz, Ladenkirche, Kaiserstraße 4",
+          "Fr 27.11.: Altstadt-Adventsmarkt öffnet"
+        ],
+        "quellen": [
+          {
+            "name": "Mein Mülheim: Eventkalender",
+            "url": "https://www.mein-muelheim.de/event-kultur/events"
+          },
+          {
+            "name": "Stadt Mülheim: Weihnachtsmärkte 2026",
+            "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland",
+      "artikel": [
+        {
+          "titel": "Mit zehn Euro im Monat für die Kinder sparen",
+          "unterzeile": "Der Bundesrat hat die Frühstart-Rente beschlossen",
+          "text": "Der Bundesrat hat am Freitag der Frühstart-Rente zugestimmt. Der Staat zahlt dabei für Kinder zwischen 6 und 18 Jahren jeden Monat 10 Euro in ein Spardepot. Das sind bis zum 18. Geburtstag zusammen 1.440 Euro. Das Depot eröffnen die Eltern bei einem Anbieter ihrer Wahl.\n\nEltern oder Großeltern können selbst noch Geld dazulegen. Erlaubt sind bis zu 6.840 Euro im Jahr. Das Geld gibt es grundsätzlich erst ab dem 65. Lebensjahr. Die Beratungsstelle Finanztip schätzt, dass daraus bis zur Rente etwa 25.000 Euro werden könnten. Dabei ist die Inflation nicht eingerechnet.\n\nDas Gesetz gilt rückwirkend ab dem 1. Januar 2026. Es fängt mit dem Jahrgang 2020 an. Jedes Jahr kommt ein neuer Jahrgang dazu. Wer kein Depot eröffnet, verliert das Geld nicht. Es bleibt in einem Fonds des Bundes. Man kann es später in einen eigenen Vertrag übertragen.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Frühstart-Rente",
+              "url": "https://www.zdfheute.de/politik/deutschland/fruehstart-rente-erklaerung-vorteile-eltern-kind-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Ein neues Spardepot für das Alter",
+          "unterzeile": "Es ersetzt ab Januar die Riester-Rente",
+          "text": "Ab dem 1. Januar 2027 gibt es ein neues Spardepot fürs Alter. Es ersetzt die Riester-Rente. Wer schon einen Riester-Vertrag hat, behält ihn. Für alte Verträge ändert sich nichts.\n\nDer Staat gibt Zuschüsse. Für Beiträge bis 360 Euro im Jahr gibt es 50 Cent pro Euro dazu. Für Beiträge zwischen 360 und 1.800 Euro gibt es 25 Cent pro Euro. Das macht höchstens 540 Euro im Jahr. Für jedes Kind gibt es bis zu 300 Euro im Jahr extra.\n\nDas einfache Staatsprodukt kommt später als geplant, frühestens im Sommer 2027. Bis dahin gibt es Angebote von Banken und Versicherungen.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Altersvorsorgedepot",
+              "url": "https://www.zdfheute.de/politik/altersvorsorge-basisdepot-2027-verzoegerung-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Ein Preisdeckel für Sprit ab Januar",
+          "unterzeile": "Das hat die Regierung vereinbart",
+          "text": "Die Regierung will ab dem 1. Januar einen Preisdeckel für Sprit einführen. Zuerst soll er drei Monate gelten. Er kann dann verlängert werden. Ein Gesetzentwurf soll Anfang Dezember im Kabinett besprochen werden.\n\nOb der Deckel genau so kommt, ist noch nicht klar. Die SPD kritisiert Hürden, die das Wirtschaftsministerium plant. Beim Strom soll die Steuer 2027 sinken. Dadurch sparen drei Personen laut Vergleichsportalen etwa 7,75 Euro im Monat.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Koalition einigt sich",
+              "url": "https://www.zdfheute.de/politik/deutschland/koalitionsausschuss-einigung-stromsteuer-spritpreisdeckel-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Mopeds sollen schneller fahren dürfen",
+          "unterzeile": "Statt 45 künftig 60 Kilometer pro Stunde?",
+          "text": "Sachsen und Thüringen wollen, dass Mopeds 60 statt 45 Kilometer pro Stunde fahren dürfen. Der Bundesrat unterstützt das. Ein Unfallforscher von der TU Dresden hält das für sinnvoll. Die meisten Unfälle passieren an Kreuzungen und bei niedrigem Tempo.\n\nMit 45 ist man im Verkehr oft im Weg. Das führe zu gewagten Überholmanövern, sagt er. In der DDR gebaute Mopeds dürfen schon heute 60 fahren. Neuere Modelle nicht.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Mopeds mit 60",
+              "url": "https://www.zdfheute.de/politik/deutschland/mopeds-geschwindigkeit-unfallforscher-45-60-kmh-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Mehr Schutz für Kinder bei Gewalt in der Familie",
+          "unterzeile": "Das Kabinett hat einen Entwurf beschlossen",
+          "text": "Das Kabinett hat ein neues Gesetz zum Umgang mit Kindern nach einer Trennung beschlossen. Ist ein Elternteil gegen den anderen gewalttätig, können Gerichte den Umgang mit dem Kind ausschließen. Häusliche Gewalt soll im Gesetz erklärt werden.\n\nKinder ab 14 Jahren sollen bei Absprachen über Sorge und Umgang zustimmen müssen. Kinder sollen auch ein eigenes Recht auf Kontakt zu Großeltern bekommen. Das Gesetz geht nun in den Bundestag. Es soll frühestens in der zweiten Jahreshälfte 2027 gelten.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Kindschaftsrecht",
+              "url": "https://www.zdfheute.de/politik/deutschland/justiz-kindschaftsrecht-umgangsrecht-haeusliche-gewalt-100.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Aus aller Welt",
+      "artikel": [
+        {
+          "titel": "So klingt die Geburt von Sternen",
+          "unterzeile": "Die NASA macht Bilder aus dem Weltall hörbar",
+          "text": "Die Weltraumbehörde NASA macht Bilder von jungen Sternen hörbar. Dafür wandelt sie die Aufnahmen ihrer Teleskope in Klänge um. Man nennt das Sonifikation.\n\nSo kann man die Geburt von Sternen hören. Das Verfahren kommt laut NASA besonders bei Menschen gut an, die schlecht sehen. Auf der Seite von ZDFheute gibt es dazu ein kurzes Video von weniger als einer Minute.",
+          "quellen": [
+            {
+              "name": "ZDFheute: So klingt die Geburt von Sternen",
+              "url": "https://www.zdfheute.de/panorama/panorama-nasa-sterne-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Ein Dorf in England will ein eigenes Land sein",
+          "unterzeile": "Eine Abstimmung ohne Folgen",
+          "text": "In dem Dorf Barnham in England gab es eine besondere Abstimmung. Die Menschen sollten sagen, ob das Dorf sich von Großbritannien trennen soll. Eine Mehrheit stimmte dafür.\n\nDer Hintergrund ist Ärger über eine Unterkunft für Asylsuchende im Ort. Die Abstimmung ist nur symbolisch. Rechtlich hat sie keine Wirkung.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Newsticker",
+              "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Ein Erdbeben in Peru",
+          "unterzeile": "Mindestens 15 Verletzte",
+          "text": "In Peru hat die Erde gebebt. Das Beben hatte die Stärke 6,7. Es war am Freitagabend, Ortszeit. Es traf die Mitte des Landes, in der Nähe der Stadt Junín.\n\nMindestens 15 Menschen wurden verletzt. Etwa 127 Gebäude wurden beschädigt. In der Hauptstadt Lima liefen viele Menschen aus Büros und Häusern auf die Straße. Am Samstag gab es noch zwei kleinere Beben.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Erdbeben in Peru",
+              "url": "https://www.zdfheute.de/panorama/katastrophen-erdbeben-peru-lima-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Wie der Sport in den 80ern zum Lebensgefühl wurde",
+          "unterzeile": "Von Steffi Graf bis zum Fitnessstudio",
+          "text": "In den 1980er-Jahren wurde Sport zum Lebensgefühl. Im Fernsehen wurden Steffi Graf und Katarina Witt berühmt. Der Deutsche Tennisbund wuchs von 1,2 auf mehr als 2 Millionen Mitglieder.\n\nAerobic kam aus den USA und wurde durch Jane Fonda beliebt. Heute sind mehr als zwölf Millionen Menschen in Deutschland in einem Fitnessstudio. 1988 waren es im Westen etwa 1,5 Millionen.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Wie die 80er zum Sport-Jahrzehnt wurden",
+              "url": "https://www.zdfheute.de/panorama/80er-jahre-sport-tennis-fitness-steffi-graf-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Die Welt streitet übers Klima",
+          "unterzeile": "Die Konferenz in Antalya geht in die Verlängerung",
+          "text": "In der Türkei, in Antalya, läuft die Weltklimakonferenz. Eigentlich sollte sie schon zu Ende sein. Nun geht sie in die Verlängerung. Die EU und viele Inselstaaten wollen, dass die Welt sich bei der Erwärmung auf höchstens 1,5 Grad beschränkt.\n\nDer Präsident der Konferenz bittet alle, einen Kompromiss zu finden. Die Verhandlungen kommen nur langsam voran.",
+          "quellen": [
+            {
+              "name": "ZDFheute: COP-Präsident drängt Verhandler",
+              "url": "https://www.zdfheute.de/politik/ausland/cop-klimakonferenz-antalya-streit-fossile-energien-100.html"
+            },
+            {
+              "name": "ZDFheute: Newsticker",
+              "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Sport: Fußball-Bundesliga",
+      "artikel": [
+        {
+          "titel": "Dortmund ist wieder ganz oben",
+          "unterzeile": "Ein Tor in der 80. Minute in Gladbach",
+          "text": "Borussia Dortmund steht an der Spitze der Bundesliga. Das Team hat am Samstag in Mönchengladbach 1:0 gewonnen. Felix Nmecha schoss das Tor in der 80. Minute.\n\nDortmund hat jetzt 24 Punkte. Die Bayern haben 22. Sie hatten am Freitag nur 1:1 gegen Köln gespielt.\n\nAm Sonntag sind noch zwei Spiele: Augsburg gegen Mainz um 15.30 Uhr und Werder Bremen gegen den HSV um 17.30 Uhr.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Gladbach gegen Dortmund",
+              "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-10-spieltag-borussia-moenchengladbach-borussia-dortmund-100.html"
+            },
+            {
+              "name": "ZDFheute: Sport",
+              "url": "https://www.zdfheute.de/sport"
+            }
+          ]
+        },
+        {
+          "titel": "Ein Torwart hält fast jeden Elfmeter",
+          "unterzeile": "Frankfurt schlägt Hoffenheim 1:0",
+          "text": "Eintracht Frankfurt hat Hoffenheim 1:0 geschlagen. Jonathan Burkardt schoss das Tor. Der Held war aber der Torwart Noah Atubolu. Er hielt in der 41. Minute einen Elfmeter von Andrej Kramaric.\n\nDas war schon sein siebter gehaltener Elfmeter in der Bundesliga. Er hat nur elf bekommen. Kramaric hatte vorher 18 Elfmeter in Folge verwandelt. So einen Elfmeter-Killer habe die Bundesliga noch nicht gesehen, heißt es.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Atubolu hält Elfmeter",
+              "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-noah-atubolu-elfmeter-gehalten-siebter-rekord-eintracht-frankfurt-tsg-hoffenheim-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Schalke wartet weiter auf den ersten Heimsieg",
+          "unterzeile": "0:0 gegen Stuttgart",
+          "text": "Schalke hat zu Hause 0:0 gegen Stuttgart gespielt. Die Mannschaft hatte ein paar gute Chancen. Aber es fehlte im Abschluss. Es ist das fünfte Heimspiel ohne eigenes Tor. Das ist ein trauriger Rekord, den vorher nur St. Pauli geschafft hat.\n\nSchalke hat sieben Punkte und steht auf Platz 16. Seit acht Spielen wartet das Team auf einen Sieg. Die Fans kämpfen mit.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Schalke gegen Stuttgart",
+              "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-fc-schalke-vfb-stuttgart-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Bayern ohne Kane",
+          "unterzeile": "Der Stürmer fällt mehrere Monate aus",
+          "text": "Bei den Bayern gibt es traurige Nachrichten. Harry Kane hat sich am Band im Sprunggelenk verletzt. Die Ärzte nennen das Syndesmose. Er fällt mehrere Monate aus.\n\nAuch um Jamal Musiala gibt es viel Gerede. Er war oft verletzt. Der Klub sagt: Er bekommt alle Unterstützung und alle Zeit, die er braucht. Bei den Bossen gibt es dazu aber unterschiedliche Meinungen.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Kane und Musiala",
+              "url": "https://www.zdfheute.de/sport/fussball-bundesliga/bundesliga-bayern-kane-musiala-verletzung-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Leipzig trifft fünfmal",
+          "unterzeile": "Auch Leverkusen siegt hoch",
+          "text": "RB Leipzig hat bei Union Berlin 5:1 gewonnen. Bayer Leverkusen schlug Paderborn 4:0. Freiburg gewann in Elversberg 1:0.\n\nDas sind die Ergebnisse vom Samstag. Sie stehen unten im Kasten.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Sport",
+              "url": "https://www.zdfheute.de/sport"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Ergebnisse, 10. Spieltag",
+        "punkte": [
+          "Fr: Bayern – Köln 1:1",
+          "Sa: Leverkusen – Paderborn 4:0",
+          "Sa: Frankfurt – Hoffenheim 1:0",
+          "Sa: Union Berlin – Leipzig 1:5",
+          "Sa: Gladbach – Dortmund 0:1",
+          "Sa: Elversberg – Freiburg 0:1",
+          "Sa: Schalke – Stuttgart 0:0",
+          "So 15.30 Uhr: Augsburg – Mainz",
+          "So 17.30 Uhr: Werder – HSV",
+          "Spitze: Dortmund 24, Bayern 22 Punkte"
+        ],
+        "quellen": [
+          {
+            "name": "ZDFheute: Sport",
+            "url": "https://www.zdfheute.de/sport"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Sport: Vereine und mehr",
+      "artikel": [
+        {
+          "titel": "Zverev spielt heute um den Titel",
+          "unterzeile": "Finale der ATP Finals gegen Alcaraz",
+          "text": "Alexander Zverev spielt heute im Finale der ATP Finals. Das ist das große Turnier zum Ende der Tennis-Saison. Im Halbfinale schlug er Daniil Medwedew 7:6 und 6:4. Den ersten Satz gewann er im Tie-Break mit 7:0.\n\nIm Finale trifft er auf Carlos Alcaraz. Die Doppel-Spieler Kevin Krawietz und Tim Pütz waren zuvor im Halbfinale knapp ausgeschieden.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Zverev im Endspiel",
+              "url": "https://www.zdfheute.de/sport/tennis-atp-finals-alexander-zverev-endspiel-100.html"
+            },
+            {
+              "name": "ZDFheute: Krawietz/Pütz",
+              "url": "https://www.zdfheute.de/sport/tennis-atp-finals-kevin-krawietz-tim-puetz-aus-ende-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Die Skispringer starten mit einem Sieg aus Österreich",
+          "unterzeile": "Weltcup in Lillehammer",
+          "text": "Die Skisprung-Saison hat begonnen. In Lillehammer in Norwegen gewann bei den Männern Stefan Embacher aus Österreich. Bester Deutscher war Philipp Raimund auf Platz 15. Pius Paschke wurde 18.\n\nBei den Frauen gewann Eirin Maria Kvandal aus Norwegen. Die Norwegerinnen belegten die ersten fünf Plätze. Beste Deutsche war Selina Freitag auf Platz 8. Der Wind war schwierig.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Skispringen in Lillehammer",
+              "url": "https://www.zdfheute.de/sport/wintersport/wintersport-skispringen-maenner-frauen-lillehammer-weltcup-enttaeuschung-dsv-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Köln verliert in der Verlängerung",
+          "unterzeile": "Ein Rekord für Moritz Müller",
+          "text": "Im Eishockey haben die Kölner Haie bei Red Bull München 3:4 nach Verlängerung verloren. Das war am Freitag. Kapitän Moritz Müller traf zum 1:1. Er ist jetzt der Spieler mit den meisten Spielen in der Deutschen Eishockey Liga. Das hat noch keiner vor ihm geschafft.",
+          "quellen": [
+            {
+              "name": "ZDFheute: DEL München gegen Köln",
+              "url": "https://www.zdfheute.de/sport/wintersport/video/261121-eishockey-del-muenchen-koeln-highlights-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "2. Liga: Bochum verliert bei St. Pauli",
+          "unterzeile": "Hertha führt die Tabelle an",
+          "text": "In der 2. Bundesliga hat St. Pauli den VfL Bochum 2:0 besiegt. Die Tore schossen Youssoupha Niang und Tomoya Ando. Für Bochum ist das ein bitterer Abend.\n\nHertha BSC führt die Tabelle mit 31 Punkten an. Das Team hat aber ein Spiel weniger gespielt. Es spielt heute noch in Cottbus. Danach kommen Nürnberg mit 24 und Magdeburg mit 23 Punkten.",
+          "quellen": [
+            {
+              "name": "ZDFheute: 2. Bundesliga",
+              "url": "https://www.zdfheute.de/sport/2-bundesliga-fussball-tabelle-spiele-statistiken-ergebnisse-liveticker-100.html"
+            },
+            {
+              "name": "ZDFheute: Sport",
+              "url": "https://www.zdfheute.de/sport"
+            }
+          ]
+        },
+        {
+          "titel": "Hockey in der Halle: Uhlenhorst Mülheim ist dabei",
+          "unterzeile": "Die Hallensaison hat begonnen",
+          "text": "Im Hockey hat die Hallenrunde begonnen. Die Mülheimer Männer von Uhlenhorst spielen in der Gruppe West. Dort treffen sie auch auf Rot-Weiss Köln und den Club Raffelberg aus Duisburg.\n\nDas Derby in Köln gegen Uhlenhorst ist für den 17. Januar um 14 Uhr angesetzt. Beim Vorbericht fehlten zwei Mülheimer Spieler: Moritz Ludwig und Malte Hellwig. Die anderen erfahrenen Spieler sollten aber dabei sein.",
+          "quellen": [
+            {
+              "name": "Rot-Weiss Köln: Vorbericht Hallenhockey",
+              "url": "https://rot-weiss-koeln.de/2026/11/vorbericht-rot-weiss-koeln-1-herren-hallenhockey-bundesliga-2026-27/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Heute im Sport",
+        "punkte": [
+          "13.30 Uhr, 2. Liga: Kaiserslautern – Dresden, Karlsruhe – Osnabrück, Cottbus – Hertha",
+          "15.30 Uhr: Augsburg – Mainz (Bundesliga)",
+          "17.30 Uhr: Werder – HSV (Bundesliga)",
+          "Tennis: Zverev gegen Alcaraz, Finale ATP Finals"
+        ],
+        "quellen": [
+          {
+            "name": "ZDFheute: Sport",
+            "url": "https://www.zdfheute.de/sport"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klatsch & Tratsch",
+      "artikel": [
+        {
+          "titel": "Tokio Hotel: 25 Jahre in einer Doku",
+          "unterzeile": "Die Band zeigt ihr Archiv",
+          "text": "Die Band Tokio Hotel wird in einer neuen Doku-Reihe im ZDF gezeigt. Sie heißt „Tokio Hotel – Gegen alle Regeln“. Es sind drei Teile mit je etwa 30 Minuten. Sie erzählen von 25 Jahren Bandgeschichte.\n\nDie Band hat dafür ihr Archiv geöffnet. Man sieht auch Bilder, die noch nie gezeigt wurden. Es geht um Magdeburg in den frühen 2000ern. Dort fing alles in der Schule an. Dann ging es steil nach oben bis zum Weltruhm. Bill Kaulitz sagt: Es kommen Sachen vor, die noch nie jemand erfahren hat.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Tokio Hotel Doku",
+              "url": "https://www.zdfheute.de/panorama/prominente/tokio-hotel-doku-gegen-alle-regeln-wetten-dass-kaulitz-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Bill und Tom Kaulitz bei „Wetten, dass..?“",
+          "unterzeile": "Am 5. Dezember im Fernsehen",
+          "text": "Am 5. Dezember ist wieder eine Ausgabe von „Wetten, dass..?“ geplant. Zu Gast sind die Zwillinge Bill und Tom Kaulitz. Sie haben schon etwas von den Vorbereitungen verraten. Mehr steht in dem Bericht von ZDFheute vom 20. Oktober nicht.\n\nMerk dir den Termin vielleicht schon vor.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Tokio Hotel und Wetten, dass..?",
+              "url": "https://www.zdfheute.de/panorama/prominente/tokio-hotel-doku-gegen-alle-regeln-wetten-dass-kaulitz-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Die Rosenheim-Cops sagen Lebewohl",
+          "unterzeile": "Marisa Burger spielte 25 Jahre lang Miriam Stockl",
+          "text": "Die Rosenheim-Cops haben eine besondere letzte Folge. Sie heißt „Es gabat an Abschied“. Marisa Burger hat 25 Jahre lang die Sekretärin Miriam Stockl gespielt. Die Folge gibt es seit dem 10. November im ZDF-Streaming.\n\nIm Fernsehen kommt sie am Dienstag, 24. November, um 19.25 Uhr im ZDF. Das wird ein Abschied für viele Fans.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Marisa Burger",
+              "url": "https://www.zdfheute.de/panorama/prominente/rosenheim-cops-stockl-abschied-letzte-folge-burger-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Wolf Biermann wird 90",
+          "unterzeile": "Ein Film über sein Leben läuft im Kino",
+          "text": "Der Liedermacher Wolf Biermann ist 90 Jahre alt geworden. Über sein Leben gibt es einen Dokumentarfilm im Kino. Er heißt „Biermann – warte nicht auf bessre Zeiten“. Er läuft seit dem 29. Oktober.\n\nDas ist ein Hinweis für einen Kinoabend. Den genauen Geburtstag nennt ZDFheute nicht.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Wolf Biermann",
+              "url": "https://www.zdfheute.de/panorama/prominente/wolf-biermann-geburtstag-dokumentation-100.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Klatsch & Tratsch: TV, Shows und Stars der Welt",
+      "artikel": [
+        {
+          "titel": "Wer wird das nächste Bond-Girl?",
+          "unterzeile": "Eine Liste mit 19 Namen",
+          "text": "Robert Pattinson wird der neue James Bond. Das hat die Bond-Seite im Netz am 16. November bestätigt. Der Film soll 2028 ins Kino kommen. Regie führt Denis Villeneuve. Gedreht wird laut Medien ab 2027.\n\nJetzt rätselt man, wer an seiner Seite spielt. Das Magazin „Variety“ hat eine Liste mit 19 Namen gemacht. Darauf stehen Zendaya, Margaret Qualley und Florence Pugh. Mit Zendaya hat Pattinson schon den Film „The Drama“ gedreht. Das sind nur Vorschläge. Eine Entscheidung gibt es noch nicht.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Bond-Girl für Pattinson",
+              "url": "https://www.zdfheute.de/panorama/prominente/bond-girl-pattinson-frau-schauspielerin-007-100.html"
+            },
+            {
+              "name": "ZDFheute: Pattinson wird Bond",
+              "url": "https://www.zdfheute.de/panorama/prominente/robert-pattinson-james-bond-007-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Heute Abend im Fernsehen",
+          "unterzeile": "Tatort, Traumschiff oder Show?",
+          "text": "Heute Abend läuft viel Schönes. Im Ersten kommt um 20.15 Uhr der Tatort „4 Finger“ aus Frankfurt. Im ZDF fährt um 20.15 Uhr das Traumschiff nach Bangkok. Dort reist eine Arzthelferin an den Ort ihrer Herkunft.\n\nProSieben zeigt um 20.15 Uhr die Show „Wer stiehlt mir die Show?“ mit Carolin Kebekus und Knossi. Mehr dazu steht im Kasten.",
+          "quellen": [
+            {
+              "name": "TVinfo: Programm 22.11.",
+              "url": "https://www.tvinfo.de/tv-programm/22.11.2026/20:15"
+            },
+            {
+              "name": "tele.at: Tatort 4 Finger",
+              "url": "https://www.tele.at/tv-programm/sendungen/47956/tatort-4-finger"
+            }
+          ]
+        },
+        {
+          "titel": "William und Kate spielen Straßen-Cricket",
+          "unterzeile": "Besuch in Mumbai in Indien",
+          "text": "Prinz William und Prinzessin Kate sind in Indien. Ihr Besuch in Mumbai dauert drei Tage. Er hat mit dem Earthshot-Preis zu tun. Das ist ein Umweltpreis.\n\nAm Montag spielten sie mit dem Cricket-Star Sachin Tendulkar und Schulkindern auf der Straße Cricket. Dabei tranken sie auch Tee. Prinz William schlug den Ball. Kate bekam vom Star einen Ball zugespielt.",
+          "quellen": [
+            {
+              "name": "ITV News: William und Kate spielen Cricket",
+              "url": "https://www.itv.com/news/2026-11-16/william-and-kate-play-street-cricket-with-sachin-tendulkar-to-begin-india-trip"
+            },
+            {
+              "name": "Khaleej Times",
+              "url": "https://www.khaleejtimes.com/prince-william-princess-kate-sachin-tendulkar-gully-cricket-mumbai"
+            }
+          ]
+        },
+        {
+          "titel": "Kehrt Macaulay Culkin als Kevin zurück? Ein Gerücht",
+          "unterzeile": "Disney soll einen neuen Film planen",
+          "text": "Es gibt ein Gerücht. Macaulay Culkin soll noch einmal den Kevin aus „Kevin – Allein zu Haus“ spielen. Disney soll einen neuen Film planen. Die Handlung ist geheim.\n\nOffiziell bestätigt ist das nicht. Nach Berichten ist das Projekt noch in einer sehr frühen Phase. Culkin selbst sagte, er sei nicht ganz abgeneigt.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Promi-News November",
+              "url": "https://www.zdfheute.de/panorama/prominente/stars-promi-news-bilder-november-2026-100.html"
+            },
+            {
+              "name": "PC Games: Reboot mit Culkin (Gerücht)",
+              "url": "https://www.pcgames.de/Kino-Thema-130800/News/Kevin-Allein-zu-Haus-Reboot-Macaulay-Culkin-Disney-1550042/"
+            }
+          ]
+        },
+        {
+          "titel": "David Beckham streitet mit einer Firma",
+          "unterzeile": "Es geht um Parfüm und Pflegeprodukte",
+          "text": "David Beckhams Firma verklagt die Firma Coty in New York. Sie will mindestens 41 Millionen US-Dollar. Das sind etwa 37 Millionen Euro. Es geht um Pflegeprodukte mit Beckhams Namen.\n\nDie Firma wirft Coty vor, die Produkte über nicht erlaubte Wege sehr billig verkauft zu haben. Coty sieht keinen Vertragsbruch. Das Gericht hat noch nicht entschieden.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Beckham und Coty",
+              "url": "https://www.zdfheute.de/panorama/prominente/david-beckham-coty-klage-100.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "TV-Tipps für heute Abend",
+        "punkte": [
+          "20.15 Uhr, Das Erste: Tatort „4 Finger“ (Frankfurt)",
+          "20.15 Uhr, ZDF: Das Traumschiff – Bangkok",
+          "20.15 Uhr, Sat.1: Film „Oskars Kleid“",
+          "20.15 Uhr, ProSieben: „Wer stiehlt mir die Show?“",
+          "20.15 Uhr, 3sat: Tatort „Fackel“",
+          "20.15 Uhr, WDR: „Wunderschön!“ – Montafon"
+        ],
+        "quellen": [
+          {
+            "name": "TVinfo: Programm 22.11.",
+            "url": "https://www.tvinfo.de/tv-programm/22.11.2026/20:15"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Zum Schluss: Gesundheit und Haushalt",
+      "artikel": [
+        {
+          "titel": "Vorsicht bei Anrufen von angeblichen Verwandten",
+          "unterzeile": "Schockanrufe treffen vor allem Ältere",
+          "text": "Betrüger rufen gern bei älteren Menschen an. Sie sagen am Telefon, ein Angehöriger sei in Not. Dann wollen sie Geld oder Schmuck. Das nennt man Schockanruf.\n\nBei „Aktenzeichen XY“ am 18. November ging es um einen Senior aus Überlingen. Er wurde so um 220.000 Euro gebracht. Auch in Mülheim wurde im Oktober nach Angaben der Polizei eine Seniorin um Schmuck gebracht. Unser Rat: Leg auf. Ruf die Person unter der Nummer an, die du selbst kennst. Gib nie Geld oder Schmuck an Fremde.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Schockanruf in Überlingen",
+              "url": "https://www.zdfheute.de/panorama/kriminalitaet/aktenzeichen-xy-november-2026-schockanruf-ueberlingen-100.html"
+            },
+            {
+              "name": "Presseportal: Meldungen aus Mülheim",
+              "url": "https://www.presseportal.de/blaulicht/st/M%C3%BClheim"
+            }
+          ]
+        },
+        {
+          "titel": "Kalt und glatt: Das Wetter heute",
+          "unterzeile": "Nachts bis minus 5 Grad",
+          "text": "Der Deutsche Wetterdienst warnt vor Glätte. Das gilt vor allem nachts. Heute wechseln sich im Norden und in der Mitte Wolken und kurze Schauer ab. Im Süden regnet es länger. Nachts kann es 0 bis minus 5 Grad kalt werden.\n\nEin kleiner Tipp von uns: Geh bei Glätte lieber langsam und nimm feste Schuhe. Und fühl dich wohl in der warmen Stube.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Wetter am Wochenende",
+              "url": "https://www.zdfheute.de/panorama/wetter-herbst-schauer-schnee-wochenende-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Termin beim Facharzt: Niemand muss dafür zahlen",
+          "unterzeile": "Der Chef der Techniker Krankenkasse warnt",
+          "text": "Der Chef der Techniker Krankenkasse hat eine Warnung ausgesprochen. Ärzte sollen Patienten nicht drängen, für Kassenleistungen oder für einen schnelleren Termin selbst zu zahlen.\n\nWenn dich jemand darum bittet, sprich mit deiner Krankenkasse. Frag lieber einmal zu viel nach.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Newsticker",
+              "url": "https://www.zdfheute.de/newsticker/schlagzeilen-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Vorsicht bei Mitteln fürs Größerwerden",
+          "unterzeile": "Warnung für Eltern und Großeltern",
+          "text": "Die Behörde BfArM warnt vor einem Trend bei Jugendlichen. Manche nehmen ein Krebsmedikament, damit sie größer werden. Es heißt Erdafitinib. Das Mittel ist dafür nicht zugelassen. Es kann schwere Nebenwirkungen haben, zum Beispiel an den Augen und an den Knochen.\n\nExperten sagen: Hinter dem Wunsch steckt oft großer Kummer. Reden hilft mehr als Schimpfen.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Heightmaxxing",
+              "url": "https://www.zdfheute.de/panorama/heightmaxxing-erdafitinib-medikament-missbrauch-100.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kleine Tipps",
+        "punkte": [
+          "Bei Glätte: kleine Schritte, festes Schuhwerk, Handlauf nutzen",
+          "Bei verdächtigen Anrufen: auflegen und selbst zurückrufen",
+          "Im Zweifel bei der Krankenkasse nachfragen"
+        ],
+        "quellen": [
+          {
+            "name": "ZDFheute: Wetter am Wochenende",
+            "url": "https://www.zdfheute.de/panorama/wetter-herbst-schauer-schnee-wochenende-100.html"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Die Lichterkette von Frau Winter",
+    "text": "Frau Winter wohnte im dritten Stock. Am letzten Sonntag im November holte sie jedes Jahr die alte Kiste vom Schrank. Darin lag eine Lichterkette. Sie hatte schon viele Winter gesehen. Frau Winter hängte sie vorsichtig ans Fenster. Dann schaltete sie den Strom ein. Erst blinkte nichts. Dann leuchtete eine Birne. Dann noch eine. Bald glänzte das ganze Fenster warm und gelb. Unten auf der Straße blieb ein kleines Mädchen stehen. Es winkte hinauf. Frau Winter winkte zurück. Sie kochte sich einen Tee und setzte sich ans Fenster. Draußen wurde es kalt. Drinnen war es still und schön. Und sie dachte: Manchmal reicht ein kleines Licht für einen großen Abend."
+  }
+}
