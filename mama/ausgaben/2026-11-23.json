@@ -1,0 +1,563 @@
+{
+  "gruss": "Guten Morgen, liebe Mama! Heute ist Montag, der 23. November. Die neue Woche startet frostig. Zieh dich warm an und pass auf glatte Wege auf. Heute gibt es Neues aus Mülheim, vom Fußball und von den Stars. Mach es dir gemütlich und viel Freude mit deiner Zeitung!",
+  "aufmacher": {
+    "rubrik": "Zum Wochenstart",
+    "titel": "Frostiger Start in die neue Woche",
+    "unterzeile": "Nachts kann es frieren, tagsüber bleibt es kalt – dazu gibt es Neues aus Mülheim und vom Fußball",
+    "text": "Die neue Woche beginnt kalt. In der Nacht gibt es Frost. Der Deutsche Wetterdienst erwartet bis zu minus fünf Grad. Auf den Straßen kann es stellenweise glatt sein.\n\nTagsüber wird es nur null bis fünf Grad warm. Im Ruhrgebiet sind bis zu fünf Grad möglich. Zieh dich warm an und geh vorsichtig, wenn du früh aus dem Haus musst.\n\nIn Mülheim gibt es diese Woche viel zu tun. Heute startet der Weihnachtstreff am Forum. Am Freitag folgt der Altstadt-Adventsmarkt. Und im Fußball ist Dortmund jetzt Tabellenführer.",
+    "quellen": [
+      {
+        "name": "wetter.com: Wetter am Montag",
+        "url": "https://wetter.com/news/wetterbericht-fuer-morgen-montag-23-november-2026-frostige-nacht-regen-und-schnee-so-startet-deutschland-in-die-neue-woche_aid_6b02909fcde8a8af980461fe.html"
+      },
+      {
+        "name": "Ruhr Nachrichten: Frost und Glätte in NRW",
+        "url": "https://www.ruhrnachrichten.de/regionales/wetter-nrw-sturm-regen-gewitter-wind-boeen-herbst-w1274825-2002302575/"
+      },
+      {
+        "name": "alle-weihnachtsmaerkte.de: Märkte in Mülheim",
+        "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Aus Mülheim",
+      "artikel": [
+        {
+          "titel": "Die Buslinie 129 fährt jetzt einen Umweg",
+          "unterzeile": "Wegen einer Sperrung an der Velauer Straße",
+          "text": "Ab heute fährt die Buslinie 129 einen anderen Weg. Grund ist eine Sperrung an der Velauer Straße. Die Ruhrbahn rechnet mit etwa zwei Wochen. Für drei Haltestellen gibt es keinen Ersatz. Die genauen Tage nennen die Quellen unterschiedlich. Schau deshalb bitte vor der Fahrt in die Verkehrsinfo der Ruhrbahn.",
+          "quellen": [
+            {
+              "name": "MS aktuell: Velauer Straße gesperrt",
+              "url": "https://ms-aktuell.de/welt/velauer-strasse-muelheim-20-11-2026/"
+            },
+            {
+              "name": "Ruhrbahn: Verkehrsinfo Mülheim",
+              "url": "https://www.ruhrbahn.de/muelheim/aktuelles/verkehrsinfo"
+            }
+          ]
+        },
+        {
+          "titel": "Die Stadt Mülheim schickt Neuigkeiten aufs Handy",
+          "unterzeile": "Ein WhatsApp-Kanal für alle",
+          "text": "Die Stadt hat jetzt einen eigenen Kanal bei WhatsApp. Dort stehen Neuigkeiten aus der Verwaltung. Auch Hinweise zu Baustellen und Sperrungen kommen dort an. Dazu gibt es Infos zu Veranstaltungen und Umfragen zum Mitmachen. Mit dem Glöckchen im Kanal wirst du bei neuen Meldungen benachrichtigt. Vielleicht kann dir Tim beim Einrichten helfen.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: WhatsApp-Kanal",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/stadt-muelheim-an-der-ruhr-jetzt-auf-whatsapp"
+            }
+          ]
+        },
+        {
+          "titel": "Mülheims Hockey-Stars im Rathaus geehrt",
+          "unterzeile": "Zwei Weltmeister und eine Europameisterin",
+          "text": "Oberbürgermeister Marc Buchholz hat am 16. November vier Hockey-Sportler geehrt. Maike Scheuer ist Europameisterin 2026. Malte Hellwig und Moritz Ludwig sind Weltmeister 2026. Beide wurden schon 2025 Europameister. Auch Lukas Windfeder gehört zum Europameister-Team 2025. Er konnte nicht kommen. Die Gäste trugen sich ins Goldene Buch der Stadt ein.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Empfang der Hockey-Spitzensportler",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/politik/repraesentation-der-stadt/veranstaltungen-und-empfaenge/empfang-der-muelheimer"
+            }
+          ]
+        },
+        {
+          "titel": "Unfall auf der A40 am Sonntagabend",
+          "unterzeile": "Drei Menschen wurden verletzt",
+          "text": "Am Sonntagabend gegen 20 Uhr kam auf der A40 ein Auto von der Straße ab. Es war hinter der Auffahrt Winkhausen, in Richtung Duisburg. Die Feuerwehr half drei verletzten Personen. Der Einsatz dauerte etwa 40 Minuten. Die Polizei klärt jetzt, wie es dazu kam.",
+          "quellen": [
+            {
+              "name": "Feuerwehr Mülheim: Verkehrsunfall auf der A40",
+              "url": "https://www.presseportal.de/blaulicht/pm/115880/6395565"
+            },
+            {
+              "name": "Newsflash24: Unfall auf der A40",
+              "url": "https://newsflash24.de/blaulicht/nordrhein-westfalen/muelheim-an-der-ruhr-drei-verletzte-bei-unfall-auf-der-a40"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Mülheim erleben",
+      "artikel": [
+        {
+          "titel": "Eine Ausstellung zeigt, wie wichtig Hinsehen ist",
+          "unterzeile": "„Schau hin“ im Forum",
+          "text": "Vom 24. bis 28. November gibt es im Forum eine Fotoausstellung. Der Eintritt ist frei. Die 21 Schwarz-Weiß-Bilder zeigen ein ernstes Thema: Gewalt gegen Frauen. Sie ist täglich von 11 bis 18 Uhr geöffnet. Die Eröffnung ist am Dienstag um 12 Uhr. Am Mittwoch leuchten außerdem die Stadthalle und Schloss Broich orange. Das ist ein Zeichen für mehr Hilfe und Mitgefühl.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Aktionsmonat gegen Gewalt an Frauen",
+              "url": "https://cms.muelheim-ruhr.de/leben-in-muelheim/gesellschaft-und-soziales/buero-fuer-chancengleichheit/aktuelles-aus-dem-buero-20"
+            }
+          ]
+        },
+        {
+          "titel": "Kai Magnus Sting kommt in den Ringlokschuppen",
+          "unterzeile": "Lachen am Donnerstagabend",
+          "text": "Am Donnerstag, 26. November, ist Kai Magnus Sting zu Gast. Sein Programm heißt „JA, WIE?! Tacheles und Wurstsalat“. Es beginnt um 20 Uhr im Ringlokschuppen. Karten kosten etwa 35 Euro. Sie waren am Sonntag noch zu haben.",
+          "quellen": [
+            {
+              "name": "news.de: Veranstaltungen in Mülheim",
+              "url": "https://www.news.de/lokales/856482710/muelheim-an-der-ruhr-veranstaltungen-und-events-aktuell-veranstaltungskalender-und-kommende-termine/1/"
+            }
+          ]
+        },
+        {
+          "titel": "Ein Weihnachtsmusical für Groß und Klein",
+          "unterzeile": "„Santa Claus“ in der Stadthalle",
+          "text": "Am Samstag, 28. November, spielt die Stadthalle ein Weihnachtsmusical. Es heißt „Santa Claus“ und ist nicht nur für Kinder. Los geht es um 17 Uhr. Karten kosten etwa 32 Euro. Das wäre vielleicht ein schöner Ausflug mit den Enkeln.",
+          "quellen": [
+            {
+              "name": "news.de: Veranstaltungen in Mülheim",
+              "url": "https://www.news.de/lokales/856482710/muelheim-an-der-ruhr-veranstaltungen-und-events-aktuell-veranstaltungskalender-und-kommende-termine/1/"
+            }
+          ]
+        },
+        {
+          "titel": "Drei Märkte in Mülheim im Überblick",
+          "unterzeile": "Wo es nach Weihnachten duftet",
+          "text": "Die Schiffsweihnacht auf der Schleuseninsel läuft noch bis zum 29. November. Der Weihnachtstreff am Forum startet heute und bleibt bis zum 23. Dezember. Der Altstadt-Adventsmarkt öffnet am Freitag und dauert bis zum 13. Dezember. Die Öffnungszeiten stehen auf den Seiten der Märkte. Termine können sich kurzfristig ändern.",
+          "quellen": [
+            {
+              "name": "alle-weihnachtsmaerkte.de: Märkte in Mülheim",
+              "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine der Woche",
+        "punkte": [
+          "Mo 23.11.: Start des Weihnachtstreffs am Forum",
+          "Di 24.11., 12 Uhr: Eröffnung der Ausstellung „Schau hin“ im Forum",
+          "Do 26.11., 20 Uhr: Kai Magnus Sting im Ringlokschuppen",
+          "Fr 27.11.: Start des Altstadt-Adventsmarkts",
+          "Sa 28.11., 17 Uhr: Musical „Santa Claus“ in der Stadthalle",
+          "So 29.11.: letzter Tag der Schiffsweihnacht"
+        ],
+        "quellen": [
+          {
+            "name": "alle-weihnachtsmaerkte.de",
+            "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/"
+          },
+          {
+            "name": "news.de: Veranstaltungen in Mülheim",
+            "url": "https://www.news.de/lokales/856482710/muelheim-an-der-ruhr-veranstaltungen-und-events-aktuell-veranstaltungskalender-und-kommende-termine/1/"
+          },
+          {
+            "name": "Stadt Mülheim: Ausstellung",
+            "url": "https://cms.muelheim-ruhr.de/leben-in-muelheim/gesellschaft-und-soziales/buero-fuer-chancengleichheit/aktuelles-aus-dem-buero-20"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland",
+      "artikel": [
+        {
+          "titel": "Streit um versteckte Steuern",
+          "unterzeile": "CSU-Chef Söder will einen Ausgleich für alle",
+          "text": "Markus Söder, der Chef der CSU, möchte, dass Bürger weniger Steuern zahlen. Es geht um die „kalte Progression“. Das heißt: Wenn alles teurer wird, steigen bei vielen auch die Steuern, ohne dass sie mehr haben. Söder nennt das „zutiefst ungerecht“. Der Ausgleich im Jahr 2027 würde zusammen rund 4,2 Milliarden Euro kosten. Bayern wäre bereit, Kosten zu tragen.\n\nNicht alle sind dafür. Die Regierungschefs von Nordrhein-Westfalen und Rheinland-Pfalz, beide von der CDU, lehnen den Vorschlag ab. Finanzminister Lars Klingbeil von der SPD verweist auf die geplante Steuerreform für kleine und mittlere Einkommen.\n\nDer Bundeshaushalt 2027 soll am Freitag im Bundestag beschlossen werden. Für Söders Vorschlag wäre es dann wohl zu spät. Eine spätere Lösung im Laufe des Jahres 2027 hält Unionsfraktionschef Thorsten Frei für möglich, wenn das Geld da ist.",
+          "quellen": [
+            {
+              "name": "Handelsblatt (dpa): Söder lässt nicht locker",
+              "url": "https://www.handelsblatt.com/politik/deutschland/versteckte-steuererhoehung-soeder-laesst-bei-kalter-progression-nicht-locker/100271857.html"
+            }
+          ]
+        },
+        {
+          "titel": "Strom soll ab 2027 weniger Steuern kosten",
+          "unterzeile": "Die Koalition will die Stromsteuer senken",
+          "text": "Die Regierung aus Union und SPD will die Stromsteuer für alle senken. Das hat der Koalitionsausschuss in der vergangenen Woche beschlossen. Ob die Senkung auch danach bleibt, hängt vom Geld ab. Das ist noch nicht sicher. Die Berichte nennen unterschiedliche Daten für die genauen Schritte.",
+          "quellen": [
+            {
+              "name": "t-online: Koalition beschließt Stromsteuer-Senkung",
+              "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101534002/stromsteuer-koalition-beschliesst-senkung-mit-einem-haken.html"
+            },
+            {
+              "name": "infranken.de: Bundesregierung senkt Stromsteuer",
+              "url": "https://www.infranken.de/ratgeber/karriere-geld/regierung-senkt-stromsteuer-2027-entlastung-haushalt-finanzierung-bundeshaushalt-art-6410685"
+            }
+          ]
+        },
+        {
+          "titel": "Kalte Nacht, kalter Tag",
+          "unterzeile": "So wird das Wetter zum Wochenstart",
+          "text": "In der Nacht zum Montag gibt es Frost von null bis minus fünf Grad. Stellenweise ist es glatt. Tagsüber sind es meist null bis fünf Grad. Im Osten und in den Alpen schneit es. Im Westen fällt stellenweise Regen. In manchen Gegenden zeigt sich kurz die Sonne.",
+          "quellen": [
+            {
+              "name": "wetter.com: Wetter am Montag",
+              "url": "https://wetter.com/news/wetterbericht-fuer-morgen-montag-23-november-2026-frostige-nacht-regen-und-schnee-so-startet-deutschland-in-die-neue-woche_aid_6b02909fcde8a8af980461fe.html"
+            },
+            {
+              "name": "Ruhr Nachrichten: Frost und Glätte in NRW",
+              "url": "https://www.ruhrnachrichten.de/regionales/wetter-nrw-sturm-regen-gewitter-wind-boeen-herbst-w1274825-2002302575/"
+            }
+          ]
+        },
+        {
+          "titel": "Ein neues Gesetz soll bei kaputten Produkten helfen",
+          "unterzeile": "Ab 9. Dezember gilt das neue Produkthaftungsgesetz",
+          "text": "Am 9. Dezember tritt in Deutschland ein neues Gesetz in Kraft. Es regelt, wer zahlt, wenn ein Produkt Schaden anrichtet. Es ersetzt das alte Gesetz von 1989. Jetzt fallen ausdrücklich auch Software und digitale Dienste darunter. Für Geschädigte soll es leichter werden, ihr Recht zu bekommen.",
+          "quellen": [
+            {
+              "name": "meinrecht.de: Das ändert sich im Dezember 2026",
+              "url": "https://www.meinrecht.de/magazin/recht-das-aendert-sich-im-dezember-2026"
+            },
+            {
+              "name": "netz-trends.de: Änderungen im Dezember 2026",
+              "url": "https://www.netz-trends.de/aenderungen-dezember-2026-produkthaftung-tankrabatt/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Aus aller Welt",
+      "artikel": [
+        {
+          "titel": "Eine winzige Fledermaus galt als ausgestorben",
+          "unterzeile": "Forscherin findet sie in Nigeria wieder",
+          "text": "Die Biologin Iroro Tanshi hat in Nigeria eine kleine Fledermaus gefunden. Seit den 1970er-Jahren hatte niemand sie in freier Natur gesehen. Man dachte, es gibt sie nicht mehr. Die Art heißt Kurzschwanz-Rundblattfledermaus. Sie wiegt nicht mehr als ein Teelöffel Salz. Die gefundene Gruppe ist die einzige, die man sicher kennt. Das ist eine schöne Nachricht für den Naturschutz.",
+          "quellen": [
+            {
+              "name": "watson.de: Für ausgestorben gehalten",
+              "url": "https://watson.de/nachhaltigkeit/good-news/266174169-fuer-ausgestorben-gehalten-forscherin-entdeckt-seltene-tierart-in-nigeria"
+            }
+          ]
+        },
+        {
+          "titel": "Mehr als 30 neue Arten im Atlantik",
+          "unterzeile": "Forscher entdecken Unbekanntes vor Brasilien",
+          "text": "Eine Forschungsreise im Atlantik vor Brasilien hat Überraschendes gebracht. Die Forscher fanden mehr als 30 Arten, die man bisher nicht kannte. Neue Technik machte das möglich.",
+          "quellen": [
+            {
+              "name": "watson.de: Entdeckung mitten im Atlantik",
+              "url": "https://watson.de/nachhaltigkeit/good-news/216310462-mitten-im-atlantik-neue-technologie-ermoeglicht-forschern-besondere-entdeckung"
+            }
+          ]
+        },
+        {
+          "titel": "Ein Junge fängt einen riesigen Rochen",
+          "unterzeile": "Elfjähriger angelt vor Schottland",
+          "text": "Ein elfjähriger Junge hat vor der Stadt Oban in Schottland einen Rochen gefangen. Das Tier wog geschätzt etwa 97 Kilogramm. Der britische Rekord für einen Fang vom Ufer liegt bei 76,8 Kilogramm. Als Rekord zählt der Fang aber nicht, weil es für Jugendliche keine eigene Rekordliste gibt.",
+          "quellen": [
+            {
+              "name": "Berliner Zeitung: Junge fängt Riesenrochen",
+              "url": "https://berliner-zeitung.de/article/fast-zwei-meter-breit-junge-11-faengt-riesenrochen-doch-sein-rekord-wird-niemals-zaehlen-10616328"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Sport: Fußball-Bundesliga",
+      "artikel": [
+        {
+          "titel": "Dortmund ist jetzt Tabellenführer",
+          "unterzeile": "Ein Schuss und ein Patzer entscheiden in Gladbach",
+          "text": "Borussia Dortmund hat am Samstag bei Borussia Mönchengladbach 1:0 gewonnen. Felix Nmecha schoss in der 80. Minute aus etwa 16 Metern. Der Ball war eigentlich harmlos. Gladbachs Torwart Daniel Batz ließ ihn aber durchrutschen.\n\nDadurch steht Dortmund nach zehn Spielen mit 24 Punkten ganz oben. Bayern hat 22 Punkte, nachdem sie nur 1:1 gegen Köln gespielt haben.",
+          "quellen": [
+            {
+              "name": "Sportschau: Dortmund nutzt Batz' und Bayerns Patzer",
+              "url": "https://www.sportschau.de/fussball/bundesliga/dortmund-nutzt-batz-und-bayerns-patzer,video-bundesliga-gladbach-dortmund-zusammenfassung-100.html"
+            },
+            {
+              "name": "t-online: Ergebnisse 10. Spieltag",
+              "url": "https://www.t-online.de/sport/ergebnisse-tabelle/fussball/bundesliga/ergebnisse/sdc_fmdo-22/bundesliga-aktueller-spieltag.html"
+            }
+          ]
+        },
+        {
+          "titel": "Leipzig gewinnt 5:1 bei Union Berlin",
+          "unterzeile": "Ein klarer Sieg für die Sachsen",
+          "text": "RB Leipzig hat bei Union Berlin 5:1 gewonnen. Damit liegt Leipzig mit 21 Punkten auf Platz vier. Das sind nur drei Punkte hinter Dortmund.",
+          "quellen": [
+            {
+              "name": "t-online: Ergebnisse 10. Spieltag",
+              "url": "https://www.t-online.de/sport/ergebnisse-tabelle/fussball/bundesliga/ergebnisse/sdc_fmdo-22/bundesliga-aktueller-spieltag.html"
+            },
+            {
+              "name": "Fussballnationalmannschaft.net: Fußball heute am 22.11.2026",
+              "url": "https://www.fussballnationalmannschaft.net/fussball-heute-am-22-11-2026-3-123337095.html"
+            }
+          ]
+        },
+        {
+          "titel": "Augsburg schlägt Mainz",
+          "unterzeile": "Ein 3:1 im Krisenduell",
+          "text": "Der FC Augsburg hat am Sonntag gegen Mainz 05 mit 3:1 gewonnen. Beide Mannschaften standen unter Druck. Für Augsburg ist das ein wichtiger Erfolg.",
+          "quellen": [
+            {
+              "name": "t-online: Ergebnisse 10. Spieltag",
+              "url": "https://www.t-online.de/sport/ergebnisse-tabelle/fussball/bundesliga/ergebnisse/sdc_fmdo-22/bundesliga-aktueller-spieltag.html"
+            },
+            {
+              "name": "Fussballdaten.de: Spielplan Bundesliga",
+              "url": "https://www.fussballdaten.de/bundesliga/spielplan/"
+            }
+          ]
+        },
+        {
+          "titel": "Leverkusen gewinnt klar gegen Paderborn",
+          "unterzeile": "4:0 am Samstag",
+          "text": "Bayer Leverkusen hat am Samstag gegen Paderborn 4:0 gewonnen. Die Mannschaft steht mit 19 Punkten auf Platz fünf. Werder Bremen ist mit 18 Punkten Sechster. Bremen hat am Sonntag gegen den HSV gewonnen. Die Quellen nennen dafür unterschiedliche Ergebnisse. Der Sieg ist aber sicher.",
+          "quellen": [
+            {
+              "name": "t-online: Ergebnisse 10. Spieltag",
+              "url": "https://www.t-online.de/sport/ergebnisse-tabelle/fussball/bundesliga/ergebnisse/sdc_fmdo-22/bundesliga-aktueller-spieltag.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Tabelle nach dem 10. Spieltag",
+        "punkte": [
+          "1. Dortmund: 24 Punkte",
+          "2. Bayern: 22 Punkte (Tore 30:10)",
+          "3. Freiburg: 22 Punkte (Tore 21:10)",
+          "4. Leipzig: 21 Punkte",
+          "5. Leverkusen: 19 Punkte",
+          "6. Bremen: 18 Punkte"
+        ],
+        "quellen": [
+          {
+            "name": "t-online: Ergebnisse 10. Spieltag",
+            "url": "https://www.t-online.de/sport/ergebnisse-tabelle/fussball/bundesliga/ergebnisse/sdc_fmdo-22/bundesliga-aktueller-spieltag.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Sport: weitere Sportarten und Vereine",
+      "artikel": [
+        {
+          "titel": "Alcaraz gewinnt das Finale gegen Zverev",
+          "unterzeile": "Der Deutsche verliert knapp in Turin",
+          "text": "Carlos Alcaraz hat die ATP Finals in Turin gewonnen. Im Endspiel schlug er Alexander Zverev mit 6:2 und 7:6. Das Spiel dauerte gut zwei Stunden. Im zweiten Satz führte Zverev schon 6:3 im Tiebreak. Er konnte drei Satzbälle aber nicht nutzen.\n\nBis zum Finale hatte Zverev in Turin keinen Satz abgegeben. Nach dem Spiel sagte er, sein Jahr habe mit Alcaraz begonnen und ende nun mit ihm. Er hoffe, dass es im nächsten Jahr genauso ist.",
+          "quellen": [
+            {
+              "name": "Eurosport: Alcaraz gewinnt die ATP Finals",
+              "url": "https://www.eurosport.de/tennis/atp-finals-turin/2026/atp-finals-2026-carlos-alcaraz-gewinnt-erstmals-den-jahresabschluss-alexander-zverev-unterliegt-im-finale-von-turin_sto23357783/story.shtml"
+            },
+            {
+              "name": "Sportschau: Zverev folgt Alcaraz ins Finale",
+              "url": "https://www.sportschau.de/tennis/atp/zverev-folgt-alcaraz-ins-traumfinale,spielbericht-atp-finals-zverev-medvedev-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Eishockey: Viele Tore am Sonntag",
+          "unterzeile": "Die DEL-Ergebnisse",
+          "text": "In der Deutschen Eishockey Liga fielen am Sonntag viele Tore. München gewann in Ingolstadt 8:5. Berlin siegte in Straubing 6:4. Mannheim schlug Köln 4:2. Augsburg gewann in Schwenningen 5:4. Iserlohn schlug Frankfurt 5:3. Nürnberg gewann 2:1 gegen Bremerhaven. Krefeld schlug Wolfsburg 4:0.",
+          "quellen": [
+            {
+              "name": "Sportschau: DEL-Ergebnisse",
+              "url": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/spiele-und-ergebnisse"
+            }
+          ]
+        },
+        {
+          "titel": "Basketball: Bayern gewinnt bei Alba",
+          "unterzeile": "90:79 in Berlin",
+          "text": "Der FC Bayern hat in der Basketball-Bundesliga bei Alba Berlin 90:79 gewonnen. Die Münchner trafen 16 Dreier, Alba nur neun. Nach der Pause setzten sich die Bayern ab.",
+          "quellen": [
+            {
+              "name": "Sportschau: Alba-Pleite gegen Bayern",
+              "url": "https://www.sportschau.de/regional/rbb/rbb-alba-pleite-berlin-verliert-prestigeduell-gegen-die-bayern-100.html"
+            },
+            {
+              "name": "nord24: Alba verliert Prestigeduell",
+              "url": "https://www.nord24.de/sport/alba-berlin-verliert-prestigeduell-gegen-bayern-muenchen-432619.html"
+            }
+          ]
+        },
+        {
+          "titel": "Karten für die „Nacht der Sieger“ in Mülheim",
+          "unterzeile": "Der Vorverkauf läuft",
+          "text": "Am 13. März 2027 ehrt Mülheim seine besten Sportler. Die Feier beginnt um 18.30 Uhr in der Westenergie Sporthalle. Der Vorverkauf hat am 18. November begonnen. Die ersten 300 Karten sind etwas billiger, nämlich 30 oder 27 Euro. Kinder unter 6 Jahren kommen kostenlos hinein. Karten gibt es nur im Internet.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: medl-Nacht der Sieger",
+              "url": "https://cms.muelheim-ruhr.de/aktuelles-aus-dem-sport/gaensehaut-show-und-sportler-des-jahres-medl-nacht-der-sieger-startet-in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Klatsch & Tratsch",
+      "artikel": [
+        {
+          "titel": "Hape Kerkeling spricht über Hass und Zuspruch",
+          "unterzeile": "Nach seiner Rede im Thüringer Landtag",
+          "text": "Hape Kerkeling hat in einem Interview erzählt, wie die Menschen auf seine Rede im Thüringer Landtag reagiert haben. Er bekam Zuspruch, aber auch Hass. Mehr Einzelheiten stehen in den Kurzmeldungen nicht.",
+          "quellen": [
+            {
+              "name": "infranken.de: Promi-News",
+              "url": "https://www.infranken.de/unterhaltung/stars/"
+            }
+          ]
+        },
+        {
+          "titel": "Sarah Connor zeigt sich mit neuem Look",
+          "unterzeile": "Nach dem Ende ihrer Ehe",
+          "text": "Die Sängerin Sarah Connor hat sich nach dem Ehe-Aus verändert. Sie zeigt sich mit einem neuen Look. Das meldet das Promi-Portal Promiflash.",
+          "quellen": [
+            {
+              "name": "Promiflash",
+              "url": "https://www.promiflash.de/"
+            }
+          ]
+        },
+        {
+          "titel": "Kommt ein GZSZ-Star ins Dschungelcamp? Ein Gerücht",
+          "unterzeile": "Noch nichts offiziell",
+          "text": "Laut Promiflash soll im nächsten Jahr ein GZSZ-Star im Dschungelcamp dabei sein. Der Name wird nicht genannt. Das ist nur ein Gerücht. Bestätigt ist nichts.",
+          "quellen": [
+            {
+              "name": "Promiflash",
+              "url": "https://www.promiflash.de/"
+            }
+          ]
+        },
+        {
+          "titel": "Neue Staffel „Hochzeit auf den ersten Blick“",
+          "unterzeile": "Paare, die sich zum ersten Mal vor dem Altar sehen",
+          "text": "Im Fernsehen kommt eine neue Staffel von „Hochzeit auf den ersten Blick“. Dabei heiraten Paare, die sich vorher nicht kannten. Den Starttermin nennt Promiflash in der Kurzmeldung nicht.",
+          "quellen": [
+            {
+              "name": "Promiflash",
+              "url": "https://www.promiflash.de/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Klatsch & Tratsch: TV, Shows, Royals und Stars der Welt",
+      "artikel": [
+        {
+          "titel": "Robert Pattinson wird der neue James Bond",
+          "unterzeile": "Fans und Fachleute streiten",
+          "text": "Der britische Schauspieler Robert Pattinson soll der neue James Bond werden. Die Reaktionen sind gemischt. Aus der Filmbranche gibt es viel Lob. Auch der frühere Bond George Lazenby hat ihn willkommen geheißen. Manche Fans sind dagegen skeptisch. Sie sagen, er sei kein klassischer Bond. Regie führt Denis Villeneuve. Wie gut Pattinson als Bond ist, weiß noch niemand.",
+          "quellen": [
+            {
+              "name": "Deadline: Reaktionen auf Pattinson als Bond",
+              "url": "https://deadline.com/2026/11/robert-pattinson-james-bond-casting-reactions-1237225350/"
+            },
+            {
+              "name": "The Wrap: Reaktionen",
+              "url": "https://www.thewrap.com/creative-content/movies/robert-pattinson-james-bond-casting-reactions/"
+            }
+          ]
+        },
+        {
+          "titel": "Weihnachtsfilme bei ARD und ZDF",
+          "unterzeile": "Ein Blick auf die Adventszeit",
+          "text": "Die Sender zeigen in der Adventszeit neue Weihnachtsfilme. Am 6. Dezember läuft um 15.15 Uhr im Ersten „Weihnachten in Sommerby“. Am 7. Dezember zeigt das ZDF um 20.15 Uhr „Ein Ticket zur Bescherung“. Am 11. Dezember folgt im Ersten „Immer wieder Weihnachten“. Die Termine stammen aus Ankündigungen. Bitte prüfe sie später im Programm.",
+          "quellen": [
+            {
+              "name": "DIGITAL FERNSEHEN: Weihnachten im TV",
+              "url": "https://www.digitalfernsehen.de/news/inhalte/fernsehen/weihnachten-im-tv-das-planen-ard-und-zdf-2026-1191903"
+            },
+            {
+              "name": "nordbayern.de: Weihnachtsfilme 26",
+              "url": "https://www.nordbayern.de/schlagzeilen/turchen-wunsche-lugen-weihnachtsfilme-26-bei-ard-und-zdf-1.15362775"
+            }
+          ]
+        },
+        {
+          "titel": "Miley Cyrus hat geheiratet",
+          "unterzeile": "Nach sechs Jahren Beziehung",
+          "text": "Die Sängerin Miley Cyrus hat Maxx Morando geheiratet. Die beiden waren sechs Jahre zusammen. Das meldet klatsch-tratsch.de.",
+          "quellen": [
+            {
+              "name": "klatsch-tratsch.de",
+              "url": "https://www.klatsch-tratsch.de/"
+            }
+          ]
+        },
+        {
+          "titel": "Weihnachten ohne Harry und Meghan in Sandringham? Ein Gerücht",
+          "unterzeile": "Prinz Harry soll gelassen sein",
+          "text": "Laut Promiflash sollen Prinz Harry und Meghan Weihnachten nicht in Sandringham verbringen. Harry soll das nicht stören. Das sind Berichte aus dem Umfeld, nichts ist offiziell bestätigt.",
+          "quellen": [
+            {
+              "name": "Promiflash",
+              "url": "https://www.promiflash.de/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "TV-Tipps für heute Abend, 20.15 Uhr",
+        "punkte": [
+          "ARD: Die Tricks von McDonalds und Burger King (Reportage)",
+          "ZDF: Maria hat Angst (Krimidrama)",
+          "RTL: Bauer sucht Frau",
+          "Sat.1: Der SAT.1 Haushaltsgeräte-Check",
+          "ProSieben: Das Bourne Ultimatum (Thriller)",
+          "VOX: Lege kommt auf den Geschmack"
+        ],
+        "quellen": [
+          {
+            "name": "TV Movie: Programm",
+            "url": "https://www.tvmovie.de/tv/programm"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Zum Schluss: Gesundheit und Haushalt",
+      "artikel": [
+        {
+          "titel": "Erkältungszeit: Was wirklich hilft",
+          "unterzeile": "Schlaf und Händewaschen",
+          "text": "Gerade gehen vor allem Erkältungsviren um. Das zeigen die Daten des Robert Koch-Instituts. Der Arzt Leif Erik Sander rät zu genug Schlaf und regelmäßigem Händewaschen. Von Vitamin C als Wundermittel hält er nicht viel. Eine Grippeimpfung im Herbst hält er für sinnvoll. Frag dazu am besten deine Ärztin oder deinen Arzt.",
+          "quellen": [
+            {
+              "name": "ZDFheute: So krank ist Deutschland",
+              "url": "https://www.zdfheute.de/wissen/erkaeltung-grippe-welle-rki-104.html"
+            },
+            {
+              "name": "ADAC: Grippe oder Erkältung",
+              "url": "https://www.adac.de/gesundheit/krankheiten/grippe-grippaler-infekt/"
+            }
+          ]
+        },
+        {
+          "titel": "Trockene Heizungsluft: Trink genug",
+          "unterzeile": "Auch Lüften tut gut",
+          "text": "Beim Heizen wird die Luft trocken. Das kann die Schleimhäute schwächen. Hilfreich ist es, genug zu trinken und regelmäßig zu lüften. Gegen Erkältungen helfen übrigens keine Antibiotika. Meist heilt eine Erkältung von allein, wenn man sich schont.",
+          "quellen": [
+            {
+              "name": "Cerascreen: Grippe oder Erkältung vorbeugen",
+              "url": "https://www.cerascreen.at/blogs/gesundheitsportal/grippe-oder-erkaeltung-vorbeugen-immunsystem-staerken"
+            },
+            {
+              "name": "ADAC: Grippe oder Erkältung",
+              "url": "https://www.adac.de/gesundheit/krankheiten/grippe-grippaler-infekt/"
+            }
+          ]
+        },
+        {
+          "titel": "Frostige Nächte: Vorsicht auf dem Weg",
+          "unterzeile": "Nebel und Reifglätte",
+          "text": "Der Wetterdienst in Essen erwartet nachts bis zu minus fünf Grad. Es kann Nebel und Reifglätte geben. Am Morgen sind Wege deshalb manchmal rutschig. Geh langsam und nimm feste Schuhe mit gutem Profil.",
+          "quellen": [
+            {
+              "name": "Ruhr Nachrichten: Frost und Glätte in NRW",
+              "url": "https://www.ruhrnachrichten.de/regionales/wetter-nrw-sturm-regen-gewitter-wind-boeen-herbst-w1274825-2002302575/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Der Tee von Frau Lindner",
+    "text": "Frau Lindner wohnte im dritten Stock. Jeden Morgen um acht Uhr stellte sie den Wasserkessel auf. Draußen war es frostig, und die Fenster waren ein wenig beschlagen. Sie holte zwei Tassen aus dem Schrank, obwohl sie allein war. Eine alte Gewohnheit, sagte sie immer.\n\nAn diesem Montag klopfte es leise an der Tür. Draußen stand der kleine Paul aus dem zweiten Stock. Seine Mütze hing schief, und seine Nase war ganz rot. „Ich habe meinen Schlüssel vergessen“, sagte er. „Und meine Mama kommt erst um zehn.“\n\nFrau Lindner lächelte. „Dann komm herein“, sagte sie. „Ich habe gerade Tee gemacht.“ Paul setzte sich an den Küchentisch und umfasste die warme Tasse mit beiden Händen. Frau Lindner stellte einen Teller mit Keksen dazu. Es duftete nach Zimt, und aus dem Radio klang leise ein Weihnachtslied.\n\nSie sprachen über Schnee und über Wünsche. Paul wollte ein Fahrrad. Frau Lindner wünschte sich nur, dass alle gesund bleiben. Als Pauls Mama endlich klingelte, war die zweite Tasse leer. „Danke“, sagte Paul. Frau Lindner nickte und dachte: Heute hat die zweite Tasse ihren Platz gefunden."
+  }
+}
