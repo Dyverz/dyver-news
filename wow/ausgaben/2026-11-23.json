@@ -1,0 +1,530 @@
+{
+  "gruss": "Guten Morgen, Abenteurer! Heute: Hotfixes ohne Notes, Raid-Größen für den 9. Dezember, Streit um die Fraktionsbalance und die Wartung am Dienstag.",
+  "aufmacher": {
+    "rubrik": "Hotfixes",
+    "titel": "Stille Hotfixes: Lockboxen leeren sich direkt in die Taschen",
+    "unterzeile": "Fan-Tracker sieht Änderungen vom 21. und 22. November, Blizzard hat keine Notes veröffentlicht",
+    "text": "Laut dem Fan-Tracker Forever Changes sind zwei Änderungen aufgetaucht, die nicht in Blizzards Hotfix-Liste stehen. Am 22. November sollen Lockboxes, Junkboxes und ähnliche Behälter ihren Inhalt direkt in eure Taschen legen. Am 21. November, gesehen am 22., stieg der Vendor-Preis von Gustberry Juice auf 1 Silber 25 Kupfer (vorher 25 Kupfer).\n\nDer Tracker liest solche Änderungen aus den Daten, die die Server an den Client schicken, und weist selbst darauf hin, dass Blizzard keine Notes dazu hat. Behandelt beide Punkte deshalb als Beobachtung einer Fan-Seite, nicht als offizielle Meldung. Der Tracker führt außerdem Build 1.60.1.71037 vom 20. November als aktuellen Client.",
+    "quellen": [
+      {
+        "name": "Forever Changes: Patch Notes",
+        "url": "https://foreverchanges.pro/patch-notes"
+      },
+      {
+        "name": "Space4Games: Patch-Notes-Übersicht",
+        "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Neue Hotfixes ohne Notes: Lockboxen leeren sich direkt in die Taschen",
+          "unterzeile": "Fan-Tracker sieht Änderungen vom 21. und 22. November, Blizzard hat dazu nichts veröffentlicht",
+          "text": "Laut dem Fan-Tracker Forever Changes sind zwei Änderungen aufgetaucht, die nicht in Blizzards Hotfix-Liste stehen. Am 22. November sollen Lockboxes, Junkboxes und ähnliche Behälter ihren Inhalt direkt in eure Taschen legen. Am 21. November, gesehen am 22., stieg der Vendor-Preis von Gustberry Juice auf 1 Silber 25 Kupfer (vorher 25 Kupfer).\n\nDer Tracker liest solche Änderungen aus den Daten, die die Server an den Client schicken, und weist selbst darauf hin, dass Blizzard keine Notes dazu hat. Behandelt beide Punkte deshalb als Beobachtung einer Fan-Seite, nicht als offizielle Meldung. Der Tracker führt außerdem Build 1.60.1.71037 vom 20. November als aktuellen Client.",
+          "quellen": [
+            {
+              "name": "Forever Changes: Patch Notes",
+              "url": "https://foreverchanges.pro/patch-notes"
+            },
+            {
+              "name": "Space4Games: Patch-Notes-Übersicht",
+              "url": "https://space4games.com/en/games-en/wow-forever-patch-notes/"
+            }
+          ]
+        },
+        {
+          "titel": "Camping-Hotfixes vom 16. bis 19. November im Überblick",
+          "unterzeile": "Fishing Rack, Cozy Sleeping Bag und Seed Hybridizer",
+          "text": "Blizzards Hotfix-Liste führt für das Camping drei Änderungen auf. Am 16. November gibt das Fishing Rack allen Lures, außerdem haben Bloated Fish eine höhere Drop-Chance. Am 17. November können Spieler auf Mounts nicht mehr auf dem Cozy Sleeping Bag schlafen; der Schlafsack lässt sich nun auch an Stellen wie Hunter-Fallen platzieren und zeigt ein Resting-Aura. Am 19. November ist der Seed Hybridizer mit angepassten Werten und einer Fehlschlagchance zurück, Scarce Herb Seeds lassen sich darin nicht mehr verwenden.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (Stand 20. November)",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+            }
+          ]
+        },
+        {
+          "titel": "Items: Racial-Vendor-Mounts werden Bind-on-Pickup",
+          "unterzeile": "Dazu Stormshroud-Nerf und neue Stats bei Soulforge",
+          "text": "In der Item-Sektion der Hotfix-Liste steht, dass Racial-Vendor-Mounts jetzt Bind-on-Pickup sind und Motes of Unstable Magic soulbound. Soulforge Armor hat seit dem 17. November Spell Power statt Strength. Der 3er-Bonus von Stormshroud Armor löst laut Liste nur noch mit 3 % aus und gibt 18 Energy, statt vorher 30. Squall-breaker's Potion lässt sich nun löschen, und einige Leatherworking-, Tailoring- und Blacksmithing-Rüstungen sind beim Vendor billiger.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (Stand 20. November)",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+            }
+          ]
+        },
+        {
+          "titel": "Fan-Fund: Feralheart-Vierer gibt Energy statt Mana",
+          "unterzeile": "Nicht in Blizzards Notes, aus dem Spielclient gelesen",
+          "text": "Forever Changes meldet zwei Funde aus den Spieldaten, zu denen Blizzard nichts geschrieben hat: Der 4er-Bonus von Feralheart Raiment stelle über 5 Sekunden Energy statt Mana wieder her. Außerdem hätten mehrere gecraftete Tier-1-Rüstungsteile für Shaman und Druid neue Stats. Beides ist eine Fan-Beobachtung und kann sich ändern.",
+          "quellen": [
+            {
+              "name": "Forever Changes: Patch Notes",
+              "url": "https://foreverchanges.pro/patch-notes"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Build & Stand",
+        "punkte": [
+          "Aktueller Client laut Fan-Tracker: 1.60.1.71037 (20. November)",
+          "Vorheriger Build: 1.60.1.70959 (17. November)",
+          "Blizzards letzte offizielle Hotfix-Liste: 20. November",
+          "Dungeon-Limit seit 20. November: 5 Resets/Entries pro Stunde",
+          "Hotfixes vom 21./22. November: nur Fan-Tracker, keine Blizzard-Notes"
+        ],
+        "quellen": [
+          {
+            "name": "Forever Changes: Patch Notes",
+            "url": "https://foreverchanges.pro/patch-notes"
+          },
+          {
+            "name": "Blizzard: WoW Forever Hotfixes (Stand 20. November)",
+            "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Priest, Rogue, Warlock: Die kleinen Buffs vom 20. November",
+          "unterzeile": "Chastise in Shadowform, Blade Flurry mit Shank, Intensity mit Incinerate",
+          "text": "Der Fan-Tracker Forever Changes listet die Klassenänderungen der letzten Tage. Priester können Chastise jetzt in Shadowform wirken. Beim Rogue trifft Blade Flurry nun korrekt auch bei Shank-Schaden ein zusätzliches Ziel. Bei Warlocks gilt Destruction-Talent Intensity auch für Incinerate; in Demonology wurde ein Bug behoben, der Demonic-Aegis-Effekte in Demon Armor oder Demon Skin mitnehmen ließ. Blizzards eigene Liste nennt für den 20. November Blade Flurry und Demonic Aegis.",
+          "quellen": [
+            {
+              "name": "Forever Changes: Patch Notes",
+              "url": "https://foreverchanges.pro/patch-notes"
+            },
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (Stand 20. November)",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+            }
+          ]
+        },
+        {
+          "titel": "Druide: Wild Growth wurde mehrfach angepasst",
+          "unterzeile": "Nicht mehr in Bewegung wirkbar, dafür mehr Heilung",
+          "text": "Die Hotfix-Liste zeigt eine Entwicklung bei Wild Growth. Am 10. November macht Nature's Swiftness den Zauber instant. Am 13. November lässt er sich nicht mehr in Bewegung wirken, bekommt dafür aber einen höheren Heilungskoeffizienten. Am 16. November wurden Cooldowns und Genesis korrigiert. Wer Heal-Druide spielt, sollte seinen Zauberablauf deshalb noch einmal prüfen.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (Stand 20. November)",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+            }
+          ]
+        },
+        {
+          "titel": "Priest-Details: Vampiric Embrace sinkt auf 10 %, Dark Inspiration stackt nicht mehr",
+          "unterzeile": "Aus der Hotfix-Liste vom 16. November",
+          "text": "Am 16. November wurde Vampiric Embrace auf 10 % Heilung gesenkt; laut Liste gehört dazu auch eine Änderung mit der Wochenwartung. Dark Inspiration stackt nicht mehr über mehrere Shadow Priests. Am 11. November funktionierten Twilight Focus und Confounding Flash in Shadowform. Das sind Fixes und Nerfs, keine neuen Talente.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (Stand 20. November)",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+            }
+          ]
+        },
+        {
+          "titel": "Paladin: Judgement ist ein Ranged-Angriff",
+          "unterzeile": "Und Judgement of Command zählt als Nahkampf",
+          "text": "Laut Blizzards Hotfix-Liste ist Judgement seit dem 11. November ein Ranged-Angriff. Am 13. November kam dazu, dass Judgement of Command als Melee-Angriff zählt und Quick and the Dead die Manakosten von Divine Spirit senkt. Die Liste nennt außerdem Fixes zu Consecration und Seals vom 9. November.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (Stand 20. November)",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Erste Raids am 9. Dezember: Größen, Reset und Attunement",
+          "unterzeile": "Barrow Deeps 10 Spieler, Hyjal Summit 20 Spieler, Onyxia 40 Spieler",
+          "text": "Die ersten drei Raids öffnen laut Icy Veins und MMORPG.com am 9. Dezember. Barrow Deeps ist ein 10er-Raid mit 8 Bossen und mehreren Eingängen, Hyjal Summit ein 20er-Raid mit 13 Bossen, Onyxia's Lair kehrt als 40er-Raid zurück. Nur Onyxia verlangt ein Attunement, alle drei Raids setzen wöchentlich zurück.\n\nBoss-Fähigkeiten, Loot-Tabellen und Resistenz-Anforderungen für die neuen Raids sind laut einer Guide-Seite noch nicht öffentlich. Beschreibungen wie „zwischen Molten Core und Naxxramas“ stammen aus Guides, die sich auf Entwickleraussagen beziehen; prüft das im Zweifel im Original.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Offizielle Raid-Vorschau",
+              "url": "https://www.icy-veins.com/wow-forever/news/weekly-reset-attunement-locations-raid-sizes-official-wow-forever-raid-preview/"
+            },
+            {
+              "name": "MMORPG.com: Raid-Vorschau",
+              "url": "https://www.mmorpg.com/news/preview-the-first-raids-coming-to-world-of-warcraft-forever-2000139163"
+            },
+            {
+              "name": "Method: Raids im Überblick",
+              "url": "https://www.method.gg/wow-forever/wow-forever-raids-a-look-at-barrow-deeps-hyjal-summit-and-onyxias-lair"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-Hotfixes: Drowned City, UBRS, Shade of the Archmage",
+          "unterzeile": "Eine Liste der Anpassungen zwischen 9. und 20. November",
+          "text": "In Drowned City wurde der Respawn von Nicht-Boss-Gegnern am 13. November auf 2 Stunden gesetzt; Captain Dreadrise ist seit dem 16. November nicht mehr stun-immun. Upper Blackrock Spire bekam am 17. November höhere Gegnergesundheit und mehr Schaden. Am 19. November despawnt Shade of the Archmage nicht mehr beim Kampfbeginn, und Vitrix' Poison Shock macht weniger Schaden. Balnazzar zählt seit dem 13. November für Master Spelunker.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (Stand 20. November)",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-Kills geben 0 XP, wenn ein Gruppenmitglied weit über dem Mob ist",
+          "unterzeile": "Regel aus der Hotfix-Liste vom 13. November",
+          "text": "Laut Hotfix-Liste geben Dungeon-Kills der Gruppe keine XP, wenn der Gegner für mindestens ein Mitglied trivial ist. Das erklärt, warum gemischte Level-Gruppen in niedrigen Dungeons wenig Erfahrung bekommen. Blizzard hat danach am 14. November die Dungeon-XP an das Spielerlevel angepasst (Post „Player-Level Dungeon XP Adjustment“); die aktuellen Werte stehen dort.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (Stand 20. November)",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+            },
+            {
+              "name": "Blue Tracker: Forever-Posts",
+              "url": "https://www.bluetracker.gg/wow/category/187-forever/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Cozy Sleeping Bag: Bonus-XP aus der Level-14-Questreihe",
+          "unterzeile": "Guides unterscheiden sich bei den Zahlen",
+          "text": "Der Cozy Sleeping Bag ist kein Camp-Objekt, sondern die Belohnung einer Questreihe ab Level 14, die in den Hillsbrad Foothills bei Thoradin's Wall beginnt. Zum Bonus nennen Guides unterschiedliche Werte: eine Quelle spricht von bis zu +3 % Erfahrung für 2 Stunden, eine andere von 1 % pro Stack bei bis zu drei Stacks. Die Camp-Objekte teilen sich einen Cooldown von einer Stunde, das Lagerfeuer hat zusätzlich fünf Minuten. Lagerplätze müssen mindestens 100 Yards auseinander liegen.",
+          "quellen": [
+            {
+              "name": "Warcraft Tavern: Camping-Guide",
+              "url": "https://www.warcrafttavern.com/forever/guides/camping-objects-buffs/"
+            },
+            {
+              "name": "Gamefragger: Camping-Guide",
+              "url": "https://gamefragger.com/pc/warcraft/wow-forever-camping-guide-every-camp-feature-tier-2-and-3-drops-the-sleeping-bag-and-violet-dust-a30217"
+            }
+          ]
+        },
+        {
+          "titel": "Keine XP mehr von Shatterspear Trolls und Water Pouch Bounty",
+          "unterzeile": "XP-Quellen, die Blizzard geschlossen hat",
+          "text": "Blizzards Hotfix-Liste enthält mehrere Einträge, die XP-Abkürzungen beenden. Shatterspear Trolls geben keine Erfahrung mehr, und die wiederholbare Water Pouch Bounty gibt keine XP. Am 13. November kam die Regel zu trivialen Dungeon-Gegnern hinzu. Quests ab Level 48 geben seit dem 10. November zusätzlich Gold.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (Stand 20. November)",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+            }
+          ]
+        },
+        {
+          "titel": "Spawns, Respawns und Gegner in Felsen: Fixes quer durch Azeroth",
+          "unterzeile": "Von Silverpine bis Mulgore",
+          "text": "Laut Hotfix-Liste wurden Respawn- und Spawnraten in Silverpine, Teldrassil, Un'goro, Dun Morogh, Dustwallow, Swamp of Sorrows, Durotar, Badlands, Stranglethorn und Mulgore angepasst. In Thousand Needles und Shimmering Flats spawnen oder laufen Gegner nicht mehr in Felsen oder unter der Welt. Nethergarde-Wachen in den Blasted Lands droppen keinen Loot mehr. Battle for Alterac Valley verlangt für die Quests Level 58.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (Stand 20. November)",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Berufs-Hotfixes: Cooking, Blacksmithing, Engineering, Tailoring",
+          "unterzeile": "Kleine Änderungen mit Wirkung aufs Leveln",
+          "text": "Aus der Hotfix-Liste: Coarse Grinding Stone gibt Blacksmithing-Skillups jetzt bis Skill 90, Journeyman Campfire Kit verlangt Cooking 90. Iron Grenades sind günstiger, Swiftstrike Shot und Swiftfeather Arrow nicht mehr Bind-on-Pickup. Mehrere Tailoring-Taschen wurden in der Größe und den Materialkosten angepasst. Beim Alchemy sank der Verkaufspreis von Minor Arcane Elixir; Elixir of Greater Firepower heißt jetzt Elixir of Holy Power.",
+          "quellen": [
+            {
+              "name": "Blizzard: WoW Forever Hotfixes (Stand 20. November)",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+            }
+          ]
+        },
+        {
+          "titel": "Gold-Guides: Kochen und Sammeln werden am häufigsten empfohlen",
+          "unterzeile": "Gerade beim Leveln lohnt der Vergleich Auktionshaus gegen Vendor",
+          "text": "Mehrere Guides raten, mit Cooking fürs Auktionshaus zu arbeiten, weil Spieler den Well-Fed-Buff ständig wollen, und mit Fishing zu kombinieren. Zwei Sammelberufe wie Mining plus Herbalism oder Skinning gelten als solide. Ein Guide empfiehlt, Mats am Tag des Sammelns zu verkaufen und vorher den Auktionshauspreis mit dem Vendorpreis zu vergleichen. Zur Kaution widersprechen sich die Guides; prüft die Mindestkaution im Spiel selbst. Einige der Seiten verkaufen selbst Gold, nehmt ihre Zahlen mit Vorsicht.",
+          "quellen": [
+            {
+              "name": "GameLeap: Professions & Gold Guide",
+              "url": "https://www.gameleap.com/articles/wow-forever-professions-gold-guide"
+            },
+            {
+              "name": "Overgear: Gold verdienen",
+              "url": "https://overgear.com/guides/wow-forever/earning-gold/"
+            },
+            {
+              "name": "Skycoach: Gold farmen",
+              "url": "https://skycoach.gg/blog/wow-forever/articles/how-to-farm-gold"
+            }
+          ]
+        },
+        {
+          "titel": "Seed Hybridizer: Das Herbalism-Camp-Objekt ist zurück, mit Risiko",
+          "unterzeile": "Seit 19. November mit Fehlschlagchance",
+          "text": "Der Seed Hybridizer ist ein Herbalism-Objekt ab Skill 300, das Samen vermehren oder in seltenere umwandeln kann. Laut Guides droppt er von Tendris Warpwood in Dire Maul. Blizzard schaltete ihn am 19. November mit angepassten Werten und einer Fehlschlagchance wieder frei; Scarce Herb Seeds kann man nicht mehr verwenden. Auch bei den Cultivation-Fixes für Mageroyal und Purple Lotus gab es Änderungen.",
+          "quellen": [
+            {
+              "name": "Blizzard: Hotfix-Liste",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+            },
+            {
+              "name": "Space4Games: Camping-System",
+              "url": "https://space4games.com/en/games-en/wow-forever-camping-system/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Preise & Hinweise",
+        "punkte": [
+          "Zahlen aus Gold-Guides sind Momentaufnahmen und schwanken",
+          "Item Restoration seit 11. November deaktiviert (kritischer Bug)",
+          "Seed Hybridizer: Fehlschlagchance, keine Scarce Herb Seeds"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard: WoW Forever Hotfixes (Stand 20. November)",
+            "url": "https://us.forums.blizzard.com/en/wow/t/wow-forever-hotfixes-november-20-2026/2403040"
+          },
+          {
+            "name": "GameLeap",
+            "url": "https://www.gameleap.com/articles/wow-forever-professions-gold-guide"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Community: Rekorde, Gilden, Streamer, Server",
+      "artikel": [
+        {
+          "titel": "Fraktionsbalance: Blizzard will 50/50, die Community zweifelt am 55/45",
+          "unterzeile": "Charaktererstellung auf der größeren Fraktion wird erschwert",
+          "text": "Blizzard schrieb am 10. November, dass PvP-Rulesets beide Fraktionen gleich stark haben sollen. Die schiefste Region liege bei etwa 55/45, das sei zu weit vom Ziel entfernt. Die Charaktererstellung prüft deshalb die Gesamtbalance der Region; kurzfristig wird Horde auf NA-PvP und Alliance auf EU-RP-PvP schwerer zu erstellen.\n\nIm Forum zweifeln viele an der Zahl: Sie vermuten, dass Trial-Accounts und Einladungscodes das Bild verzerren und die echte Verteilung näher an 60/40 liegt. Das sind Spielerbehauptungen, keine Blizzard-Daten.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: PvP Faction Balance Updates",
+              "url": "https://us.forums.blizzard.com/en/wow/t/pvp-faction-balance-updates-november-10/2408781"
+            },
+            {
+              "name": "Blue Tracker: Forever-Posts",
+              "url": "https://www.bluetracker.gg/wow/category/187-forever/"
+            }
+          ]
+        },
+        {
+          "titel": "Erste Level 60: Team JokerD, aber ohne offizielle Zeit",
+          "unterzeile": "Trackerzeiten um den 7. November",
+          "text": "Laut Yahoo Tech und Trackern erreichte ein Team um den Streamer JokerD als erstes Level 60, rund drei Tage nach dem Launch. Eine Tracker-Seite nennt etwa 3:09 Uhr UTC am 7. November, auf einem EU-Normal-Server. Blizzard hat weder einen offiziellen Sieger noch eine offizielle Zeit veröffentlicht, die Angaben zum Start des Rennens widersprechen sich.",
+          "quellen": [
+            {
+              "name": "Yahoo Tech: First Level 60",
+              "url": "https://tech.yahoo.com/gaming/articles/world-warcraft-forever-world-first-031217060.html"
+            },
+            {
+              "name": "AOTC: First to 60",
+              "url": "https://www.aotc.gg/forever/first-to-60"
+            }
+          ]
+        },
+        {
+          "titel": "Blackmaw-Hold-Bug: Blizzard-Erklärung und Forumsstreit",
+          "unterzeile": "Was Blizzard am 17. November schrieb",
+          "text": "Blizzard erklärte am 17. November, dass in Blackmaw Hold normale Gegner den Loot von Elite-Gegnern fallen ließen. Ein paar hundert Spieler hätten diese Gegner ausschließlich gefarmt und seien per Economy-Lock gesperrt worden. Blizzard entfernt das verdiente Gold und sperrt Accounts erheblicher Täter. Spieler, die normal gespielt haben, sind laut Blizzard nicht betroffen. Im Forum fordern viele härtere Strafen und kritisieren, dass bekannte Streamer ungleich behandelt würden.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Actions For Blackmaw Hold Abuse",
+              "url": "https://us.forums.blizzard.com/en/wow/t/actions-for-blackmaw-hold-abuse-november-17/2419757"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Ta'shkal zähmen: Der Hunter-Geheimtipp aus dem Wowhead-Fund",
+          "unterzeile": "Ab Level 58, Hyjal, Figurine und Lantern",
+          "text": "Wowhead berichtet, dass ein Level-59-Hunter Ta'shkal im Mount Hyjal zähmen konnte, eine Katze mit dem Modell der Corrupted Cat. Laut einer Fan-Seite sammelt man die Corrupted Cat Figurine nahe dem Fel Pool, bringt sie zur Lonely Lantern und zähmt das Wesen ab Level 58. Das Pet soll Faster Attack VII kennen. Die Schritte stammen von der Fan-Seite und sind nicht von Blizzard bestätigt.",
+          "quellen": [
+            {
+              "name": "Wowhead: Tame a Secret Hunter Pet",
+              "url": "https://www.wowhead.com/forever/news/tame-a-secret-hunter-pet-in-wow-forever-383902"
+            },
+            {
+              "name": "WoW Forever Secrets (Fan-Seite)",
+              "url": "https://wowclassicforever.info/secrets/"
+            }
+          ]
+        },
+        {
+          "titel": "Warsong Gulch: 10 gegen 10, Queue ab Level 10",
+          "unterzeile": "Basics aus Fan-Guides",
+          "text": "Fan-Guides beschreiben Warsong Gulch als 10-gegen-10-Flaggenschlacht, in die man ab Level 10 queuen kann; wer drei Captures schafft, gewinnt. Horde-Spieler starten beim Warsong Emissary im Valley of Strength in Orgrimmar, Alliance-Spieler über die Battlemaster in Stormwind Keep. Aus Datamining stammen die Angaben, dass ein Sieg 3 Marks und eine Niederlage 1 Mark bringt. Ein Guide empfiehlt, Offense und Defense aufzuteilen. Zahlen wie Marks-Limits widersprechen sich zwischen den Seiten.",
+          "quellen": [
+            {
+              "name": "WoW Forever Addon: PvP-Guide",
+              "url": "https://www.wowforeveraddon.com/guides/wow-forever-pvp-guide/"
+            },
+            {
+              "name": "Wowcalc: Warsong Gulch",
+              "url": "https://wowcalc.net/en/forever/wiki/pvp/battlegrounds/warsong-gulch"
+            }
+          ]
+        },
+        {
+          "titel": "Raid-Vorbereitung: Was ihr bis 9. Dezember tun könnt",
+          "unterzeile": "Aus Guides und Blizzards Raid-Vorschau",
+          "text": "Nur Onyxia's Lair braucht ein Attunement, also lohnt es sich, damit früh zu beginnen. Barrow Deeps hat laut Guides drei Eingänge (Mount Hyjal, Winterspring, Blackmaw Hold), Hyjal Summit liegt am Gipfel des Mount Hyjal. Details zu Resistenzen und Loot sind noch unbekannt, also keine Gear-Käufe auf Verdacht.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Raid-Vorschau",
+              "url": "https://www.icy-veins.com/wow-forever/news/weekly-reset-attunement-locations-raid-sizes-official-wow-forever-raid-preview/"
+            },
+            {
+              "name": "Timesaver: Raid-Prep-Checkliste",
+              "url": "https://timesaver.gg/blog/wow-forever-raids-dec-9-prep-checklist"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen, Interviews, Entwickler-Aussagen",
+      "artikel": [
+        {
+          "titel": "Podcast Episode 8: Was Spieler als Entwickleraussagen weitergeben",
+          "unterzeile": "Ein Forum-Thread, kein Transkript",
+          "text": "Blizzard-Community-Manager Kaivax postete Episode 8 des WoW-Forever-Podcasts, „Catching Up On Classes“. Der Forum-Thread enthält vor allem Reaktionen. Nach Spielerberichten soll es um Warlock, Warrior, Mage, Paladin, Heiler und Hunter gegangen sein: Survival Hunter soll Buffs bekommen, Combustion überarbeitet werden, Spell-Power-Gear könnte im Leveln ausgeweitet werden. Das ist aus zweiter Hand und nicht geprüft; das Transkript lag uns nicht vor.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Podcast Episode 8",
+              "url": "https://us.forums.blizzard.com/en/wow/t/the-wow-forever-podcast-episode-8-catching-up-on-classes/2422535"
+            },
+            {
+              "name": "Blue Tracker: Forever-Posts",
+              "url": "https://www.bluetracker.gg/wow/category/187-forever/"
+            }
+          ]
+        },
+        {
+          "titel": "Blizzard-Kommunikation: So sind die jüngsten Posts getaktet",
+          "unterzeile": "Hotfix-Liste, Podcasts, Strafen und PvP-Balance",
+          "text": "Der Blue Tracker zeigt als aktuelle Forever-Posts die Hotfixes vom 20. November, Podcast Episode 8, Actions for Blackmaw Hold Abuse (17. November), Player-Level Dungeon XP Adjustment (14. November), Lost Training Purchase Refunds (13. November), PvP Faction Balance Updates und Class Tuning Incoming. Alle stammen von Kaivax. Blizzard sagt in Class Tuning, dass Balance-Änderungen dienstags kommen sollen und größere Reworks später folgen.",
+          "quellen": [
+            {
+              "name": "Blue Tracker: Forever-Posts",
+              "url": "https://www.bluetracker.gg/wow/category/187-forever/"
+            },
+            {
+              "name": "Blizzard-Forum: Class Tuning Incoming",
+              "url": "https://us.forums.blizzard.com/en/wow/t/class-tuning-incoming-november-10/2404092"
+            }
+          ]
+        },
+        {
+          "titel": "Blue Tracker: Post zu Lost Training Purchase Refunds",
+          "unterzeile": "Post vom 13. November",
+          "text": "Im Blue Tracker taucht unter den Forever-Posts ein Beitrag „Lost Training Purchase Refunds“ vom 13. November auf. Den Inhalt konnten wir nicht lesen, der Tracker zeigt nur Titel und Datum. Wer betroffen war, sollte den Originalpost im Forum prüfen.",
+          "quellen": [
+            {
+              "name": "Blue Tracker: Forever-Posts",
+              "url": "https://www.bluetracker.gg/wow/category/187-forever/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Wartung: Americas am Dienstag, Europa am Mittwoch (laut Tracker)",
+          "unterzeile": "Drittanbieter-Quellen, kein Blizzard-Kalender",
+          "text": "ForeverDB nennt für Dienstag, 24. November, ein Wartungsfenster für Americas von etwa 7 bis 8 Uhr Pacific, für Europa Mittwoch, 25. November, 3 bis 4 Uhr MEZ. Foreverstatus schreibt, Forever folge den üblichen WoW-Wartungstagen. Andere Tracker sagen, dass Blizzard keinen festen Forever-Kalender veröffentlicht hat. Bestätigung gibt es nur über die Battle.net-App oder Blizzards Hotfix-Posts.",
+          "quellen": [
+            {
+              "name": "ForeverDB: Serverstatus",
+              "url": "https://foreverdb.net/status"
+            },
+            {
+              "name": "Foreverstatus: Wartung",
+              "url": "https://foreverstatus.com/maintenance/"
+            }
+          ]
+        },
+        {
+          "titel": "Raid-Start am 9. Dezember: noch 16 Tage",
+          "unterzeile": "Barrow Deeps, Hyjal Summit, Onyxia's Lair",
+          "text": "Die ersten Raids öffnen laut Blizzard-Vorschau in Medien am 9. Dezember. Weitere Details zu Bossen und Loot hat Blizzard laut Guides noch nicht veröffentlicht.",
+          "quellen": [
+            {
+              "name": "Wowhead: Forever-Raids",
+              "url": "https://www.wowhead.com/forever/guide/raids-overview-hub-dates-locations"
+            }
+          ]
+        },
+        {
+          "titel": "Stranglethorn Fishing Extravaganza und Darkmoon Faire",
+          "unterzeile": "Sonntags-Turnier, Faire im Dezember in Mulgore",
+          "text": "Die Fishing Extravaganza läuft laut Method sonntags ab 14 Uhr Serverzeit in Stranglethorn Vale, nächster Termin ist der 29. November. Der Darkmoon Faire steht laut Wowhead im Dezember in Mulgore; Zeiträume nennen Quellen leicht unterschiedlich (6./7. bis 13. Dezember).",
+          "quellen": [
+            {
+              "name": "Method: Stranglethorn Fishing Extravaganza",
+              "url": "https://www.method.gg/wow-forever/stranglethorn-fishing-extravaganza-in-wow-forever-what-it-is-how-to-win"
+            },
+            {
+              "name": "Wowhead: Darkmoon Faire",
+              "url": "https://www.wowhead.com/forever/guide/darkmoon-faire-event-overview-guide"
+            }
+          ]
+        },
+        {
+          "titel": "Feast of Winter Veil: 15. Dezember bis 2. Januar",
+          "unterzeile": "Laut Fan-Kalender",
+          "text": "Ein Fan-Kalender nennt für das Winter-Veil-Fest den Zeitraum 15. Dezember bis 2. Januar. Blizzard hat laut dieser Quelle keinen vollständigen Eventplan veröffentlicht, die Daten können sich also ändern.",
+          "quellen": [
+            {
+              "name": "Wowcalc: Forever-Kalender (Fan-Seite)",
+              "url": "https://wowcalc.net/en/forever/wiki/calendar"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "Di 24. Nov: Wartung Americas (laut Tracker)",
+          "Mi 25. Nov: Wartung Europa (laut Tracker)",
+          "So 29. Nov, 14 Uhr Serverzeit: Stranglethorn Fishing Extravaganza",
+          "7. bis 13. Dez: Darkmoon Faire in Mulgore (eine Quelle: ab 6. Dez)",
+          "9. Dez: Barrow Deeps, Hyjal Summit, Onyxia's Lair"
+        ],
+        "quellen": [
+          {
+            "name": "ForeverDB",
+            "url": "https://foreverdb.net/status"
+          },
+          {
+            "name": "Method",
+            "url": "https://www.method.gg/wow-forever/stranglethorn-fishing-extravaganza-in-wow-forever-what-it-is-how-to-win"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Vor der Wartung Addons und Taschen prüfen",
+    "text": "Vor der Wartung am Dienstag lohnt sich ein Blick auf eure Taschen und Addons: Hotfixes ohne Notes können Item-Verhalten ändern. Wer Mats verkauft, vergleicht Auktionshaus- und Vendorpreis, bevor er listet. Und denkt an das Attunement für Onyxia, wenn ihr am 9. Dezember dabei sein wollt."
+  }
+}
