@@ -1,0 +1,639 @@
+{
+  "gruss": "Guten Morgen, Azeroth! Dienstag, 24. November: Blizzard räumt weiter bei den Gold-Exploits auf, die Weltbuffs sind wieder da, und der Raid-Start am 9. Dezember rückt näher.",
+  "aufmacher": {
+    "rubrik": "Wirtschaft & Hotfixes",
+    "titel": "Whack-a-Mole: Blizzard jagt in Forever die nächsten Gold-Exploits",
+    "unterzeile": "Lockboxen, Uldaman, Blackmaw Hold – drei Exploits in wenigen Tagen, und Blizzard verspricht, genauer hinzuschauen",
+    "text": "Seit dem Launch kämpft Blizzard in WoW: Forever mit Gold-Exploits. Laut Kotaku mussten am Wochenende gleich zwei Exploits per Hotfix geschlossen werden: ein Lockbox-Mechanismus, den Rogues missbrauchten, und eine Boss-Farm in Uldaman. Zuvor hatte schon der Blackmaw-Hold-Exploit für Aufsehen gesorgt; laut GameSpot sperrte Blizzard betroffenen Spielern den Zugang zur Wirtschaft und will Gold aus „exploitativen Gewinnen“ entfernen, bei gravierenden Fällen drohen Account-Sperren.\n\nDie Folgen sind im Alltag spürbar: Das Peeking in Lockboxen ist vorübergehend abgeschaltet, der Uldaman-Boss Obsidian Sentinel verlor erst seinen Loot und droppt jetzt wieder, aber mit halbiertem Vendorpreis. Blizzard sagt, die Lockbox-Änderung sei temporär, einen Termin für die Rückkehr gibt es nicht.\n\nLead Designer Tim Jones sagte im Interview mit But Why Tho, das Team achte stärker auf die Wirtschaft als je zuvor und gehe gegen Echtgeld-Goldhandel härter vor. Fixes könnten schnell kommen, auch per Hotfix, aber nicht jeden Exploit werde man erwischen.",
+    "quellen": [
+      {
+        "name": "Kotaku",
+        "url": "https://kotaku.com/blizzard-is-still-playing-whack-a-mole-with-wow-forever-gold-exploits-2000759498"
+      },
+      {
+        "name": "GameSpot",
+        "url": "https://www.gamespot.com/articles/wow-forever-exploit-lands-streamers-in-hot-water-after-farming-thousands-of-gold/"
+      },
+      {
+        "name": "But Why Tho",
+        "url": "https://butwhytho.net/2026/11/wow-forever-interview/"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Lockboxen: Peeking abgeschaltet, Blizzard nennt es „temporär“",
+          "unterzeile": "Ein Reroll-Exploit zwang zu einer Notmaßnahme",
+          "text": "Spieler können seit Kurzem nicht mehr in Lockboxen hineinschauen. Laut Wowhead und Icy Veins ändert sich der Loot je nach Spieler, solange die Box ungeöffnet ist; damit konnten Rogues Boxen zwischen Accounts verschicken und nur die wertvollen öffnen.\n\nCommunity Manager Kaivax bestätigte, dass die Änderung nur vorübergehend ist. Blizzard arbeite an einer Lösung, die Peeking und teilweises Looten zurückbringt, nennt aber keinen Termin.\n\nNebenwirkung laut einem Reddit-Thread: Junkboxes lassen sich nicht mehr teilweise looten und dann abgeben. Einzelne Spieler berichten zudem von Economy-Holds nach dem Verschicken von Lockboxen – das ist Spielerangabe und von Blizzard nicht bestätigt.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/news/blizzard-announces-lockbox-change-is-temporary-and-peeking-inside-lockboxes-will-383963"
+            },
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/your-wow-forever-lockboxes-will-get-peeking-and-partial-looting-back-blizzard-says/"
+            },
+            {
+              "name": "Wowhead (Exploit)",
+              "url": "https://www.wowhead.com/forever/news/players-can-no-longer-peek-inside-lockboxes-due-to-reroll-exploit-383956"
+            }
+          ]
+        },
+        {
+          "titel": "Uldaman: Obsidian Sentinel droppt wieder, Items nur noch halb so viel wert",
+          "unterzeile": "Reset-Limit von zehn auf fünf pro Stunde gesenkt",
+          "text": "Rund um den 19. November verschwand der Loot des Obsidian Sentinel in Uldaman, was in einem Forum-Thread zunächst als Bug diskutiert wurde. Laut Wowhead droppt der Boss inzwischen wieder, die Vendorpreise der Items wurden aber um 50 % gesenkt. Outputlag nennt Montag, den 23. November, als Zeitpunkt der Rückkehr.\n\nZuvor hatte der Hotfix vom 20. November das Dungeon-Reset-Limit von zehn auf fünf pro Stunde gesenkt. Wer die Pendulum of Doom (Axe of Lingering Dread plus Axe of Inevitable Ruin) leveln will, kann den Boss also wieder angehen. Die Loot-Änderungen stehen laut Outputlag nicht in den offiziellen Hotfix-Notes.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/news/uldaman-boss-drops-loot-again-but-item-vendor-price-nerfed-383968"
+            },
+            {
+              "name": "Outputlag",
+              "url": "https://outputlag.com/news/wow-forever-brings-back-obsidian-sentinels-loot-four-days-after-wiping-it-over-a-gold-farm/"
+            },
+            {
+              "name": "Icy Veins",
+              "url": "https://www.icy-veins.com/wow-forever/news/blizzard-removes-uldaman-gold-farm-but-could-solo-dungeon-farming-be-next/"
+            }
+          ]
+        },
+        {
+          "titel": "Weltbuffs halten wieder durch Ladebildschirme",
+          "unterzeile": "Ursache war ein Battle Shout aus der Diamond-Flask-Quest",
+          "text": "Seit etwa dem 21. November verschwanden Weltbuffs bei jedem Ladebildschirm, etwa beim Betreten eines Dungeons oder bei Schiff und Zeppelin. Lead Developer Aidan „Zirene“ Moon nannte das einen Bug: Ein Battle Shout aus der Diamond-Flask-Quest wurde beim Zonenwechsel gewirkt, der Fix dafür löste den Fehler aus.\n\nDie Fan-Seite foreverchanges.pro führt für den 23. November einen Hotfix, nach dem Weltbuffs wieder in Dungeons und auf dem anderen Kontinent halten; in Raids funktionieren sie weiterhin nicht. Offizielle Notes gibt es dazu laut dieser Quelle nicht, die Angaben stammen aus Client-Daten.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/news/world-buffs-removed-on-any-loading-screen-in-wow-forever-383954"
+            },
+            {
+              "name": "VICE",
+              "url": "https://www.vice.com/en/article/world-of-warcraft-forever-world-buff-fix-is-arriving-this-week/"
+            },
+            {
+              "name": "foreverchanges.pro (Fan-Seite)",
+              "url": "https://foreverchanges.pro/patch-notes"
+            }
+          ]
+        },
+        {
+          "titel": "Aus den Client-Daten: Sayge buffed, Fengus genervt",
+          "unterzeile": "Nicht offiziell bestätigt – Datenfund einer Fan-Seite",
+          "text": "Laut foreverchanges.pro, das Änderungen aus den Client-Caches liest, wirken Sayges Dark Fortunes jetzt auf den Gesamtwert inklusive Ausrüstung statt nur auf den Basiswert. Fengus' Ferocity erhöht Zauberschaden und Heilung nur noch um bis zu 115 statt 230, die 200 Angriffskraft bleiben. Zudem soll der Explosive Runeshard Gegner nur noch um 1 % statt 100 % verlangsamen. Da Blizzard keine Notes veröffentlicht hat, gilt: erst im Spiel prüfen.",
+          "quellen": [
+            {
+              "name": "foreverchanges.pro (Fan-Seite)",
+              "url": "https://foreverchanges.pro/patch-notes"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Stand der Hotfixes",
+        "punkte": [
+          "Letzte offizielle Liste von Blizzard: 20. November 2026",
+          "23. November: laut Fan-Seite Hotfixes ohne offizielle Notes",
+          "Build-Nummer: von Blizzard nicht genannt",
+          "Lockbox-Peeking: aus, Rückkehr angekündigt, kein Datum",
+          "Weltbuffs: Fix, in Raids weiter ohne Wirkung"
+        ],
+        "quellen": [
+          {
+            "name": "Blizzard News",
+            "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026"
+          },
+          {
+            "name": "foreverchanges.pro (Fan-Seite)",
+            "url": "https://foreverchanges.pro/patch-notes"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Heiler-Mangel: Blizzard sieht das Problem",
+          "unterzeile": "Tanks sind kein Engpass mehr, Heiler schon",
+          "text": "Im WoW:-Forever-Podcast sagte Designer Kris Zierhut, Tanks seien nicht mehr knapp, weil sich Protection Paladin und Protection Warrior gut spielen. Die Zahl der Heiler bleibe dagegen wie immer niedrig.\n\nAidan Moon ergänzte, es sei schwierig, ein eigenes Heiler-Set und -Spec vorzuhalten und zugleich ein Damage-Setup fürs Questen zu pflegen, besonders in höheren Dungeons. Eine Lösung hat Blizzard nicht angekündigt; laut den Berichten wägt das Team Anreize ab oder will Heiler weniger unbequem machen.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/news/blizzard-addresses-spell-power-gear-shortage-in-wow-forever-383928"
+            },
+            {
+              "name": "PCGamesN",
+              "url": "https://www.pcgamesn.com/world-of-warcraft/forever-podcast-healer-shortage-class-balance"
+            }
+          ]
+        },
+        {
+          "titel": "Zu wenig Spell-Power-Gear zwischen Level 15 und 40",
+          "unterzeile": "Dichte-Problem, kein absoluter Mangel",
+          "text": "Zierhut räumte ein, dass es für Caster beim Leveln zwischen Level 15 und 40 zu wenig Spell-Power-Items gibt. Laut Berichten ist das Gear erreichbar, aber zu dünn gesät. Mehr Gear für diesen Bereich soll in künftigen Patches folgen, ein Datum nannte Blizzard nicht. Das Team sei zudem sehr vorsichtig gewesen, wie stark die Spell-Power-Überarbeitung ausfällt.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/news/blizzard-addresses-spell-power-gear-shortage-in-wow-forever-383928"
+            },
+            {
+              "name": "Warcraft Tavern",
+              "url": "https://www.warcrafttavern.com/forever/news/blizzard-addresses-spellpower-gear-and-the-healer-shortage-in-wow-forever/"
+            }
+          ]
+        },
+        {
+          "titel": "Balance-Druide: Talent-Umbau vorgeschlagen",
+          "unterzeile": "Vorschlag aus dem Podcast, noch kein Patch",
+          "text": "Laut Berichten zur Podcast-Folge wurde ein Plan für Balance-Druiden besprochen: Die Cast-Zeit-Reduktion von Wrath und Starfire könnte in das erste Balance-Talent wandern. Die Änderung gilt als „wahrscheinlich“ und könnte vor einem Patch kommen, weil sie das Level-60-Balancing nicht berührt. Es ist ein Vorschlag, keine bestätigte Änderung.",
+          "quellen": [
+            {
+              "name": "WoWsod (Fan-Seite)",
+              "url": "https://wowsod.pro/articles/wow-forever-podcast-episode-8-classes-spell-power-healers-balance-druid-pvp-burst"
+            },
+            {
+              "name": "PCGamesN",
+              "url": "https://www.pcgamesn.com/world-of-warcraft/forever-podcast-healer-shortage-class-balance"
+            }
+          ]
+        },
+        {
+          "titel": "Klassen-Änderungen gegenüber Classic im Überblick",
+          "unterzeile": "Guide-Seiten widersprechen sich in Details",
+          "text": "Mehrere Übersichten nennen: Druiden bekommen Omen of Clarity für alle Specs und eine Wiederbelebung außerhalb des Kampfs. Hunter erhalten Aimed Shot ab Level 20 als Basisfähigkeit, Arcane Shot teilt sich keinen Cooldown mehr mit Aimed Shot. Rogues bekommen gleichmäßigere Energieregeneration, Combo Points bleiben beim Zielwechsel am Ursprungsziel. Warrior haben Victory Rush und Tactical Mastery als Basis. Beim Mage und bei den Trap-Cooldowns widersprechen sich die Quellen, daher hier ohne Angabe.",
+          "quellen": [
+            {
+              "name": "Space4Games",
+              "url": "https://space4games.com/en/games-en/wow-forever-class-changes/"
+            },
+            {
+              "name": "Maxroll",
+              "url": "https://maxroll.gg/wow-forever/news/wow-forever-class-deep-dives-whats-changing-for-all-nine-classes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Barrow Deeps: drei Eingänge, acht Bosse",
+          "unterzeile": "Was Guide-Seiten vor dem 9. Dezember empfehlen",
+          "text": "Barrow Deeps ist ein 10-Spieler-Raid mit acht Bossen und öffnet laut Blizzard-Übersicht am 9. Dezember, ebenso Hyjal Summit (20 Spieler) und Onyxia (40). Drei Eingänge verbinden Barrow Deeps mit der Oberfläche: vom Mount Hyjal, aus Winterspring und über den Dungeon Blackmaw Hold; genaue Eingangspunkte hat Blizzard laut einer Quelle nicht veröffentlicht. Guides raten zu Resist-Vorbereitung und nennen als Gruppe 2 Tanks, 2 bis 3 Heiler und 5 bis 6 Damage Dealer. Das sind Empfehlungen von Fan-Seiten; auch zur Attunement widersprechen sich die Quellen.",
+          "quellen": [
+            {
+              "name": "Blizzard News",
+              "url": "https://news.blizzard.com/en-us/article/24303009/world-of-warcraft-forever-raid-overviewlocations-raid-sizes-and-attunement"
+            },
+            {
+              "name": "XBoosty",
+              "url": "https://xboosty.com/blog/wow-forever/barrow-deeps-raid-guide-for-wow-forever-8-bosses-3-entrances-and-how-to-prepare-73"
+            },
+            {
+              "name": "LFCarry",
+              "url": "https://lfcarry.com/guides/wow-forever-barrow-deeps"
+            }
+          ]
+        },
+        {
+          "titel": "Tier-Crafting: Malleable Essence of Nature",
+          "unterzeile": "Nur aus Raid-Items zu gewinnen, sagt ein Guide",
+          "text": "Ein Raid-Guide nennt für das craftbare Tier-Gear die Zutat Malleable Essence of Nature, die sich ausschließlich durch Entzaubern von Items aus Hyjal Summit oder Barrow Deeps gewinnen lassen soll. Wer beide Raids läuft, verbraucht außerdem zwei Lockouts. Die Angabe stammt von einer Guide-Seite und wurde nicht mit Blizzard abgeglichen.",
+          "quellen": [
+            {
+              "name": "Conquest Capped (Guide)",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-raids-overview/"
+            },
+            {
+              "name": "LFCarry (Guide)",
+              "url": "https://lfcarry.com/guides/wow-forever-raids"
+            }
+          ]
+        },
+        {
+          "titel": "Blackmaw Hold: Dispel bereithalten, Boss zuerst",
+          "unterzeile": "Tipps für den 55–60-Dungeon in Azshara",
+          "text": "Laut Wowhead-Guide sollten Gruppen Poisoned Shot schnell dispellen und den Berserker beim Enrage stunnen. Bei Bossen mit Adds gilt: zuerst den Boss töten, denn die Adds verschwinden danach nicht. Der Spirit Healer steht direkt vor dem Eingang. Die Level-Angaben schwanken je nach Quelle zwischen 55 und 56 als Untergrenze.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/guide/blackmaw-hold-dungeon-overview-location-rewards"
+            },
+            {
+              "name": "Koroboost (Guide)",
+              "url": "https://koroboost.com/guide/wow-forever-dungeons-guide"
+            }
+          ]
+        },
+        {
+          "titel": "The Drowned City: Wasseratmung und Dispel auf den Tank",
+          "unterzeile": "Empfohlen für Level 35 bis 42",
+          "text": "Im Drowned City-Guide wird empfohlen, einen Warlock oder Shaman mitzunehmen, weil ein Abschnitt lange Unterwasseratmung verlangt. Beim ersten Boss Zul'Alai verursacht hohen physischen Schaden am Ziel mit der meisten Aggro; einen seiner Debuffs sollte man zuerst beim Tank dispellen. Auch hier steht der Spirit Healer direkt vor dem Eingang, Wipes sind also weniger schmerzhaft.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/guide/the-drowned-city-dungeon-overview-location-rewards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Gratis 16-Slot-Tasche aus ehemaliger SoD-Questreihe",
+          "unterzeile": "Ab Level 55 startbar, Burning Steppes",
+          "text": "Laut Wowhead gibt es in Forever eine Questreihe, die früher zu Season of Discovery gehörte und nun für alle Klassen offen ist. Sie führt zu einer kostenlosen Red Bag mit 16 Slots. Weitere Guides nennen Start ab Level 55, die zweite Hälfte ab Level 58, Beginn im Burning-Steppes-Camp. Die Tasche ist „Unique“, und das Tragen senkt das Stealth-Level um 2 – nachteilig für Rogues und Druiden; als Bank-Lagerplatz entfällt der Nachteil.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/news/earn-a-free-16-slot-bag-from-a-former-sod-questline-in-wow-forever-383896"
+            },
+            {
+              "name": "wow.gg",
+              "url": "https://wow.gg/guides/wow-forever-free-16-slot-red-bag"
+            }
+          ]
+        },
+        {
+          "titel": "Level 45 bis 60: Welche Zone wann?",
+          "unterzeile": "Guides rotieren zwischen den 50–60-Zonen",
+          "text": "Guides setzen Azshara bei etwa 45 bis 55 an. Winterspring öffnet laut einer Quelle bei 55, laut einer anderen bei 53 – im Spiel gegenprüfen. Für die letzten Level raten sie, zwischen den 50–60-Zonen nach verfügbaren Quests und Reisewegen zu rotieren und Questreihen zu bevorzugen, die Flugpunkte oder Folgequests auf 60 freischalten.",
+          "quellen": [
+            {
+              "name": "Mobalytics",
+              "url": "https://mobalytics.gg/wow-forever/guides/zone-map-level-ranges"
+            },
+            {
+              "name": "Wow.gg",
+              "url": "https://wow.gg/guides/wow-forever-leveling-horde"
+            }
+          ]
+        },
+        {
+          "titel": "Mount Hyjal: Capstone-Zone mit neuen Rufen",
+          "unterzeile": "Quests ab etwa Level 54, Zugang über Winterspring",
+          "text": "Mount Hyjal ist die neue Capstone-Zone. Laut Guides beginnen die Quests um Level 54, die meisten liegen zwischen 56 und 60. Der Zugang führt über Darkwhisper Gorge in Winterspring. Ein Guide rät, die neuen Rufe der Zone schon vor dem 9. Dezember zu beginnen; einen Ersatz für die 50–55-Zonen soll Hyjal nicht darstellen.",
+          "quellen": [
+            {
+              "name": "Mobalytics",
+              "url": "https://mobalytics.gg/wow-forever/guides/zone-map-level-ranges"
+            },
+            {
+              "name": "Classic WoW Forever",
+              "url": "https://classicwowforever.com/zones/mount-hyjal/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Gut zu wissen",
+        "punkte": [
+          "Red Bag (16 Slots): Start ab Level 55",
+          "Bag senkt Stealth-Level um 2",
+          "Winterspring-Öffnung: Quellen sagen 53 oder 55",
+          "Hyjal-Zugang: Darkwhisper Gorge"
+        ],
+        "quellen": [
+          {
+            "name": "Wow.gg",
+            "url": "https://wow.gg/guides/wow-forever-free-16-slot-red-bag"
+          },
+          {
+            "name": "Mobalytics",
+            "url": "https://mobalytics.gg/wow-forever/guides/zone-map-level-ranges"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Auktionshaus: Mindest-Deposit wieder bei 1 Copper",
+          "unterzeile": "Zuvor lag die Untergrenze bei 1 Silber",
+          "text": "Der Mindest-Deposit im Auktionshaus wurde laut Wowhead von 1 Silber auf 1 Copper gesenkt; Space4Games ordnet das der Wartung vom 17. November (18. in Europa) zu. Die 1 Copper sind nur die Untergrenze, nicht jede Auktion kostet gleich viel. Die Prozentsätze je Laufzeit, die manche Seiten nennen (5 %, 20 %, 60 %), sind nicht von Blizzard bestätigt. Prüft vor dem Einstellen die Anzeige im Auktionsfenster.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/news/auction-house-minimum-deposit-reduced-to-1-copper-in-wow-forever-383917"
+            },
+            {
+              "name": "Space4Games",
+              "url": "https://space4games.com/en/games-en/wow-forever-auction-house-deposit/"
+            }
+          ]
+        },
+        {
+          "titel": "Beste Berufe für Gold: Gathering vorne, Engineering kostet",
+          "unterzeile": "Guides sind sich nicht einig",
+          "text": "Mehrere Guides empfehlen Herbalism mit Mining oder Skinning für die ersten Wochen. Alchemy mit Herbalism gilt als starkes Paar, weil Flasks und Elixiere jede Raidwoche gebraucht werden; Enchanting wird für stetiges Einkommen auf 60 genannt. Engineering gilt laut den Seiten eher als Gold-Grab. Die Daten stammen aus Early-Access-Zeiten, Preise können sich verschoben haben.",
+          "quellen": [
+            {
+              "name": "Lore Forever",
+              "url": "https://loreforeverwow.com/guides/wow-forever-best-professions-for-making-gold"
+            },
+            {
+              "name": "Warcraftmaps",
+              "url": "https://warcraftmaps.com/guides/best-professions-for-gold"
+            },
+            {
+              "name": "Mobalytics",
+              "url": "https://mobalytics.gg/wow-forever/profile/whiter/guides/my-guide"
+            }
+          ]
+        },
+        {
+          "titel": "Wowhead Weekly Reset widmet sich Gold in Forever",
+          "unterzeile": "Die Folge von Taliesin und Evitel",
+          "text": "Wowhead hat eine Ausgabe von „The Weekly Reset“ mit Taliesin und Evitel dem Thema Gold in Forever gewidmet. Die Artikelseite nennt in den abrufbaren Teilen nur den Titel. Passend dazu berichtet Wowheads Wochenrückblick vom Blackmaw-Hold-Goldfarm-Exploit, durch den einzelne Spieler, darunter große Streamer, sehr reich wurden.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/news/the-weekly-reset-with-taliesin-and-evitel-gold-in-forever-383947"
+            }
+          ]
+        },
+        {
+          "titel": "Wirtschaft: Reports zeigen, welche Gegner zu viel Gold bringen",
+          "unterzeile": "Lead Designer Tim Jones im Interview",
+          "text": "Laut But Why Tho nutzt das Team Wirtschafts-Reports, die zeigen, welche Kreaturen und Vendor-Items das meiste Gold erzeugen. So lasse sich auf unfaire Quellen reagieren. Jones sagte, man könne nicht jeden Exploit erwischen, Fixes könnten aber schnell per Hotfix kommen.",
+          "quellen": [
+            {
+              "name": "But Why Tho",
+              "url": "https://butwhytho.net/2026/11/wow-forever-interview/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Community: Rekorde, Gilden, Streamer, Server",
+      "artikel": [
+        {
+          "titel": "Streamer im Visier: Blackmaw-Hold-Exploit hat Folgen",
+          "unterzeile": "Wirtschaftszugang gesperrt, Gold wird entfernt",
+          "text": "Laut GameSpot sperrte Blizzard Spielern, die den Blackmaw-Hold-Exploit nutzten, den Zugang zur Wirtschaft von Forever und will Gold aus „exploitativen Gewinnen“ entfernen. Bei erheblichem Missbrauch drohen Account-Sperren. PCGamesN berichtet von Bans für das Gold-Farming. Im Forum fordern Spieler, dass Blizzard auch den entstandenen Schaden korrigiert; ein Beitrag sprach von bis zu 10.000 Gold in acht Stunden.",
+          "quellen": [
+            {
+              "name": "GameSpot",
+              "url": "https://www.gamespot.com/articles/wow-forever-exploit-lands-streamers-in-hot-water-after-farming-thousands-of-gold/"
+            },
+            {
+              "name": "PCGamesN",
+              "url": "https://www.pcgamesn.com/world-of-warcraft/forever-gold-farming-exploit-bans"
+            },
+            {
+              "name": "Blizzard-Forum",
+              "url": "https://eu.forums.blizzard.com/en/wow/t/gold-exploit-you-hotfixed-the-exploit-now-fix-the-damage/643523"
+            }
+          ]
+        },
+        {
+          "titel": "EU: Battleground-Queues poppen auf manchen Layern nie",
+          "unterzeile": "Spielerberichte, kein offizieller Fix",
+          "text": "Einige EU-Spieler melden, dass ihre BG-Queues nie aufgehen, außer sie werden in einen anderen Layer verschoben. Spieler vermuten bestimmte Layer, genannt wird am häufigsten Layer 15. Solo-Queue zeigt keine geschätzte Wartezeit; es klappt wohl nur, wenn jemand aus einer anderen Shard-Gruppe mit euch queued. Eine offizielle Bestätigung oder ein Fix lag in den Suchergebnissen nicht vor.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/news/some-eu-players-reporting-issues-with-pvp-queues-and-honor-gains-in-wow-forever-383937"
+            },
+            {
+              "name": "WoW Forever NOW (X)",
+              "url": "https://x.com/wowforeverNOW/status/2123558288466083949"
+            }
+          ]
+        },
+        {
+          "titel": "Wie viele sind schon 60? Zahlen widersprechen sich",
+          "unterzeile": "Populations-Tracker liefern unterschiedliche Snapshots",
+          "text": "Der Armory-Tracker nennt 142.829 Charaktere auf Level 60 von 8.067.552 erfassten, aotc.gg zeigt in seinem Live-Census 168.873 auf Level 60, rund 2,5 %. Im US-Normal-Ruleset sind es dort nur 1,3 %. Beim ersten Level-60-Streamer nennt worldfirst60.com Cloud Bells am 7. November um 03:10 Uhr, aotc.gg weicht um Stunden ab. Beide Seiten sind Fan-Tracker, die Zahlen schwanken mit dem Zeitpunkt.",
+          "quellen": [
+            {
+              "name": "Armory WoW Forever",
+              "url": "https://armorywowforever.com/population"
+            },
+            {
+              "name": "aotc.gg",
+              "url": "https://www.aotc.gg/forever/population/live"
+            },
+            {
+              "name": "worldfirst60.com",
+              "url": "https://worldfirst60.com/"
+            }
+          ]
+        },
+        {
+          "titel": "Kotaku: Organisierte Goldfarmer und Einzelspieler",
+          "unterzeile": "Der Launch-Erfolg zieht auch Missbrauch an",
+          "text": "Kotaku sieht zwei Gruppen hinter den Exploits: einzelne Spieler, die einen Vorteil suchen, und organisierte Goldfarmer, die Gold für echtes Geld verkaufen, was die Nutzungsbedingungen verbieten. Die Popularität von Forever habe zu einem deutlichen Anstieg solcher Aktivitäten geführt.",
+          "quellen": [
+            {
+              "name": "Kotaku",
+              "url": "https://kotaku.com/blizzard-is-still-playing-whack-a-mole-with-wow-forever-gold-exploits-2000759498"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Alcaz Prison: Chaplains zuerst, Hunde nicht kiten",
+          "unterzeile": "Kurzguide für Level 48 bis 54",
+          "text": "Laut Guides sollten Gruppen in Trash-Packs zuerst die Chaplains fokussieren und bei mehreren Polymorph oder andere CC nutzen. Overseer Wrex früh töten, sein Overseer's Keyring öffnet das untere Stockwerk. Die Hunde nicht kiten – sie stürmen auf Fliehende zu. The Questioner nicht vor dem früheren Gefangenen-Ziel töten, sonst bricht die Quest von Mason Connery. Level-Angaben schwanken (48–53 bzw. 49–54).",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/guide/alcaz-prison-dungeon-overview-location-rewards"
+            },
+            {
+              "name": "Mobalytics",
+              "url": "https://mobalytics.gg/wow-forever/dungeons/alcaz-prison-dungeon-guide"
+            }
+          ]
+        },
+        {
+          "titel": "Lockpicking 1–300: Der alte BRD-Weg ist weg",
+          "unterzeile": "Wowhead und Zockify mit aktueller Route",
+          "text": "Das Skill-Maximum liegt bei dem Fünffachen des Charakterlevels, also 300 auf Level 60. Eine Route startet mit Practice-Lockboxen in Alther's Mill (Allianz) bzw. beim Schiff südlich von Ratchet (Horde), führt über Footlocker-Zonen wie Windshear Crag, Desolace und Slag Pit und endet mit Heavy Junkboxes und Blackrock-Depths-Türen. Laut Wowhead wurde die alte Classic-Methode für 250 bis 300 geändert, ältere Guides sind also veraltet. Achtung: Wegen der Lockbox-Änderung kann sich das Looten kurzfristig anders verhalten.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/news/the-best-way-to-level-lockpicking-to-max-in-wow-forever-383884"
+            },
+            {
+              "name": "Zockify",
+              "url": "https://www.zockify.com/forever/rogue/lockpicking/"
+            }
+          ]
+        },
+        {
+          "titel": "Zockify: Talent-Rechner, Gear-Planer, Pet-Finder",
+          "unterzeile": "Fan-Seite mit Daten aus dem Client",
+          "text": "Zockify bietet für Forever einen Talent-Rechner, einen Legacy-Points-Rechner, einen Gear-Planer, Pre-Raid-BiS-Listen, einen Hunter-Pet-Finder und einen Tier-List-Maker. Die Daten stammen aus dem Game-Client. Der Gear-Planer weist darauf hin, dass die Itemdaten auf dem letzten Beta-Client basieren und sich ändern können. Die Dungeon-Liste umfasst 29 Dungeons, davon 20 aus Classic und neun neue.",
+          "quellen": [
+            {
+              "name": "Zockify Forever",
+              "url": "https://www.zockify.com/forever/"
+            },
+            {
+              "name": "Zockify Dungeons",
+              "url": "https://www.zockify.com/forever/dungeons/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen, Interviews, Entwickler-Aussagen",
+      "artikel": [
+        {
+          "titel": "Aidan Moon: Weg vom BiS-Denken",
+          "unterzeile": "Aussage aus dem Forever-Podcast",
+          "text": "Laut Wowhead sagte Senior Game Designer Aidan „Zirene“ Moon im jüngsten WoW:-Forever-Podcast, dass er sich von der Idee der Best-in-Slot-Items lösen will. Der Artikeltext war beim Abruf nicht einsehbar, belegt ist daher nur Überschrift und Zusammenfassung. Blizzard plant laut Berichten außerdem, Ausrüstung über die gesamte Laufzeit interessanter zu machen.",
+          "quellen": [
+            {
+              "name": "Wowhead",
+              "url": "https://www.wowhead.com/forever/news/blizzard-wants-to-get-rid-of-bis-in-wow-forever-383931"
+            },
+            {
+              "name": "Mobalytics",
+              "url": "https://mobalytics.gg/wow-forever/profile/the-comeback-kids/news/wow-forever-news-blizzard-addresses-major-problems-pvp-changes-free-16-slot-bag-and-more"
+            }
+          ]
+        },
+        {
+          "titel": "Tim Jones: Kein Überspringen des Levelns",
+          "unterzeile": "Interview zu Wirtschaft und Horizontal Progression",
+          "text": "Lead Designer Tim Jones sagte laut But Why Tho: „We're not letting people skip the leveling process.“ Das Level-Cap bleibe, neue Inhalte wie PvP-Seasons, Reputationen, Rezepte, Berufspfade, Zonen und Dungeons sollen Alts und Rückkehrern frische Erlebnisse bieten statt Abkürzungen. Mike Nuthals ergänzte, das Team habe die meisten Classic-Dungeons gespielt und Bosskomplexität studiert; QA-Feedback habe teils zu weniger Mechanik-Komplexität geführt. Jones nannte das Ziel „found photograph“: Inhalte, die wirken, als hätte es sie immer gegeben.",
+          "quellen": [
+            {
+              "name": "But Why Tho",
+              "url": "https://butwhytho.net/2026/11/wow-forever-interview/"
+            }
+          ]
+        },
+        {
+          "titel": "Hardcore kommt im Winter – ohne genaues Datum",
+          "unterzeile": "BlizzCon-Ankündigung, Details offen",
+          "text": "Hardcore ist laut PC Gamer nicht zum Launch dabei, sondern für den Winter geplant. Production Director Clayton Stone nannte es einen Wendepunkt fürs Team; Senior Game Designer Josh Greenfield erwähnte einen möglichen eigenen Bereich für Mak'gora-Duelle. Gestorbene Spieler sollen auf PvE-, PvP- oder RP-Realms wechseln können, Legacy Points sollen übertragen werden. Einen Termin hat Blizzard nicht genannt, vieles stammt aus Berichten von Fan-Seiten und Presse.",
+          "quellen": [
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-will-get-a-hardcore-mode-by-winter-say-devs-whichll-be-interesting-given-all-the-new-and-undiscovered-ways-to-die/"
+            },
+            {
+              "name": "MassivelyOP",
+              "url": "https://massivelyop.com/2026/09/14/blizzcon-2026-world-of-warcraft-forever-encouraged-blizzard-to-go-again-with-its-hardcore-mode/"
+            },
+            {
+              "name": "Warcraft Tavern",
+              "url": "https://www.warcrafttavern.com/forever/news/world-of-warcraft-forever-was-designed-with-hardcore-in-mind/"
+            }
+          ]
+        },
+        {
+          "titel": "Kein WoW-Token, keine bezahlten Boosts",
+          "unterzeile": "Clay Stone im Wowhead-Interview",
+          "text": "Laut den Suchergebnissen zu Wowheads Interview mit Clay Stone gibt es in Forever keine Pläne für einen WoW-Token oder bezahlte Boosts. Den vollen Wortlaut konnten wir nicht prüfen; die Aussage stammt aus einer Zusammenfassung.",
+          "quellen": [
+            {
+              "name": "MMORPG.com",
+              "url": "https://www.mmorpg.com/interviews/blizzcon-2026-interview-chatting-wow-forevers-campsites-horizontal-progression-and-more-with-blizzard-2000138932"
+            },
+            {
+              "name": "Return to Azeroth Recap (Wowhead)",
+              "url": "https://www.wowhead.com/forever/news/return-to-azeroth-recap-for-world-of-warcraft-forever-383653"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Darkmoon Faire: Dezember in Mulgore",
+          "unterzeile": "Termine unterscheiden sich um einen Tag",
+          "text": "Die meisten Quellen nennen Mulgore als Dezember-Standort, vom 7. bis 13. Dezember 2026; eine Seite führt 6. bis 12. Dezember, eine andere 7. bis 14. Dezember bei Thunder Bluff. Im November steht die Faire in Elwynn Forest. Genaue Zeiten variieren nach Realm, der Ingame-Kalender gilt.",
+          "quellen": [
+            {
+              "name": "Playnews",
+              "url": "https://www.playnews.gg/en/updates/wow-forever-where-is-the-darkmoon-faire-and-when-does-it-move-to-mulgore"
+            },
+            {
+              "name": "Wowhead Guide",
+              "url": "https://www.wowhead.com/forever/guide/darkmoon-faire-event-overview-guide"
+            },
+            {
+              "name": "WoWcalc",
+              "url": "https://wowcalc.net/en/forever/wiki/calendar"
+            }
+          ]
+        },
+        {
+          "titel": "Feast of Winter Veil: 15. Dezember bis 2. Januar",
+          "unterzeile": "Start 6 Uhr Serverzeit",
+          "text": "Die meisten Kalender-Seiten nennen den 15. Dezember 2026 bis 2. Januar 2027 für Winter Veil. Undying nennt als Start 6:00 Uhr Serverzeit. Eine andere Seite listet den 13. Dezember, sie bezieht sich laut Suchergebnis aber nicht auf Forever.",
+          "quellen": [
+            {
+              "name": "Undying",
+              "url": "https://undying.app/events"
+            },
+            {
+              "name": "WoWcalc",
+              "url": "https://wowcalc.net/en/forever/wiki/calendar"
+            }
+          ]
+        },
+        {
+          "titel": "9. Dezember: Barrow Deeps, Hyjal Summit und Onyxia",
+          "unterzeile": "Noch 15 Tage",
+          "text": "Am 9. Dezember öffnen laut Blizzard die ersten Raids: Barrow Deeps (10 Spieler), Hyjal Summit (20) und Onyxia's Lair (40). Das gibt Spielern Zeit, nach dem Launch Level 60 zu erreichen und Gruppen zu bilden. Hardcore ist für den Winter angekündigt, ohne Datum.",
+          "quellen": [
+            {
+              "name": "Blizzard News",
+              "url": "https://news.blizzard.com/en-us/article/24303009/world-of-warcraft-forever-raid-overviewlocations-raid-sizes-and-attunement"
+            },
+            {
+              "name": "PC Gamer",
+              "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-will-get-a-hardcore-mode-by-winter-say-devs-whichll-be-interesting-given-all-the-new-and-undiscovered-ways-to-die/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kalender",
+        "punkte": [
+          "7.–13. Dezember: Darkmoon Faire, Mulgore (Quellen uneinig um 1 Tag)",
+          "9. Dezember: Raid-Start",
+          "15. Dezember – 2. Januar: Feast of Winter Veil",
+          "Winter: Hardcore (ohne Datum)"
+        ],
+        "quellen": [
+          {
+            "name": "WoWcalc",
+            "url": "https://wowcalc.net/en/forever/wiki/calendar"
+          },
+          {
+            "name": "Undying",
+            "url": "https://undying.app/events"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Vor dem Lockbox-Fix nichts verschicken",
+    "text": "Solange das Lockbox-Peeking aus ist, öffnet Boxen lieber selbst, statt sie zwischen Accounts zu mailen. Spieler berichten von Economy-Holds nach dem Verschicken. Und prüft vor dem Einstellen im Auktionshaus immer den angezeigten Deposit."
+  }
+}
