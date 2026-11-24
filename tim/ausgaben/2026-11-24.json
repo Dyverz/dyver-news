@@ -1,0 +1,616 @@
+{
+  "gruss": "Guten Morgen, Tim! Dienstag, 24. November. Heute früher Feierabend im Mülheimer Rathaus, morgen Pflege-Anhörung in Berlin und am Freitag der Haushalt – Kaffee holen, dann geht’s los.",
+  "aufmacher": {
+    "rubrik": "Altenpflege",
+    "titel": "Pflege-Anhörung morgen: Der Plan bringt 6,25 Milliarden, das Loch ist größer",
+    "unterzeile": "Gesundheitsausschuss hört Sachverständige zum Pflegeneuordnungsgesetz – GKV warnt vor Engpass Anfang 2027",
+    "text": "Morgen, am Mittwoch, 25. November, hört der Gesundheitsausschuss des Bundestags von 15 bis 17:15 Uhr Sachverständige zum „Gesetz zur Neuordnung der Pflegeversicherung“ an. Neben dem Regierungsentwurf liegen acht Oppositionsanträge vor, unter anderem zu Verhinderungspflege, Entlastungsbetrag und einem Pflegelohn für private Pflegepersonen.\n\nDas Problem dahinter ist Geld: Die Reform soll rechnerisch 6,25 Milliarden Euro bringen, für 2027 wird aber ein Defizit von 7,6 Milliarden Euro erwartet. Im ersten Halbjahr 2026 stiegen die Ausgaben um 11 Prozent, die Beitragseinnahmen nur um 3,9 Prozent. Der GKV-Spitzenverband warnt vor einem Liquiditätsengpass Anfang 2027.\n\nDer höhere Kinderlosenzuschlag soll zum 1. Januar 2027 greifen, deshalb muss der Bundestag noch dieses Jahr entscheiden. Berichten zufolge sind zweite und dritte Lesung für den 11. Dezember geplant; wird der Bundesrat knapp, könnte ein Vermittlungsausschuss die Entlastungen für 2027 gefährden.",
+    "quellen": [
+      {
+        "name": "cash-online: Pflegereform 2027",
+        "url": "https://www.cash-online.de/a/pflegeversicherung-vor-dem-naechsten-engpass-das-sieht-die-pflegereform-2027-vor-731227/"
+      },
+      {
+        "name": "altenheim.net: Anhörung",
+        "url": "https://www.altenheim.net/pflegeneuordnungsgesetz-bundestag-hoert-am-25-november-sachverstaendige-an/"
+      },
+      {
+        "name": "AOK: Pflegeneuordnungsgesetz",
+        "url": "https://www.aok.de/pp/gesetz/pnog/"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Mülheim an der Ruhr",
+      "artikel": [
+        {
+          "titel": "Bürgerforum im Ratssaal: Verkehr im Fokus",
+          "unterzeile": "Bürgervereine, Politik und Autobahn GmbH an einem Tisch",
+          "text": "Oberbürgermeister Marc Buchholz hat am 19. November Bürgervereine, Interessengemeinschaften und Politik in den Ratssaal des Historischen Rathauses eingeladen. Thema: Verkehr in und um Mülheim.\n\nBeigeordneter Felix Blasch, zuständig unter anderem für Umwelt, Klima, Bau und Stadtplanung, gab einen Überblick zu verkehrsrechtlichen Fragen. Von der Autobahn GmbH (Niederlassung Essen) waren Mario Korte und Anja Rute dabei und standen für Fragen bereit.\n\nBeschlüsse oder konkrete Ergebnisse nennt die Stadt in ihrer Mitteilung nicht. Die Teilnehmenden konnten sich informieren und eigene Vorschläge einbringen. Wer die Baustellenlage im Blick behalten will: Die Stadt führt einen Baustellenkalender, in dem nur Maßnahmen mit gravierenden Einschränkungen stehen.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim an der Ruhr: Bürgerforum",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/buergerforum-im-ratssaal-verkehr-in-und-um-muelheim-im-fokus"
+            },
+            {
+              "name": "Baustellenkalender der Stadt",
+              "url": "https://geo.muelheim-ruhr.de/baustellen"
+            }
+          ]
+        },
+        {
+          "titel": "Heute früher Feierabend im Rathaus: Dienststellen schließen um 11:30 Uhr",
+          "unterzeile": "Personalversammlung der Stadtverwaltung",
+          "text": "Heute, am 24. November, schließt die Stadtverwaltung ausnahmsweise schon um 11:30 Uhr. Grund ist eine Personalversammlung, an der die Mitarbeitenden teilnehmen. Wenn du heute noch etwas im Rathaus erledigen willst, geh also am besten vormittags hin.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim an der Ruhr: Personalversammlung",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/personalversammlung-dienststellen-schliessen-frueher"
+            }
+          ]
+        },
+        {
+          "titel": "Feuerwehr im Einsatz: A40-Unfall mit drei Verletzten und Lkw an der Alexanderstraße",
+          "unterzeile": "Zwei Einsätze der letzten Tage",
+          "text": "Auf der A40 bei Mülheim sind bei einem Verkehrsunfall drei Personen verletzt worden, meldete die Feuerwehr am 22. November. Genauere Angaben zu Stelle und Hergang stehen in der Übersicht nicht.\n\nBereits am 20. November kippte ein Lkw auf der Alexanderstraße um. Die Feuerwehr befreite den Fahrer aus dem Führerhaus. Zum Gesundheitszustand des Fahrers nennt die Übersicht nichts.",
+          "quellen": [
+            {
+              "name": "Presseportal Blaulicht Mülheim",
+              "url": "https://www.presseportal.de/blaulicht/st/M%C3%BClheim"
+            }
+          ]
+        },
+        {
+          "titel": "Stadtfinanzen: Haushalt 2026/2027 ist genehmigt",
+          "unterzeile": "Hintergrund: Schwieriger Start in die neue Ratsperiode",
+          "text": "Die Bezirksregierung Düsseldorf hat den Haushalt der Stadt für 2026/2027 am 26. August 2026 genehmigt, die Stadt kann damit die geplanten Ausgaben tätigen. Oberbürgermeister Buchholz und Stadtkämmerer Frank Mendack sprechen von einem schwierigen Start in die neue Ratsperiode. Als Gründe nennen sie höhere Zinsen, Preise und Tarifabschlüsse sowie sinkende Gewerbesteuer-Einnahmen.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim an der Ruhr: Haushalt genehmigt",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/haushalt-20262027-genehmigt-stadt-kann-geplante-ausgaben"
+            }
+          ]
+        },
+        {
+          "titel": "Mülheimer Jahrbuch 2027 ist da",
+          "unterzeile": "296 Seiten, 69 Beiträge, 58 ehrenamtliche Autorinnen und Autoren",
+          "text": "Die 82. Ausgabe des Mülheimer Jahrbuchs ist erschienen: 296 Seiten in Farbe mit 69 Beiträgen von 58 Ehrenamtlichen. Es geht um Stadtentwicklung, Verkehr, Wirtschaft, Gesundheit, Kultur und Sport, mit Schwerpunkt auf Ehrenamt und Erinnerungskultur. Außerdem dabei: die Stadtfinanzen, 100 Jahre Stadthalle, ein Porträt von Holthausen-Raadt und ein Rückblick auf 2025 und 2026. Preis und Verkaufsstellen nennt die Stadt in der Meldung nicht, mehr Infos gibt es unter muelheim-jahrbuch.de.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim an der Ruhr: Jahrbuch 2027",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/82-ausgabe-das-jahrbuch-2027-ist-da"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Mülheim & Ruhrgebiet",
+      "artikel": [
+        {
+          "titel": "Aktionsmonat gegen Gewalt an Frauen: „Orange your City“ am Mittwoch",
+          "unterzeile": "Ausstellung im Forum, Lichtaktion und Orange Walk",
+          "text": "Mülheim beteiligt sich am 25. November an der UN-Kampagne „Orange your City“. An dem Tag werden die Stadthalle und Schloss Broich orange angestrahlt, ebenso die neuen Beratungsräume am Löhberg 20.\n\nIm Forum läuft vom 24. bis 28. November die Fotoausstellung „Schau hin“ mit 21 Schwarz-Weiß-Bildern, täglich 11 bis 18 Uhr, Eröffnung heute um 12 Uhr. Am Mittwoch gibt es dort von 11 bis 16 Uhr einen Infotisch mit Beratungsstellen und Frauenhaus. Um 18 Uhr startet der „Orange Walk“ der SPD-Frauen am Dieter-Aus-dem-Siepen-Platz (Ziel: Regenbogenplatz, ohne Anmeldung). Am 30. November folgt ein Fachtag in der Wolfsburg.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim an der Ruhr: Büro für Chancengleichheit",
+              "url": "https://cms.muelheim-ruhr.de/leben-in-muelheim/gesellschaft-und-soziales/buero-fuer-chancengleichheit/aktuelles-aus-dem-buero-20"
+            }
+          ]
+        },
+        {
+          "titel": "Kreativ-Markt in der Stadthalle am 1. Advent",
+          "unterzeile": "Sonntag, 29. November, 11 bis 17 Uhr, Eintritt frei",
+          "text": "Am Sonntag, 29. November, findet in der Stadthalle der Kreativ-Markt statt, mit weihnachtlicher Deko und Geschenkideen. Laut Veranstaltungskalender der Stadt ist von 11 bis 17 Uhr geöffnet, der Eintritt ist frei, und etwa 70 bis 75 Ausstellende sind dabei. Parken neben der Halle ist sonn- und feiertags kostenlos. Eine andere Listung nennt abweichende Zeiten, schau also im Zweifel beim Veranstalter nach.",
+          "quellen": [
+            {
+              "name": "Veranstaltungskalender Stadt Mülheim",
+              "url": "https://www1.muelheim-ruhr.de/veranstaltungen/kreativ-markt_am_29.11.2026/404387"
+            },
+            {
+              "name": "Stadt Mülheim an der Ruhr: Kreativ-Markt",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/kreativ-markt-in-der-stadthalle"
+            },
+            {
+              "name": "Kulturbüro Mülheim",
+              "url": "https://kultur.muelheim-ruhr.de/kulturbuero/kreativ-markt-der-stadthalle/156"
+            }
+          ]
+        },
+        {
+          "titel": "Weihnachtsmärkte im Revier: Was dieses Wochenende los ist",
+          "unterzeile": "Hagen, Waltrop, Gelsenkirchen-Buer und Oberhausen",
+          "text": "Einige große Märkte laufen schon, etwa in Essen und Oberhausen (Centro) seit 13. November sowie in Recklinghausen, Witten und Hagen seit 19. November. Für das Wochenende nennen Terminlisten unter anderem den Weihnachtszauber im Freilichtmuseum Hagen (27. bis 29. November), „Industriekultur meets Weihnachten“ am Schiffshebewerk Waltrop (28. und 29. November) und den Adventsmarkt am Haus Ripshorst in Oberhausen (28./29. November). Die Quellen sind Terminportale und teils uneinheitlich, prüf Öffnungszeiten vorher beim Veranstalter.",
+          "quellen": [
+            {
+              "name": "Weihnachtsmärkte im Ruhrgebiet 2026 (makerbude.com)",
+              "url": "https://makerbude.com/weihnachtsmarkt/ruhrgebiet"
+            },
+            {
+              "name": "Weihnachtsmärkte Ruhrgebiet (alle-weihnachtsmaerkte.de)",
+              "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/ruhrgebiet/"
+            }
+          ]
+        },
+        {
+          "titel": "Bahn: Fahrplanwechsel am 13. Dezember und Ausfälle vor Weihnachten",
+          "unterzeile": "Ersatzbusse zwischen Münster und dem Ruhrgebiet",
+          "text": "Zum 13. Dezember steht der Fahrplanwechsel an. Vom 18. Dezember (21 Uhr) bis 25. Dezember (21 Uhr) fallen wegen Brücken- und Gleisarbeiten Teile von RE 2 und RE 42 ab Münster aus, Ersatzbusse sind vorgesehen. Auf der RE 42 entfallen Fahrten zwischen Münster und Essen über die gesamte Strecke. Die aktuellsten Infos zu Störungen und Baustellen im NRW-Regionalverkehr findest du bei zuginfo.nrw.",
+          "quellen": [
+            {
+              "name": "Kurz vor Weihnachten: Zugausfälle (ms-aktuell.de)",
+              "url": "https://ms-aktuell.de/muenster/kurz-vor-weihnachten-zugausfaelle-zwischen"
+            },
+            {
+              "name": "zuginfo.nrw",
+              "url": "https://www.zuginfo.nrw/?categories=1&sParam=LMOD_&sIncrease=DESC&perma=true"
+            }
+          ]
+        },
+        {
+          "titel": "Sport in Mülheim: Hockey-Empfang und „medl-Nacht der Sieger“",
+          "unterzeile": "Ehrung der Sportler am 13. März 2027",
+          "text": "Oberbürgermeister Buchholz hat am 17. November vier Mülheimer Hockeysportler für ihre internationalen Erfolge im Rathaus geehrt. Die „medl-Nacht der Sieger“, bei der die Mülheimer Sportlerinnen und Sportler ausgezeichnet werden, findet am 13. März 2027 statt. Der Vorverkauf läuft seit dem 18. November, die ersten 300 Early-Bird-Tickets sind besonders günstig.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim an der Ruhr: Hockey-Empfang",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/politik/repraesentation-der-stadt/veranstaltungen-und-empfaenge/empfang-der-muelheimer"
+            },
+            {
+              "name": "Stadt Mülheim an der Ruhr: Nacht der Sieger",
+              "url": "https://cms.muelheim-ruhr.de/aktuelles-aus-dem-sport/gaensehaut-show-und-sportler-des-jahres-medl-nacht-der-sieger-startet-in"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine der Woche",
+        "punkte": [
+          "Di 24.11., 12 Uhr: Eröffnung der Ausstellung „Schau hin“ im Forum (bis Sa 28.11., täglich 11–18 Uhr)",
+          "Mi 25.11.: „Orange your City“ – Stadthalle und Schloss Broich orange beleuchtet; Infotisch im Forum 11–16 Uhr; Orange Walk 18 Uhr ab Dieter-Aus-dem-Siepen-Platz",
+          "Fr 27.–So 29.11.: Weihnachtszauber im Freilichtmuseum Hagen",
+          "Sa 28. und So 29.11.: Industriekultur meets Weihnachten, Schiffshebewerk Waltrop",
+          "So 29.11., 11–17 Uhr: Kreativ-Markt in der Stadthalle (Eintritt frei)",
+          "Mo 30.11., 10–15:30 Uhr: Fachtag zu häuslicher Gewalt, Akademie Die Wolfsburg (Anmeldung nötig, für Fachpersonal)"
+        ],
+        "quellen": [
+          {
+            "name": "Stadt Mülheim an der Ruhr: Büro für Chancengleichheit",
+            "url": "https://cms.muelheim-ruhr.de/leben-in-muelheim/gesellschaft-und-soziales/buero-fuer-chancengleichheit/aktuelles-aus-dem-buero-20"
+          },
+          {
+            "name": "Weihnachtsmärkte im Ruhrgebiet 2026",
+            "url": "https://makerbude.com/weihnachtsmarkt/ruhrgebiet"
+          },
+          {
+            "name": "Kreativ-Markt (Stadt Mülheim)",
+            "url": "https://www1.muelheim-ruhr.de/veranstaltungen/kreativ-markt_am_29.11.2026/404387"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Politik",
+      "artikel": [
+        {
+          "titel": "Haushalt 2027: Wer wie viel bekommt",
+          "unterzeile": "Rekordetat von 560,9 Milliarden Euro vor der Schlussabstimmung",
+          "text": "Der Haushaltsausschuss hat den Etat 2027 am 13. November mit Ausgaben von rund 560,9 Milliarden Euro beschlossen, so viel wie nie. Die Nettokreditaufnahme im Kernhaushalt liegt bei knapp 123 Milliarden Euro, etwa 4 Milliarden mehr als im Regierungsentwurf. Zusammen mit den Sondertöpfen für Infrastruktur und Bundeswehr dürften die neuen Schulden insgesamt über 200 Milliarden Euro liegen.\n\nDer größte Posten bleibt das Arbeitsministerium mit rund 203,3 Milliarden Euro, dahinter folgt Verteidigung mit 109,7 Milliarden (plus Sondervermögen). Das Gesundheitsministerium bekommt 15,1 Milliarden Euro (plus 780 Millionen), das Verkehrsministerium 25,3 Milliarden (minus 1 Milliarde). Die Plastiksteuer ist vom Tisch, die Zuckersteuer rutscht um ein halbes Jahr auf 2028, geplante Sozialkürzungen wurden entschärft.\n\nDie Grünen nennen den Haushalt eine „Bretterbude ohne Fundament“, die Linke kritisiert Rekordschulden. Die Koalition verteidigt ihn; die SPD verweist auf die geschlossene Lücke von 34 Milliarden Euro. Beschlossen werden soll der Etat in der Sitzungswoche vom 24. bis 27. November.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Haushalt 2027 steht",
+              "url": "https://www.zdfheute.de/politik/deutschland/haushalt-haushaltsausschuss-bundestag-union-spd-100.html"
+            },
+            {
+              "name": "Bundestag: Haushalt 2027",
+              "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1205352"
+            }
+          ]
+        },
+        {
+          "titel": "Rente mit 63: Koalition hängt an einer Stelle fest",
+          "unterzeile": "Reformentwurf lässt weiter auf sich warten",
+          "text": "Bei der Rentenreform ist die Koalition laut t-online (Stand 23. November) vor allem bei der „Rente mit 63“ nicht einig, also dem abschlagsfreien Ruhestand nach 45 Beitragsjahren. Die Union will sie grundsätzlich abschaffen, aber für besonders Bedürftige zulassen, die SPD will sie behalten und nur manche Berechtigte ausschließen. CSU-Chef Söder brachte Ausnahmen für körperlich harte Berufe und längere Übergangsfristen ins Spiel.\n\nDie anderen Punkte, etwa Minijobs und das Blockmodell bei der Altersteilzeit, gelten als weitgehend geklärt. Der erwartete Entwurf des Arbeitsministeriums wurde am Montag nicht in die Ressortabstimmung gegeben. Die letzte Kabinettssitzung des Jahres ist am 16. Dezember, zuständiger Minister ist inzwischen Alexander Schweitzer.",
+          "quellen": [
+            {
+              "name": "t-online: Neue Rentenreform",
+              "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101541656/neue-rentenreform-an-einer-stelle-hakt-es-noch-gewaltig-rente.html"
+            }
+          ]
+        },
+        {
+          "titel": "Söder will kalte Progression ausgleichen – Bundesregierung winkt ab",
+          "unterzeile": "Vollständiger Ausgleich würde 4,2 Milliarden Euro kosten",
+          "text": "Die Bundesregierung hat einen Vorstoß von CSU-Chef Markus Söder zum Ausgleich der kalten Progression zurückgewiesen (Meldung vom 23. November). Ein vollständiger Ausgleich würde Bund, Länder und Kommunen zusammen rund 4,2 Milliarden Euro kosten. Kalte Progression heißt: Gehaltserhöhungen, die nur die Inflation ausgleichen, rutschen trotzdem in höhere Steuerstufen.",
+          "quellen": [
+            {
+              "name": "ARIVA: Bundesregierung weist Söder-Vorstoß zurück",
+              "url": "https://www.ariva.de/news/bundesregierung-weist-soeder-vorstoss-zu-kalter-progression-12217195"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine bis Weihnachten",
+        "punkte": [
+          "24.–27.11.: Sitzungswoche, Schlussabstimmung Haushalt 2027",
+          "25.11.: Anhörung zur Pflegereform im Gesundheitsausschuss",
+          "2.12.: Kabinett soll Gesetz und Verordnung zum Spritpreisdeckel beschließen (Start ab 1.1.2027 geplant)",
+          "9. oder 16.12.: möglicher Kabinettsbeschluss zur Rentenreform; 16.12. ist die letzte Kabinettssitzung des Jahres"
+        ],
+        "quellen": [
+          {
+            "name": "ZDFheute: Stromsteuer, Spritpreisdeckel",
+            "url": "https://www.zdfheute.de/politik/stromsteuer-senkung-beschlossen-100.html"
+          },
+          {
+            "name": "t-online: Rentenreform",
+            "url": "https://www.t-online.de/nachrichten/deutschland/innenpolitik/id_101541656/neue-rentenreform-an-einer-stelle-hakt-es-noch-gewaltig-rente.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Wirtschaft, Gesellschaft, Verbraucher",
+      "artikel": [
+        {
+          "titel": "Black Friday: Handel erwartet 6,2 Milliarden Euro",
+          "unterzeile": "Umsatzplus von rund 6 Prozent, aber vorsichtige Kunden",
+          "text": "Der Handelsverband HDE rechnet für Black Friday (27. November) und Cyber Monday (30. November) zusammen mit 6,2 Milliarden Euro Umsatz, rund 6 Prozent mehr als im Vorjahr. 2025 war der Umsatz erstmals gesunken. Etwa 1,9 Milliarden Euro davon sollen in Weihnachtseinkäufe fließen.\n\nDas durchschnittliche Geschenkbudget sinkt leicht auf 262 Euro (Vorjahr 263 Euro); 10 Prozent wollen mehr ausgeben, 24 Prozent weniger. Fast vier von fünf Händlern erwarten preisbewusste Kunden, im Nicht-Lebensmittelhandel rechnen 56 Prozent mit einem schwächeren Weihnachtsgeschäft. Für November und Dezember insgesamt erwartet der HDE 129,2 Milliarden Euro Handelsumsatz, nominal etwa 2 Prozent mehr.",
+          "quellen": [
+            {
+              "name": "aktiencheck.de: HDE-Prognose",
+              "url": "https://aktiencheck.de/artikel/black-friday-2026-handelsverband-erwartet-62-milliarden-euro-umsatz-zalando"
+            }
+          ]
+        },
+        {
+          "titel": "Verbraucherzentrale: So kommst du heil durch den Black Friday",
+          "unterzeile": "Preise vergleichen, Fakeshop-Finder nutzen, sicher zahlen",
+          "text": "Die Verbraucherzentrale Schleswig-Holstein rät, nicht auf Prozente zu schauen, sondern den Endpreis inklusive Versand bei mehreren Anbietern und in zwei unabhängigen Preisvergleichen zu prüfen. Rabatte beziehen sich oft auf unverbindliche Herstellerpreise, die weit über dem tatsächlichen Preis liegen können. Bei unbekannten Shops hilft der Fakeshop-Finder der Verbraucherzentralen; zahl dort möglichst auf Rechnung oder mit Käuferschutz, nicht per Vorkasse.\n\nWarnzeichen sind auffällig niedrige Preise, ein fehlendes Impressum, Zeitdruck durch Countdowns und Werbung in sozialen Netzwerken. Wer reingefallen ist, sichert Beweise, kontaktiert sofort die Bank und erstattet Anzeige, auch online. Neu ist ein Bookmarklet, das den Fakeshop-Finder per Klick für die gerade besuchte Seite startet.",
+          "quellen": [
+            {
+              "name": "Verbraucherzentrale SH, 19.11.2026",
+              "url": "https://www.verbraucherzentrale.sh/pressemitteilungen/black-friday-vorsicht-vor-falschen-rabatten-und-fakeshops-127340"
+            }
+          ]
+        },
+        {
+          "titel": "Phishing-Radar: Gefälschte Nachrichten im Namen von Banken, PayPal und WhatsApp",
+          "unterzeile": "Kurze Fristen und Drohungen sind das Warnsignal",
+          "text": "Das Phishing-Radar der Verbraucherzentralen listet mit Stand 23. November gefälschte Nachrichten im Namen von Commerzbank, Volksbank, PayPal, Deutscher Rentenversicherung, Kleinanzeigen und WhatsApp, außerdem von Consorsbank, Deutscher Bank, ELSTER und Apple. Typisch sind kurze Fristen (bei einer Commerzbank-Masche 24 Stunden) und Drohungen mit Kontosperrung. Eine Masche fragt unter dem Vorwand der Geldwäscheprävention nach einer Ausweiskopie. Dazu kommen laut Verbraucherzentrale gefälschte Mails „WA Login lahmgelegt“ im Namen des WhatsApp-Teams, besonders für iCloud+-Nutzer.",
+          "quellen": [
+            {
+              "name": "Verbraucherzentrale: Phishing-Radar",
+              "url": "https://www.verbraucherzentrale.nrw/wissen/digitale-welt/phishingradar/phishingradar-aktuelle-warnungen-6059"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Black Friday: Fr 27.11., Cyber Monday: Mo 30.11.",
+          "30.11.: vorläufige deutsche Inflationsrate für November",
+          "Falsche Anrufe im Namen der Verbraucherzentrale sind aus NRW (Wesel) gemeldet worden – nicht auf Datenlösch-Angebote eingehen"
+        ],
+        "quellen": [
+          {
+            "name": "aktiencheck.de: HDE-Prognose",
+            "url": "https://aktiencheck.de/artikel/black-friday-2026-handelsverband-erwartet-62-milliarden-euro-umsatz-zalando"
+          },
+          {
+            "name": "Verbraucherzentrale: Anruf-Masche",
+            "url": "https://www.verbraucherzentrale.de/wissen/vertraege-reklamation/abzocke/unerwarteter-anruf-von-der-verbraucherzentrale-vorsicht-falle-11112"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Politik, Recht, Pflegeversicherung",
+      "artikel": [
+        {
+          "titel": "Morgen Anhörung zum Pflegeneuordnungsgesetz: Was auf dem Tisch liegt",
+          "unterzeile": "Regierungsentwurf plus acht Oppositionsanträge",
+          "text": "Morgen, am 25. November, hört der Gesundheitsausschuss des Bundestags von 15 bis 17:15 Uhr im Marie-Elisabeth-Lüders-Haus Sachverständige zum „Gesetz zur Neuordnung der Pflegeversicherung“ an (Drucksache 21/8869). Dazu werden acht Oppositionsanträge beraten.\n\nDie Linke will unter anderem Verhinderungspflege erhalten und stärken, Umwandlungsanspruch und Entlastungsbetrag erhalten und einen Pflegelohn für private Pflegepersonen einführen. Die Grünen fordern mehr Krisenresilienz in der Pflege und eine nachhaltige Reform. Die AfD will die Pflegeversicherung strukturell reformieren und Pflegebetrug bekämpfen. Zum weiteren Zeitplan nennt altenheim.net nichts; Berichten zufolge sind zweite und dritte Lesung für den 11. Dezember geplant.",
+          "quellen": [
+            {
+              "name": "altenheim.net: Anhörung am 25. November",
+              "url": "https://www.altenheim.net/pflegeneuordnungsgesetz-bundestag-hoert-am-25-november-sachverstaendige-an/"
+            },
+            {
+              "name": "AOK: Gesetz zur Neuordnung der Pflegeversicherung",
+              "url": "https://www.aok.de/pp/gesetz/pnog/"
+            }
+          ]
+        },
+        {
+          "titel": "Pflegefinanzen: 6,25 Milliarden Euro Plan gegen 7,6 Milliarden Euro Defizit",
+          "unterzeile": "Das Zahlenwerk hinter der Reform",
+          "text": "Die Reform soll rechnerisch 6,25 Milliarden Euro bringen, für 2027 wird aber ein Defizit von 7,6 Milliarden Euro erwartet. Geplant sind ab 1. Januar 2027 ein höherer Zuschlag für Kinderlose (0,6 auf 0,9 Prozentpunkte) und eine um 300 Euro höhere Beitragsbemessungsgrenze, ab 2028 sollen Arbeitgeber auch für Minijobber Pflegebeiträge zahlen.\n\nIm ersten Halbjahr 2026 stiegen die Ausgaben um 11 Prozent auf 39,48 Milliarden Euro, die Beitragseinnahmen nur um 3,9 Prozent auf 36,71 Milliarden Euro. Der GKV-Spitzenverband warnt vor einem Liquiditätsengpass Anfang 2027 und beziffert den ungedeckten Bedarf auf rund zehn Milliarden Euro. Die Zahl der Leistungsbeziehenden stieg binnen zwölf Monaten um 370.000 auf rund sechs Millionen.",
+          "quellen": [
+            {
+              "name": "cash-online: Pflegereform 2027",
+              "url": "https://www.cash-online.de/a/pflegeversicherung-vor-dem-naechsten-engpass-das-sieht-die-pflegereform-2027-vor-731227/"
+            }
+          ]
+        },
+        {
+          "titel": "Pflegestrukturkommission und Bundesrat: Der Fahrplan danach",
+          "unterzeile": "Empfehlungen bis Ende Januar, Strukturreform zum 1. Juli 2027 angestrebt",
+          "text": "Am 14. Oktober hat das Kabinett eine 13-köpfige Pflegestrukturkommission eingesetzt (Vorsitz Georg Cremer, Co-Vorsitz Gabriele Kuhn-Zuber). Erste Empfehlungen sollen bis Ende Januar 2027 vorliegen, eine größere Strukturreform wird zum 1. Juli 2027 angestrebt. Der Bundesrat forderte am 20. November Nachbesserungen: Der Bund soll sich an den Mehrkosten der Kommunen in der Sozialhilfe beteiligen, und die Leistungsdynamisierung zum 1. Januar 2028 soll bleiben. Berichten zufolge könnte ein Vermittlungsausschuss die für 2027 geplanten Entlastungen gefährden.",
+          "quellen": [
+            {
+              "name": "cash-online: Pflegereform 2027",
+              "url": "https://www.cash-online.de/a/pflegeversicherung-vor-dem-naechsten-engpass-das-sieht-die-pflegereform-2027-vor-731227/"
+            },
+            {
+              "name": "carevor9: So geht es weiter",
+              "url": "https://www.carevor9.de/inside/so-geht-es-weiter-mit-dem-pflegeneuordnungsgesetz"
+            }
+          ]
+        },
+        {
+          "titel": "BSG-Urteil: Pflegegrad 5 nur mit 90 Punkten",
+          "unterzeile": "Außergewöhnlicher Aufwand reicht nicht",
+          "text": "Das Bundessozialgericht hat am 5. März 2026 (B 3 P 5/24 R) die Revision einer Klägerin zurückgewiesen, die Pflegegrad 5 wollte. Sie erreichte nicht die nötigen 90 Gesamtpunkte, und eine besondere Bedarfskonstellation lag nicht vor; die Begutachtungs-Richtlinien nennen dafür bisher nur die Gebrauchsunfähigkeit beider Arme und Beine. Gerichte dürfen laut BSG im Einzelfall keine eigenen Konstellationen begründen. Für Angehörige heißt das: Entscheidend ist das Punktesystem der Begutachtung. Ein Hintergrundstück, kein neues Urteil.",
+          "quellen": [
+            {
+              "name": "BSG: Urteil B 3 P 5/24 R",
+              "url": "https://www.bsg.bund.de/SharedDocs/Entscheidungen/DE/2026/2026_03_05_B_03_P_05_24_R.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Altenpflege: Praxis, Studien, Fachwissen, Arbeitsbedingungen",
+      "artikel": [
+        {
+          "titel": "Feste Bezugsperson statt Zeitdruck: Münchner Pilotprojekt zur Personalbemessung",
+          "unterzeile": "Hochschule München testete Modell in zwei Pflegezentren",
+          "text": "In einem dreijährigen Forschungsprojekt hat die Hochschule München erprobt, wie die seit Juli 2023 geltende Personalbemessung (§ 113c SGB XI) in der stationären Langzeitpflege umgesetzt werden kann. Jede Bewohnerin und jeder Bewohner bekommt eine feste Pflegefachperson als Pflegekoordination, die organisatorische Verantwortung liegt getrennt bei der Bereichsleitung. Aufgaben werden nach Qualifikation verteilt.\n\nErprobt wurde das in zwei evangelischen Pflegezentren, begleitet von Schulungen, Mentoring und einer Qualifizierung für Pflegehilfskräfte. Ergebnis laut Hochschule: mehr Zeit für direkten Kontakt, klarere Zuständigkeiten und eine systematischere Umsetzung der Vorgaben. Voraussetzung seien Begleitung und stabile Rahmenbedingungen. Das Konzept liegt als Implementierungshilfe für ganze Träger vor (Pressemeldung vom 26. August 2026).",
+          "quellen": [
+            {
+              "name": "sozial.de: Beziehungsorientierte Pflege",
+              "url": "https://www.sozial.de/2026/studie-zur-beziehungsorientierten-pflege-test-in-2-piloteinrichtungen.html"
+            }
+          ]
+        },
+        {
+          "titel": "Personalschlüssel im Heim: Obergrenze, Untergrenze, Nachtdienst",
+          "unterzeile": "Was bundesweit gilt und was nicht",
+          "text": "Nach § 113c SGB XI reicht der Personalanhaltswert von 1:4,53 bei Pflegegrad 1 bis 1:1,49 bei Pflegegrad 5 (Pflege und Betreuung zusammen). Für ein Heim mit 80 Bewohnern ergibt das höchstens 37,05 Vollzeitstellen, davon 16,21 Fachkräfte. Die Landesuntergrenzen liegen laut Vergleich zwischen 25,37 (Mecklenburg-Vorpommern) und 34,01 Stellen (Bayern); in NRW, Bremen und Rheinland-Pfalz gibt es keinen landesweiten Wert, dort wird je Einrichtung verhandelt. Für die Nacht gibt es keinen Schlüssel nach § 113c, fast überall muss aber ständig eine Pflegefachkraft im Haus sein. Stand des Vergleichs: 2. November 2026, ohne Gewähr.",
+          "quellen": [
+            {
+              "name": "vitaldesk: Personalschlüssel im Pflegeheim",
+              "url": "https://vitaldesk.de/fachwissen/personalschluessel-pflegeheim"
+            }
+          ]
+        },
+        {
+          "titel": "NRW: Fachkraftquote soll zum 1. Januar 2027 wegfallen – Entwurf",
+          "unterzeile": "Noch nicht beschlossen",
+          "text": "Die starre Fachkraftquote von 50 Prozent gilt in den meisten Ländern nur noch für Häuser ohne Vereinbarung nach § 113c. Für NRW gibt es laut vitaldesk einen Gesetzentwurf, der die Quote „zum 01.01.2027“ entfallen lassen soll, sofern er verabschiedet wird. Anfang November war er noch nicht beschlossen. Ob er inzwischen durch ist, ließ sich in den Quellen nicht klären.",
+          "quellen": [
+            {
+              "name": "vitaldesk: Personalschlüssel im Pflegeheim",
+              "url": "https://vitaldesk.de/fachwissen/personalschluessel-pflegeheim"
+            }
+          ]
+        },
+        {
+          "titel": "WIdO: Pflegefachkräfte in Heimen weniger, Zuwachs vor allem in Kliniken",
+          "unterzeile": "Auswertung aus dem Februar 2026",
+          "text": "Laut einer Auswertung des WIdO (AOK), über die journalmed.de berichtet, wächst die Zahl der Vollkräfte in der Altenpflege seit Einführung des Pflegebudgets nur noch langsam. In Pflegeheimen sank die Zahl der Pflegefachkräfte sogar, während Krankenhäuser profitieren. Die Auswertung stammt aus dem Februar und ist damit Hintergrund, keine Neuigkeit; Details habe ich nur aus der Berichterstattung, nicht aus der Studie selbst.",
+          "quellen": [
+            {
+              "name": "journalmed: Pflegebudget – Kliniken profitieren, Heime verlieren",
+              "url": "https://www.journalmed.de/news/gesundheitspolitik/studie-zum-pflegebudget-krankenhaeuser-profitieren-altenheime-verlieren-pflegekraefte"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Gaming: Steam & PC",
+      "artikel": [
+        {
+          "titel": "Steam Deck: Kein Black-Friday-Rabatt in Sicht – und teurer als früher",
+          "unterzeile": "OLED ab 789 Dollar, Steam Machine ab 1.049 Dollar",
+          "text": "Valve hat bislang keinen Hardware-Rabatt zum Black Friday angekündigt. Das Steam Deck OLED kostet in den USA 789 Dollar (512 GB) bzw. 949 Dollar (1 TB), in Großbritannien 649 bzw. 779 Pfund. Valve hatte die Preise im Mai wegen gestiegener Speicher- und Chipkosten um etwa 44 bis 46 Prozent erhöht, das günstigere LCD-Modell wird nicht mehr produziert.\n\nDie Steam Machine startet bei 1.049 Dollar (512 GB), der Steam Frame bei 1.059 Dollar (256 GB), jeweils US-Preise. Der Autor eines Tests vom 18. November hält das Deck weiter für lohnenswert, aber „not the bargain it used to be“. Ein Steam Deck 2 hat noch keinen Termin, Chip oder Preis. Beim Vorjahres-Sale gab es 20 Prozent auf das LCD-Modell; ein Sale könnte kurzfristig kommen, ist aber nicht bestätigt.",
+          "quellen": [
+            {
+              "name": "Gaming on Steam: Steam Deck review",
+              "url": "https://www.gamingonsteam.com/2026/11/18/steam-deck-review-still-worth-buying-2026"
+            },
+            {
+              "name": "PC Guide: Steam Deck Black Friday",
+              "url": "https://www.pcguide.com/deals/black-friday/steam-deck/"
+            }
+          ]
+        },
+        {
+          "titel": "Steam: Black-Friday-Phase vom 26. bis 30. November",
+          "unterzeile": "Winter Sale offenbar ab 17. Dezember",
+          "text": "Laut Steamworks-Eintrag läuft die Black-Friday-Phase für Spiele vom 26. bis 30. November, mit Publisher-Angeboten im Special-Offers-Hub. Das ist ein Spiele-Sale und kein bestätigter Hardware-Rabatt. Als Termin für den Winter Sale nennt Gaming Route den 17. Dezember bis 4. Januar 2027; diese Angabe stammt von einer Drittseite, nicht von Valve.",
+          "quellen": [
+            {
+              "name": "Gaming Route: Steam Deck Black Friday 2026",
+              "url": "https://gamingroute.com/steam-deck-black-friday-2026/"
+            },
+            {
+              "name": "eTeknix: Steam Deck Black Friday 2026",
+              "url": "https://www.eteknix.com/steam-deck-black-friday-2026/"
+            }
+          ]
+        },
+        {
+          "titel": "PC-Releases dieser Woche: Kleine Titel, Cozy-Vibes",
+          "unterzeile": "No Asteroids, Rally Point: 3030, Reshine und mehr",
+          "text": "Steams Upcoming-Seite listet für den 24. November unter anderem No Asteroids, C.L.T., Tool Tidy, Nine Lives Below, My Child New Beginnings und das Early-Access-Taktikspiel Rally Point: 3030. Am 25. November folgt Me and You, am 26. November No Body No Problem! und die Reinigungssimulation Reshine, am 27. November Am I Nima. Termine kleiner Titel können sich verschieben, prüf die Store-Seite.",
+          "quellen": [
+            {
+              "name": "Steam: Upcoming Releases",
+              "url": "https://store.steampowered.com/explore/upcoming/"
+            },
+            {
+              "name": "Spieltimes: Steam November 2026",
+              "url": "https://www.spieltimes.io/gaming/steam-november-2026-lineup-reveals-8-upcoming-games-and-5-free-titles/"
+            }
+          ]
+        },
+        {
+          "titel": "Steam-Controller-Zeit: Lohnt sich der neue Controller im Sale?",
+          "unterzeile": "Leseempfehlung",
+          "text": "GamesRadar hat am 5. November die Frage gestellt, ob sich der neue Steam Controller (2. Generation) in dieser Deals-Saison lohnt. Eine konkrete Preisaktion für 2026 ist in den gefundenen Quellen nicht bestätigt. Wenn du kaufen willst, behalte den Steam-Store im Auge, wenn die Black-Friday-Phase am 26. November startet.",
+          "quellen": [
+            {
+              "name": "GamesRadar: Should you buy the Steam Controller",
+              "url": "https://www.gamesradar.com/hardware/gaming-controllers/should-you-buy-the-steam-controller-this-deals-season/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Nintendo Switch 2 & Konsolen",
+      "artikel": [
+        {
+          "titel": "The Game Awards 2026: Nominierte stehen fest, Show am 10. Dezember",
+          "unterzeile": "Zelda: Ocarina of Time (Switch 2) im GOTY-Rennen",
+          "text": "Die sechs Nominierten für das Spiel des Jahres sind 007 First Light, Control Resonant, GTA 6, Phantom Blade 0, Resident Evil Requiem und The Legend of Zelda: Ocarina of Time. Die Nominierungen wurden am 17. November bekannt gegeben, die Verleihung ist am 10. Dezember in Los Angeles. Laut Berichten führt GTA 6 mit acht Nominierungen, Nintendo ist mit 12 Nominierungen vorn bei den Publishern, und kein PlayStation-Titel steht in der GOTY-Liste, erstmals seit 2015. Bei Xbox sind unter anderem Gears of War: E-Day und Forza Horizon 6 nominiert.",
+          "quellen": [
+            {
+              "name": "Pure Xbox: GOTY-Nominierte",
+              "url": "https://www.purexbox.com/news/2026/11/the-game-awards-reveals-its-six-nominees-for-game-of-the-year-including-gta-6"
+            },
+            {
+              "name": "Game Informer: Nominees",
+              "url": "https://gameinformer.com/2026/11/17/here-are-the-nominees-for-the-game-awards-2026"
+            },
+            {
+              "name": "GamesHub: GTA 6 Nominierungen",
+              "url": "https://www.gameshub.com/news/article/gta-6-game-awards-2026-nominations-2931282/"
+            }
+          ]
+        },
+        {
+          "titel": "Xenoblade Chronicles 3 für Switch 2: Neue Details",
+          "unterzeile": "Heroes’ Vault, Heldin Shimmer und Upgrade-Pack",
+          "text": "Die Switch-2-Edition von Xenoblade Chronicles 3 erscheint am 3. Dezember, physisch und digital. Neu sind der Modus „Heroes’ Vault“, die Heldin Shimmer mit schnellen Kombos und der Fähigkeit Foresight sowie vollvertonte Eventszenen. Besitzer der Switch-1-Fassung können ein Upgrade-Pack kaufen, Nintendo Life nennt 9,99 Dollar bzw. 7,99 Pfund. Auf einer normalen Switch läuft nur die Switch-1-Version ohne die Zusatzfeatures.",
+          "quellen": [
+            {
+              "name": "Gematsu: Heroes’ Vault & Shimmer",
+              "url": "https://www.gematsu.com/2026/09/xenoblade-chronicles-3-nintendo-switch-2-edition-reveals-heroes-vault-mode-new-hero-shimmer"
+            },
+            {
+              "name": "Nintendo Life: Xenoblade 3 Switch 2 Edition",
+              "url": "https://nintendolife.com/games/nintendo-switch-2/xenoblade-chronicles-3-nintendo-switch-2-edition"
+            }
+          ]
+        },
+        {
+          "titel": "Switch 2: Was in den nächsten Tagen und Wochen erscheint",
+          "unterzeile": "Gothic III Classic, Grime II, Marupoyo und Mouse Work",
+          "text": "Laut Nintendo-Liste erscheint Gothic III Classic für Switch 2 am 24. November (US-Termin), dazu am 26. November Marupoyo: The Round Chick’s Adventure und Grime II (Switch 2, US-Termin). Mouse Work soll am 7. Dezember folgen. Bereits draußen sind The Binding of Isaac: Repentance+ (19. November, Switch 2) und Disney Dreamlight Valley: The Keepsake Sea (18. November). Termine unterscheiden sich je nach Region, prüf den eShop.",
+          "quellen": [
+            {
+              "name": "Nintendo: Upcoming Games (AU)",
+              "url": "https://www.nintendo.com/au/news-and-articles/upcoming-games-november-2026/"
+            },
+            {
+              "name": "Nintendo: Upcoming Games (UK)",
+              "url": "https://www.nintendo.com/en-gb/News/2026/November/Upcoming-Games-November-2026-3229019.html"
+            }
+          ]
+        },
+        {
+          "titel": "Pikmin Day: Nintendo-Direct mit Fokus auf Pikmin",
+          "unterzeile": "Pikmin 4 für Switch 2 erschien am 12. November",
+          "text": "Nintendo hat am 31. Oktober ein rund neuneinhalbminütiges Pikmin-Direct veröffentlicht. Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy ist am 12. November erschienen (69,99 Dollar physisch, Upgrade-Pack 9,99 Dollar), eine Demo gab es ab 2. November. Für Pikmin Bloom kommt im Winter das Feature „Secret Caves“. Ein neues Spiel wurde nicht angekündigt.",
+          "quellen": [
+            {
+              "name": "GameRant: Pikmin-Direct",
+              "url": "https://gamerant.com/nintendo-direct-november-2026-pikmin-day/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Neue Spiele der Woche (Switch 2)",
+        "punkte": [
+          "24.11.: Gothic III Classic (US-Termin)",
+          "26.11.: Grime II (US-Termin), Marupoyo: The Round Chick’s Adventure",
+          "3.12.: Xenoblade Chronicles 3 – Nintendo Switch 2 Edition",
+          "7.12.: Mouse Work",
+          "10.12.: The Game Awards"
+        ],
+        "quellen": [
+          {
+            "name": "Nintendo: Upcoming Games (AU)",
+            "url": "https://www.nintendo.com/au/news-and-articles/upcoming-games-november-2026/"
+          },
+          {
+            "name": "Gematsu: Xenoblade 3",
+            "url": "https://www.gematsu.com/games/xenoblade-chronicles-3-nintendo-switch-2-edition"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Tech & Netz",
+      "artikel": [
+        {
+          "titel": "Ghostscript-Lücke „Upload2Shell“: Technische Details sind öffentlich",
+          "unterzeile": "Updates prüfen, auch indirekt",
+          "text": "Die Ghostscript-Lücke „Upload2Shell“ (CVE-2026-125396, CVSS 4.0: 8,5) erlaubt das Einschleusen und Ausführen beliebigen Codes. Manipulierte PostScript- oder PDF-Dateien reichen, und Bibliotheken wie ImageMagick oder Pillow reichen auch als Bild getarnte Dateien an Ghostscript weiter, etwa bei der Vorschau-Erzeugung. Laut Entdeckern sind unter anderem Googles Pipeline, WordPress Core, CUPS aus Debian 13, Roundcube, Plesk, MediaWiki und Ubuntu betroffen; VulnCheck und NVD sehen sie weniger kritisch.\n\nArtifex hat die Lücke schon am 8. September mit Ghostscript 10.08.0 geschlossen. Angriffe sind bisher nicht bekannt, seit dem 21. November sind aber technische Details öffentlich. Wer Server betreibt, sollte also Updates zügig einspielen.",
+          "quellen": [
+            {
+              "name": "heise: Upload2Shell",
+              "url": "https://www.heise.de/news/Upload2Shell-Ghostscript-Luecke-betrifft-viele-Systeme-11534768.html"
+            }
+          ]
+        },
+        {
+          "titel": "Angriffe auf Cisco Expressway, VMware vCenter, SAP NetWeaver und Apache Roller",
+          "unterzeile": "CISA warnt – Patches einspielen",
+          "text": "Auf Lücken in Cisco Expressway (CVE-2026-76466, CVSS 9.8), VMware vCenter (CVE-2026-123890, 9.8), SAP NetWeaver Enterprise Portal (CVE-2025-42884, 6.5) und Apache Roller (CVSS 9.8) laufen laut heise derzeit Angriffe, die CISA warnte am 20. November. Bei Cisco empfiehlt sich das Update auf X15.5.20, ersatzweise sollten die TCP-Ports 4371 und 4372 auf vertrauenswürdige Cluster-Knoten beschränkt werden. Die VMware-Lücke nutzt laut Mandiant eine Gruppe mit mutmaßlichen China-Bezügen seit September. Das SAP-Update gab es schon im November 2025.",
+          "quellen": [
+            {
+              "name": "heise: Warnung vor Angriffen",
+              "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Cisco-Expressway-und-SAP-NetWeaver-11534049.html"
+            }
+          ]
+        },
+        {
+          "titel": "Berliner Polizei offline, Google stellt Nest-App ein",
+          "unterzeile": "Montag bei heise",
+          "text": "Die Internetwache der Berliner Polizei ist offline, offenbar wegen einer vermuteten Sicherheitslücke; ein Sprecher sprach von einem „technischen Problem“. Anzeigen sind weiter persönlich auf jedem Polizeiabschnitt möglich.\n\nGoogle stellt die Nest-App im Januar ein, Nest-Geräte laufen künftig über die Home-App. Der Google Assistant für Smart-Home-Geräte wird im August 2027 durch Gemini for Home ersetzt.",
+          "quellen": [
+            {
+              "name": "heise: Montag-Nachrichten",
+              "url": "https://www.heise.de/news/Montag-Internetprobleme-der-Berliner-Polizei-Google-konsolidiert-Smart-Home-11533930.html"
+            }
+          ]
+        },
+        {
+          "titel": "Kurz: FortiMail-Zero-Day und VLC 3.0.24",
+          "unterzeile": "Aus dem heise-security-Feed",
+          "text": "Fortinet warnt vor einer Zero-Day-Lücke in FortiMail, und VLC 3.0.24 soll mehr als 130 Sicherheitslücken schließen. Mehr als die Schlagzeilen gab die Suchübersicht nicht her; schau bei Fortinet und VideoLAN nach Details und Updates.",
+          "quellen": [
+            {
+              "name": "heise security Alerts",
+              "url": "https://www.heise.de/security/Alerts/feed.xml"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Läuft bei dir Ghostscript im Hintergrund?",
+    "text": "Ghostscript steckt oft indirekt in Programmen, die Bilder oder PDFs umrechnen (etwa ImageMagick oder Pillow). Wenn du einen eigenen Server oder ein NAS betreibst, schau kurz nach, welche Version läuft, und spiel die verfügbaren Updates ein. Zuhause am PC reicht meist das normale System-Update – einfach mal anstoßen."
+  }
+}
