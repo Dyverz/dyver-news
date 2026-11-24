@@ -1,0 +1,564 @@
+{
+ "gruss": "Guten Morgen, liebe Mama! Heute ist Dienstag, der 24. November. Die Adventszeit rückt näher. Mach es dir mit einer Tasse Tee gemütlich und lies in Ruhe, was heute wichtig ist.",
+ "aufmacher": {
+  "rubrik": "Aus Mülheim",
+  "titel": "Bald duftet es nach Advent",
+  "unterzeile": "Schiffsweihnacht, Weihnachtstreff und der Altstadt-Adventsmarkt",
+  "text": "In Mülheim beginnt die schöne Zeit der Weihnachtsmärkte. Die Schiffsweihnacht an der Schleuseninsel hat noch bis Sonntag, 29. November, geöffnet. Der Eintritt ist frei.\n\nAm Freitag kommt der Altstadt-Adventsmarkt dazu. Er dauert bis zum 13. Dezember. Am Wochenende gibt es dort auch eine Nikolausaktion ab 16 Uhr.\n\nAuch der Weihnachtstreff ist schon geöffnet. Schau für die genauen Zeiten am besten kurz bei der Stadt nach. Alle Termine findest du auf Seite 3.",
+  "quellen": [
+   {
+    "name": "Deutsche Weihnachtsmärkte: Schiffsweihnacht",
+    "url": "https://www.deutsche-weihnachtsmaerkte.de/weihnachtsmarkt/muelheimer-schiffsweihnacht-1397"
+   },
+   {
+    "name": "alle-weihnachtsmaerkte.de: Altstadt-Adventsmarkt",
+    "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/muelheimer-altstadt-adventsmarkt-804306.html"
+   }
+  ]
+ },
+ "seiten": [
+  {
+   "titel": "Aus Mülheim",
+   "artikel": [
+    {
+     "titel": "Das Mülheimer Jahrbuch 2027 ist da",
+     "unterzeile": "Schon die 82. Ausgabe",
+     "text": "Das neue Jahrbuch der Stadt Mülheim ist erschienen. Es ist schon die 82. Ausgabe.\n\nDas Buch hat 296 Seiten. Darin stehen Geschichten und Bilder aus dem vergangenen Jahr. Geschrieben haben sie Menschen, die das freiwillig und ehrenamtlich tun.\n\nVielleicht wäre das ein schönes Geschenk für den Gabentisch. Wo man das Buch bekommt, steht auf der Seite der Stadt.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: Aktuelle Meldungen",
+       "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen"
+      }
+     ]
+    },
+    {
+     "titel": "Bürgerforum: Der Verkehr war das große Thema",
+     "unterzeile": "Gespräch im Ratssaal",
+     "text": "Am 19. November lud Oberbürgermeister Buchholz in den Ratssaal ein. Es kamen Vertreter von Bürgervereinen und Wirtschaftsgruppen. Gemeinsam sprachen sie über den Verkehr in und um Mülheim. Die Stadt nennt das Treffen „Bürgerforum“.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: Aktuelle Meldungen",
+       "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen"
+      }
+     ]
+    },
+    {
+     "titel": "Möbel Bernskötter gewinnt den Mülheimer Wirtschaftspreis",
+     "unterzeile": "5.000 Euro für ein Familienunternehmen",
+     "text": "Das Möbelhaus Bernskötter hat den 4. Mülheimer Wirtschaftspreis gewonnen. Der Preis ist mit 5.000 Euro verbunden. Ausgezeichnet wurde, dass die Übergabe an die nächste Generation in der Familie gut gelungen ist.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: Aktuelle Meldungen",
+       "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen"
+      }
+     ]
+    },
+    {
+     "titel": "Besuch aus drei Ländern an der Realschule Broich",
+     "unterzeile": "Schüler aus Belgien, Dänemark und Portugal",
+     "text": "Vom 9. bis 13. November waren Schülerinnen und Schüler aus drei Ländern in Mülheim zu Gast. Sie kamen aus Belgien, Dänemark und Portugal. Die Realschule Broich hat sie empfangen. Das Treffen gehört zu einem europäischen Austauschprogramm namens Erasmus+.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: Aktuelle Meldungen",
+       "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Mülheim erleben",
+   "artikel": [
+    {
+     "titel": "Die Schiffsweihnacht hat noch bis Sonntag geöffnet",
+     "unterzeile": "Letztes Wochenende an der Schleuseninsel",
+     "text": "Die Mülheimer Schiffsweihnacht läuft noch bis zum 29. November. Sie liegt an der Schleuseninsel an der Alten Schleuse. Der Eintritt ist frei.\n\nAm Wochenende gelten diese Zeiten: Freitag von 15 bis 21 Uhr, Samstag von 13 bis 21 Uhr und Sonntag von 11 bis 20 Uhr. Der Sonntag ist der letzte Tag.",
+     "quellen": [
+      {
+       "name": "Deutsche Weihnachtsmärkte: Schiffsweihnacht",
+       "url": "https://www.deutsche-weihnachtsmaerkte.de/weihnachtsmarkt/muelheimer-schiffsweihnacht-1397"
+      }
+     ]
+    },
+    {
+     "titel": "Der Adventsmarkt in der Altstadt öffnet am Freitag",
+     "unterzeile": "Bis zum 13. Dezember",
+     "text": "Am Freitag, 27. November, beginnt der Altstadt-Adventsmarkt. Er dauert bis zum 13. Dezember. Du findest ihn in den alten Gassen der Altstadt. Der Eintritt ist frei.\n\nAm Wochenende gibt es eine Nikolausaktion. Sie beginnt ab 16 Uhr.",
+     "quellen": [
+      {
+       "name": "alle-weihnachtsmaerkte.de: Altstadt-Adventsmarkt",
+       "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/muelheimer-altstadt-adventsmarkt-804306.html"
+      },
+      {
+       "name": "Deutsche Weihnachtsmärkte: Schiffsweihnacht",
+       "url": "https://www.deutsche-weihnachtsmaerkte.de/weihnachtsmarkt/muelheimer-schiffsweihnacht-1397"
+      }
+     ]
+    },
+    {
+     "titel": "Der Weihnachtstreff ist auch schon geöffnet",
+     "unterzeile": "Termine bitte vorher prüfen",
+     "text": "Zwei Terminseiten nennen für den Weihnachtstreff den Zeitraum vom 23. November bis zum 23. Dezember. Genaue Öffnungszeiten für dieses Jahr konnten wir nicht finden. Schau darum kurz auf der Seite der Stadt nach, bevor du hingehst.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: Mülheimer Weihnachtsmärkte",
+       "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+      },
+      {
+       "name": "rheinkirmes.com: Weihnachtsmarkt Mülheim",
+       "url": "https://rheinkirmes.com/fest/1691-weihnachtsmarkt-muelheim-an-der-ruhr"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Termine der Woche",
+    "punkte": [
+     "Mi, 25. November: Mülheim beteiligt sich an der UN-Aktion „Orange your City“",
+     "Do, 26. November, 20 Uhr: Kai Magnus Sting im Ringlokschuppen",
+     "Fr, 27. November: Start des Altstadt-Adventsmarkts",
+     "Sa, 28. November, 17 Uhr: Weihnachtsmusical „Santa Claus“ in der Stadthalle",
+     "So, 29. November: letzter Tag der Schiffsweihnacht"
+    ],
+    "quellen": [
+     {
+      "name": "Stadt Mülheim: Aktuelle Meldungen",
+      "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen"
+     },
+     {
+      "name": "news.de: Veranstaltungen in Mülheim",
+      "url": "https://www.news.de/lokales/856482710/muelheim-an-der-ruhr-veranstaltungen-und-events-aktuell-veranstaltungskalender-und-kommende-termine/1/"
+     },
+     {
+      "name": "alle-weihnachtsmaerkte.de: Altstadt-Adventsmarkt",
+      "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/muelheimer-altstadt-adventsmarkt-804306.html"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Deutschland",
+   "artikel": [
+    {
+     "titel": "Der Bundespräsident reist vier Tage nach Afrika",
+     "unterzeile": "Auftakt in Abidjan",
+     "text": "Bundespräsident Frank-Walter Steinmeier ist seit Montag auf Reise. Er besucht vier Tage lang Afrika. Die erste Station ist Abidjan. Dort trifft er den Präsidenten der Elfenbeinküste, Alassane Ouattara.\n\nSo ein Besuch soll die Freundschaft zwischen den Ländern stärken.",
+     "quellen": [
+      {
+       "name": "news.de: Nachrichten am 23. November 2026",
+       "url": "https://www.news.de/panorama/860210227/23-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-23-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "titel": "Streit um die Rente mit 63",
+     "unterzeile": "Union und SPD suchen noch eine Lösung",
+     "text": "Union und SPD streiten weiter über die Frührente ohne Abschläge. Das heißt: früher in Rente gehen, ohne weniger Geld zu bekommen. Der SPD-Generalsekretär sagt, seine Partei sei zu einem Kompromiss bereit. Den Vorwurf, sie blockiere, weist er zurück.",
+     "quellen": [
+      {
+       "name": "onvista (dpa-AFX): Konjunktur-Überblick vom 23.11.2026",
+       "url": "https://onvista.de/news/2026/11-23-dpa-afx-ueberblick-konjunktur-vom-23-11-2026-17-00-uhr-0-10-26579593"
+      }
+     ]
+    },
+    {
+     "titel": "Kein Ausgleich für die „kalte Progression“",
+     "unterzeile": "Die Regierung sagt Nein zu Söders Vorschlag",
+     "text": "Wer mehr verdient, zahlt oft mehr Steuern, auch wenn nur die Preise gestiegen sind. Das nennt man „kalte Progression“. CSU-Chef Markus Söder wollte das ausgleichen. Die Bundesregierung lehnt das jetzt ab. Der Kanzler findet einen Ausgleich grundsätzlich richtig. Aber die Beratungen über den Haushalt sind schon beendet.",
+     "quellen": [
+      {
+       "name": "onvista (dpa-AFX): Konjunktur-Überblick vom 23.11.2026",
+       "url": "https://onvista.de/news/2026/11-23-dpa-afx-ueberblick-konjunktur-vom-23-11-2026-17-00-uhr-0-10-26579593"
+      }
+     ]
+    },
+    {
+     "titel": "Neu im November: Familienticket und Zoll",
+     "unterzeile": "Was sich geändert hat",
+     "text": "Das Familienticket der Bahn gibt es jetzt dauerhaft. Es gilt für ein bis zwei Erwachsene und bis zu vier Kinder von 6 bis 14 Jahren im Fernverkehr. Pakete aus Ländern außerhalb der EU kosten ab November 2 Euro Bearbeitungsgebühr mehr, wenn sie bis 150 Euro wert sind. Am 29. November gilt eine neue Abgasnorm für neue Automodelle.",
+     "quellen": [
+      {
+       "name": "Bundesregierung: Gesetzliche Neuregelungen im November 2026",
+       "url": "https://www.bundesregierung.de/breg-de/aktuelles/gesetzliche-neuregelungen-november-2026-2459132"
+      }
+     ]
+    },
+    {
+     "titel": "Das Deutschlandticket wird teurer",
+     "unterzeile": "Ab Januar 66,80 Euro",
+     "text": "Ab dem 1. Januar 2027 kostet das Deutschlandticket 66,80 Euro im Monat. Heute sind es 63 Euro. Wer ein Abo hat und von seinem Verkehrsunternehmen angeschrieben wird, muss aktiv zustimmen. Meldet sich niemand, läuft das Abo zum neuen Preis einfach weiter.",
+     "quellen": [
+      {
+       "name": "Bundesregierung: Gesetzliche Neuregelungen im November 2026",
+       "url": "https://www.bundesregierung.de/breg-de/aktuelles/gesetzliche-neuregelungen-november-2026-2459132"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Aus aller Welt",
+   "artikel": [
+    {
+     "titel": "Eine neue Wildkatze in Boliviens Nebelwäldern",
+     "unterzeile": "Die erste neue Katzenart seit etwa 100 Jahren",
+     "text": "Forschende haben in Bolivien eine neue Wildkatze entdeckt. Sie heißt Leopardus tilcayo. Sie lebt in den Nebelwäldern der Anden. Das haben die Forschenden im September in der Fachzeitschrift „Current Biology“ berichtet.\n\nBerichte nennen es die erste neue Katzenart seit etwa 100 Jahren. So eine Nachricht freut jeden Tierfreund.",
+     "quellen": [
+      {
+       "name": "t-online: Neue Katzenart in den Anden entdeckt",
+       "url": "https://www.t-online.de/leben/wissenschaft/id_101440802/neue-katzenart-in-den-anden-entdeckt.html"
+      },
+      {
+       "name": "echo24: Erste neue Katzenart seit 100 Jahren",
+       "url": "https://www.echo24.de/welt/neue-katzenart-entdeckt-tilcayo-aus-bolivien-gilt-als-sensation-zr-94502774.html"
+      }
+     ]
+    },
+    {
+     "titel": "Die Klimakonferenz in der Türkei ist gescheitert",
+     "unterzeile": "Der Bundespräsident ist enttäuscht",
+     "text": "Die Weltklimakonferenz in der Türkei ging ohne Einigung zu Ende. Bundespräsident Steinmeier bedauert das. Er sagt, man spüre die Veränderungen des Klimas in Europa schon deutlich.",
+     "quellen": [
+      {
+       "name": "onvista (dpa-AFX): Konjunktur-Überblick vom 23.11.2026",
+       "url": "https://onvista.de/news/2026/11-23-dpa-afx-ueberblick-konjunktur-vom-23-11-2026-17-00-uhr-0-10-26579593"
+      }
+     ]
+    },
+    {
+     "titel": "Die Nato spricht über Flugobjekte über Polen",
+     "unterzeile": "Ein ernstes, aber ruhig besprochenes Thema",
+     "text": "Die Nato berät in Brüssel über russische Flugobjekte im polnischen Luftraum. Nach Angaben aus Polen waren es am Freitag drei. Es ist ein normales Treffen und keine Sondersitzung. In Berlin tagt außerdem die Parlamentarier-Versammlung der Nato.",
+     "quellen": [
+      {
+       "name": "news.de: Nachrichten am 23. November 2026",
+       "url": "https://www.news.de/panorama/860210227/23-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-23-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    },
+    {
+     "titel": "In Japan sagt man Danke für die Arbeit",
+     "unterzeile": "Ein Feiertag zum Danke-Sagen",
+     "text": "In Japan wird am 23. November ein Tag der Arbeit gefeiert. Man sagt dort Danke für die Arbeit anderer. Das Fest gibt es seit 1948. Das ist doch eine schöne Idee: Sag heute einfach jemandem Danke.",
+     "quellen": [
+      {
+       "name": "kuriose-feiertage.de",
+       "url": "https://www.kuriose-feiertage.de/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Sport: Fußball-Bundesliga",
+   "artikel": [
+    {
+     "titel": "Dortmund führt die Tabelle an",
+     "unterzeile": "Nach dem 10. Spieltag",
+     "text": "Nach dem 10. Spieltag steht Borussia Dortmund mit 24 Punkten ganz oben. Der BVB gewann zuletzt 1:0 bei Borussia Mönchengladbach.\n\nDahinter liegen Bayern München und der SC Freiburg mit je 22 Punkten. Auf Platz vier steht RB Leipzig mit 21 Punkten, dann folgt Leverkusen mit 19.",
+     "quellen": [
+      {
+       "name": "hessenschau.de: Bundesliga, Tabelle und Ergebnisse",
+       "url": "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-1bl100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Bayern spielt nur 1:1 gegen Köln",
+     "unterzeile": "Ein Punkt statt drei",
+     "text": "Der FC Bayern kam gegen den 1. FC Köln nicht über ein 1:1 hinaus. Das zeigt die Ergebnisübersicht von hessenschau.de. So bleibt Bayern mit 22 Punkten hinter Dortmund.",
+     "quellen": [
+      {
+       "name": "hessenschau.de: Bundesliga, Tabelle und Ergebnisse",
+       "url": "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-1bl100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Bremen schlägt den HSV im Nordderby",
+     "unterzeile": "4:0 für Werder",
+     "text": "Werder Bremen hat das Nordderby gegen den Hamburger SV mit 4:0 gewonnen. Das melden mehrere Ergebnisdienste.",
+     "quellen": [
+      {
+       "name": "hessenschau.de: Bundesliga, Tabelle und Ergebnisse",
+       "url": "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-1bl100.html"
+      },
+      {
+       "name": "fussballnationalmannschaft.net: Ergebnisse vom 22.11.2026",
+       "url": "https://www.fussballnationalmannschaft.net/fussball-heute-am-22-11-2026-4-123337095.html"
+      }
+     ]
+    },
+    {
+     "titel": "Frankfurt und Freiburg gewinnen knapp",
+     "unterzeile": "Je ein Tor entscheidet",
+     "text": "Eintracht Frankfurt schlug Hoffenheim mit 1:0. Der SC Freiburg gewann mit 1:0 bei Elversberg. Schalke und Stuttgart trennten sich 0:0.",
+     "quellen": [
+      {
+       "name": "hessenschau.de: Bundesliga, Tabelle und Ergebnisse",
+       "url": "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-1bl100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Heute tagen die Aktionäre von Borussia Dortmund",
+     "unterzeile": "Es geht auch um einen Sponsor",
+     "text": "Am Montag begann in den Westfalenhallen die Hauptversammlung von Borussia Dortmund. Besprochen wird wohl auch der Streit um den Sponsor Rheinmetall. Der Vertrag wird nicht über das Jahr 2027 hinaus verlängert. Wie die Versammlung ausging, wussten wir bei Redaktionsschluss noch nicht.",
+     "quellen": [
+      {
+       "name": "news.de: Nachrichten am 23. November 2026",
+       "url": "https://www.news.de/panorama/860210227/23-november-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-23-11-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Tabelle: die Spitze",
+    "punkte": [
+     "1. Borussia Dortmund, 24 Punkte",
+     "2. Bayern München, 22 Punkte",
+     "3. SC Freiburg, 22 Punkte",
+     "4. RB Leipzig, 21 Punkte",
+     "5. Bayer Leverkusen, 19 Punkte"
+    ],
+    "quellen": [
+     {
+      "name": "hessenschau.de: Bundesliga, Tabelle und Ergebnisse",
+      "url": "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-1bl100.html"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Sport: weitere Sportarten und Vereine",
+   "artikel": [
+    {
+     "titel": "Handball: Kiel gewinnt deutlich gegen Wetzlar",
+     "unterzeile": "Auch Magdeburg siegt",
+     "text": "Der THW Kiel hat die HSG Wetzlar klar geschlagen. Laut einer Ergebnisübersicht hieß es 31:22. Der SC Magdeburg gewann in Hamburg mit 33:22. Die Zahlen stammen aus einer Übersicht und sollten bei Bedarf noch einmal geprüft werden.",
+     "quellen": [
+      {
+       "name": "Sportschau: Archiv vom 22.11.2026",
+       "url": "https://www.sportschau.de/archiv"
+      },
+      {
+       "name": "sport.de: Handball heute",
+       "url": "https://www.sport.de/handball/heute-live/"
+      }
+     ]
+    },
+    {
+     "titel": "Eishockey: Bremerhaven verliert in Nürnberg",
+     "unterzeile": "1:2 nach vier Siegen",
+     "text": "Die Fischtown Pinguins aus Bremerhaven hatten vier Spiele in Folge gewonnen. Am Sonntag verloren sie in Nürnberg knapp mit 1:2.",
+     "quellen": [
+      {
+       "name": "Sportschau: Archiv vom 22.11.2026",
+       "url": "https://www.sportschau.de/archiv"
+      }
+     ]
+    },
+    {
+     "titel": "2. Liga: Nürnberg ist Spitzenreiter",
+     "unterzeile": "Es bleibt eng",
+     "text": "In der 2. Bundesliga führt der 1. FC Nürnberg mit 24 Punkten. Der FC Magdeburg hat 23 Punkte. Der VfL Wolfsburg liegt mit 22 Punkten auf Platz drei.",
+     "quellen": [
+      {
+       "name": "Sportschau: 2. Bundesliga Tabelle",
+       "url": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-2-bundesliga/tabelle"
+      }
+     ]
+    },
+    {
+     "titel": "Basketball: Alba-Frauen gewinnen in Nördlingen",
+     "unterzeile": "66:61",
+     "text": "Die Basketballerinnen von Alba Berlin haben auswärts in Nördlingen mit 66:61 gewonnen.",
+     "quellen": [
+      {
+       "name": "Sportschau: Archiv vom 22.11.2026",
+       "url": "https://www.sportschau.de/archiv"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Klatsch & Tratsch",
+   "artikel": [
+    {
+     "titel": "Sylvie Meis ist wieder gesund",
+     "unterzeile": "Sie gilt als krebsfrei",
+     "text": "Die Moderatorin Sylvie Meis gilt nach eigenen Angaben als krebsfrei. Sie erzählt, wie sehr die Krankheit sie belastet hat. Vieles davon hat sie lange für sich behalten. Das ist eine gute Nachricht.",
+     "quellen": [
+      {
+       "name": "inFranken.de: Promi-News",
+       "url": "https://www.infranken.de/unterhaltung/stars/"
+      }
+     ]
+    },
+    {
+     "titel": "Olli Dittrich wird 70",
+     "unterzeile": "Er begann als Schlagersänger",
+     "text": "Der Komiker Olli Dittrich ist 70 Jahre alt geworden. Seine Karriere hat er als Schlagersänger begonnen. Herzlichen Glückwunsch nachträglich!",
+     "quellen": [
+      {
+       "name": "inFranken.de: Promi-News",
+       "url": "https://www.infranken.de/unterhaltung/stars/"
+      }
+     ]
+    },
+    {
+     "titel": "Natalia Wörner ärgert sich über Rollen für Frauen über 50",
+     "unterzeile": "„Die nette Dame von nebenan“",
+     "text": "Die Schauspielerin Natalia Wörner sagt, Frauen über 50 bekämen oft nur ähnliche Rollen. Meist sei es die nette Dame von nebenan. Sie wünscht sich mehr Vielfalt.",
+     "quellen": [
+      {
+       "name": "inFranken.de: Promi-News",
+       "url": "https://www.infranken.de/unterhaltung/stars/"
+      }
+     ]
+    },
+    {
+     "titel": "Die Kaulitz-Brüder kritisieren Pferdekutschen",
+     "unterzeile": "Nach einem Besuch in Wien",
+     "text": "Bill und Tom Kaulitz waren in Wien. Dort haben sie Pferdekutschen gesehen. In ihrem Podcast fanden sie dazu sehr klare Worte. Ihnen tun die Tiere leid.",
+     "quellen": [
+      {
+       "name": "inFranken.de: Promi-News",
+       "url": "https://www.infranken.de/unterhaltung/stars/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Klatsch & Tratsch: TV, Shows und Stars der Welt",
+   "artikel": [
+    {
+     "titel": "Quentin Tarantino wird zum dritten Mal Vater",
+     "unterzeile": "„Überglücklich“",
+     "text": "Der Regisseur Quentin Tarantino ist wieder Vater geworden. Es ist sein drittes Kind. Er sagt, er sei „überglücklich“.",
+     "quellen": [
+      {
+       "name": "inFranken.de: Promi-News",
+       "url": "https://www.infranken.de/unterhaltung/stars/"
+      }
+     ]
+    },
+    {
+     "titel": "Bo Derek wird 70",
+     "unterzeile": "Bekannt durch „Zehn – Die Traumfrau“",
+     "text": "Die Schauspielerin Bo Derek ist 70 Jahre alt geworden. Berühmt wurde sie 1979 mit dem Film „Zehn – Die Traumfrau“.",
+     "quellen": [
+      {
+       "name": "inFranken.de: Promi-News",
+       "url": "https://www.infranken.de/unterhaltung/stars/"
+      }
+     ]
+    },
+    {
+     "titel": "Dschungelcamp 2027: Noch steht niemand fest",
+     "unterzeile": "Gerüchte, keine Bestätigung",
+     "text": "Im Januar oder Frühjahr 2027 startet eine neue Staffel von „Ich bin ein Star – Holt mich hier raus!“. RTL nennt sie die längste in der Geschichte der Show. Offiziell steht noch niemand fest. Namen, die kursieren, sind nur Gerüchte. Claudia Obert hat selbst gesagt, dass sie gern dabei wäre.",
+     "quellen": [
+      {
+       "name": "netzwelt.de: Dschungelcamp 2027",
+       "url": "https://www.netzwelt.de/news/255980-dschungelcamp-2027-rtl-kuendigt-xxl-staffel-so-lang-war-star-noch-nie.html"
+      },
+      {
+       "name": "echo24: Dschungelcamp 2027 Kandidaten",
+       "url": "https://www.echo24.de/leben/kino-tv/ibes-dschungelcamp-2027-alle-kandidaten-geruechte-tv-rtl-teilnehmer-promi-94597124.html"
+      }
+     ]
+    },
+    {
+     "titel": "König Charles wurde 78",
+     "unterzeile": "Glückwünsche vom Prinzenpaar",
+     "text": "König Charles ist am Samstag 78 Jahre alt geworden. William und Kate haben ihm öffentlich gratuliert.",
+     "quellen": [
+      {
+       "name": "HELLO!: Message to King Charles",
+       "url": "https://www.hellomagazine.com/royalty/935018/prince-william-kate-middleton-public-message-king-charles/"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "TV-Tipps für heute Abend",
+    "punkte": [
+     "20:15 Uhr, Das Erste: „Die Kanzlei“ (Krimiserie)",
+     "21:45 Uhr, ZDFneo: „Meine Braut, ihr Vater und ich“",
+     "22:55 Uhr, MDR: „Schlamassel“ (Drama)",
+     "23:25 Uhr, ZDFneo: „Immer Ärger mit Grandpa“"
+    ],
+    "quellen": [
+     {
+      "name": "TVinfo: Dienstag",
+      "url": "https://www.tvinfo.de/tv-programm/dienstag"
+     },
+     {
+      "name": "kino-zeit.de: TV-Tipps 24.11.2026",
+      "url": "https://www.kino-zeit.de/news-features/empfehlungen-tv-tipps/die-tv-tipps-fuer-dienstag-den-24-11-2026"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Zum Schluss: Gesundheit und Haushalt",
+   "artikel": [
+    {
+     "titel": "Viele Menschen haben gerade einen Schnupfen",
+     "unterzeile": "Die Erkältungszeit ist da",
+     "text": "Mit dem Herbst hat die Erkältungszeit begonnen. Das Robert Koch-Institut beobachtet, wie viele Menschen krank sind. Zuletzt war von etwa sechs Millionen Menschen mit Atemwegsinfekt die Rede. Meist sind es harmlose Erkältungsviren. Corona und Grippe nehmen aber wieder zu. Schwere Fälle sind bisher selten.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Erkältung, Grippe und Co",
+       "url": "https://www.zdfheute.de/wissen/erkaeltung-grippe-welle-rki-106.html"
+      },
+      {
+       "name": "Volksstimme: Akute Atemwegserkrankung",
+       "url": "https://www.volksstimme.de/panorama/6-millionen-akute-atemwegserkrankung-moderates-niveau-4358972"
+      }
+     ]
+    },
+    {
+     "titel": "Schlaf und Händewaschen helfen am besten",
+     "unterzeile": "Rat von einem Fachmann",
+     "text": "Der Arzt Leif Erik Sander sagt: Jetzt ist ein guter Zeitpunkt für die Grippeimpfung. Er rät außerdem zu gutem Schlaf und regelmäßigem Händewaschen. Vitamin C hilft laut ihm weniger als viele denken. Sprich im Zweifel mit deiner Hausärztin oder deinem Hausarzt.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Erkältung, Grippe und Co",
+       "url": "https://www.zdfheute.de/wissen/erkaeltung-grippe-welle-rki-106.html"
+      }
+     ]
+    },
+    {
+     "titel": "Pakete aus dem Ausland kosten jetzt etwas mehr",
+     "unterzeile": "Gut zu wissen beim Weihnachtseinkauf",
+     "text": "Bestellst du etwas bei einem Shop außerhalb der EU, kommen Kosten dazu. Seit Juli gibt es einen Pauschalzoll von 3 Euro. Seit 1. November kommen 2 Euro Bearbeitungsgebühr hinzu. Das gilt für Pakete bis 150 Euro Warenwert. Plane das beim Geschenkekauf ein.",
+     "quellen": [
+      {
+       "name": "Bundesregierung: Gesetzliche Neuregelungen im November 2026",
+       "url": "https://www.bundesregierung.de/breg-de/aktuelles/gesetzliche-neuregelungen-november-2026-2459132"
+      }
+     ]
+    },
+    {
+     "titel": "Kleine Kredite sind jetzt besser geschützt",
+     "unterzeile": "Auch „Jetzt kaufen, später zahlen“",
+     "text": "Auch Kredite bis 200 Euro fallen jetzt unter den Verbraucherschutz. Dazu gehört das Angebot „Jetzt kaufen, später zahlen“. Du kannst solche Verträge künftig auch per E-Mail abschließen. Lies sie trotzdem in Ruhe und nimm dir Zeit.",
+     "quellen": [
+      {
+       "name": "Bundesregierung: Gesetzliche Neuregelungen im November 2026",
+       "url": "https://www.bundesregierung.de/breg-de/aktuelles/gesetzliche-neuregelungen-november-2026-2459132"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "zumSchluss": {
+  "titel": "Der Tannenzweig von Frau Brandt",
+  "text": "Frau Brandt stand am Fenster und sah in den Hof. Dort lag ein kleiner Zweig von der Tanne. Der Wind hatte ihn in der Nacht abgebrochen. Sie ging in Mantel und Schal nach unten und hob ihn auf. Er duftete nach Wald. Oben stellte sie ihn in ein Glas mit Wasser. Dann holte sie die alte Schachtel mit den Strohsternen. Einen kleinen Stern hängte sie an den Zweig. Die Küche roch plötzlich nach Weihnachten. Da klopfte es an der Tür. Es war der kleine Paul von nebenan. „Darf ich mal sehen?“, fragte er leise. Sie ließ ihn herein, und er staunte über den Zweig mit dem Stern. Sie tranken zusammen warmen Apfelsaft. Paul malte ein Bild von dem Zweig und schenkte es ihr. Das Bild hängt jetzt am Kühlschrank. Manchmal ist es nur ein kleiner Zweig, der den Tag hell macht."
+ }
+}
