@@ -1,0 +1,388 @@
+{
+  "gruss": "Guten Morgen, Azeroth! Mittwoch, 25. November: Blizzard dreht Layer-Addons den Hahn zu, die Hotfixes vom 23. November räumen bei Weltbuffs und Klassen auf, und bis zu den ersten Raids sind es noch 14 Tage.",
+  "aufmacher": {
+    "rubrik": "Addons & Layering",
+    "titel": "Layer-Swap vor dem Aus: Blizzard versteckt die Realm-ID",
+    "unterzeile": "Ein kommender Hotfix soll gezieltes Layer-Hopping in Forever unterbinden – nur der Termin ist unklar",
+    "text": "Blizzard will in WoW: Forever das gezielte Wechseln auf eine bestimmte Layer unterbinden. Laut Wowhead und PC Games werden Addon-Schnittstellen, die bisher Realm-Namen oder Realm-IDs lieferten, künftig nur noch einen leeren String oder 0 zurückgeben. Addons wie Layer-Swap können damit nicht mehr erkennen, auf welcher Layer du stehst, und dich auch nicht mehr gezielt auf eine bekannte Ziel-Layer schicken. Die Änderung gilt laut PC Games nur für Forever.\n\nHintergrund: Forever hat keine klassischen Server, sondern drei Mega-Realms (Normal, PvP, RP), die in viele Layers aufgeteilt sind. Manche Spieler nutzten Layer-Addons, um bestimmte Mobs oder Erz- und Kräuterknoten abzufarmen. Weiter möglich bleibt laut PC Games, per Gruppeneinladung die Layer zu wechseln; der Artikel weist aber darauf hin, dass Spieler womöglich einen neuen Workaround finden.\n\nBeim Zeitpunkt widersprechen sich die Berichte: Einige Seiten nennen einen kommenden 1.60.1-Hotfix, andere sagen, Blizzard habe kein Datum genannt. Ein 24. November als Starttermin war laut einer Zusammenfassung nur eine Vermutung der Spieler. Die Community ist gespalten: Die einen begrüßen das Ende des Missbrauchs, die anderen sehen im Layer-Wechsel das einzige Mittel gegen überfüllte Zonen.",
+    "quellen": [
+      { "name": "PC Games: Popular WoW addons lose key features", "url": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Blizzard-pulls-the-plug-Popular-WoW-addons-lose-key-features-1560857/" },
+      { "name": "Massively OP: Targeted layer swapping", "url": "https://massivelyop.com/2026/11/23/world-of-warcraft-forever-moves-to-eliminate-targeted-layer-swapping/" },
+      { "name": "Outputlag: Layer Swap in next hotfix", "url": "https://outputlag.com/news/wow-forever-is-breaking-layer-swap-and-other-layer-picking-addons-in-its-next-hotfix/" }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Hotfixes vom 23. November: Das steht im Blizzard-Post",
+          "unterzeile": "Klassen, Berufe, Quests und Spells in einem Rutsch",
+          "text": "Blizzards rollender Hotfix-Post führt für den 23. November Änderungen quer durch das Spiel auf. Bei den Klassen bekommt der Druide seine Feralheart-Vierer-Boni richtig (4 Energy alle 1 Sekunde für 5 Sekunden), beim Priester löst Mind Vision keine Effekte mehr aus, beim Warlock wirkt Intensity jetzt auf Incinerate. Dazu kommen Fixes bei Items (Filcher's Cowl ohne Levelvoraussetzung), Berufen und Quests.\n\nIm Bereich Dungeons nennt der Post, dass der Obsidian Sentinel in Uldaman wie vorgesehen Loot droppt. Außerdem berichtet Massively OP, dass die Hotfixes zwei Wochen vor dem Raid-Start auch Dungeon- und Crafting-Probleme angehen.\n\nWichtig zu wissen: Der Post wird laufend ergänzt. Ein Block für den 25. November war beim Schreiben dieser Ausgabe nicht zu finden.",
+          "quellen": [
+            { "name": "Blizzard News: WoW: Forever Hotfixes", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026" },
+            { "name": "Massively OP: Hotfixes class, dungeon and crafting issues", "url": "https://massivelyop.com/2026/11/24/world-of-warcraft-forever-hotfixes-class-dungeon-and-crafting-issues/" }
+          ]
+        },
+        {
+          "titel": "Weltbuffs bleiben beim Gebietswechsel – im Raid nicht",
+          "unterzeile": "Der Fix aus dem 23.-November-Block im Detail",
+          "text": "Laut Blizzard-Hotfix fallen World Buffs nicht mehr ab, wenn du das Gebiet wechselst. Beim Betreten von Raid-Instanzen fallen sie weiterhin ab. Gleichzeitig wurden zwei Überbuffs korrigiert: Fengus' Ferocity gibt nicht mehr doppelt so viel Spell Power wie vorgesehen, und die Darkmoon-Faire-Buffs sind nicht mehr doppelt so stark. Außerdem lösen manche Spells und Fähigkeiten nicht mehr mehr Waffen-Procs aus als gedacht. Vice hatte den Weltbuff-Fix schon in dieser Woche angekündigt.",
+          "quellen": [
+            { "name": "Blizzard News: WoW: Forever Hotfixes", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026" },
+            { "name": "Vice: World Buff fix arriving this week", "url": "https://www.vice.com/en/article/world-of-warcraft-forever-world-buff-fix-is-arriving-this-week/" }
+          ]
+        },
+        {
+          "titel": "LFG zeigt wieder alle Gruppen, Dungeon-Limit sinkt auf 5 pro Stunde",
+          "unterzeile": "Aus den Hotfixes vom 20. November",
+          "text": "Laut gscope behebt Blizzard in den Hotfixes vom 20. November einen Fehler, durch den im Gruppenfinder weniger Gruppen angezeigt wurden als vorgesehen. Zugleich wurde das Limit für Dungeon-Eintritte pro Stunde von 10 auf 5 gesenkt. Im selben Artikel geht es um die sichtbar gewordenen Werte der gecrafteten Tier-Sets und um das Layering-Addon-Aus.",
+          "quellen": [
+            { "name": "gscope: LFG fix, crafted tier stats and a layering addon ban", "url": "https://gscope.eu/article/wow-forever-lfg-fix-crafted-tier-stats-and-a-layering-addon-ban" }
+          ]
+        },
+        {
+          "titel": "Wisp Form nur noch für Tote",
+          "unterzeile": "Kleine Fixes mit großer Wirkung auf die Optik",
+          "text": "Im Block vom 23. November steht außerdem: Wisp Form lässt sich nicht mehr auf lebende Spieler anwenden. Bei den Spells wurde zudem klargestellt, dass Weltbuffs nur beim Raid-Eintritt verschwinden. Wer ältere Hotfix-Blöcke nachlesen will, findet sie im selben, fortlaufend gepflegten Blizzard-Artikel.",
+          "quellen": [
+            { "name": "Blizzard News: WoW: Forever Hotfixes", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Stand Hotfixes",
+        "punkte": [
+          "Letzter bekannter Block: 23. November (veröffentlicht am 24.)",
+          "Patch laut Drittseite lfcarry: 1.60.1, Build 70938 (nicht von Blizzard bestätigt)",
+          "Neu: Weltbuffs bleiben bei Gebietswechseln",
+          "Neu: Mortal Strike nur noch mit Talent",
+          "Offen: Termin des Layer-Hotfixes"
+        ],
+        "quellen": [
+          { "name": "Blizzard News: Hotfixes", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026" },
+          { "name": "lfcarry: Patch Notes", "url": "https://lfcarry.com/guides/wow-forever-patch-notes" }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Wer vom Tuning profitiert: Warrior, Rogue, Hunter, Shaman",
+          "unterzeile": "Ein Community-Überblick – keine offizielle Rangliste",
+          "text": "Eine Analyse im offiziellen Forum (drei Wochen alt) zählt Combat- und Assassination-Rogue, Marksmanship-Hunter und Enhancement-Shaman zu den größten Damage-Gewinnern des Klassen-Tunings. Beim Arms-Warrior wird die maximale Wirkung von Two-Handed Weapon Specialization von 3 % auf 6 % verdoppelt, Slams Basis-Cooldown sinkt von 18 auf 15 Sekunden.\n\nBeim Survival-Hunter steigt der Agility-Bonus von Lightning Reflexes von 10 % auf 15 % auf dem höchsten Rang, Fallen gelten aber als weniger flexibel. Beim Enhancement-Shaman löst Windfury Totem laut einem Forever-Klassenguide bei allen Main-Hand-Nahkampffertigkeiten aus.\n\nDas ist Spielerwissen aus Foren und Drittseiten, die Zahlen können sich mit Hotfixes geändert haben. Die offiziellen Entwicklernotizen findest du bei Wowhead.",
+          "quellen": [
+            { "name": "Blizzard-Forum: Complete Class Changes Breakdown", "url": "https://us.forums.blizzard.com/en/wow/t/complete-class-changes-breakdown-who-really-wins-and-loses/2399654" },
+            { "name": "Wowhead: Official Development Notes and Class Tuning", "url": "https://www.wowhead.com/forever/news/wow-forever-official-development-notes-and-class-tuning-383704" },
+            { "name": "lfcarry: Class Changes", "url": "https://lfcarry.com/guides/wow-forever-class-changes" }
+          ]
+        },
+        {
+          "titel": "Warrior: Mortal Strike nur noch mit Talent",
+          "unterzeile": "Fähigkeit bleibt im Zauberbuch, ist aber gesperrt",
+          "text": "Laut Hotfix vom 23. November kann Mortal Strike nicht mehr aus dem Zauberbuch genutzt werden, wenn du das passende Talent nicht geskillt hast. Die Fähigkeit bleibt im Spellbook sichtbar. Damit schließt Blizzard eine Lücke, die Spielern ohne Investition in das Talent Zugriff auf die Fähigkeit gab.",
+          "quellen": [
+            { "name": "Blizzard News: WoW: Forever Hotfixes", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026" }
+          ]
+        },
+        {
+          "titel": "Priest: Dark Inspiration, Chastise und Mind Vision",
+          "unterzeile": "Drei Korrekturen im Hotfix vom 23. November",
+          "text": "Für Shadow-Priester zählt Dark Inspiration nun den richtigen %-Spirit-Bonus, wenn es durch Mind Flay ausgelöst wird. Chastise ist in Shadowform nutzbar. Mind Vision löst keine Effekte mehr aus. Massively OP erwähnt die Dark-Inspiration- und Chastise-Fixes ebenfalls.",
+          "quellen": [
+            { "name": "Blizzard News: WoW: Forever Hotfixes", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026" },
+            { "name": "Massively OP: Hotfixes", "url": "https://massivelyop.com/2026/11/24/world-of-warcraft-forever-hotfixes-class-dungeon-and-crafting-issues/" }
+          ]
+        },
+        {
+          "titel": "Warlock und Druide: Intensity und Feralheart",
+          "unterzeile": "Zwei Set- und Talent-Korrekturen",
+          "text": "Destruction-Warlocks profitieren davon, dass Intensity jetzt auch auf Incinerate wirkt. Beim Druiden gibt der Feralheart-Vierer-Bonus korrekt 4 Energy-Regeneration jede Sekunde für 5 Sekunden.",
+          "quellen": [
+            { "name": "Blizzard News: WoW: Forever Hotfixes", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "9. Dezember: Barrow Deeps, Hyjal Summit und Onyxia",
+          "unterzeile": "Was über den ersten Raid-Schwung gesichert ist – und was Fan-Wissen ist",
+          "text": "Die ersten Raids öffnen am 9. Dezember: Barrow Deeps, Hyjal Summit und Onyxia's Lair. Lead Designer Tim Jones sagte im Interview mit But Why Tho, dass der erste Raid-Patch 21 neue Bosse in Hyjal Summit und Barrow Deeps bringt und jede Raid-Veröffentlichung einen 10er- und einen 20er-Raid enthält.\n\nLaut Guide-Seiten braucht nur Onyxia eine Attunement; für Barrow Deeps und Hyjal Summit reicht Level 60. Das stammt aus Fan- und Guide-Seiten, die sich auf Blizzards Oktober-Überblick berufen. Molten Core hat kein Datum – der alte Attunement-Quest steht zwar in der Datenbank, bestätigt ist der Raid aber nicht.",
+          "quellen": [
+            { "name": "But Why Tho: Interview", "url": "https://butwhytho.net/2026/11/wow-forever-interview/" },
+            { "name": "bald.gg: Attunements", "url": "https://bald.gg/wow-forever/blog/wow-forever-attunements" },
+            { "name": "Raiddex: Raid Guide", "url": "https://raiddex.com/en/wow-forever/guides/raid-guide" }
+          ]
+        },
+        {
+          "titel": "Onyxia: Drakefire Amulet jetzt starten",
+          "unterzeile": "Jeder Raider braucht seine eigene Attunement",
+          "text": "Für Onyxia's Lair muss jeder Raider die Kette zum Drakefire Amulet selbst abschließen; das Amulett muss nur beim Betreten im Beutel sein. Die Kette startet laut Guides ab Level 50, der Raid selbst ist ein Level-60-Raid. Mehrere Guides raten, die Kette schon jetzt anzufangen. Eine Checkliste empfiehlt zusätzlich Fire Resistance für Onyxia und eine Absprache, wer welche Raid-Buffs mitbringt. Alles Guide-Wissen, nicht offiziell.",
+          "quellen": [
+            { "name": "Conquestcapped: Onyxia Attunement", "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-onyxia-attunement/" },
+            { "name": "Myrtana: Raid preparation checklist", "url": "https://www.myrtana.net/en/wow-forever/wiki/raid-preparation" }
+          ]
+        },
+        {
+          "titel": "Gecraftete Tier-Sets: Werte sind sichtbar, Boni nur Platzhalter",
+          "unterzeile": "Blizzard bestätigt: Reveal war Absicht",
+          "text": "Per Hotfix vom 20. November wurden die Werte der gecrafteten Tier-1-Teile sichtbar. Blizzard bestätigte Wowhead, dass das beabsichtigt ist, die angezeigten Set-Boni aber Platzhalter sind und sich ändern werden. Die Teile sind Level 60 und Bind on Equip, jedes trägt den Zusatz „Artisan's Tier (1)“. Beispiele laut Wowhead: Grovekeeper Leggings (Armor +19, Strength +22, Stamina +9, Nature Resistance +9) und Justice Legguards (Armor +23, Nature Resistance +9 und weitere Werte). Ältere Datamining-Artikel mit anderen Boni sind überholt.",
+          "quellen": [
+            { "name": "Wowhead: Itemization of Crafted Tier Sets", "url": "https://www.wowhead.com/forever/news/itemization-of-crafted-tier-sets-revealed-in-wow-forevers-first-raid-tier-383946" },
+            { "name": "Seramate", "url": "https://seramate.com/forever/news/2026/11/20/forever-crafted-tier-set-itemization-revealed-5e613924" }
+          ]
+        },
+        {
+          "titel": "Dungeon-Hotfixes: Deathless Marrow und Bristleback",
+          "unterzeile": "Weniger Leben, seltenere Skullcrusher",
+          "text": "Laut WebSearch-Zusammenfassung des Hotfix-Blocks vom 23. November wurde das Leben der Deathless Marrow um 25 % reduziert, und die Bristleback-Skullcrusher-Fähigkeiten werden seltener eingesetzt. Wowhead hat den Block im Blue Tracker gespiegelt. Die Uldaman-Änderung am Obsidian Sentinel steht im offiziellen Post.",
+          "quellen": [
+            { "name": "Wowhead Blue Tracker: Hotfixes November 23", "url": "https://www.wowhead.com/forever/blue-tracker/news/us/wow-forever-hotfixes-november-23-2026-world-of-warcraft-blizzard-news-24315281" },
+            { "name": "Massively OP: Hotfixes", "url": "https://massivelyop.com/2026/11/24/world-of-warcraft-forever-hotfixes-class-dungeon-and-crafting-issues/" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "50 bis 60: Guides sind sich bei den Zonen-Grenzen uneins",
+          "unterzeile": "Winterspring ab 53 oder 55? Hyjal ab 55, 56 oder 60?",
+          "text": "Die Guides stimmen darin überein, dass du 50 bis 55 in Un'Goro Crater und Felwood levelst (Burning Steppes und Western Plaguelands sind Alternativen), danach Winterspring, Eastern Plaguelands und Silithus. Mount Hyjal ist die Level-60-Zone, erreichbar über Darkwhisper Gorge von Winterspring.\n\nBei den Einstiegsleveln widersprechen sich die Quellen: Winterspring beginnt je nach Guide bei 53 oder 55, Silithus bei 55, Hyjal bei 55, 56 oder 60. Ein Guide nennt für Allianz Hyjal 56–60 mit 90 Quests, Winterspring 56–60 mit 32 und Silithus 55–60 mit 34 – als grobe Richtwerte. Prüf die Stufen im Spiel.",
+          "quellen": [
+            { "name": "Hardcorehelper: Leveling 55–60", "url": "https://www.hardcorehelper.com/forever/guides/wow-forever-leveling-guide-55-60" },
+            { "name": "bald.gg: Zones by Level", "url": "https://bald.gg/wow-forever/blog/wow-forever-zones-by-level" },
+            { "name": "Mobalytics: Zone Map", "url": "https://mobalytics.gg/wow-forever/guides/zone-map-level-ranges" }
+          ]
+        },
+        {
+          "titel": "Dungeon-Quests sind der Haupt-XP-Weg",
+          "unterzeile": "Blizzard senkte Mob-XP in Dungeons und hob Quest-XP an",
+          "text": "Laut einem Guide hat Blizzard die Erfahrung von Monstern in Dungeons gesenkt und die von Dungeon-Quests erhöht. Quest-XP ist damit der wichtigste Lohn für Dungeon-Runs. Wowhead führt eine Übersicht aller Dungeon-Quests mit Fundorten. Bei Dire Maul hängen manche Quests vom Flügel ab, etwa der Gordok Taste Test erst nach einem Tribute Run.",
+          "quellen": [
+            { "name": "Wowhead: Every Dungeon Quest", "url": "https://www.wowhead.com/forever/guide/dungeons/every-dungeon-quest-location" },
+            { "name": "Conquestcapped: Dungeons Overview", "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-dungeons-overview/" }
+          ]
+        },
+        {
+          "titel": "Quest-Fixes und Known Issues",
+          "unterzeile": "Riverglades, Wetlands – und was Blizzard noch auf der Liste hat",
+          "text": "Der Hotfix vom 23. November lässt Dunston Willis in der Escort-Quest „Dunston Checks Out“ (Riverglades) wieder zum Ende laufen. In den Wetlands hat „For Further Study“ nun Belohnungen, und „Uncovering the Past“ sowie „Gleaning Our Future“ geben Ironforge-Ruf. Auf Blizzards Known-Issues-Liste stehen laut Blue-Tracker-Zusammenfassung unter anderem fehlende PvP-Händler in allen Städten, eine deaktivierte Ashenvale-Quest und ein Kessel in Razorfen Kraul, der Spieler festsetzen kann.",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026" },
+            { "name": "Wowhead Blue Tracker", "url": "https://www.wowhead.com/forever/blue-tracker" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Auktionshaus Woche 2: 34 von 46 Mats billiger",
+          "unterzeile": "Kupfer teurer, Mithril billiger – laut Preis-Tracker",
+          "text": "Timesaver wertet gescannte Auktionshaus-Daten (Stand 12. November) aus: 34 von 46 beobachteten Materialien waren in Woche 2 günstiger als in Woche 1. Kupfererz stieg um etwa 41 %, Mithril-Erz fiel um etwa 46 %. Die Preise sind regional und je Realm-Typ sehr verschieden: Ein Guide nennt für Eisenerz 4–6 Silber auf Normal und PvP, aber 15 Silber auf Alliance-RP-US und 40 Silber auf Horde-RP-EU.\n\nWichtig: Alle Zahlen stammen von Spielern, die per Addon scannen; Blizzard veröffentlicht keine AH-Preisdaten. Sie sind einige Tage bis zwei Wochen alt und können sich bereits stark verändert haben.",
+          "quellen": [
+            { "name": "Timesaver: AH Prices Week 2", "url": "https://timesaver.gg/blog/wow-forever-auction-house-prices-week-1" },
+            { "name": "wowforeverclasses: What sells", "url": "https://wowforeverclasses.com/articles/auction-house-prices-what-sells-wow-forever" }
+          ]
+        },
+        {
+          "titel": "Berufs-Fixes: Kochen, Engineering, Leatherworking",
+          "unterzeile": "Der Hotfix vom 23. November für Handwerker",
+          "text": "Beim Kochen geben sechs Muschelgerichte nun den richtigen Well-Fed-Bonus und stehen unter „Stamina Food“; Murloc Fin Soup heilt und buffed stärker. Engineering: Die Renewal Gifts der Goblin- und Gnome-Ingenieure erscheinen nicht mehr als Fragezeichen, und „The Mortar: Reloaded“ lässt sich beim Lernen des Goblin-Mortar-Rezepts lernen. Leatherworking: Pattern: Centaur Hoofwarmers ist wieder erlernbar.",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-20-2026" }
+          ]
+        },
+        {
+          "titel": "Gold-Tipps: Sammeln, Bank aufbauen, dann craften",
+          "unterzeile": "Wichtig: Viele dieser Guides stammen von Gold-Verkäufern",
+          "text": "Mehrere Guides empfehlen, mit zwei Sammelberufen zu starten (häufig Skinning plus Herbalism oder Mining), auf der Questroute zu sammeln und erst nach etwa 1.000 Gold Bank einen Handwerksberuf zu wählen. Teure Ausrüstung lohnt beim Leveln selten. Enchanting gilt in einem Guide als steady Gold auf 60, ein anderer räumt ein, dass es noch keinen verifizierten besten Gold-Beruf auf 60 gibt. Rankings widersprechen sich, und manche Seiten verkaufen selbst Gold – nimm es als Anregung, nicht als Fakt.",
+          "quellen": [
+            { "name": "mmotradinghub: Gold Farming Guide", "url": "https://mmotradinghub.com/blog/wow-forever-gold-farming-guide" },
+            { "name": "Conquestcapped: Gold Making", "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-gold-making/" },
+            { "name": "Overgear: Earning Gold", "url": "https://overgear.com/guides/wow-forever/earning-gold/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Craftbare Tier-Sets",
+        "punkte": [
+          "Rezepte verlangen laut Wowhead 300 im jeweiligen Beruf",
+          "Teile: Level 60, Bind on Equip",
+          "Set-Boni sind laut Blizzard Platzhalter",
+          "Raid-Start: 9. Dezember"
+        ],
+        "quellen": [
+          { "name": "Wowhead: Crafted Tier Sets", "url": "https://www.wowhead.com/forever/news/itemization-of-crafted-tier-sets-revealed-in-wow-forevers-first-raid-tier-383946" }
+        ]
+      }
+    },
+    {
+      "titel": "Community: Rekorde, Gilden, Streamer, Server",
+      "artikel": [
+        {
+          "titel": "Blackmaw Hold: Economy-Locks seit dem 20. November",
+          "unterzeile": "Nur „ein paar Hundert“ Spieler gezielt abgestraft",
+          "text": "Auslöser war ein Loot-Fehler: Nicht-elitäre Gegner in Blackmaw Hold droppten Loot, der für Elites gedacht war. Blizzard-Community-Manager Kaivax schrieb am 17. November, wer bei normalen Runs zusätzliche Beute bekam, habe nichts falsch gemacht. Rund „ein paar Hundert“ Spieler weltweit hätten den Fehler aber erkannt und die Gegner lange gezielt gefarmt.\n\nLaut MMORPG.com setzte Blizzard am 20. November Economy-Locks auf deren Accounts, entfernt exploit-erworbenes Gold (auch aus dem Verkauf bei Händlern) und sperrt „bedeutende Missbraucher“. Die Reaktion: Manche begrüßen das Gold-Entfernen, anderen geht es nicht weit genug. Wowhead berichtete zudem, dass eine Petition gegen mutmaßlich beteiligte Streamer auf Platz 1 von r/all landete.",
+          "quellen": [
+            { "name": "MMORPG.com: Blizzard draws the line", "url": "https://www.mmorpg.com/news/blizzard-draws-the-line-between-accidental-bug-benefits-and-exploitation-in-wow-forever-2000139350" },
+            { "name": "Wowhead: Players upset about Blackmaw Hold gold farm", "url": "https://www.wowhead.com/forever/news/many-players-are-very-upset-about-the-blackmaw-hold-gold-farm-383906" }
+          ]
+        },
+        {
+          "titel": "Twitch-Peak 1,12 Millionen – Spielerzahl bleibt geheim",
+          "unterzeile": "Blizzard spricht vom größten Launch der WoW-Geschichte, nennt aber keine Zahl",
+          "text": "Laut Streams Charts erreichte WoW: Forever am 4. November einen Twitch-Peak von 1.119.734 gleichzeitigen Zuschauern, knapp unter WoW Classic 2019 mit 1.132.957. Blizzard sagt, es sei der größte Launch der WoW-Geschichte nach gleichzeitigen Spielern, nennt aber keine Zahl. Viewer sind nur ein Näherungswert, da auch Zuschauer ohne Account mitzählen. Für die Beta kursieren widersprüchliche Zahlen (800.000 gegen 1,6 Millionen), die Warteschlangen-Angaben von 25.000–45.000 sind unbelegt. Zum Launch waren Login-Warteschlangen laut Myrtana kurz.",
+          "quellen": [
+            { "name": "Kami-Labs: Record launch", "url": "https://kami-labs.fr/en/wow-forever/record-lancement-wow-forever/" },
+            { "name": "Myrtana: Launch record", "url": "https://www.myrtana.net/en/wow-forever/changelogy/2026-11-10-launch-record" }
+          ]
+        },
+        {
+          "titel": "Wer war zuerst auf 60? Fan-Ranglisten widersprechen sich",
+          "unterzeile": "Blizzard führt keine offizielle Liste",
+          "text": "Das Fan-Leaderboard Armory WoW Forever nennt den Paladin „Cloud Bells“ (EU Normal) als ersten gesehenen Level-60-Charakter am 7. November um 3:09 Uhr UTC. Die Liste von race.aotc.gg zeigt mehrere Charaktere mit exakt dieser Zeit, darunter Shaman und Mage. Forever Guides weist darauf hin, dass Blizzard keine Rangliste veröffentlicht hat. Eine eindeutige Zuordnung zu einer Streamer-Gilde belegen die Quellen nicht.",
+          "quellen": [
+            { "name": "Armory WoW Forever: World First", "url": "https://armorywowforever.com/world-first" },
+            { "name": "race.aotc.gg", "url": "https://race.aotc.gg/" },
+            { "name": "Forever Guides: Race Tracker", "url": "https://theforeverguides.com/news/world-first-60/" }
+          ]
+        },
+        {
+          "titel": "Streit um KI-Addons",
+          "unterzeile": "Spieler fordern strengere Community-Regeln",
+          "text": "The PC Enthusiast berichtet, dass sich Spieler über KI-generierte Forever-Addons beschweren: lieblos gebaute Projekte, ständige Eigenwerbung und Entwickler, die ihre Tools womöglich nicht pflegen können. Manche fordern strengere Regeln in den Communities. Der Bericht ist rund drei Wochen alt.",
+          "quellen": [
+            { "name": "The PC Enthusiast", "url": "https://thepcenthusiast.com/wow-forever-addons-ai-controversy-players-complain/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen",
+        "punkte": [
+          "Twitch-Peak 4. November: 1.119.734 (Streams Charts)",
+          "WoW Classic 2019: 1.132.957",
+          "Drei Mega-Realms: Normal, PvP, RP",
+          "Keine offizielle Spielerzahl"
+        ],
+        "quellen": [
+          { "name": "Kami-Labs", "url": "https://kami-labs.fr/en/wow-forever/record-lancement-wow-forever/" }
+        ]
+      }
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Layer wechseln nach dem Hotfix",
+          "unterzeile": "Was weiter geht und was nicht",
+          "text": "Sobald der Hotfix live ist, kannst du laut PC Games per Gruppeneinladung die Layer wechseln; gezieltes Hopping per Addon soll nicht mehr gehen. Das Layer-Swap-Addon schreibt auf CurseForge, es könne auf Forever keine Layer mehr unterscheiden und wurde so umgebaut, dass es Layer ohne Auflistung wechselt. Plane also nicht damit, dir eine bestimmte Layer zu suchen.\n\nHintergrund: Forever nutzt statt Servern drei Mega-Realms, die in viele Layers geteilt sind. Ob und wann der Hotfix kommt, ist offen.",
+          "quellen": [
+            { "name": "PC Games", "url": "https://www.pcgames.de/World-of-Warcraft-Spiel-42971/News/Blizzard-pulls-the-plug-Popular-WoW-addons-lose-key-features-1560857/" },
+            { "name": "CurseForge: Layer-Swap", "url": "https://www.curseforge.com/wow/addons/layer" }
+          ]
+        },
+        {
+          "titel": "Instanz-Schlüssel auf einen Blick",
+          "unterzeile": "Crescent Key, Skeleton Key, Scarlet Key",
+          "text": "Die Dire-Maul-Flügel West und North öffnest du mit dem Crescent Key oder mit Lockpicking 300. Das Haupttor von Scholomance öffnet der Skeleton Key in Caer Darrow. In Stratholme öffnet der Scarlet Key die Scarlet Hold auf der Live-Seite, der Key to the City den Seiteneingang. Blackrock Depths, Stratholme und Scholomance sind 5er-Dungeons, Upper Blackrock Spire ist für 10 Spieler. Die Level-Angaben der Guides weichen voneinander ab.",
+          "quellen": [
+            { "name": "Conquestcapped: Attunements", "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-attunements/" },
+            { "name": "Wowhead: Dungeons Overview", "url": "https://www.wowhead.com/forever/guide/dungeons-overview-locations-details" }
+          ]
+        },
+        {
+          "titel": "Stratholme Live: Tipps für den Bossfight",
+          "unterzeile": "Mind Control crowd-controlen, Fear auf Distanz",
+          "text": "Wowhead rät im Stratholme-Live-Guide, den vom Boss kontrollierten Spieler per Crowd Control auszuschalten, bei Fear auf maximaler Distanz zu stehen und Schlaf-Effekte von Gruppenmitgliedern zu dispellen. Der Guide nennt auch Quests, Ort und Belohnungen.",
+          "quellen": [
+            { "name": "Wowhead: Stratholme Live", "url": "https://www.wowhead.com/forever/guide/stratholme-live-side-dungeon-overview-location-rewards" }
+          ]
+        },
+        {
+          "titel": "Beim Leveln Gold sparen: Gear nicht überinvestieren",
+          "unterzeile": "Ein Tipp aus mehreren Gold-Guides",
+          "text": "Mehrere Guides raten, früh nicht viel Gold in Ausrüstung zu stecken, die du nur zwei, drei Level trägst. Verkaufe Materialien nicht automatisch an Händler, sondern prüfe vorher das Auktionshaus. Gesammelte Stoffe, Leder, Kräuter und Erze haben Wert für andere Spieler, die gerade Berufe leveln. Die Guides stammen teils von Goldverkäufern.",
+          "quellen": [
+            { "name": "mmotradinghub: Gold Farming Guide", "url": "https://mmotradinghub.com/blog/wow-forever-gold-farming-guide" },
+            { "name": "Gamsgo: Gold Guide", "url": "https://www.gamsgo.com/blog/wow-forever-gold-guide" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Blizzard: Ankündigungen, Interviews, Entwickler-Aussagen",
+      "artikel": [
+        {
+          "titel": "Tim Jones: Vier-Monats-Takt, kein Catch-up",
+          "unterzeile": "Lead Designer im Gespräch mit But Why Tho",
+          "text": "Laut But Why Tho beschreibt Lead Designer Tim Jones Forever als „found photograph“-Erlebnis wie Season of Discovery: Inhalte sollen wirken, als hätten sie schon immer existiert. Große Patches sollen rund vier Monate auseinanderliegen, jeder Raid-Release umfasst einen 10er- und einen 20er-Raid. Mögliche Updates: PvP-Seasons, Reputationen, Rezepte, Berufspfade, Zonen, Dungeons.\n\nCatch-up-Mechaniken sind nicht geplant; Spieler sollen weder Leveln noch Raid-Tiers überspringen, das Level-Cap bleibt. Bei der Wirtschaft sagt Jones, das Team erstelle wöchentliche Economy-Reports zu Gegnern und Vendor-Items mit dem meisten Gold und gehe gegen Echtgeld-Goldhandel vor. Nicht jeden Exploit könne man fangen.",
+          "quellen": [
+            { "name": "But Why Tho: WoW Forever Interview", "url": "https://butwhytho.net/2026/11/wow-forever-interview/" }
+          ]
+        },
+        {
+          "titel": "Mike Nuthals: Einfachere Mechaniken durch QA-Feedback",
+          "unterzeile": "Encounter Design im Classic-Stil",
+          "text": "Lead Encounter Designer Mike Nuthals sagt, das Team habe nahezu alle Classic-Dungeons gespielt, um Komplexität und Kampfdauer zu studieren. Neue Dungeons sollen zu den Originalen passen, und bei Brainstormings wird geprüft, ob ein neuer Boss einem früheren zu ähnlich ist. Frühe Entwürfe seien teils zu kompliziert gewesen; nach QA-Feedback wurden Mechaniken vereinfacht, damit Ursache und Wirkung klar sind.",
+          "quellen": [
+            { "name": "But Why Tho: WoW Forever Interview", "url": "https://butwhytho.net/2026/11/wow-forever-interview/" }
+          ]
+        },
+        {
+          "titel": "Aidan Moon und Matthew Armstrong: Gegen BiS, nicht für alle",
+          "unterzeile": "Persönliche Aussagen einzelner Entwickler",
+          "text": "Senior Game Designer Aidan Moon sagte im Forever-Podcast laut Wowhead, er wolle „BiS“ im Grunde abschaffen, weil es für ein Rollenspiel nicht gut sei; er verwies auf Kreaturen-Subtypen und Biome. World Builder Matthew Armstrong sagte, er mache Forever für Classic-Spieler und frühere Abonnenten und betonte, das Spiel sei nicht für alle gemacht. Er räumte ein, dass dies seine persönliche Sicht ist, nicht die von Blizzard insgesamt. Die Aussagen sind Wochen alt.",
+          "quellen": [
+            { "name": "Wowhead: Blizzard wants to get rid of BiS", "url": "https://www.wowhead.com/forever/news/blizzard-wants-to-get-rid-of-bis-in-wow-forever-383931" },
+            { "name": "PC Gamer: Forever dev on who it's made for", "url": "https://www.pcgamer.com/games/world-of-warcraft/world-of-warcraft-forever-dev-addresses-the-debate-over-who-its-made-for-i-did-not-spend-the-last-year-of-my-life-relearning-and-mastering-how-to-do-things-like-we-did-it-20-years-ago-for-retail-players/" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Noch 14 Tage bis zum Raid-Start",
+          "unterzeile": "9. Dezember ist das einzige harte Datum",
+          "text": "Der 9. Dezember ist der einzige exakte Termin auf Blizzards Roadmap: Dann öffnen Barrow Deeps, Hyjal Summit und Onyxia's Lair. Bis dahin: Level 60 erreichen, Onyxia-Attunement beginnen (Start laut Guides ab Level 50), Fire Resistance sammeln und Raid-Buffs absprechen. Vieles davon stammt aus Fan-Guides, nicht von Blizzard.",
+          "quellen": [
+            { "name": "Wowhead: Roadmap", "url": "https://www.wowhead.com/forever/guide/content-release-roadmap" },
+            { "name": "Myrtana: Raid preparation", "url": "https://www.myrtana.net/en/wow-forever/wiki/raid-preparation" }
+          ]
+        },
+        {
+          "titel": "Roadmap: Hardcore im Winter, kein Datum",
+          "unterzeile": "Großes Update im Frühjahr 2027, alles unter Vorbehalt",
+          "text": "Hardcore steht laut Roadmap-Zusammenfassungen für „Winter 2026“ an, nach den Raids vom 9. Dezember und vor dem großen Frühjahrs-Update 2027. Einen genauen Termin gibt es nicht; Blizzard schrieb am 29. Oktober, Details und Zeitplan kämen später. Die Roadmap steht unter dem Vorbehalt „content and timing subject to change“. Eine Fan-Seite spricht von Anfang 2027 – das ist nicht offiziell.",
+          "quellen": [
+            { "name": "Icy Veins: Hardcore Mode", "url": "https://www.icy-veins.com/wow-forever/news/hardcore-mode-coming-to-warcraft-forever/" },
+            { "name": "Icy Veins: Roadmap", "url": "https://www.icy-veins.com/wow-forever/roadmap" },
+            { "name": "Wowhead: Roadmap", "url": "https://www.wowhead.com/forever/guide/content-release-roadmap" }
+          ]
+        },
+        {
+          "titel": "Kalender-Check: Darkmoon Faire und Winter Veil",
+          "unterzeile": "Daten stammen aus allgemeinen WoW-Kalendern",
+          "text": "Ein WoW-Event-Kalender nennt für die Darkmoon Faire den 6. bis 12. Dezember 2026, und Wowhead gibt für Feast of Winter Veil den 15. Dezember bis 2. Januar an. Beide Quellen sind allgemeine WoW-Kalender; ob und wie Forever diese Termine übernimmt, haben wir in den Suchergebnissen nicht bestätigt gefunden.",
+          "quellen": [
+            { "name": "WoW Achievement Plan: Events", "url": "https://wow-achievement-plan.com/events" },
+            { "name": "Wowhead: Feast of Winter Veil", "url": "https://www.wowhead.com/guide/world-events/holidays/feast-of-winter-veil" }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Drakefire-Kette früh anfangen",
+    "text": "Wenn du Onyxia mitnehmen willst, starte die Drakefire-Amulet-Kette schon jetzt, statt am Raid-Tag. Laut Guides braucht jeder Raider das Amulett selbst, und es muss beim Betreten nur im Beutel liegen. Ein Blick in die Ruf- und Questvoraussetzungen spart dir am 9. Dezember Stress."
+  }
+}
