@@ -1,0 +1,724 @@
+{
+ "gruss": "Guten Morgen, Tim! Heute ist Mittwoch, der 25. November. In Berlin ist Haushaltswoche und am Nachmittag gibt's die Pflege-Anhörung. Hier ist dein Überblick.",
+ "aufmacher": {
+  "rubrik": "Deutschland: Politik",
+  "titel": "Stromsteuer runter auf 0,1 Cent, aber nur für ein Jahr gesichert",
+  "unterzeile": "Der Bundestag beschließt am Freitag den Haushalt 2027, heute ist Generaldebatte",
+  "text": "Union und SPD haben sich in der Nacht zum 18. November auf eine Senkung der Stromsteuer geeinigt: Ab 1. Januar 2027 sinkt sie für alle von 2,05 auf 0,1 Cent je Kilowattstunde, das EU-Minimum. Gesichert ist das aber nur für 2027, bezahlt aus Reserven auf dem EEG-Konto. Ob die Senkung bleibt, entscheidet sich beim Haushalt 2028.\n\nHeute läuft im Bundestag die Generaldebatte zum Haushalt, am Freitag wird abgestimmt. Der Etat umfasst rund 560 Milliarden Euro, dazu kommen Schulden von rund 210 Milliarden Euro inklusive Sondervermögen. Parallel tagen Haushalts- und Finanzausschuss zum Gesetz, das die Stromsteuersenkung regelt.\n\nFür dich heißt das: Viele Versorger erhöhen zum Jahreswechsel trotzdem die Preise. Wenn du einen Brief bekommst, hast du ein Sonderkündigungsrecht.",
+  "quellen": [
+   {
+    "name": "Cash.: Was der Koalitionsausschuss beschlossen hat",
+    "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/"
+   },
+   {
+    "name": "ZDFheute: Haushaltswoche im Bundestag",
+    "url": "https://www.zdfheute.de/politik/deutschland/bundestagswoche-haushalt-2027-100.html"
+   },
+   {
+    "name": "Berliner Zeitung: Strompreis sinkt 2027",
+    "url": "https://www.berliner-zeitung.de/article/strompreis-sinkt-2027-so-viel-geld-sparen-sie-durch-die-neue-stromsteuer-senkung-wirklich-10609655"
+   }
+  ]
+ },
+ "seiten": [
+  {
+   "titel": "Mülheim an der Ruhr",
+   "artikel": [
+    {
+     "titel": "Fahrerflucht in Broich: Radfahrerin angefahren",
+     "unterzeile": "Polizei sucht Zeugen",
+     "text": "Pass auf dem Rad in Broich auf: Am 20. November hat ein Autofahrer an einer Kreuzung in Mülheim-Broich eine Radfahrerin angefahren und ist abgehauen. Die Frau wurde leicht verletzt.\n\nDie Polizei hat den Fall am Montag (23. November) öffentlich gemacht und sucht Zeugen. Wer etwas gesehen hat, soll sich bei der Polizei melden.\n\nEs ist nicht der einzige Fall dieser Art: Schon am 18. November wurde in Dümpten ein Fußgänger von einem Auto erfasst, auch dort floh der Fahrer.",
+     "quellen": [
+      {
+       "name": "Presseportal Polizei Essen/Mülheim: Broich",
+       "url": "https://www.presseportal.de/blaulicht/pm/11562/6395999"
+      },
+      {
+       "name": "Presseportal: Dümpten",
+       "url": "https://www.presseportal.de/blaulicht/pm/11562/6393921"
+      }
+     ]
+    },
+    {
+     "titel": "Vier Männer nach Drogendeals am Hans-Böckler-Platz festgenommen",
+     "unterzeile": "Zivilfahnder beobachteten die Verkäufe",
+     "text": "Am 13. November haben Zivilfahnder am Hans-Böckler-Platz in der Altstadt vier Männer festgenommen. Sie stehen im Verdacht, mit Drogen zu handeln, die Beamten hatten die Verkäufe vorher beobachtet. Die Polizei meldete das am 18. November.",
+     "quellen": [
+      {
+       "name": "Presseportal: Drogenhandel Altstadt",
+       "url": "https://www.presseportal.de/blaulicht/pm/11562/6393346"
+      }
+     ]
+    },
+    {
+     "titel": "14-Jähriger flüchtet im gestohlenen Mercedes vor der Polizei",
+     "unterzeile": "Verfolgungsfahrt endete in Essen-Schönebeck",
+     "text": "Am 7. November ist ein 14-Jähriger in einem gestohlenen Mercedes vor der Polizei geflohen. Die Verfolgung begann in Mülheim und endete mit einem Unfall an einer Kreuzung in Essen-Schönebeck. So steht es in der gemeinsamen Meldung der Polizei Essen und Mülheim vom 9. November.",
+     "quellen": [
+      {
+       "name": "Presseportal: Verfolgungsfahrt",
+       "url": "https://www.presseportal.de/blaulicht/pm/11562/6387107"
+      }
+     ]
+    },
+    {
+     "titel": "BMW kommt von der Straße ab: Vier junge Männer verletzt",
+     "unterzeile": "Unfall in Heißen, Fahrer offenbar zu schnell",
+     "text": "Am 11. November ist in Mülheim-Heißen ein BMW von der Straße abgekommen und in einem Bach gelandet. Vier junge Männer wurden verletzt, einige davon schwer. Nach Angaben der Polizei war der Fahrer offenbar zu schnell unterwegs.",
+     "quellen": [
+      {
+       "name": "Presseportal: BMW in Heißen",
+       "url": "https://www.presseportal.de/blaulicht/pm/11562/6389899"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Kurz gemeldet",
+    "punkte": [
+     "6. November: 27-jähriger Fußgänger in Styrum von einem BMW-Fahrer schwer verletzt, Zeugen gesucht",
+     "9. November: 80-jähriger Radfahrer stürzt an der Gracht in Menden-Holthausen schwer, Ursache unklar",
+     "16./18. November: Falsches Bank-Schreiben, Mülheimer verliert sechsstelligen Betrag, die Polizei warnt"
+    ],
+    "quellen": [
+     {
+      "name": "Presseportal Polizei Essen/Mülheim",
+      "url": "https://www.presseportal.de/blaulicht/nr/11562"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Mülheim & Ruhrgebiet",
+   "artikel": [
+    {
+     "titel": "Adventsmarkt in der Altstadt startet am Freitag",
+     "unterzeile": "27. November bis 13. Dezember, Eintritt frei",
+     "text": "Der Mülheimer Adventsmarkt in der Altstadt geht am Freitag, 27. November, los und läuft bis zum 13. Dezember. Geöffnet ist Dienstag bis Donnerstag 16 bis 20 Uhr, Freitag 16 bis 21 Uhr, Samstag 14 bis 21 Uhr und Sonntag 14 bis 20 Uhr (am 13. Dezember bis 19 Uhr). Montags ist zu. Der Eintritt ist frei.",
+     "quellen": [
+      {
+       "name": "Stadt Mülheim: Adventsmarkt Altstadt",
+       "url": "https://www1.muelheim-ruhr.de/veranstaltungen/adventsmarkt_in_der_muelheimer_altstadt_am_03.12.2026/472640"
+      },
+      {
+       "name": "Mülheimer Weihnachtsmarkt",
+       "url": "https://adventsmarkt-muelheim.de/"
+      }
+     ]
+    },
+    {
+     "titel": "Ringlokschuppen: Kinder-Weihnachtsstück und zwei Comedy-Abende",
+     "unterzeile": "Programm der nächsten Tage",
+     "text": "Im Ringlokschuppen steht am Sonntag, 29. November, um 15:30 Uhr das weihnachtliche Kinderstück „Armer Pettersson“ auf dem Programm. Am Freitag, 4. Dezember, um 20 Uhr kommt Jochen Malmsheimer, am Samstag, 5. Dezember, um 20 Uhr Simon Stäblein mit „Absolute Frechheit“. Angaben laut Programmübersicht eines Ticketportals, check vor dem Besuch die Termine beim Veranstalter.",
+     "quellen": [
+      {
+       "name": "regioactive: Ringlokschuppen",
+       "url": "https://www.regioactive.de/location/muelheim-an-der-ruhr/ringlokschuppen-yXDsBjM3K"
+      },
+      {
+       "name": "musik-dresden.de: Ringlokschuppen",
+       "url": "https://www.musik-dresden.de/muelheim-an-der-ruhr/ringlokschuppen/"
+      }
+     ]
+    },
+    {
+     "titel": "Weihnachtsmärkte im Revier: Wer wann geöffnet hat",
+     "unterzeile": "Duisburg, Oberhausen, Essen und Steele",
+     "text": "Duisburg hat seinen Weihnachtsmarkt vom 12. November bis 30. Dezember, der Centro-Markt in Oberhausen läuft vom 13. November bis 23. Dezember. In Essen-Steele läuft der 50. Steeler Weihnachtsmarkt sogar vom 30. Oktober bis 3. Januar. Auf der Essener Margarethenhöhe ist der Markt am 29. November. Die Öffnungszeiten ändern sich teils, schau vor dem Losfahren bei den Veranstaltern nach.",
+     "quellen": [
+      {
+       "name": "Ruhrnachrichten: Weihnachtsmärkte NRW 2026",
+       "url": "https://www.ruhrnachrichten.de/regionales/weihnachtsmaerkte-nrw-2026-termine-bochum-dortmund-herne-koeln-dom-schloss-solingen-wochenende-w1098331-2001872191/"
+      },
+      {
+       "name": "Makerbude: Weihnachtsmärkte Ruhrgebiet",
+       "url": "https://makerbude.com/weihnachtsmarkt/ruhrgebiet"
+      }
+     ]
+    },
+    {
+     "titel": "Ruhr-Sieg-Strecke: Elf große Sperrungen in diesem Jahr",
+     "unterzeile": "Bauarbeiten bis zum Fahrplanwechsel",
+     "text": "Wenn du Richtung Südwestfalen fährst: Auf der Ruhr-Sieg-Strecke werden 2026 bis zum Fahrplanwechsel im Dezember Gleise, Brücken, Tunnel und Oberleitungen erneuert. Dabei gibt es laut Bericht elf umfangreiche Sperrungen. Der neue Fernverkehrsfahrplan gilt ab dem 13. Dezember.",
+     "quellen": [
+      {
+       "name": "LOK Magazin: Streckensperrungen 2026",
+       "url": "https://eisenbahn.de/lok-magazin/umfangreiche-streckensperrungen-2026-schwerpunkte-auf-ruhr-sieg-strecke-und-tunnelbau-im-sauerland_14370"
+      },
+      {
+       "name": "netz-trends: Bahn-Fahrplan ab 13. Dezember",
+       "url": "https://www.netz-trends.de/bahn-fahrplan-baufahrplaene-dezember-2026/"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Termine der Woche",
+    "punkte": [
+     "Fr 27.11.: Start Adventsmarkt Altstadt Mülheim (16 bis 21 Uhr)",
+     "So 29.11., 15:30 Uhr: „Armer Pettersson“, Ringlokschuppen",
+     "So 29.11.: Weihnachtsmarkt Essen-Margarethenhöhe",
+     "Fr 4.12., 20 Uhr: Jochen Malmsheimer, Ringlokschuppen"
+    ],
+    "quellen": [
+     {
+      "name": "Stadt Mülheim",
+      "url": "https://www1.muelheim-ruhr.de/veranstaltungen/adventsmarkt_in_der_muelheimer_altstadt_am_03.12.2026/472640"
+     },
+     {
+      "name": "regioactive",
+      "url": "https://www.regioactive.de/location/muelheim-an-der-ruhr/ringlokschuppen-yXDsBjM3K"
+     },
+     {
+      "name": "Makerbude",
+      "url": "https://makerbude.com/weihnachtsmarkt/ruhrgebiet"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Deutschland: Politik",
+   "artikel": [
+    {
+     "titel": "Haushaltswoche: Heute Generaldebatte, Freitag die Abstimmung",
+     "unterzeile": "560 Milliarden Euro, rund 210 Milliarden neue Schulden",
+     "text": "Der Bundestag beschließt am Freitag (27. November) den Haushalt 2027. Der Bund darf rund 560 Milliarden Euro ausgeben, ein Rekord und etwa 36 Milliarden mehr als 2026. Größter Posten ist der Arbeits- und Sozialetat mit mehr als einem Drittel, die Verteidigung soll auf knapp 140 Milliarden Euro steigen.\n\nHeute Vormittag steht die Generaldebatte beim Kanzleramtsetat an: Die AfD eröffnet, der Kanzler antwortet. Gleichzeitig tagen Haushalts- und Finanzausschuss in Sondersitzungen zum Begleitgesetz, das die Stromsteuersenkung regelt.\n\nAn der Verschuldung gibt es Kritik: Rechnet man Sondervermögen mit, kommen laut ZDF rund 210 Milliarden Euro neue Schulden zusammen. Die Regierung sagt, die Schuldenbremse werde eingehalten, weil Sondervermögen und bestimmte Verteidigungsschulden nicht zählen.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Haushaltswoche im Bundestag",
+       "url": "https://www.zdfheute.de/politik/deutschland/bundestagswoche-haushalt-2027-100.html"
+      },
+      {
+       "name": "WirtschaftsWoche: 210 Milliarden neue Schulden",
+       "url": "https://www.wiwo.de/politik/deutschland/haushaltwoche-im-bundestag-rund-210-milliarden-euro-neue-schulden-geplant/100272260.html"
+      }
+     ]
+    },
+    {
+     "titel": "Stromsteuer sinkt zum 1. Januar, aber vorerst nur für 2027 finanziert",
+     "unterzeile": "Koalitionsausschuss in der Nacht zum 18. November",
+     "text": "Union und SPD haben sich im Koalitionsausschuss darauf geeinigt, die Stromsteuer für alle von 2,05 auf 0,1 Cent je Kilowattstunde zu senken, das ist das EU-Minimum. Die Finanzierung steht aber nur für 2027, und zwar aus Reserven auf dem EEG-Konto. Ob es dauerhaft klappt, hängt von einer Gegenfinanzierung im Haushalt 2028 ab. Sollten die Reserven nicht reichen, will die Koalition Subventionskürzungen oder höhere Steuern auf Kapitalerträge oder Körperschaften prüfen. Laut ZDF kostet die Senkung den Bund rund 5,4 Milliarden Euro.",
+     "quellen": [
+      {
+       "name": "Cash.: Was der Koalitionsausschuss beschlossen hat",
+       "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/"
+      },
+      {
+       "name": "ZDFheute: Haushaltswoche im Bundestag",
+       "url": "https://www.zdfheute.de/politik/deutschland/bundestagswoche-haushalt-2027-100.html"
+      }
+     ]
+    },
+    {
+     "titel": "Spritpreisdeckel soll den Tankrabatt ablösen",
+     "unterzeile": "Kabinett soll am 2. Dezember entscheiden",
+     "text": "Der Tankrabatt läuft Ende Dezember aus. Ab 1. Januar soll ein Spritpreisdeckel kommen, zunächst für drei Monate. Wie er genau aussehen soll, ist nach dem Koalitionsausschuss noch offen. Das Kabinett soll am 2. Dezember entscheiden.",
+     "quellen": [
+      {
+       "name": "Cash.: Was der Koalitionsausschuss beschlossen hat",
+       "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/"
+      }
+     ]
+    },
+    {
+     "titel": "Rente mit 63 und kalte Progression bleiben liegen",
+     "unterzeile": "Nächster Anlauf im Dezember",
+     "text": "Bei der Rentenreform und der Frage, ob die Rente ohne Abschläge nach 45 Beitragsjahren eingeschränkt oder abgeschafft wird, gab es keine Einigung. Auch das Thema kalte Progression wurde vertagt. Ein Kabinettsbeschluss zur Rentenreform wird laut Bericht für den 9. oder 16. Dezember angepeilt.",
+     "quellen": [
+      {
+       "name": "Cash.: Was der Koalitionsausschuss beschlossen hat",
+       "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/"
+      }
+     ]
+    },
+    {
+     "titel": "Was im Haushalt nicht kommt: Zucker- und Plastiksteuer verschoben",
+     "unterzeile": "Wohngeld-Kürzung abgewendet",
+     "text": "Laut ZDF wurden Zuckersteuer und Plastikverpackungssteuer verschoben. Kürzungen beim Wohngeld und beim Kindersofortzuschlag sind abgewendet. Geplant sind außerdem höheres Kindergeld und ein höherer Grundfreibetrag, Reiche sollen dafür mehr zahlen.",
+     "quellen": [
+      {
+       "name": "ZDFheute: Haushaltswoche im Bundestag",
+       "url": "https://www.zdfheute.de/politik/deutschland/bundestagswoche-haushalt-2027-100.html"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Termine",
+    "punkte": [
+     "Mi 25.11.: Generaldebatte im Bundestag, Sondersitzungen der Ausschüsse zum Stromsteuer-Gesetz",
+     "Fr 27.11.: Schlussabstimmung Haushalt 2027",
+     "Mi 2.12.: Kabinett zum Spritpreisdeckel (geplant)",
+     "9. oder 16.12.: Kabinett zur Rentenreform (angepeilt)"
+    ],
+    "quellen": [
+     {
+      "name": "ZDFheute: Haushaltswoche im Bundestag",
+      "url": "https://www.zdfheute.de/politik/deutschland/bundestagswoche-haushalt-2027-100.html"
+     },
+     {
+      "name": "Cash.: Was der Koalitionsausschuss beschlossen hat",
+      "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Deutschland: Wirtschaft, Gesellschaft, Verbraucher",
+   "artikel": [
+    {
+     "titel": "ifo-Index steigt auf 90,6: Dreijahreshoch, aber die Industrie bremst",
+     "unterzeile": "Siebter Anstieg in Folge",
+     "text": "Das ifo-Geschäftsklima ist im November auf 90,6 Punkte gestiegen, nach 90,1 im Oktober. Es ist der siebte Anstieg in Folge und der höchste Wert seit Mai 2023. Getragen wird das von Dienstleistern und Handel.\n\nDie Industrie dagegen hat nach sechs Anstiegen einen Dämpfer bekommen, ihre Erwartungen sind wieder negativ. ifo-Präsident Clemens Fuest sagt, es fehle an Breite. Umfragechef Klaus Wohlrabe sieht Hinweise auf neues Wachstum im vierten Quartal.",
+     "quellen": [
+      {
+       "name": "ms-aktuell: ifo-Geschäftsklima",
+       "url": "https://ms-aktuell.de/welt/ifo-geschaeftsklima-24-11-2026/"
+      },
+      {
+       "name": "onvista: ifo-Geschäftsklima",
+       "url": "https://www.onvista.de/news/2026/11-24-ifo-geschaeftsklima-immer-besser-konjunktur-vor-jahresendspurt-0-20-26579945"
+      }
+     ]
+    },
+    {
+     "titel": "Strom und Gas 2027: Viele Versorger erhöhen, die Stromsteuer dämpft",
+     "unterzeile": "Du hast ein Sonderkündigungsrecht",
+     "text": "Zum 1. Januar erhöhen viele Versorger die Preise: EnBW hebt die Grundversorgung bei Strom um 3,3 Prozent an. Bei Gas haben laut Bericht 82 Grundversorger Erhöhungen im Schnitt von 14 Prozent angekündigt. Die Senkung der Stromsteuer von 2,05 auf 0,1 Cent dämpft das etwas: 1,95 Cent je kWh, etwa 2,32 Cent mit Umsatzsteuer. Bei einer Preiserhöhung hast du laut Verbraucherzentrale ein Sonderkündigungsrecht, das bis zum Tag des Inkrafttretens gilt.",
+     "quellen": [
+      {
+       "name": "Berliner Zeitung: Strompreis sinkt 2027",
+       "url": "https://www.berliner-zeitung.de/article/strompreis-sinkt-2027-so-viel-geld-sparen-sie-durch-die-neue-stromsteuer-senkung-wirklich-10609655"
+      },
+      {
+       "name": "netz-trends: EnBW erhöht Grundversorgung",
+       "url": "https://www.netz-trends.de/strompreis-2027-enbws-grundversorgung-steigt-um-3-3-prozent-gas-um-8-4-prozent/"
+      },
+      {
+       "name": "ms-aktuell: Strom- und Gaspreise 2027",
+       "url": "https://ms-aktuell.de/welt/strom-gaspreise-2027-17-11-2026/"
+      }
+     ]
+    },
+    {
+     "titel": "Arbeitsmarkt: 2,955 Millionen Arbeitslose im Oktober",
+     "unterzeile": "Herbstbelebung bleibt verhalten",
+     "text": "Im Oktober waren 2,955 Millionen Menschen arbeitslos gemeldet, 40.000 weniger als im September, aber 44.000 mehr als vor einem Jahr. Die Quote lag bei 6,3 Prozent. Saisonbereinigt stieg die Zahl um 4.000. BA-Chefin Andrea Nahles nannte den Rückgang vergleichsweise schwach. Die November-Zahlen kommen Ende des Monats.",
+     "quellen": [
+      {
+       "name": "statistiken-aktuell.de: Arbeitslosigkeit",
+       "url": "https://statistiken-aktuell.de/arbeitslosigkeit-deutschland/"
+      }
+     ]
+    },
+    {
+     "titel": "Black Friday: Verbraucherschützer warnen vor Fake-Shops und Mondpreisen",
+     "unterzeile": "Am Freitag geht's los",
+     "text": "Zum Black Friday am 27. November warnen Verbraucherzentralen vor aufgeblähten Rabatten und Fake-Shops. Viele „Rabatte“ beziehen sich auf die unverbindliche Preisempfehlung der Hersteller, die kaum ein Händler wirklich verlangt. Vergleich also den echten Marktpreis, bevor du zuschlägst. Der Handelsverband HDE erwartet rund 6,2 Milliarden Euro Umsatz zu Black Friday und Cyber Monday.",
+     "quellen": [
+      {
+       "name": "digital-magazin.de: Fake-Shops",
+       "url": "https://digital-magazin.de/rabatte-black-week-verbraucherschuetzer-betrugsmaschen/"
+      },
+      {
+       "name": "HDE: Prognose",
+       "url": "https://einzelhandel.de/presse/aktuellemeldungen/15435-black-friday-und-cyber-monday-hde-rechnet-zu-aktionstagen-mit-umsatz-von-6-2-milliarden-euro"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Zahlen",
+    "punkte": [
+     "ifo-Index November: 90,6 (Oktober: 90,1)",
+     "Arbeitslose Oktober: 2,955 Mio., Quote 6,3 %",
+     "Stromsteuer ab 1.1.2027: 0,1 ct/kWh",
+     "Black Friday: 27.11., Cyber Monday: 30.11."
+    ],
+    "quellen": [
+     {
+      "name": "ms-aktuell",
+      "url": "https://ms-aktuell.de/welt/ifo-geschaeftsklima-24-11-2026/"
+     },
+     {
+      "name": "statistiken-aktuell.de",
+      "url": "https://statistiken-aktuell.de/arbeitslosigkeit-deutschland/"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Altenpflege: Politik, Recht, Pflegeversicherung, Gesetze",
+   "artikel": [
+    {
+     "titel": "Heute Anhörung zum Pflegeneuordnungsgesetz",
+     "unterzeile": "Gesundheitsausschuss, 15 bis 17:15 Uhr",
+     "text": "Heute, am Mittwoch 25. November, hört der Gesundheitsausschuss des Bundestags Sachverständige zum Pflegeneuordnungsgesetz (PNOG) an, Drucksache 21/8869. Die Anhörung läuft von 15 bis 17:15 Uhr im Marie-Elisabeth-Lüders-Haus in Berlin.\n\nNeben dem Regierungsentwurf stehen acht Oppositionsanträge auf der Tagesordnung: vier von der Linken, zwei von der AfD und zwei von den Grünen. Die Linke will etwa Verhinderungspflege und Entlastungsbetrag sichern. Die Grünen zielen auf Krisenfestigkeit der Pflege und eine tragfähige Pflegeversicherung, die AfD auf Strukturreformen und die Bekämpfung von Betrug.\n\nDie Regelungen sollen ab Januar 2027 gelten. Das Ministerium rechnet 2027 mit Einsparungen von rund 11,25 Milliarden Euro, ohne Gegensteuern drohte der Pflegeversicherung ein Defizit von 7,6 Milliarden Euro.",
+     "quellen": [
+      {
+       "name": "Altenheim: Bundestag hört Sachverständige an",
+       "url": "https://www.altenheim.net/pflegeneuordnungsgesetz-bundestag-hoert-am-25-november-sachverstaendige-an/"
+      },
+      {
+       "name": "Bundestag: Anhörung PNOG",
+       "url": "https://www.bundestag.de/ausschuesse/gesundheit/anhoerungen/1232420-1232420"
+      },
+      {
+       "name": "AOK: Gesetz zur Neuordnung der Pflegeversicherung",
+       "url": "https://www.aok.de/pp/gesetz/pnog/"
+      }
+     ]
+    },
+    {
+     "titel": "Entlastungsbetrag: Pflegegrad 1 soll bis zu 131 Euro im Monat verlieren",
+     "unterzeile": "Neues Sozialraumbudget ab Pflegegrad 2",
+     "text": "Nach dem Entwurf soll der Entlastungsbetrag für Pflegegrad 1 von bis zu 131 Euro im Monat wegfallen. Ab Pflegegrad 2 soll an seine Stelle ein Sozialraumbudget von bis zu 175 Euro treten. Das soll die Pflegeversicherung 2027 um rund 800 Millionen Euro entlasten. Caritas und Deutscher Pflegerat warnen vor Leistungskürzungen, Betroffene könnten Angebote wie Tagespflege oder Kurzzeitpflege nicht mehr im selben Umfang nutzen. Berichte, dass einzelne Kürzungen entschärft werden, stammen bisher aus einer Einzelquelle.",
+     "quellen": [
+      {
+       "name": "netz-trends: Pflegegrad 1",
+       "url": "https://www.netz-trends.de/pflegereform-2027-pflegegrad-1-soll-bis-zu-131-euro-im-monat-verlieren/"
+      },
+      {
+       "name": "Bibliomed Pflege: Kritik an PNOG",
+       "url": "https://www.bibliomed-pflege.de/news/pflegereform-bundestag-kritik-pnog-proteste"
+      }
+     ]
+    },
+    {
+     "titel": "Kritik von allen Seiten: AOK und Paritätischer",
+     "unterzeile": "Lasten einseitig verteilt?",
+     "text": "Der AOK-Bundesverband bemängelt, dass die finanziellen Lasten der Reform einseitig verteilt sind. Der Paritätische sieht den überparteilichen Konsens in der Pflege gefährdet. Sozialverbände wie VdK und SoVD warnen vor Leistungskürzungen, besonders bei der Rentenversicherung pflegender Angehöriger. Gesundheitsministerin Warken verteidigt die Reform laut Fachpresse gegen Kritik aus allen Lagern.",
+     "quellen": [
+      {
+       "name": "AOK: PNOG",
+       "url": "https://www.aok.de/pp/gesetz/pnog/"
+      },
+      {
+       "name": "Altenheim: Warken verteidigt Pflegereform",
+       "url": "https://www.altenheim.net/warken-verteidigt-pflegereform-gegen-breite-kritik-aus-allen-lagern/"
+      }
+     ]
+    },
+    {
+     "titel": "Pflegeheim: Eigenanteil im ersten Jahr bei 3.364 Euro",
+     "unterzeile": "vdek-Auswertung zum 1. Juli 2026",
+     "text": "Wer neu ins Pflegeheim zieht, zahlt im ersten Jahr im bundesweiten Schnitt 3.364 Euro im Monat selbst, nach 3.108 Euro im Vorjahr. Am günstigsten ist Sachsen-Anhalt mit 2.891 Euro, am teuersten Bremen mit 3.761 Euro. Der vdek fordert, dass die Länder Investitions- und Ausbildungskosten übernehmen. Das würde Bewohner um rund 640 Euro und weitere 124 Euro im Monat entlasten.",
+     "quellen": [
+      {
+       "name": "vdek: Eigenanteile Juli 2026",
+       "url": "https://www.vdek.com/presse/pressemitteilungen/2026/stationaere-pflege-eigenanteile-juli-2026.html"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Kurz gemeldet",
+    "punkte": [
+     "BSG-Urteil vom 1. Oktober (B 3 P 3/25 R) zum Leistungszuschlag im Pflegeheim: Frühere Jahre ohne Pflegesatzvereinbarung können mitzählen (nur eine Quelle, bitte im Original prüfen)",
+     "Bundesrat hat den Entwurf am 20. November im ersten Durchgang behandelt"
+    ],
+    "quellen": [
+     {
+      "name": "finanz.de: Urteil zur Pflege",
+      "url": "https://www.finanz.de/news/urteil-pflege-hoeherer-zuschlag-10896/"
+     },
+     {
+      "name": "AOK: PNOG",
+      "url": "https://www.aok.de/pp/gesetz/pnog/"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Altenpflege: Praxis, Studien, Fachwissen, Arbeitsbedingungen",
+   "artikel": [
+    {
+     "titel": "Personalbemessung im Test: Mehr Qualität, höhere Zufriedenheit",
+     "unterzeile": "GKV-Modellprogramm mit zehn Einrichtungen",
+     "text": "Das Modellprogramm zur neuen Personalbemessung in der vollstationären Pflege ist im Januar 2026 zu Ende gegangen. Laut GKV-Spitzenverband verbesserte der neue Personalmix die Versorgung und die Zufriedenheit der Beschäftigten, vor allem durch mehr qualifizierte Assistenzkräfte in Pflege und Betreuung.\n\nDer Deutsche Pflegerat sieht das differenzierter: Das Ziel, die Stellen auf 95 Prozent des errechneten Bedarfs aufzustocken, wurde nicht erreicht, weil die zusätzlichen Stellen nicht schnell genug besetzt werden konnten.",
+     "quellen": [
+      {
+       "name": "GKV-Spitzenverband: Mehr Qualität durch neuen Personalmix",
+       "url": "https://www.gkv-spitzenverband.de/gkv_spitzenverband/presse/pressemitteilungen_und_statements/pressemitteilung_2193408.jsp"
+      },
+      {
+       "name": "AOK: Modellprogramm abgeschlossen",
+       "url": "https://www.aok.de/gp/news-allgemein/newsdetail/modellprogramm-zur-personalbemessung-in-der-vollstationaeren-pflege-abgeschlossen"
+      },
+      {
+       "name": "Deutscher Pflegerat: Einordnung PeBeM",
+       "url": "https://deutscher-pflegerat.de/download/2026-04-20_dpr_pp_einordnung_pebem.pdf"
+      }
+     ]
+    },
+    {
+     "titel": "Rotes-Kreuz-Pilot: Personal nach Pflegegraden statt starrer Fachkraftquote",
+     "unterzeile": "Zehn Einrichtungen testen",
+     "text": "In einem Pilot mit zehn Einrichtungen wird die starre Fachkraftquote von 50 Prozent durch eine Personalplanung nach den Pflegegraden der Bewohner ersetzt. Pflegefachkräfte sollen dadurch Aufgaben gezielter abgeben können.",
+     "quellen": [
+      {
+       "name": "Essential Projects: Neue Ansätze zur Personalbemessung",
+       "url": "https://essentialprojects.net/neue-ansaetze-zur-personalbemessung-im-pilotprojekt/"
+      }
+     ]
+    },
+    {
+     "titel": "Hintergrund: 300.000 zusätzliche Pflegekräfte wären möglich",
+     "unterzeile": "Hans-Böckler-Studie zu Wiedereinstieg und Teilzeit (2022)",
+     "text": "Eine ältere, aber oft zitierte Studie der Hans-Böckler-Stiftung kommt zu dem Ergebnis, dass mindestens 300.000 zusätzliche Pflegekräfte verfügbar wären, wenn Beschäftigte wieder einsteigen oder ihre Arbeitszeit aufstocken. Voraussetzung sind deutlich bessere Arbeitsbedingungen. Die Studie ist von 2022, die Zahlen sind also nicht tagesaktuell.",
+     "quellen": [
+      {
+       "name": "Hans-Böckler-Stiftung",
+       "url": "https://www.boeckler.de/de/pressemitteilungen-2675-neue-studie-mindestens-300-000-zusatzliche-pflegekrafte-40798.htm"
+      }
+     ]
+    },
+    {
+     "titel": "Hintergrund: Studie sah schon 2020 großen Bedarf an Assistenzkräften",
+     "unterzeile": "Bremer Forscher",
+     "text": "Forscher aus Bremen schätzten 2020, dass in Altenheimen rund 120.000 zusätzliche Pflegekräfte nötig wären, vor allem Assistenzkräfte. Das Thema hat sich also durch die aktuelle Personalbemessungs-Debatte gezogen. Auch hier gilt: Die Zahlen stammen aus dem Jahr 2020.",
+     "quellen": [
+      {
+       "name": "NWZonline: Studie von Bremer Forschern",
+       "url": "https://www.nwzonline.de/politik/berlin-bremen-studie-von-bremer-forschern-in-altenheimen-fehlen-120000-pflegekraefte_a_50,7,1816619848.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Gaming: Steam & PC",
+   "artikel": [
+    {
+     "titel": "Steam Machine: 512-GB-Modell ohne Warteliste, Preiserhöhung droht",
+     "unterzeile": "Valve meldet sich im Januar wieder",
+     "text": "Valve hat alle Reservierungen für das 512-GB-Modell der Steam Machine abgearbeitet, es ist jetzt direkt kaufbar, laut Bericht für 1.049 US-Dollar, solange der Vorrat reicht. Die Warteliste fürs 2-TB-Modell ist geschlossen, wer noch drauf stand, hat keine Liefergarantie.\n\nGrund sind steigende Speicher- und RAM-Preise: Valve schrieb in einem Blogpost, man wisse nicht, wie viele Geräte man zu welchem Preis bauen kann. Eine Preiserhöhung ist möglich, bestätigt ist keine. Neue Infos soll es im Januar 2027 geben.",
+     "quellen": [
+      {
+       "name": "Steam Deck HQ",
+       "url": "https://steamdeckhq.com/news/steam-machine-512gb-direct-purchase/"
+      },
+      {
+       "name": "Tom's Guide",
+       "url": "https://www.tomsguide.com/gaming/valves-steam-machine-is-finally-available-for-immediate-purchase-without-a-waitlist-but-a-price-hike-is-coming-in-2027"
+      },
+      {
+       "name": "Mezha: Valve warnt vor höheren Preisen",
+       "url": "https://mezha.net/eng/news/mezha-c014b32dbc57e19cde51f0a3_valve_says_supply/"
+      }
+     ]
+    },
+    {
+     "titel": "Steam Deck: Kein neues Modell, OLED zeitweise ausverkauft",
+     "unterzeile": "Auch hier RAM-Krise",
+     "text": "Ein neues Steam Deck gibt es nicht, das OLED-Modell ist weiter das neueste im Verkauf. Valve warnt, dass es wegen der RAM-Preiskrise zeitweise ausverkauft sein kann. Neu bei Steam sind außerdem FPS-Charts für Deck-getestete Spiele, die zeigen, wie gut Titel auf dem Handheld laufen.",
+     "quellen": [
+      {
+       "name": "Steam Deck HQ",
+       "url": "https://steamdeckhq.com/news/steam-machine-512gb-direct-purchase/"
+      },
+      {
+       "name": "Shattered: Steam FPS Charts",
+       "url": "https://shattered.io/steam-fps-charts-deck-average-framerate-histograms-review-delays-12-days/"
+      }
+     ]
+    },
+    {
+     "titel": "Kein Steam-Black-Friday im großen Stil",
+     "unterzeile": "Quellen widersprechen sich im Detail",
+     "text": "Mehrere Seiten melden, dass Valve in diesem Jahr keinen Store-weiten Black-Friday-Sale macht. Der Herbstsale lief vom 1. bis 8. Oktober, der nächste große Sale ist der Winter Sale ab 17. Dezember. Eine Quelle spricht von Valve-datierten Angeboten vom 26. bis 30. November, eine andere von Rabatten, die einzelne Publisher selbst setzen, etwa Capcom bis 87 Prozent und Square Enix bis 85 Prozent. Schau im Store nach, was wirklich läuft.",
+     "quellen": [
+      {
+       "name": "ForgePC",
+       "url": "https://forgepc.co.uk/news/no-steam-black-friday-sale-2026"
+      },
+      {
+       "name": "Gaming Route",
+       "url": "https://gamingroute.com/steam-black-friday-sale/"
+      },
+      {
+       "name": "eGamersWorld",
+       "url": "https://egamersworld.com/blog/when-do-black-friday-2026-gaming-sales-start-in-st-GFNl_PaAMt"
+      }
+     ]
+    },
+    {
+     "titel": "Steam Hardware Survey: Linux bei 3,95 Prozent",
+     "unterzeile": "Daten vom Oktober",
+     "text": "Laut Oktober-Umfrage stieg der Linux-Anteil um 0,9 Punkte auf 3,95 Prozent, Windows 11 liegt bei 72,51 Prozent. Die RTX 3060 ist mit 3,62 Prozent wieder die häufigste Grafikkarte, 16 GB RAM bleiben die häufigste Ausstattung. Die Steam Frame kommt auf 4,13 Prozent der VR-Headsets, bei einer kleinen Stichprobe. Die Umfrage schwankt von Monat zu Monat stark.",
+     "quellen": [
+      {
+       "name": "TechPowerUp",
+       "url": "https://www.techpowerup.com/354406/steam-hardware-survey-old-leaders-return-as-16-gb-ram-and-rtx-3060-are-back-on-top"
+      },
+      {
+       "name": "Hardware Busters",
+       "url": "https://hwbusters.com/news/steam-hardware-survey-october-undoes-september-putting-16gb-and-the-rtx-3060-back-on-top/"
+      }
+     ]
+    },
+    {
+     "titel": "PC-Releases der Woche",
+     "unterzeile": "Stellaris-DLC und kleine Indies",
+     "text": "Am 23. November kam das Stellaris-DLC „Willpower“. Am 24. November folgt das Inkrementalspiel SHRED A BILLION, am 25. November die Erweiterung „Poolside Paradise“ für Hotel Architect. Später in der Woche: 10 Million Pixels (27.11.) und Orion Blue (29.11.). Termine können sich verschieben.",
+     "quellen": [
+      {
+       "name": "DLCompare: Releases KW 48",
+       "url": "https://www.dlcompare.com/gaming-news/this-week-s-video-game-releases-november-2026-week-48"
+      },
+      {
+       "name": "GameGrin: Neue Steam-Spiele der Woche",
+       "url": "https://www.gamegrin.com/news/top-31-new-steam-games-this-week-23rd-of-november-to-the-29th-of-november-2026"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Nintendo Switch 2 & Konsolen",
+   "artikel": [
+    {
+     "titel": "GTA 6: Rekordstart auf PS5 und Xbox, PC weiter ohne Termin",
+     "unterzeile": "Zahlen noch nicht einheitlich",
+     "text": "GTA 6 ist am 19. November für PS5 und Xbox Series X/S erschienen. Berichten zufolge verkaufte Take-Two bis zum Start 32,5 Millionen Exemplare, ein Rekord. Dazu gibt es Schätzungen von rund 24,6 Millionen Kopien am ersten Tag (Sensor Tower, nicht offiziell). Ob die Zahl den Vorverkauf oder den Starttag meint, ist in den Quellen nicht einheitlich.\n\nEine PC-Version hat Rockstar bisher nicht angekündigt, Termine dazu sind Gerüchte.",
+     "quellen": [
+      {
+       "name": "Push Square",
+       "url": "https://www.pushsquare.com/news/2026/11/gta-6-sells-a-record-breaking-32-5-million-copies"
+      },
+      {
+       "name": "Notebookcheck",
+       "url": "https://www.notebookcheck.net/GTA-6-sold-nearly-25-million-copies-on-day-one-crushing-every-launch-record-in-sight.1455216.0.html"
+      }
+     ]
+    },
+    {
+     "titel": "Switch 2: 26,35 Millionen Einheiten bis September",
+     "unterzeile": "Laut Bericht auf Basis von Nintendo-Angaben",
+     "text": "Ein Bericht nennt 26,35 Millionen verkaufte Switch-2-Konsolen bis September 2026 und nennt als Quelle Nintendo. Zum Vergleich: Bis Ende Dezember 2025 hatte Nintendo 17,37 Millionen ausgeliefert. Die Zahl stammt aus einer einzelnen Quelle, prüf sie gegen Nintendos Quartalsbericht.",
+     "quellen": [
+      {
+       "name": "Shattered: Konsolen-Verkaufszahlen 2026",
+       "url": "https://shattered.io/de/konsolen-verkaufszahlen-2026-ps5-switch-2/"
+      },
+      {
+       "name": "Notebookcheck: 17,37 Mio.",
+       "url": "https://www.notebookcheck.com/Nintendo-Switch-2-verkauft-sich-17-37-Millionen-Mal-in-sieben-Monaten-Nintendo-bestaetigt-beliebteste-Spiele.1218883.0.html"
+      }
+     ]
+    },
+    {
+     "titel": "Dezember auf der Switch 2: Von Hela bis Mouse Work",
+     "unterzeile": "Release-Listen im Überblick",
+     "text": "Laut Release-Listen erscheinen Hela am 1. Dezember, Eriksholm am 3. Dezember, Monster Hunter Wilds am 4. Dezember, Coral Island und Mouse Work am 7. Dezember. Professor Layton und die Neue Welt des Dampfes folgt am 10. Dezember für Switch. Die Quellen weichen teils um einen Tag ab, also vor dem Kauf nachschauen.",
+     "quellen": [
+      {
+       "name": "GamePro: Switch-2-Spiele 2026",
+       "url": "https://www.gamepro.de/artikel/nintendo-switch-2-spiele-2026,3434629.html"
+      },
+      {
+       "name": "PC Games: Switch-2-Release-Kalender",
+       "url": "https://www.pcgames.de/Nintendo-Switch-2-Konsolen-280469/Specials/Alle-kommenden-Spiele-Releases-2025-und-2026-im-Ueberblick-1482822/"
+      }
+     ]
+    },
+    {
+     "titel": "Mouse Work: Joy-Con als Maus",
+     "unterzeile": "Erscheint am 7. Dezember",
+     "text": "Mouse Work ist ein Switch-2-Spiel, das die Joy-Con als Maus nutzt. Es erscheint laut Wikipedia am 7. Dezember 2026 bei PM Studios, eine physische Version soll 2027 folgen.",
+     "quellen": [
+      {
+       "name": "Wikipedia: Mouse Work",
+       "url": "https://en.wikipedia.org/wiki/Mouse_Work"
+      },
+      {
+       "name": "Nintendo Life: Switch 2 Releases",
+       "url": "https://www.nintendolife.com/guides/nintendo-switch-2-all-confirmed-games-and-release-dates"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Kommende Switch-2-Termine",
+    "punkte": [
+     "1.12.: Hela",
+     "3.12.: Eriksholm",
+     "4.12.: Monster Hunter Wilds",
+     "7.12.: Mouse Work, Coral Island",
+     "10.12.: Professor Layton und die Neue Welt des Dampfes (Switch)"
+    ],
+    "quellen": [
+     {
+      "name": "GamePro",
+      "url": "https://www.gamepro.de/artikel/nintendo-switch-2-spiele-2026,3434629.html"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Tech & Netz",
+   "artikel": [
+    {
+     "titel": "Patchday November: Microsoft stopft 1.260 Lücken",
+     "unterzeile": "Outlook-Spoofing-Lücke wird bereits ausgenutzt",
+     "text": "Microsoft hat am Patchday 11. November laut All About Security 1.260 Sicherheitslücken geschlossen. Eine Spoofing-Lücke in Outlook wird bereits aktiv ausgenutzt, also zeitnah Updates einspielen.",
+     "quellen": [
+      {
+       "name": "All About Security: Patch Tuesday November 2026",
+       "url": "https://www.all-about-security.de/patch-tuesday-november-2026-microsoft-schliesst-1-260-sicherheitsluecken/"
+      }
+     ]
+    },
+    {
+     "titel": "PHP, Adobe Connect, SAP: Weitere Patches",
+     "unterzeile": "Admin-Lektüre",
+     "text": "PHP hat am 19. November 17 Lücken geschlossen, fünf davon erlauben Schadcode. Bei Adobe Connect schafft ein Upgrade auf Version 13.1 Abhilfe bei kritischen Lücken. SAP meldet neun kritische Lücken, die höchste mit CVSS 10.0. Und Mandiant berichtet von aktiver Ausnutzung einer vCenter-Lücke.",
+     "quellen": [
+      {
+       "name": "heise security: Alerts",
+       "url": "https://www.heise.de/security/Alerts"
+      },
+      {
+       "name": "heise: SAP Patch Day",
+       "url": "https://www.heise.de/en/news/SAP-Patch-Day-fixes-code-injection-vulnerabilities-11519457.html"
+      }
+     ]
+    },
+    {
+     "titel": "Android: Unsichtbare SMS können Telefonie lahmlegen",
+     "unterzeile": "CVE-2026-58882",
+     "text": "Eine Lücke (CVE-2026-58882) erlaubt unsichtbare Textnachrichten, die den Mobilfunk-Telefoniedienst zum Absturz bringen. Der Fix betrifft Android 14 bis 17, wann er bei dir ankommt, hängt vom Hersteller ab.",
+     "quellen": [
+      {
+       "name": "TechRepublic: This Week in Tech",
+       "url": "https://www.techrepublic.com/article/this-week-in-tech-ai-expands-everywhere-as-security-threats-and-infrastructure-pressures-mount/"
+      },
+      {
+       "name": "heise: Android Patchday",
+       "url": "https://www.heise.de/en/news/Android-patch-day-Critical-flaws-enable-attacks-without-user-interaction-11509041.html"
+      }
+     ]
+    },
+    {
+     "titel": "Cloudflare öffnet Browser-Engine „Kitesurf“ für KI-Agenten",
+     "unterzeile": "Open Source unter Apache 2.0",
+     "text": "Cloudflare hat Kitesurf, eine Browser-Engine für KI-Agenten, auf GitHub unter der Apache-2.0-Lizenz veröffentlicht. Cloudflare-Chef Matthew Prince warnte zugleich, dass von KI gefundene Softwarefehler zu rund zwei Jahren Ausfällen führen könnten.",
+     "quellen": [
+      {
+       "name": "TechRepublic: This Week in Tech",
+       "url": "https://www.techrepublic.com/article/this-week-in-tech-ai-expands-everywhere-as-security-threats-and-infrastructure-pressures-mount/"
+      },
+      {
+       "name": "Crypto Briefing: Cloudflare CEO",
+       "url": "https://cryptobriefing.com/cloudflare-ceo-warns-ai-tech-outages/"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "zumSchluss": {
+  "titel": "Tipp des Tages: Update-Check in fünf Minuten",
+  "text": "Diese Woche gibt es viele Patches (Windows/Outlook, Android, PHP). Öffne heute einmal Windows Update und das Update-Menü deines Handys und installiere, was ansteht. Und wenn dein Stromversorger schreibt: Kündigungsfrist im Brief nachlesen und Vergleichsportal öffnen."
+ }
+}
