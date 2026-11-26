@@ -1,0 +1,665 @@
+{
+  "gruss": "Guten Morgen, Tim! Heute ist Donnerstag, der 26. November. Im Bundestag war gestern Generaldebatte zum Haushalt, und die Pflege-Anhörung hat viel Kritik gebracht. Morgen ist Black Friday, hier ist dein Überblick.",
+  "aufmacher": {
+    "rubrik": "Altenpflege",
+    "titel": "Pflegereform: Anhörung bringt breite Kritik von Verbänden",
+    "unterzeile": "Pflegerat, Kassen, Kommunen und Anbieter bemängeln Einschnitte und Zeitplan beim Pflegeneuordnungsgesetz",
+    "text": "Gestern hat der Gesundheitsausschuss des Bundestags Sachverständige zum Pflegeneuordnungsgesetz (PNOG) angehört. Das Echo war laut Bundestag breit und kritisch: Der Deutsche Pflegerat sagt, die strengeren Zugangsschwellen für die Pflegegrade 1 bis 3, das Aus für den Entlastungsbetrag bei Pflegegrad 1 und die ausgesetzte Leistungsanpassung 2028 lösten die Finanzprobleme nicht, sie verschöben die Last auf Pflegebedürftige, Angehörige und Einrichtungen.\n\nDer GKV-Spitzenverband nennt den Entwurf unausgewogen und rechnet für 2027 mit einem Defizit von rund 7,5 Milliarden Euro. Die Ersatzkassen (vdek) halten die kurzfristige Stabilisierung für richtig, sehen aber selbst mit dem Gesetz noch eine Lücke von etwa 1,35 Milliarden Euro. Mehrere Verbände, darunter BAGSO und Landkreistag, bemängeln außerdem, dass für die Umsetzung zum 1. Januar 2027 kaum Zeit bleibt.\n\nWie es weitergeht: Laut einem Fachbericht ist die Abstimmung für den 11. Dezember geplant. Die Details zu den einzelnen Kritikpunkten findest du auf Seite 6 dieser Ausgabe.",
+    "quellen": [
+      {
+        "name": "Bundestag: Breite Expertenkritik an Pflegeneuordnungsgesetz",
+        "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-pa-gesundheit-1233486"
+      },
+      {
+        "name": "vdek: PNOG im Gesundheitsausschuss",
+        "url": "https://www.vdek.com/presse/pressemitteilungen/2026/anhoerung-pnog-pflegeversicherung.html"
+      },
+      {
+        "name": "Ärzteverbund: Pflegereform 2027, Anhörung am 25. November, Entscheidung im Dezember",
+        "url": "https://aerzteverbund.de/pflegereform-2027-bundestag-erste-lesung/"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Mülheim an der Ruhr",
+      "artikel": [
+        {
+          "titel": "Bäckerei-Kasse geklaut: Zwei Männer auf Baustelle erwischt",
+          "unterzeile": "Polizei fasst mutmaßliche Diebe in der Altstadt",
+          "text": "In der Nacht zu Mittwoch (25. November, gegen 1:38 Uhr) hat der Sicherheitsdienst eines Einkaufszentrums am Hans-Böckler-Platz gemeldet, dass zwei Personen die Kasse einer Bäckerei gestohlen hatten. Die Polizei suchte los und fand zwei Männer auf einer Baustelle am Dickswall/Tourainer Ring. Als sie die Beamten sahen, rannten sie weg, wurden aber schnell geschnappt.\n\nAuf der Baustelle lagen mutmaßliches Diebesgut und die Bäckerei-Kasse. Einer der Männer (38) hatte außerdem ein Messer dabei. Beide, 38 und 48 Jahre alt, ohne festen Wohnsitz, sollten dem Haftrichter vorgeführt werden. Ihnen wird besonders schwerer Diebstahl vorgeworfen, dem 38-Jährigen zusätzlich ein Verstoß gegen das Waffengesetz.",
+          "quellen": [
+            {
+              "name": "Presseportal Polizei Essen/Mülheim",
+              "url": "https://www.presseportal.de/blaulicht/pm/11562/6397887"
+            }
+          ]
+        },
+        {
+          "titel": "Speldorf: Autofahrerin fährt Fußgängerin an und haut ab",
+          "unterzeile": "Zeugen gesucht",
+          "text": "Am Donnerstag, 19. November, gegen 17 Uhr wurde in Speldorf eine 21-jährige Fußgängerin an der Kreuzung Duisburger Straße / Karlsruher Straße von einem abbiegenden Auto berührt. Die Fahrerin fuhr weiter, ohne sich zu kümmern. Die junge Frau wurde leicht verletzt und kam ins Krankenhaus. Gesucht wird eine junge Frau in einem roten Auto. Hinweise nimmt das Verkehrskommissariat unter 0201/829-0 oder hinweise.essen@polizei.nrw.de entgegen. Die Polizei hat den Fall am 25. November veröffentlicht.",
+          "quellen": [
+            {
+              "name": "Presseportal Polizei Essen/Mülheim",
+              "url": "https://www.presseportal.de/blaulicht/pm/11562/6397859"
+            }
+          ]
+        },
+        {
+          "titel": "Heute: Ausbildungsmesse in der Stadthalle",
+          "unterzeile": "Eintritt frei, keine Anmeldung nötig",
+          "text": "Wenn du jemanden kennst, der eine Ausbildung oder ein duales Studium sucht: Heute, am 26. November, findet in der Stadthalle die Messe „#Ausbildung 2027“ statt. Eintritt ist frei, eine Anmeldung brauchst du nicht. Die Stadt Mülheim hat die Messe am Mittwoch angekündigt.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Pressemitteilungen",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen"
+            }
+          ]
+        },
+        {
+          "titel": "Neue Weihnachtsbeleuchtung: Acht Bäume machen den Anfang",
+          "unterzeile": "LED-Lichterketten in der Innenstadt",
+          "text": "In der Innenstadt haben acht Bäume neue LED-Lichterketten bekommen. Das ist laut Stadt die erste Maßnahme, mit der die Winter- und Weihnachtsbeleuchtung erneuert wird. Die Mitteilung kam am 25. November.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Erste Maßnahme umgesetzt",
+              "url": "https://cms.muelheim-ruhr.de/stadtraum/planen-und-bauen/stadtentwicklung/erste-massnahme-umgesetzt-neue-winter-und"
+            }
+          ]
+        },
+        {
+          "titel": "Autobahn-Baustellen: A3 bei Saarn bis Anfang Februar",
+          "unterzeile": "Dazu gab es eine nächtliche Sperre auf der A52",
+          "text": "Auf der A3 läuft seit dem 25. November eine längere Baustelle bei Mülheim-Linksruhr zwischen Stockweg und dem Autobahnkreuz Breitscheid. Sie soll laut Verkehrsmeldung bis zum 6. Februar 2027 dauern, plane also mehr Zeit ein. Auf der A52 zwischen Ruhrtalbrücke und Essen-Kettwig in Richtung Essen gab es von Mittwochabend 22 Uhr bis heute 5 Uhr eine einseitige Baustelle.",
+          "quellen": [
+            {
+              "name": "news.de: Dauerbaustelle A3 bei Linksruhr",
+              "url": "https://www.news.de/auto/860213503/verkehrsmeldung-nw-muelheim-an-der-ruhr-zur-verkehrsstoerung-wegen-baustelle-von-25-11-2026-bis-06-02-2027-einschraenkungen-im-verkehr-nordrhein-westfalen-staugefahr-in-linksruhr-auf-a3/1/"
+            },
+            {
+              "name": "news.de: Baustelle A52 bei Rechtsruhr-Süd",
+              "url": "https://www.news.de/auto/860208607/verkehrsmeldung-nw-muelheim-an-der-ruhr-zur-verkehrsstoerung-wegen-baustelle-von-25-11-2026-bis-26-11-2026-einschraenkungen-im-verkehr-nordrhein-westfalen-staugefahr-in-rechtsruhr-sued-auf-a52/1/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Friedhöfe: Die Wasserzapfstellen sollten laut Stadt voraussichtlich am 23. November für den Winter abgestellt werden, die Toiletten bleiben in Betrieb."
+        ],
+        "quellen": [
+          {
+            "name": "Stadt Mülheim: Pressemitteilungen",
+            "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim & Ruhrgebiet",
+      "artikel": [
+        {
+          "titel": "Märkte dieses Wochenende: Schiffsweihnacht, Altstadt und Kunstmuseum",
+          "unterzeile": "Wer wann wo öffnet",
+          "text": "Ab Freitag (27. November) ist in Mülheim einiges los. Die Mülheimer Schiffsweihnacht läuft am Ruhrufer und bei der Weißen Flotte von Freitag bis Sonntag (Fr 15 bis 21 Uhr, Sa 13 bis 21 Uhr, So 11 bis 20 Uhr). Der Adventsmarkt in der Altstadt läuft vom 27. November bis 13. Dezember und ist montags geschlossen.\n\nAm 28. und 29. November gibt es außerdem einen Adventsmarkt im Kunstmuseum (Sa 11 bis 18 Uhr, So 11 bis 17 Uhr). Der Mülheimer Weihnachtstreff vor dem Forum am Kurt-Schumacher-Platz hat schon seit Montag täglich von 11 bis 20 Uhr auf, bis zum 23. Dezember. Die Broicher Schlossweihnacht startet am 5. Dezember.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            }
+          ]
+        },
+        {
+          "titel": "Lokalrunde: Barhopping in Wallviertel und Altstadt",
+          "unterzeile": "Dritte und letzte Runde des Jahres startet am 3. Dezember",
+          "text": "Die Gastronomie im Wallviertel und in der Altstadt veranstaltet wieder die „Schön hier! Lokalrunde“, ein gemeinsames Barhopping-Event. Es ist die dritte und letzte Runde in diesem Jahr und startet am 3. Dezember. Das hat die Stadt am 25. November mitgeteilt.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Schön hier! Lokalrunde",
+              "url": "https://cms.muelheim-ruhr.de/stadtraum/planen-und-bauen/stadtentwicklung/schoen-hier-lokalrunde"
+            }
+          ]
+        },
+        {
+          "titel": "Mülheimer Feuerwehr hilft in Erkrath bei der Trinkwassernotlage",
+          "unterzeile": "Spezialkräfte im Einsatz",
+          "text": "Die Feuerwehr Mülheim hat die Stadt Erkrath bei einer Trinkwassernotlage mit Spezialkräften unterstützt. Das meldete die Feuerwehr am 15. November. Der Einsatz zeigt, wie sich die Wehren im Land gegenseitig aushelfen.",
+          "quellen": [
+            {
+              "name": "Presseportal Feuerwehr Mülheim",
+              "url": "https://www.presseportal.de/blaulicht/pm/115880/6390814"
+            }
+          ]
+        },
+        {
+          "titel": "Welt-Aids-Tag: Aids-Teddys vom Gesundheitsamt",
+          "unterzeile": "Aktion für Prävention und Aufklärung",
+          "text": "Das Amt für Gesundheit und Hygiene unterstützt auch dieses Jahr die Aidshilfe beim Verkauf der Aids-Teddys. Der Welt-Aids-Tag am 1. Dezember steht im Zeichen von Prävention und Aufklärung.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Aids-Teddys",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aemter-und-einrichtungen/amt-fuer-gesundheit-und-hygiene/gesundheitsamt-unterstuetzt"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine der Woche",
+        "punkte": [
+          "Do 26.11.: Ausbildungsmesse in der Stadthalle (Eintritt frei)",
+          "Fr 27. bis So 29.11.: Mülheimer Schiffsweihnacht",
+          "Ab Fr 27.11.: Altstadt-Adventsmarkt (bis 13.12.)",
+          "Sa 28. und So 29.11.: Adventsmarkt im Kunstmuseum",
+          "So 29.11., 11 bis 17 Uhr: Kreativ-Markt in der Stadthalle",
+          "Do 3.12.: Start der Lokalrunde (Wallviertel/Altstadt)"
+        ],
+        "quellen": [
+          {
+            "name": "Stadt Mülheim: Weihnachtsmärkte",
+            "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+          },
+          {
+            "name": "Stadt Mülheim: Pressemitteilungen",
+            "url": "https://cms.muelheim-ruhr.de/rathaus/presse-und-online-kommunikation/pressemitteilungen"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Politik",
+      "artikel": [
+        {
+          "titel": "Merz verteidigt 560-Milliarden-Haushalt als „vertretbar“",
+          "unterzeile": "Generaldebatte: Größter Etat der Geschichte, 210 Milliarden neue Schulden",
+          "text": "In der Generaldebatte im Bundestag hat Kanzler Friedrich Merz den Haushalt 2027 verteidigt. Mit 560 Milliarden Euro ist es der größte Etat in der Geschichte der Bundesrepublik, rund 210 Milliarden Euro davon sind neue Schulden. Merz nannte den Entwurf „vertretbar“, räumte aber ein, dass die Aufstellung keinen „Schönheitspreis“ verdiene. Den Vorwurf sozialer Kälte wies er zurück, kündigte aber an: „Wir haben das Geld nicht mehr für alles.“ Die Ukraine-Hilfe nannte er nicht verhandelbar.\n\nDie Opposition griff ihn scharf an. AfD-Chef Tino Chrupalla warf der Regierung vor, das Land in Verarmung und Deindustrialisierung zu führen. Linken-Politiker Dietmar Bartsch sprach von einer „Schuldenorgie“, der Grüne Sebastian Schäfer von einer „windschiefen Bretterbude ohne Fundament“.\n\nAbgestimmt wird am Freitag. Merz selbst stimmt nicht mit ab, er ist dann beim EU-Gipfel in Brüssel. Fast jeder dritte ausgegebene Euro ist laut ZDF kreditfinanziert, und der Bundesrechnungshof warnt vor einer Schuldenfalle.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Merz verteidigt Haushalt 2027",
+              "url": "https://www.zdfheute.de/politik/deutschland/generaldebatte-bundestag-haushalt-kanzler-2026-100.html"
+            },
+            {
+              "name": "Bundesregierung: Bundeskanzler Merz zum Bundeshaushalt 2027",
+              "url": "https://www.bundesregierung.de/breg-de/aktuelles/haushalt-2027-bundeskanzler-2462540"
+            }
+          ]
+        },
+        {
+          "titel": "„Respekt-Rente“: Drei CDUler wollen den Streit um die Rente mit 63 lösen",
+          "unterzeile": "Frührente ohne Abschläge nur bis 70 Prozent des Durchschnittseinkommens",
+          "text": "Johannes Winkel, Marc Biadacz und Pascal Reddig aus der Unionsfraktion haben am Mittwoch einen Kompromiss vorgelegt. Wer 45 Beitragsjahre hat, soll weiter ohne Abschläge früher in Rente gehen können, aber nur, wenn das Einkommen im Berufsleben höchstens 70 Prozent des Durchschnitts betrug. Bei höheren Einkommen soll es Abschläge geben, und zwar nur auf den Teil über der Schwelle. Kinderziehung und Pflege sollen weiter zählen.\n\nUnionsfraktionsvize Thorsten Frei sieht die Union nah an einer dauerhaften Lösung. Christian von Stetten, Chef des Mittelstandskreises, nennt den Vorschlag dagegen eine „Kapitulation“. Die SPD lehnt ein Aus für die Rente mit 63 ab.",
+          "quellen": [
+            {
+              "name": "cash-online: Drei Unionspolitiker wollen den Streit beenden",
+              "url": "https://www.cash-online.de/a/drei-unionspolitiker-wollen-den-streit-um-die-rente-mit-63-beenden-731641/"
+            },
+            {
+              "name": "WNOZ/dpa: Unionspolitiker schlagen Kompromiss vor",
+              "url": "https://www.wnoz.de/nachrichten/deutschland-und-die-welt/politik/deutschland/unionspolitiker-schlagen-kompromiss-im-rentenstreit-vor-1193901.html"
+            }
+          ]
+        },
+        {
+          "titel": "Rente mit 63: Zeitplan und Widerstand aus den Ländern",
+          "unterzeile": "Kabinett am 9. oder 16. Dezember, Bundestag 2027",
+          "text": "Die Koalition hatte sich in der Nacht zum 18. November nach mehr als acht Stunden nicht einigen können, 30 der 33 Punkte gelten als unstrittig, der Streitpunkt ist die Rente mit 63. Ein Kabinettsbeschluss ist laut Berichten für den 9. oder 16. Dezember vorgesehen, der Bundestag soll im ersten Quartal 2027 entscheiden. Merz will den Kern noch vor Weihnachten im Kabinett beschließen lassen.\n\nWiderstand kommt auch aus den Ländern: Ostdeutsche CDU-Ministerpräsidenten fordern in einem offenen Brief, die abschlagsfreie Rente beizubehalten, und Mecklenburg-Vorpommerns Regierungschefin Manuela Schwesig (SPD) kündigte an, einer Abschaffung im Bundesrat nicht zuzustimmen. Söder will sie nicht abschaffen, sondern mit Übergangsfristen und Ausnahmen für belastende Berufe verkleinern.",
+          "quellen": [
+            {
+              "name": "cash-online: Drei Streitpunkte bremsen die Reform",
+              "url": "https://www.cash-online.de/a/drei-streitpunkte-bremsen-die-reform-der-rente-mit-63-731341/"
+            },
+            {
+              "name": "cash-online: Drei Unionspolitiker wollen den Streit beenden",
+              "url": "https://www.cash-online.de/a/drei-unionspolitiker-wollen-den-streit-um-die-rente-mit-63-beenden-731641/"
+            }
+          ]
+        },
+        {
+          "titel": "Was die AfD an der Haushaltsdebatte kritisiert",
+          "unterzeile": "Einsparungen im Klimafonds, Streit um die Stromsteuer",
+          "text": "AfD-Haushaltspolitiker Michael Espendiller sagte in der Debatte, Einsparungen seien möglich, etwa bei rund 40 Milliarden Euro im Klima- und Transformationsfonds, von dem er vieles für wirkungslos hält. Die geplante Stromsteuersenkung unterstützt er in der Sache, ihre Finanzierung nennt er unseriös. Außerdem schlug er vor, die militärische Ukraine-Hilfe zu kürzen. CDU-Fraktionsvize Mathias Middelberg verteidigte die rund 11 Milliarden Euro Ukraine-Hilfe als sehr gute Investition und nannte die Schuldenquote „irre hoch“. Die Sparziele für 2028 sollen Anfang 2027 geschärft werden.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Merz verteidigt Haushalt 2027",
+              "url": "https://www.zdfheute.de/politik/deutschland/generaldebatte-bundestag-haushalt-kanzler-2026-100.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen zum Haushalt 2027",
+        "punkte": [
+          "Ausgaben: 560 Milliarden Euro (größter Etat der Geschichte)",
+          "Neue Schulden: rund 210 Milliarden Euro",
+          "Abstimmung im Bundestag: Freitag, 27. November",
+          "Ukraine-Hilfe: rund 11 Milliarden Euro (laut Middelberg)"
+        ],
+        "quellen": [
+          {
+            "name": "ZDFheute",
+            "url": "https://www.zdfheute.de/politik/deutschland/generaldebatte-bundestag-haushalt-kanzler-2026-100.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Wirtschaft, Gesellschaft, Verbraucher",
+      "artikel": [
+        {
+          "titel": "Deutschlandticket: Bis 30. November zustimmen, sonst endet das Abo",
+          "unterzeile": "Ab Januar 66,80 Euro im Monat",
+          "text": "Das Deutschlandticket kostet ab Januar 2027 66,80 Euro im Monat, 3,80 Euro mehr als bisher (rund sechs Prozent). Das Jahresabo kostet dann 801,60 Euro statt 756 Euro. Wer ein DB-Abo hat, muss der Preiserhöhung bis zum 30. November zustimmen, sonst endet das Abo zum 31. Dezember. Wer die Frist verpasst, kann das Abo laut Bericht über „Abo reaktivieren“ im Abo-Portal oder im DB Navigator retten. Das Jobticket kostet bundesweit ab 2027 regulär 63,46 Euro, wenn der Arbeitgeber mindestens 25 Prozent zuschießt.",
+          "quellen": [
+            {
+              "name": "ADAC: Deutschlandticket 2027",
+              "url": "https://www.adac.de/news/deutschlandticket-2027/"
+            },
+            {
+              "name": "teltarif: Frist 30. November",
+              "url": "https://www.teltarif.de/deutschlandticket-kuendigung-frist-30-november/news/107321.html"
+            },
+            {
+              "name": "DB: Vertragsänderungen Deutschland-Ticket",
+              "url": "https://www.bahn.de/faq/pk/angebot/regionale-angebote/deutschland-ticket/vertragsaenderungen-dt"
+            }
+          ]
+        },
+        {
+          "titel": "Inflation im Oktober bei 2,8 Prozent, Energie +12,7 Prozent",
+          "unterzeile": "Zahlen für November kommen am 30.11.",
+          "text": "Laut Statistischem Bundesamt lag die Inflationsrate im Oktober 2026 bei 2,8 Prozent, die Energiepreise stiegen um 12,7 Prozent. Die Kerninflation im Euroraum-Index (ohne Energie und Nahrungsmittel) sank laut Bundesbank von 2,5 auf 2,3 Prozent. Die vorläufigen Ergebnisse für November sollen am 30. November erscheinen.",
+          "quellen": [
+            {
+              "name": "Destatis: Verbraucherpreisindex",
+              "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/_inhalt.html"
+            },
+            {
+              "name": "Bundesbank: Harmonisierter Verbraucherpreisindex",
+              "url": "https://www.bundesbank.de/de/statistiken/konjunktur-und-preise/harmonisierter-verbraucherpreisindex/harmonisierter-verbraucherpreisindex-927952"
+            }
+          ]
+        },
+        {
+          "titel": "Black Friday: Fakeshop-Finder, Preisverlauf und keine Vorkasse",
+          "unterzeile": "Tipps der Verbraucherzentralen für morgen",
+          "text": "Morgen ist Black Friday. Die Verbraucherzentralen raten, sich nicht von Zeitdruck und hohen Rabatten treiben zu lassen. Die Verbraucherzentrale Hamburg empfiehlt, nie per Vorkasse zu zahlen. Vor größeren Käufen lohnt ein Blick in den Preisverlauf, besonders aussagekräftig ist der niedrigste Preis der letzten 30 Tage. Die Verbraucherzentrale Niedersachsen warnt vor Mondpreisen, also Rabatten auf Fantasie-UVPs. Ob ein Shop seriös ist, prüft der kostenlose Fakeshop-Finder der Verbraucherzentrale, der das Ergebnis als Ampel anzeigt. Der Handelsverband HDE erwartet laut Berichten 6,2 Milliarden Euro Umsatz.",
+          "quellen": [
+            {
+              "name": "Verbraucherschutzforum: Black Friday 2026",
+              "url": "https://verbraucherschutzforum.berlin/2026-10-26/black-friday-2026-wann-beginnt-die-schnaeppchenjagd-verbraucherzentrale-warnt-vor-fake-shops-falschen-rabatten-und-kostenfallen-442608/"
+            },
+            {
+              "name": "Verbraucherzentrale Bayern warnt (Schweinfurt-News)",
+              "url": "https://schweinfurt-news.de/black-friday-2026-verbraucherzentrale-bayern-warnt-vor-fakeshops-und-gefaehrlichem-spielzeug/"
+            },
+            {
+              "name": "infranken: Black Friday 2026",
+              "url": "https://www.infranken.de/ratgeber/verbraucher/tipps-online-shopping-black-friday-cyber-monday-art-6401133"
+            }
+          ]
+        },
+        {
+          "titel": "Rentenerhöhung 2027: Prognosen liegen bei gut vier Prozent",
+          "unterzeile": "Noch nichts beschlossen",
+          "text": "Wie stark die Renten im Juli 2027 steigen, steht noch nicht fest. Ratgeberseiten nennen Prognosen von rund 4,1 bis 4,4 Prozent, ein Rechner nennt 4,09 Prozent mit einer Spanne von 3,5 bis 5 Prozent. Das sind Schätzungen, keine amtlichen Werte.",
+          "quellen": [
+            {
+              "name": "Vermögenszentrum: Rentenerhöhung 2027",
+              "url": "https://www.vermoegenszentrum.de/wissen/rentenerhoehung-2027"
+            },
+            {
+              "name": "Deutschland-Rechner: Rentenerhöhung 2027",
+              "url": "https://www.deutschland-rechner.de/rentenerhoehung-2027-rechner"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Zahlen",
+        "punkte": [
+          "Inflation Oktober: 2,8 Prozent",
+          "Arbeitslose Oktober: 2,955 Millionen (Quote 6,3 Prozent)",
+          "Arbeitslosengeld-Bezieher Oktober: rund 1,065 Millionen",
+          "Deutschlandticket ab Januar: 66,80 Euro"
+        ],
+        "quellen": [
+          {
+            "name": "Destatis",
+            "url": "https://www.destatis.de/DE/Themen/Wirtschaft/Preise/Verbraucherpreisindex/_inhalt.html"
+          },
+          {
+            "name": "Statistiken aktuell: Arbeitslosigkeit",
+            "url": "https://statistiken-aktuell.de/arbeitslosigkeit-deutschland/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Politik, Recht, Pflegeversicherung, Gesetze",
+      "artikel": [
+        {
+          "titel": "Anhörung zum PNOG: Wer was kritisiert",
+          "unterzeile": "Pflegerat, vzbv, Landkreistag und BAGSO im Überblick",
+          "text": "Beim Anhörungstermin am 25. November im Gesundheitsausschuss (Drucksache 21/8869) kamen laut Bundestag viele Verbände zu Wort. Der Pflegerat begrüßt Prävention und die Rentenbeiträge für pflegende Angehörige, kritisiert aber strengere Zugangsschwellen für die Pflegegrade 1 bis 3, das Ende des Entlastungsbetrags bei Pflegegrad 1 und die ausgesetzte Anpassung 2028. Der Verbraucherzentrale Bundesverband warnt, mehr Budgets bedeuteten nicht automatisch mehr Flexibilität, es drohe mehr Unübersichtlichkeit.\n\nDie BAGSO sagt, die Umsetzung zum Jahreswechsel sei kaum machbar. Würde die Verhinderungspflege auf mehrere Budgets verteilt, entfiele sie praktisch als eigene Leistung, und das neue Überbrückungsbudget für Unvorhergesehenes könne geplante Auszeiten nicht ersetzen. Die Interessenvertretung Pflegende Angehörige warnt vor Regeln unter Zeitdruck.",
+          "quellen": [
+            {
+              "name": "Bundestag: Breite Expertenkritik an PNOG",
+              "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-pa-gesundheit-1233486"
+            }
+          ]
+        },
+        {
+          "titel": "Kassen: 7,5 Milliarden Defizit 2027, Lücke bleibt trotz Gesetz",
+          "unterzeile": "GKV-Spitzenverband, vdek und AOK rechnen vor",
+          "text": "Der GKV-Spitzenverband rechnet für 2027 mit einem Defizit der Pflegeversicherung von rund 7,5 Milliarden Euro, der Gesamtfinanzbedarf liege bei etwa 10 Milliarden Euro, dazu kämen rund 5,2 Milliarden Euro pandemiebedingte Kosten, die noch zurückzuzahlen sind. Er fordert Liquiditätshilfen des Bundes. Die Ersatzkassen (vdek) halten die kurzfristige Konsolidierung für richtig, sehen aber selbst mit dem Gesetz noch eine Lücke von rund 1,35 Milliarden Euro. Die AOK kritisiert, die Lasten seien einseitig verteilt, die Kostenschätzung intransparent, und schlägt ein Darlehen für Liquiditätslücken vor.",
+          "quellen": [
+            {
+              "name": "Bundestag: Breite Expertenkritik an PNOG",
+              "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-pa-gesundheit-1233486"
+            },
+            {
+              "name": "vdek: PNOG im Gesundheitsausschuss",
+              "url": "https://www.vdek.com/presse/pressemitteilungen/2026/anhoerung-pnog-pflegeversicherung.html"
+            },
+            {
+              "name": "AOK: Gesetz zur Neuordnung der Pflegeversicherung",
+              "url": "https://www.aok.de/pp/gesetz/pnog/"
+            }
+          ]
+        },
+        {
+          "titel": "Landkreistag: Hilfe zur Pflege soll sich bis 2035 verdoppeln",
+          "unterzeile": "Kommunen fordern einen anderen Weg",
+          "text": "Der Landkreistag warnt vor mehr Belastung für die Kommunen: Die Ausgaben für die Hilfe zur Pflege würden sich zwischen 2028 und 2035 verdoppeln, das Gesetz packe das nicht an. Er schlägt einen Tausch von Sockel und Spitze bei den Eigenanteilen vor, will die Ausbildungsumlage aus den Eigenanteilen nehmen und fordert, dass Krankenkassen die medizinische Behandlungspflege zahlen. Die geplante Pflegebegleitung hält er für sinnvoll, aber kaum praktikabel.",
+          "quellen": [
+            {
+              "name": "Bundestag: Breite Expertenkritik an PNOG",
+              "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-pa-gesundheit-1233486"
+            }
+          ]
+        },
+        {
+          "titel": "Anbieter warnen vor Kündigungswelle und Engpässen in der ambulanten Pflege",
+          "unterzeile": "bpa, Caritas und ein Pflegedienst-Betreiber",
+          "text": "Der Bundesverband privater Anbieter (bpa) beschreibt „disruptive“ Änderungen, warnt vor einer Kündigungswelle und erwartet Engpässe in der ambulanten Pflege. Die Caritas äußerte ähnliche Sorgen. Melanie Waschkowski, die einen Pflegedienst betreibt, sagte, das Gesetz habe sie und ihr Team „fassungslos“ gemacht. Fallen Entlastungsleistungen wie die Verhinderungspflege weg, drohten Entlassungen, vor allem auf dem Land, wo Angehörige oft nicht einspringen können.",
+          "quellen": [
+            {
+              "name": "Bundestag: Breite Expertenkritik an PNOG",
+              "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw48-pa-gesundheit-1233486"
+            }
+          ]
+        },
+        {
+          "titel": "BSG: Frühere Heimzeiten zählen für den Eigenanteil-Zuschlag mit",
+          "unterzeile": "Aber nicht für Monate ohne Pflegesatzvereinbarung",
+          "text": "Das Bundessozialgericht hat laut Berichten entschieden, dass bei der Berechnung des Zuschlags zum Eigenanteil im Pflegeheim auch frühere Zeiten in vollstationärer Pflege zählen, selbst wenn das Heim damals keine Pflegesatzvereinbarung hatte. Für die Monate ohne Vereinbarung gibt es allerdings keinen Zuschlag. Nach geltendem Recht übernimmt die Pflegekasse für die Pflegegrade 2 bis 5 je nach bisheriger Dauer 15 bis 75 Prozent des pflegebedingten Eigenanteils. Die Berichte nennen als Datum den 1. Oktober 2026 (B 3 P 3/25 R), das Urteil selbst habe ich nicht eingesehen.",
+          "quellen": [
+            {
+              "name": "buerger-geld.org: Urteil zum Pflegeheim-Zuschlag",
+              "url": "https://www.buerger-geld.org/news/pflege/urteil-bundessozialgericht-zum-pflegeheim-zuschlag-fruehere-pflegezeiten-im-heim-zaehlen-mit"
+            },
+            {
+              "name": "finanz.de: Höherer Zuschlag möglich",
+              "url": "https://www.finanz.de/news/urteil-pflege-hoeherer-zuschlag-10896/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Wie geht es weiter?",
+        "punkte": [
+          "Anhörung im Gesundheitsausschuss: 25. November (erledigt)",
+          "Abstimmung laut einem Fachbericht: 11. Dezember",
+          "Geplanter Start der Änderungen: 1. Januar 2027"
+        ],
+        "quellen": [
+          {
+            "name": "Ärzteverbund",
+            "url": "https://aerzteverbund.de/pflegereform-2027-bundestag-erste-lesung/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Altenpflege: Praxis, Studien, Fachwissen, Arbeitsbedingungen",
+      "artikel": [
+        {
+          "titel": "DGB-Index: Mehr als die Hälfte der Pflegekräfte zweifelt, bis zur Rente durchzuhalten",
+          "unterzeile": "Körperliche Belastung und Zeitdruck als Hauptgründe",
+          "text": "Laut dem DGB-Index „Gute Arbeit“ (Report „Durchhalten bis zur Rente?“, Daten 2022 bis 2026) rechnet mehr als die Hälfte der Beschäftigten in Kranken- und Altenpflege damit, nicht bis zur Rente durchzuhalten. Über alle Berufe hinweg sind es 40 Prozent. Von denen, die sehr oft schwer heben, tragen oder schieben, zweifeln 72 Prozent, bei sehr häufigem Zeitdruck knapp 60 Prozent. Wo es gar keine betriebliche Gesundheitsförderung gibt, sind es 46 Prozent. Die Studie ist schon ein paar Monate alt (Bericht vom Juli), passt aber zur laufenden Debatte.",
+          "quellen": [
+            {
+              "name": "bibliomed-pflege: DGB-Index 2026",
+              "url": "https://www.bibliomed-pflege.de/news/pflegekraefte-zweifeln-an-arbeit-bis-zur-rente-dgb-index-2026"
+            }
+          ]
+        },
+        {
+          "titel": "BGW-Index: Berufsgesundheit in der Pflege erholt sich, aber noch nicht vor Corona",
+          "unterzeile": "Mehr Zufriedenheit, weniger Jobsorgen",
+          "text": "Der BGW-Index BeGX 2026 zeigt, dass sich die Berufsgesundheit in Alten- und Krankenpflege weiter von der Corona-Zeit erholt, das Niveau vor der Pandemie ist aber noch nicht erreicht. Laut Berichten stieg in der Altenpflege die Arbeitszufriedenheit von 86 auf 92 Punkte und die Sorge um den Arbeitsplatz sank deutlich. Bei den Arbeitsbedingungen gab es dagegen einen Rückgang von 119 auf 111 Punkte, wobei aus den Berichten nicht eindeutig hervorgeht, ob dieser Wert nur die Altenpflege betrifft.",
+          "quellen": [
+            {
+              "name": "altenheim.net: BeGX 2026",
+              "url": "https://www.altenheim.net/begx-2026-berufsgesundheit-in-der-pflege-erholt-sich/"
+            },
+            {
+              "name": "bibliomed-pflege: BeGX 2026",
+              "url": "https://www.bibliomed-pflege.de/news/begx-2026-berufsgesundheit-pflege-verbessert-sich"
+            }
+          ]
+        },
+        {
+          "titel": "Pflegeschulen gehen die Lehrkräfte aus",
+          "unterzeile": "Erstmals Ausbildungskurs abgesagt",
+          "text": "Die ibs-Stiftung hat am 19. November auf einer Fachtagung in Bremen vor einem Mangel an Pflegelehrkräften gewarnt. Erstmals musste sie zum Schuljahresbeginn einen Ausbildungskurs absagen, weil kein Lehrpersonal da war. Ohne Lehrkräfte gibt es weniger Auszubildende, und das trifft den Nachwuchs in der Pflege direkt.",
+          "quellen": [
+            {
+              "name": "altenheim.net: Pflegeschulen gehen die Lehrenden aus",
+              "url": "https://altenheim.net/pflegeschulen-gehen-schon-jetzt-die-lehrenden-aus"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Gaming: Steam & PC",
+      "artikel": [
+        {
+          "titel": "Steam Black Friday: Kein großer Sale, dafür der Event-Bereich ab heute",
+          "unterzeile": "Winter Sale kommt am 17. Dezember",
+          "text": "Valve macht dieses Jahr keinen storeweiten Black-Friday-Sale. Der Herbst-Sale lief schon vom 1. bis 8. Oktober. Von heute (26. November) bis Montag, 30. November, bekommt laut Berichten die Seite „Discounts & Events“ die Black-Friday-Behandlung, und Publisher können eigene Spiele rabattieren. Der nächste große Sale ist der Winter Sale vom 17. Dezember 2026 bis 4. Januar 2027 (jeweils 10 Uhr pazifischer Zeit, also 19 Uhr deutscher Zeit). Für Steam-Hardware wurde laut den Berichten kein Black-Friday-Rabatt angekündigt.",
+          "quellen": [
+            {
+              "name": "gg.deals: Waiting for Steam Black Friday Sale 2026",
+              "url": "https://gg.deals/gaming-news/waiting-for-steam-black-friday-sale-2026-theres-some-bad-news/"
+            },
+            {
+              "name": "Digital Citizen: Autumn Sale vorbei, Winter Sale am 17. Dezember",
+              "url": "https://www.digitalcitizen.life/steam-autumn-sale-2026-over-winter-sale-december-17-black-friday/"
+            },
+            {
+              "name": "Steamworks: Winter Sale 2026",
+              "url": "https://partner.steamgames.com/doc/marketing/upcoming_events/2026_winter_sale"
+            }
+          ]
+        },
+        {
+          "titel": "SteamOS 3.9.7 Beta für Deck, Frame und Machine",
+          "unterzeile": "Bugfixes bei Frame-Timing und Helligkeit",
+          "text": "Valve hat SteamOS 3.9.7 als Beta für Steam Deck, Steam Frame und Steam Machine veröffentlicht. Die Beta bringt Fixes für Frame-Timing und die Helligkeitsregelung sowie einen Rendering-Fehler und enthält die Änderungen aus 3.9.6. Sie ist nur über die Beta- und Preview-Kanäle erhältlich. Gleichzeitig gab es einen neuen Steam-Client-Beta mit Fixes für Abstürze, das Review-System und VR-Streaming über Remote Play.",
+          "quellen": [
+            {
+              "name": "Linux Compatible: SteamOS 3.9.7 Beta",
+              "url": "https://www.linuxcompatible.org/story/steamos-397-beta-ships-for-steam-deck-frame-and-machine"
+            }
+          ]
+        },
+        {
+          "titel": "Proton 11.0-3: 15 Spiele laufen jetzt auf dem Deck",
+          "unterzeile": "Update vom 24. November",
+          "text": "Mit Proton 11.0-3 vom 24. November sind laut Gaming on Steam 15 Spiele neu als spielbar eingestuft. Das Update enthält außerdem Fixes für die Steam Frame. Wenn du auf dem Deck oder unter Linux spielst, lohnt ein Blick in die Kompatibilitätsliste.",
+          "quellen": [
+            {
+              "name": "Gaming on Steam: Proton 11.0-3",
+              "url": "https://gamingonsteam.com/2026/11/24/steam-deck-news-proton-11-0-3-15-playable-games"
+            }
+          ]
+        },
+        {
+          "titel": "PC-Releases: Kleine Titel in der Black-Friday-Woche",
+          "unterzeile": "Termine laut Kalendern, ohne Gewähr",
+          "text": "Laut PC-Gamer-Kalender erscheinen am 25. November Athelan Battlegrounds und Arctic Drive auf Steam, am 27. November kommt Arkheron in den Early Access. Eine weitere PC-Gamer-Übersicht nennt für den 27. November außerdem das Psycho-Horror-Puzzlespiel Am I Nima. Die Kalender stimmen nicht in allen Punkten überein, Termine können sich noch verschieben, also im Zweifel auf der Steam-Seite prüfen.",
+          "quellen": [
+            {
+              "name": "PC Gamer: November 2026 games",
+              "url": "https://www.pcgamer.com/games/november-games-2026/"
+            },
+            {
+              "name": "PC Gamer: New 2026 games",
+              "url": "https://www.pcgamer.com/games/new-pc-games-2026/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Steam-Termine",
+        "punkte": [
+          "26. bis 30.11.: Black-Friday-Event-Seite (kein storeweiter Sale)",
+          "17.12. bis 4.1.: Winter Sale"
+        ],
+        "quellen": [
+          {
+            "name": "Digital Citizen",
+            "url": "https://www.digitalcitizen.life/steam-autumn-sale-2026-over-winter-sale-december-17-black-friday/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Nintendo Switch 2 & Konsolen",
+      "artikel": [
+        {
+          "titel": "Systemupdate 23.5.0: Barrierefreiheit und Vorbereitung fürs eShop-Gifting",
+          "unterzeile": "Update ist seit Anfang November live",
+          "text": "Die Switch 2 hat mit Version 23.5.0 ein neues Systemupdate bekommen (laut Nintendo am 10. November, nach anderen Angaben am 9.). Neu: Barrierefreiheitsoptionen lassen sich schon bei der Ersteinrichtung setzen, Portugiesisch (Portugal) kommt bei der Sprachausgabe dazu. Außerdem bereitet das Update eine Geschenkfunktion für Mitglieder einer Familiengruppe vor, die nach einem eShop-Wartungsupdate am 17. November starten sollte. Vorher gab es 23.0.0 im September, das VRR im TV-Modus brachte.",
+          "quellen": [
+            {
+              "name": "Nintendo Life: Update 23.5.0",
+              "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes"
+            },
+            {
+              "name": "Nintendo: Systemupdate-Infos Switch 2",
+              "url": "https://www.nintendo.com/en-gb/Support/Nintendo-Switch-2/System-Update-Information-for-Nintendo-Switch-2-2843738.html"
+            }
+          ]
+        },
+        {
+          "titel": "Grime 2 erscheint am 27. November",
+          "unterzeile": "Dünner Release-Kalender zum Monatsende",
+          "text": "Laut GamePro-Liste kommt Grime 2 am 27. November. Nintendos eigene Monatsübersicht führt keine Titel mit Termin nach dem 19. November. Die Liste für die letzte Novemberwoche ist also dünn, und weil Termine sich ändern können, lohnt ein Blick in den eShop.",
+          "quellen": [
+            {
+              "name": "GamePro: Switch-2-Spiele 2026",
+              "url": "https://www.gamepro.de/artikel/nintendo-switch-2-spiele-2026,3434629.html"
+            },
+            {
+              "name": "Nintendo: Diese Spiele erscheinen im November 2026",
+              "url": "https://www.nintendo.com/de-de/News/2026/November/Diese-Spiele-erscheinen-im-November-2026--3229019.html"
+            }
+          ]
+        },
+        {
+          "titel": "November-Rückblick: Von Ocarina of Time bis Binding of Isaac",
+          "unterzeile": "Was auf der Switch 2 schon erschienen ist",
+          "text": "Der November war für Switch-2-Besitzer gut gefüllt: Godzilla: Destroy All Monsters Melee Remastered (3.11.), The Legend of Zelda: Ocarina of Time, Stellar Blade Complete Edition und Marvel's Guardians of the Galaxy: Encore Edition (alle 5.11.), Pikmin 4 – Switch 2 Edition + Dandori-Akademie und Metaphor: ReFantazio (12.11.), außerdem Sonic Pico Park (12.11., auch für Switch 1). Dazu kam am 18. November der Disney-Dreamlight-Valley-DLC The Keepsake Sea und am 19. November The Binding of Isaac: Repentance+.",
+          "quellen": [
+            {
+              "name": "Nintendo: Diese Spiele erscheinen im November 2026",
+              "url": "https://www.nintendo.com/de-de/News/2026/November/Diese-Spiele-erscheinen-im-November-2026--3229019.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Neue Spiele der Woche",
+        "punkte": [
+          "Fr 27.11.: Grime 2 (laut GamePro-Liste)",
+          "Zuletzt: The Binding of Isaac: Repentance+ (19.11.)"
+        ],
+        "quellen": [
+          {
+            "name": "GamePro",
+            "url": "https://www.gamepro.de/artikel/nintendo-switch-2-spiele-2026,3434629.html"
+          },
+          {
+            "name": "Nintendo",
+            "url": "https://www.nintendo.com/de-de/News/2026/November/Diese-Spiele-erscheinen-im-November-2026--3229019.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Tech & Netz",
+      "artikel": [
+        {
+          "titel": "VMware: Broadcom stopft 23 Lücken, mehrere kritisch",
+          "unterzeile": "Für eine vCenter-Lücke gibt es einen öffentlichen Exploit",
+          "text": "Broadcom hat Updates für 23 Sicherheitslücken in VMware ESX, vCenter, Workstation, Fusion, VMware Tools und weiteren Produkten veröffentlicht. Mehrere sind kritisch, darunter CVE-2026-123903 (CVSS 9.8, Authentifizierungs-Umgehung im Verzeichnisdienst von vCenter) sowie zwei Lücken (CVSS 9.8), die Code-Ausführung auf ESX-Hosts erlauben könnten. Für CVE-2026-123903 existiert laut heise ein ungetesteter öffentlicher Exploit, und VMware-Lücken werden aktiv angegriffen. Admins sollten schnell patchen.",
+          "quellen": [
+            {
+              "name": "heise: Broadcom stopft viele Sicherheitslücken",
+              "url": "https://www.heise.de/news/Broadcom-stopft-viele-Sicherheitsluecken-in-mehreren-VMware-Produkten-11537743.html"
+            }
+          ]
+        },
+        {
+          "titel": "Angriffswarnung: Drupal, AntiCsrf und Optimizely",
+          "unterzeile": "CISA warnt vor aktiv ausgenutzten Lücken",
+          "text": "Laut CISA werden Lücken in Drupal Core, dem aufgegebenen ASP.NET-Modul Idunno.AntiCsrf und in Optimizely aktiv ausgenutzt. Bei Drupal lässt sich über install.php eine Seite neu installieren und übernehmen. Die Updates 11.4.13, 11.3.22 und 10.6.22 schließen die Lücke, ältere Zweige ohne Support müssen migriert werden. Idunno.AntiCsrf (bis 0.9.1 Beta) erlaubt Codeausführung aus der Ferne und wird nicht mehr gepatcht, du musst es ersetzen. Optimizely hat seine Lücke geschlossen, über die Angreifer schädlichen JavaScript-Code in Seiten von 178 Organisationen einschleusen konnten.",
+          "quellen": [
+            {
+              "name": "heise: Angriffswarnung Drupal Core, AntiCsrf und Optimizely",
+              "url": "https://www.heise.de/news/Angriffswarnung-Drupal-Core-AntiCsrf-und-Optimizely-11537363.html"
+            }
+          ]
+        },
+        {
+          "titel": "Chrome und Firefox: Zusammen über 180 Lücken geschlossen",
+          "unterzeile": "Browser jetzt updaten",
+          "text": "Laut SecurityWeek schließen die jüngsten Browser-Updates zusammen über 180 Schwachstellen: Chrome 157 behebt 83, Firefox 160 laut Bericht 99, davon 57 mit hohem Schweregrad. SecPod zufolge wird eine Chrome-Lücke (CVE-2026-125350) bereits aktiv ausgenutzt. Die Versionsangaben in den Quellen sind nicht ganz einheitlich, prüf also, ob dein Browser sich schon aktualisiert hat.",
+          "quellen": [
+            {
+              "name": "SecurityWeek: Chrome, Firefox Updates",
+              "url": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/"
+            },
+            {
+              "name": "SecPod: November 2026 Patch Analysis",
+              "url": "https://www.secpod.com/learn/security-research/november-2026-apple-adobe-chrome-mozilla-patch-analysis"
+            }
+          ]
+        },
+        {
+          "titel": "Zstandard 1.6.0 kommt früher, Microsoft meldet Datenabfluss bei Entra Connect Health",
+          "unterzeile": "Kurz aus den heise-Meldungen",
+          "text": "Das Zstd-Team hat Version 1.6.0 des Kompressionsverfahrens wegen einer Sicherheitslücke vorgezogen. Außerdem hat Microsoft laut heise unbefugten Zugriff über eine Lücke in der Entra-Connect-Health-API gemeldet, dabei sind Daten abgeflossen. Details dazu stehen in den verlinkten Meldungen.",
+          "quellen": [
+            {
+              "name": "heise: Zstandard 1.6.0 schließt Sicherheitslücke",
+              "url": "https://www.heise.de/news/Zstandard-1-6-0-schliesst-Sicherheitsluecke-11535732.html"
+            },
+            {
+              "name": "heise security: Alerts",
+              "url": "https://www.heise.de/security/Alerts"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Browser-Update in zwei Minuten",
+    "text": "Bei so vielen Browser-Lücken lohnt ein kurzer Check: Öffne in Chrome oder Firefox die Info-Seite („Über Chrome“ bzw. „Über Firefox“) und lass die Update-Prüfung laufen, danach den Browser neu starten. Und wenn du am Freitag shoppst: Zahl nicht per Vorkasse und schau dir den Preisverlauf an."
+  }
+}
