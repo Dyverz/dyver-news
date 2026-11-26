@@ -1,0 +1,467 @@
+{
+  "gruss": "Guten Morgen, Azeroth! Donnerstag, 26. November: Der Hotfix-Mittwoch hat Balance-Druiden umgebaut und Alterac Valley auf Ziele getrimmt, Blizzard verschenkt ein Skyborne-Comic und der Raid-Start am 9. Dezember ist noch 13 Tage entfernt.",
+  "aufmacher": {
+    "rubrik": "Hotfixes & Klassen",
+    "titel": "Balance-Druide neu gebaut, Alterac Valley auf Ziele getrimmt",
+    "unterzeile": "Der Hotfix vom 25. November räumt bei Moonkin, Hawks, Rogue-Giften und im PvP kräftig um",
+    "text": "Blizzard hat am 25. November eine der umfangreichsten Hotfix-Listen seit dem Launch von WoW: Forever veröffentlicht. Laut den Hotfix-Notes auf news.blizzard.com und den Zusammenfassungen von Wowhead und Conquest Capped bekommen Balance-Druiden ein neues Talent-Gerüst: Improved Wrath wird zu Starlight Wrath, Improved Moonfire zu Moon and Stars, Moonfury wird durch Dreamstate ersetzt, und die Moonkin Form erhöht Arcane- und Nature-Schaden um 10 Prozent. Improved Starfire wurde auf 2 Punkte gekürzt.\n\nAuch im PvP ändert sich viel: In Alterac Valley soll es sich wieder lohnen, Ziele zu spielen statt den gegnerischen General zu rushen. Ruf und Ehre für den General-Kill wurden deutlich gesenkt, Ruf für Türme, Friedhöfe, Minen und Lieutenants steigt, und die Generäle selbst werden zäher. Rogues müssen derweil damit leben, dass ihre Gifte und Blinding Powder vorübergehend Bind on Pickup sind – Blizzard sucht noch einen Bug.\n\nWer Details zu einzelnen Klassen sucht, findet sie auf den Folgeseiten. Wichtig: Die Zusammenfassungen von Dritten weichen in Einzelheiten leicht voneinander ab, im Zweifel gilt der Blizzard-Post.",
+    "quellen": [
+      { "name": "Blizzard News: WoW: Forever Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" },
+      { "name": "Wowhead: Fixes for Legacy Points, Classes, and Quests", "url": "https://www.wowhead.com/forever/news/fixes-for-legacy-points-classes-and-quests-wow-forever-hotfixes-for-november-384000" },
+      { "name": "Conquest Capped: WoW Forever Patch Notes", "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-patch-notes/" }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Hotfixes vom 25. November: Klassen, Legacy, Quests",
+          "unterzeile": "Große Sammelliste mit Fixes für Druid, Hunter, Paladin, Rogue, Shaman, Warlock und Warrior",
+          "text": "Der Blizzard-Post vom 25. November ist eine breite Sammelliste. Bei den Klassen stehen unter anderem ein Fix für Pet-Melee-Crits bei Hunter und Warlock, ein Fix für Hurricanes letzten Tick beim Druiden und ein Fix, nach dem Exorcism beim Paladin wieder kritisch treffen kann. Beim Shaman verbraucht Chain Lightning Clearcasting jetzt korrekt, wenn Maelstrom Weapon auf 5 Stacks steht.\n\nAußerdem wurden Legacy-Fixes eingespielt (PvP-Legacy-Credit nach Exalted, Lord-Valthalak-Credit, Reinforce-Haltbarkeitsreduktion von 8 bis 40 Prozent), Quest-Fixes in Mount Hyjal, Silithus und Searing Gorge sowie kleinere Item-Fixes. Das Totem of the Storm heißt jetzt Totem of the Maelstrom. Die Liste ist lang – Blizzard und Wowhead haben die vollständigen Fassungen.",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" },
+            { "name": "Wowhead: Hotfixes for November 25th", "url": "https://www.wowhead.com/forever/news/fixes-for-legacy-points-classes-and-quests-wow-forever-hotfixes-for-november-384000" }
+          ]
+        },
+        {
+          "titel": "Alterac Valley: Ziele statt General-Rush",
+          "unterzeile": "Ruf und Ehre vom General sinken, die Bosse werden härter",
+          "text": "Laut den Hotfix-Notes wurde Alterac Valley umgebaut, damit Spieler wieder Ziele spielen. Ruf und Ehre für den Kill des gegnerischen Generals wurden deutlich reduziert, Ruf für Ziele wie Türme, Friedhöfe, Minen und Lieutenants steigt. Gegnerische Kreaturen wurden gestärkt, Warmasters und Marshals leashen und aggroen weiter, und die Generäle bekommen objektivbasierte Stacks, mehr Schaden und bessere Stealth-Erkennung. Nicht eingesammelte Quest-Items werden außerdem nicht mehr per Post verschickt. Wowhead meldet in einer eigenen Kurzmeldung, dass der AV-Ruf damit „noch einmal erhöht“ wurde; die genauen Zahlen nennt die Seite im abrufbaren Teil nicht.",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" },
+            { "name": "Wowhead: Alterac Valley Reputation Increased Again in WoW: Forever", "url": "https://www.wowhead.com/forever/news/alterac-valley-reputation-increased-again-in-wow-forever-383999" }
+          ]
+        },
+        {
+          "titel": "Rogue-Gifte und Blinding Powder vorübergehend BoP",
+          "unterzeile": "Blizzard begründet es mit einem Bug, den man noch beheben will",
+          "text": "Gifte und Blinding Powder der Rogues sind laut Blizzards Hotfix-Notes vorübergehend Bind on Pickup. Der Grund ist ein Bug, an dessen Behebung das Team noch arbeitet. Wowhead hebt die Änderung in seiner Hotfix-Zusammenfassung ebenfalls hervor. Wer Gifte bisher über das Auktionshaus gehandelt hat, muss also mit Lücken rechnen, bis die Sperre wieder fällt. Ein Enddatum nennen die uns vorliegenden Quellen nicht.",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" },
+            { "name": "Wowhead: Hotfixes for November 25th", "url": "https://www.wowhead.com/forever/news/fixes-for-legacy-points-classes-and-quests-wow-forever-hotfixes-for-november-384000" }
+          ]
+        },
+        {
+          "titel": "Revelation-Enchant gedrosselt",
+          "unterzeile": "Proc würfelt nur noch einmal pro Welle und gilt nicht mehr für Channel-Spells",
+          "text": "Der Revelation-Enchant wurde mit den Hotfixes vom 25. November angepasst: Er würfelt laut den Notes nur noch einmal pro Welle und wirkt nicht mehr auf kanalisierte Zauber. Wowhead hat dazu eine Meldung mit dem Titel „Revelation Enchant Nerfed in WoW: Forever“ veröffentlicht. Den vollen Artikeltext konnten wir nicht abrufen, daher halten wir uns an die Blizzard-Angaben.",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" },
+            { "name": "Wowhead: Revelation Enchant Nerfed in WoW: Forever", "url": "https://www.wowhead.com/forever/news/revelation-enchant-nerfed-in-wow-forever-383986" }
+          ]
+        },
+        {
+          "titel": "EU-PvE: Battleground-Bug und Wartung von 3 bis 4 Uhr",
+          "unterzeile": "Falsche Region im Matchmaking verlängerte die Wartezeiten",
+          "text": "Auf den EU-PvE-Servern hat ein Bug Spieler beim Battleground-Matchmaking fälschlich der russischen Region zugeordnet, sodass die Wartezeiten länger ausfielen als vorgesehen. Laut PC Games Hardware ist ein Hotfix bereits live, wirkt aber erst nach einem Neustart voll. Die europäischen Server waren deshalb in der Nacht auf Mittwoch (25. November) zwischen 3 und 4 Uhr deutscher Zeit offline.",
+          "quellen": [
+            { "name": "PC Games Hardware: WoW Forever down", "url": "https://www.pcgameshardware.de/World-of-Warcraft-Forever-Spiel-78891/News/WoW-Forever-down-Blizzard-is-fixing-an-annoying-issue-right-now-1560998/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Hotfixes auf einen Blick",
+        "punkte": [
+          "Build-Nummer: in den ausgewerteten Quellen nicht genannt",
+          "Druid: Balance-Talente umgebaut, Moonfury → Dreamstate",
+          "Hunter/Warlock: Pet-Melee-Crit-Fix",
+          "Rogue: Gifte und Blinding Powder vorübergehend BoP",
+          "Alterac Valley: Fokus auf Ziele, General-Ruf gesenkt",
+          "Revelation: ein Roll pro Welle, nicht mehr bei Channels"
+        ],
+        "quellen": [
+          { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Balance-Druide: Neues Talent-Gerüst, Moonfury ist raus",
+          "unterzeile": "Starlight Wrath, Moon and Stars und Dreamstate ersetzen die alten Verbesserungs-Talente",
+          "text": "Laut Hotfix-Notes werden die Balance-Talente neu sortiert: Improved Wrath wird zu Starlight Wrath und verkürzt die Starfire-Castzeit, Improved Moonfire zu Moon and Stars, Eclipse erhöht den Wrath-Crit, und Moonfury weicht Dreamstate. Improved Starfire wurde auf 2 Punkte gekürzt, die Moonkin Form gibt zusätzlich 10 Prozent Arcane- und Nature-Schaden. Genesis wirkt jetzt auch auf Hurricane und Tranquility. Wowhead rankt Balance in seinem Forever-Leveling-Guide als B-Tier-Spec; der Guide war vor dem Umbau geschrieben und kann die neuen Talente noch nicht abbilden.",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" },
+            { "name": "Wowhead: Balance Druid Leveling Guide", "url": "https://www.wowhead.com/forever/guide/classes/druid/balance/dps-leveling-tips" }
+          ]
+        },
+        {
+          "titel": "Hunter: Hawks hören jetzt auf dich",
+          "unterzeile": "Summon-Hawk-Fixes für Beast Mastery, plus Pet-Crit-Korrektur",
+          "text": "Die Hawks der Beast-Mastery-Hunter greifen ihr beschworenes Ziel jetzt auch an, wenn das Pet auf passiv steht. Sie lassen sich über Dismiss Pet oder per Rechtsklick auf ihr Icon unter dem Portrait entlassen, greifen im Leerlauf das Ziel des Hunters an und haben einen Crit-Fix bekommen. Zusätzlich wurde ein Bug bei kritischen Treffern von Pet-Nahkampfangriffen behoben.",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" },
+            { "name": "Wowhead: Hotfixes for November 25th", "url": "https://www.wowhead.com/forever/news/fixes-for-legacy-points-classes-and-quests-wow-forever-hotfixes-for-november-384000" }
+          ]
+        },
+        {
+          "titel": "Paladin, Shaman, Warlock, Warrior: Kleinere Korrekturen",
+          "unterzeile": "Exorcism kann crittern, Judgement-Refresh repariert, Succubus-Crit gesenkt",
+          "text": "Beim Paladin werden Judgement-Refreshes unter 20 Sekunden korrekt behandelt, Exorcism kann kritisch treffen, und Oath of Light bei Holy hält 60 Minuten. Der Shaman bekommt einen Chain-Lightning-Fix im Zusammenspiel mit Maelstrom Weapon. Beim Warlock wird der Crit von Succubus und Incubus auf den vorgesehenen Wert gesenkt, und Arms-Warrior behalten Weaponmaster nach dem Tod im Battleground.",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" }
+          ]
+        },
+        {
+          "titel": "Design-Linie: Keine Modernisierung, aber mehr Tiefe",
+          "unterzeile": "Blizzards Klassen-Deep-Dives erklären neue Mechaniken wie Aimed Shot ab Level 20",
+          "text": "Blizzard hat vor dem Launch erklärt, die Klassen nicht zu modernisieren, einigen aber „mehr Tiefe“ zu geben. Laut TechRadar sind manche Classic-Klassen den Entwicklern zu simpel gewesen. Im Hunter-und-Druid-Deep-Dive steht, dass Aimed Shot ab Level 20 Basisfähigkeit ist, Fallen im Kampf nutzbar sind und es eine neue Fox-Pet-Familie gibt. Der Hintergrund hilft beim Einordnen der aktuellen Hotfix-Wellen.",
+          "quellen": [
+            { "name": "Blizzard News: Class Deep Dives – Hunter and Druid", "url": "https://news.blizzard.com/en-us/article/24301515/world-of-warcraft-forever-class-deep-dives-hunter-and-druid" },
+            { "name": "TechRadar: WoW Forever's classes won't be modernized", "url": "https://www.techradar.com/gaming/wow-forevers-classes-wont-be-modernized-but-blizzard-has-added-some-new-mechanics-for-engaging-depth-as-some-classes-in-world-of-warcraft-classic-were-too-simple" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet: Klassen",
+        "punkte": [
+          "Druid: Genesis wirkt auf Hurricane und Tranquility",
+          "Paladin: Oath of Light (Holy) 60 Minuten",
+          "Warlock: Succubus/Incubus-Crit auf Soll gesenkt",
+          "Hinweis: Community-Tierlisten sind Meinungen, keine Blizzard-Aussagen"
+        ],
+        "quellen": [
+          { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" }
+        ]
+      }
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Feste Raid-Größen: 10, 20 und 40 Spieler",
+          "unterzeile": "Kein Flex-Raiding – ein elfter Spieler passt nicht in Barrow Deeps",
+          "text": "Zum Start am 9. Dezember öffnen Barrow Deeps (10 Spieler), Hyjal Summit (20 Spieler) und Onyxia's Lair (40 Spieler). Mehrere Guide-Seiten berichten, dass die Gruppengrößen fest sind: Ein elfter Spieler kann nicht in Barrow Deeps, ein 21. nicht in Hyjal Summit. Hotspawn und andere Quellen zitieren Entwickler mit dem Plan, dass jede Raid-Stufe mindestens einen 10er- und einen 20er-Raid enthält, ein 40er pro Stufe sei aber nicht garantiert. Quellen sind zum Teil Guide-Seiten, die Blizzards Übersicht nur wiedergeben.",
+          "quellen": [
+            { "name": "forg.gg: WoW Forever raids", "url": "https://forg.gg/en/forever/guides/raids" },
+            { "name": "Hotspawn: WoW Forever Roadmap Explained", "url": "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-roadmap" }
+          ]
+        },
+        {
+          "titel": "Hyjal Summit: 13 Bosse oben auf dem Berg",
+          "unterzeile": "Mehrere Wege, erst ein Wächter-Encounter",
+          "text": "Hyjal Summit liegt laut Guide-Seiten nahe Nordrassil auf dem Gipfel des Mount Hyjal. Die Route beginnt mit einem Encounter gegen einen uralten Guardian und bietet danach mehrere Wege über und unter der Erde. Genannt werden 13 Bosse für 20 Spieler. Details zu Mechaniken liegen vor dem Raid-Start nicht belastbar vor – die Informationen stammen aus Guide-Seiten, nicht von Blizzard.",
+          "quellen": [
+            { "name": "forg.gg: WoW Forever raids", "url": "https://forg.gg/en/forever/guides/raids" },
+            { "name": "Chaosboost: WoW Forever Raids Guide", "url": "https://www.chaosboost.com/articles/wow-forever-raids-guide" }
+          ]
+        },
+        {
+          "titel": "Onyxia: Fire Resistance ist der Rat der Guides",
+          "unterzeile": "Ein konkreter Zielwert wird nirgends genannt",
+          "text": "Laut Guide-Seiten setzt Onyxia in allen drei Phasen stark auf Feuerschaden, deshalb wird Fire Resistance empfohlen. Einen belastbaren Zielwert nennt keine der Quellen. Für Barrow Deeps und Hyjal Summit rät ein Guide ausdrücklich davon ab, auf Verdacht Resistenz-Sets zu farmen, da keine veröffentlicht sei. Jeder Raider braucht das Drakefire Amulet im Rucksack, ausgerüstet muss es nicht sein.",
+          "quellen": [
+            { "name": "Accountshark: Onyxia Attunement and First-Raid Preparation", "url": "https://accountshark.net/blog/wow-forever-onyxia-attunement-drakefire-amulet-first-raid-preparation" },
+            { "name": "bald.gg: WoW Forever Raids Open 9 December", "url": "https://bald.gg/wow-forever/blog/wow-forever-raid-release-date-prep" }
+          ]
+        },
+        {
+          "titel": "Blackfathom Deeps: Altar und Avatar of Hakkar repariert",
+          "unterzeile": "Dungeon-Fixes aus dem Hotfix vom 25. November",
+          "text": "Der Hotfix vom 25. November repariert in Blackfathom Deeps den Altar und das Erscheinen des Avatar of Hakkar. Zur Erinnerung: Seit dem Hotfix vom 20. November sind Instanz-Resets auf 5 pro Stunde begrenzt (vorher 10).",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" },
+            { "name": "GameRant: Instance Cap halved", "url": "https://gamerant.com/wow-forever-instance-cap-halved-gold-crackdown/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Raids ab 9. Dezember",
+        "punkte": [
+          "Barrow Deeps: 10 Spieler, 8 Bosse",
+          "Hyjal Summit: 20 Spieler, 13 Bosse",
+          "Onyxia's Lair: 40 Spieler, Drakefire Amulet nötig",
+          "Wöchentlicher Reset: laut Guide-Seiten geplant, nicht bestätigt"
+        ],
+        "quellen": [
+          { "name": "forg.gg: WoW Forever raids", "url": "https://forg.gg/en/forever/guides/raids" }
+        ]
+      }
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Quest-Fixes in Hyjal, Silithus und Searing Gorge",
+          "unterzeile": "Viele kleine Korrekturen im Hotfix vom 25. November",
+          "text": "Der Hotfix vom 25. November enthält Korrekturen in Mount Hyjal, bei der Horde-Quest „Saving the Best for Last“, bei den Encrypted Twilight Texts in Silithus und in Searing Gorge. Die Dauer von Scarlet Illusion beträgt jetzt eine Stunde. Wer in den Gebieten feststeckte, sollte die Quests erneut prüfen.",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" }
+          ]
+        },
+        {
+          "titel": "Gruppen-Quests teilen Drops und Credit",
+          "unterzeile": "Heart of Crystal und Powering the Pylons werden entschärft",
+          "text": "Mehrere Quests teilen jetzt Drops und Fortschritt mit Gruppenmitgliedern, darunter das Depleted Crystal Heart für „Heart of Crystal“ und die Pylon-Reparaturen in „Powering the Pylons“. Bei „Going Home“ flieht der Rokren-Begleiter jetzt langsamer. Das nimmt Druck aus typischen Konkurrenzsituationen um Quest-Mobs.",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" },
+            { "name": "Conquest Capped: Patch Notes", "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-patch-notes/" }
+          ]
+        },
+        {
+          "titel": "Journeyman Riding für Paladin und Warlock per Quest",
+          "unterzeile": "Auch Spieler, die die Quests früher abgeschlossen haben, sollen es bekommen",
+          "text": "Paladine und Warlocks erhalten Journeyman Riding beim Abschluss bestimmter Quests. Laut Hotfix-Notes gibt es zudem NPCs für Spieler, die die Quests bereits vor dem Fix beendet hatten. Die genauen Quest-Namen stehen im Blizzard-Post.",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" }
+          ]
+        },
+        {
+          "titel": "Mount Hyjal: Zugang über Winterspring",
+          "unterzeile": "Level-Angaben der Guides gehen auseinander",
+          "text": "Der Zugang zu Mount Hyjal liegt laut Guide-Seite auf der Ostseite von Winterspring bei Darkwhisper Gorge. Wo die Zone beginnt, ist uneinheitlich: Eine Seite nennt die Gruppensuche mit Hyjal bei 55 bis 60, eine andere sagt, die Quests öffnen etwa bei 54 und die meisten sind 56 bis 60. Sportskeeda führt Hyjal bei Level 60. Blizzard hat laut einer Guide-Seite keine offizielle Zonenliste veröffentlicht.",
+          "quellen": [
+            { "name": "WoW Forever Leveling: Mount Hyjal", "url": "https://wowforeverleveling.com/guides/mount-hyjal-wow-forever" },
+            { "name": "Sportskeeda: WoW Forever level ranges", "url": "https://www.sportskeeda.com/mmo/wow-forever-level-ranges-zones" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Mining-Tipp",
+        "punkte": [
+          "Miner können seit dem 25. November Spectral Iron Ore tracken"
+        ],
+        "quellen": [
+          { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" }
+        ]
+      }
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Cooldown-Crafts: Arcanite alle 47 Stunden",
+          "unterzeile": "Forever-Cooldowns sind etwas kürzer als in Classic",
+          "text": "Laut einer Auswertung von Timesaver, die sich auf Wowhead-Forever-Daten beruft, läuft die Cooldown von Transmute: Arcanite 47 Stunden, Mooncloth 95 Stunden, das Salt Shaker 2 Tage 23 Stunden, die acht Essence-Transmutes jeweils 23 Stunden. Als gewinnbringendste Option nennt die Seite Arcanite mit rund 12,61 Gold pro Tag auf US-Preisen. Achtung: Die Seite verkauft selbst Gold-Dienste, Preise sind Momentaufnahmen und in EU anders. Beim Mooncloth-Pattern widersprechen sich Quellen (Tailoring 230 vs. 250).",
+          "quellen": [
+            { "name": "Timesaver: WoW Forever Profession Cooldowns", "url": "https://timesaver.gg/blog/wow-forever-profession-cooldowns-gold" }
+          ]
+        },
+        {
+          "titel": "Gold-Guides sind sich einig: Erst sammeln, dann craften",
+          "unterzeile": "Zahlen stammen aus der Beta-Zeit und widersprechen sich",
+          "text": "Mehrere Guides empfehlen zwei Sammelberufe wie Mining plus Herbalism oder Mining plus Skinning, weil sie keine Anfangsinvestition brauchen. Rohstoffe wie Linen Cloth oder Copper Ore lassen sich an Spieler verkaufen, die Berufe leveln. Crafting und Auktionshaus-Flipping skalieren später. GameLeap und andere weisen darauf hin, dass sich Preise je Realm und Tag stark unterscheiden. Mehrere dieser Seiten gehören Gold- oder Boosting-Anbietern.",
+          "quellen": [
+            { "name": "GameLeap: WoW: Forever Professions and Gold Making Guide", "url": "https://www.gameleap.com/articles/wow-forever-professions-gold-guide" },
+            { "name": "Conquest Capped: Gold Making Guide", "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-gold-making/" }
+          ]
+        },
+        {
+          "titel": "Seed Hybridizer zurück, Scarce Herb Seeds ausgenommen",
+          "unterzeile": "Der Hotfix vom 19. November bringt Herbalism-Handwerk mit Ausfallchance zurück",
+          "text": "Der Seed Hybridizer wurde am 19. November wieder aktiviert, mit angepassten Werten und einer Fehlschlagchance. Scarce Herb Seeds sind ausgenommen. Wer mit dem Gerät Gold verdienen wollte, muss die neuen Werte also neu durchrechnen.",
+          "quellen": [
+            { "name": "Conquest Capped: Patch Notes", "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-patch-notes/" }
+          ]
+        },
+        {
+          "titel": "Rogue-Gifte BoP: Auswirkungen aufs Auktionshaus",
+          "unterzeile": "Vorübergehende Sperre dürfte das Angebot verknappen – das ist unsere Einschätzung",
+          "text": "Weil Rogue-Gifte und Blinding Powder vorübergehend Bind on Pickup sind, können sie nicht gehandelt werden. Das ist die Faktenlage laut Blizzard. Was das für Preise bedeutet, ist offen – Auktionshaus-Daten dazu liegen uns nicht vor. Wer Gifte handelt, sollte die Entwicklung beobachten.",
+          "quellen": [
+            { "name": "Blizzard News: Hotfixes – November 25, 2026", "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Cooldown-Übersicht (laut Timesaver)",
+        "punkte": [
+          "Arcanite/Legionite: 47 Stunden",
+          "Mooncloth: 95 Stunden",
+          "Salt Shaker: 2 Tage 23 Stunden",
+          "Essence-Transmutes: 23 Stunden"
+        ],
+        "quellen": [
+          { "name": "Timesaver: Profession Cooldowns", "url": "https://timesaver.gg/blog/wow-forever-profession-cooldowns-gold" }
+        ]
+      }
+    },
+    {
+      "titel": "Community: Rekorde, Gilden, Streamer, Server",
+      "artikel": [
+        {
+          "titel": "Blackmaw-Hold-Exploit: Gold weg, Accounts gesperrt",
+          "unterzeile": "Blizzard unterscheidet zwischen Versehen und Absicht",
+          "text": "Am 17. November kündigte Blizzard an, Gold aus dem Blackmaw-Hold-Exploit zu entfernen und massive Abuser zu sperren. Spieler, die den Dungeon nur gelegentlich liefen, wurden laut Berichten nicht belangt. Massively OP titelte, die Maßnahmen wirkten bei Influencern weicher. Dazu gibt es unterschiedliche Berichte, die wir nicht im Detail prüfen konnten.",
+          "quellen": [
+            { "name": "Icy Veins: Account suspensions and gold removal", "url": "https://www.icy-veins.com/wow-forever/news/account-suspensions-and-gold-removal-for-blackmaw-hold-exploit-abusers/" },
+            { "name": "Massively OP: Actions appear softer for influencers", "url": "https://massivelyop.com/2026/11/18/world-of-warcraft-forevers-actions-against-significant-abusers-of-gold-exploit-appear-softer-for-influencers/" }
+          ]
+        },
+        {
+          "titel": "Erste Level-60-Spieler: Gleiches Team wie in Classic",
+          "unterzeile": "Vice berichtet über das Rennen nach dem Launch",
+          "text": "Laut Vice erreichten die ersten Spieler binnen Tagen nach dem Launch Level 60, und das Team, das schon das ursprüngliche Classic-Rennen gewann, gewann auch dieses. Ranglisten wie Forever Pulse und AOTC führen Top-Listen, die auf Selbstmeldungen beruhen; die Angaben sind Momentaufnahmen.",
+          "quellen": [
+            { "name": "Vice: Forever Has Its First Level 60 Player", "url": "https://www.vice.com/en/article/world-of-warcraft-forever-has-its-first-level-60-player/" },
+            { "name": "AOTC: WoW Forever First to 60", "url": "https://www.aotc.gg/forever/first-to-60" }
+          ]
+        },
+        {
+          "titel": "Progress-Roster mit Naowh",
+          "unterzeile": "Mobalytics führt die Gilde als Raid-Team",
+          "text": "Laut Mobalytics zählt zum Roster der Progress-Gilde für Forever auch Naowh, bekannt als Tank und Streamer mit großer Mythic+-Erfahrung. Mehr als die Roster-Übersicht liefert die Quelle nicht.",
+          "quellen": [
+            { "name": "Mobalytics: Progress WoW Forever Roster", "url": "https://mobalytics.gg/wow-forever/progress-team" }
+          ]
+        },
+        {
+          "titel": "Forever Community: Hub mit Gilden und Blocklist",
+          "unterzeile": "Ehrenamtlich, nicht von Blizzard",
+          "text": "Forever Community ist ein von Freiwilligen betriebener Hub mit Gildenseiten, Spielerprofilen, News, Events und „Forever Justice“, einer Community-Blocklist samt Ingame-Addon. Die Seite ist nicht mit Blizzard verbunden. Gildensuchende finden zudem Listen auf guildsforever.com.",
+          "quellen": [
+            { "name": "Forever Community", "url": "https://forevercommunity.org/" },
+            { "name": "Guilds Forever", "url": "https://guildsforever.com/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Hinweis",
+        "punkte": [
+          "Offizielle Spielerzahlen nennt keine der Quellen",
+          "Ranglisten sind Selbstauskünfte"
+        ],
+        "quellen": [
+          { "name": "AOTC: First to 60", "url": "https://www.aotc.gg/forever/first-to-60" }
+        ]
+      }
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Onyxia-Attunement: Wo die Ketten starten",
+          "unterzeile": "Die Forever-Kette kann von der Classic-Version abweichen",
+          "text": "Laut einem Forever-Guide startet die Allianz-Kette mit „Dragonkin Menace“ bei Helendis Riverhorn in Morgan's Vigil (Burning Steppes) und endet mit einem Kill von General Drakkisath in Upper Blackrock Spire. Die Horde beginnt mit „Blood and Thunder“ bei Warlord Goretooth in Kargath (Badlands) und hat deutlich mehr Open-World-Wege. Viele Guides im Netz beschreiben die alte Classic-Kette; Namen und Schritte prüfen.",
+          "quellen": [
+            { "name": "ExpCarry: WoW Forever Onyxia Attunement Guide", "url": "https://expcarry.com/wow-forever-onyxia-attunement-guide" },
+            { "name": "Accountshark: Onyxia Attunement", "url": "https://accountshark.net/blog/wow-forever-onyxia-attunement-drakefire-amulet-first-raid-preparation" }
+          ]
+        },
+        {
+          "titel": "Sayge-Buffs: Diese Antworten geben welchen Buff",
+          "unterzeile": "Zwei Stunden Dauer, in Raids nicht nutzbar",
+          "text": "Beim Darkmoon Faire gibt der Gnoll Sayge einen 2-Stunden-Buff je nach Antworten: Damage 1/1, Stamina 3/1, Strength 3/2, Agility 3/3, Spirit 2/1 oder 4/2, Intelligence 2/2 oder 4/1, Resistance 1/2 oder 2/3, Armor 1/3 oder 4/3. World Buffs sind in Forever-Raids nicht nutzbar. Eine 14-Slot-Tasche kostet 50 Darkmoon Prize Tickets.",
+          "quellen": [
+            { "name": "Warcraft Tavern: The Darkmoon Faire is Now Open in WoW Forever", "url": "https://www.warcrafttavern.com/forever/news/the-darkmoon-faire-is-now-open-in-wow-forever/" }
+          ]
+        },
+        {
+          "titel": "Pre-Raid: Level 60 heißt nicht raid-ready",
+          "unterzeile": "Gold und Gear zuerst – rät ein Guide",
+          "text": "Ein Pre-Raid-Guide von dving.net betont, dass Level 60 nicht automatisch raid-ready bedeutet: Das meiste beim Leveln gesammelte Equipment wird ersetzt, und wer ohne Gold-Reserve in die Raid-Progression geht, bekommt Probleme. Timesaver bietet eine Checkliste mit neun Punkten vor dem Raid-Start am 9. Dezember.",
+          "quellen": [
+            { "name": "dving.net: WoW Forever Pre-Raid Guide", "url": "https://dving.net/guides/wow-forever-pre-raid-guide" },
+            { "name": "Timesaver: Raid Prep Checklist", "url": "https://timesaver.gg/blog/wow-forever-raids-dec-9-prep-checklist" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Tipp",
+        "punkte": [
+          "Dungeon-Journal-Addon zeigt Boss-Drops für deine Klasse (Empfehlung eines Guides)"
+        ],
+        "quellen": [
+          { "name": "Conquest Capped: What to do at 60", "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-what-to-do-at-60/" }
+        ]
+      }
+    },
+    {
+      "titel": "Blizzard: Ankündigungen, Interviews, Entwickler-Aussagen",
+      "artikel": [
+        {
+          "titel": "WoW Celebration Pass: 365 Tage Spielzeit",
+          "unterzeile": "Zeitlich begrenztes Angebot zum Forever-Launch",
+          "text": "Laut dem WoW Weekly vom 25. November bietet Blizzard den WoW Celebration Pass an: 365 Tage Spielzeit zu einem Sonderpreis. Bestandsspieler können sie ihrer Spielzeit oder ihrem Abo hinzufügen. Enthalten sind Forever, Classic und modernes WoW vor Midnight. Das Angebot gilt „für begrenzte Zeit“, ein Enddatum steht nicht im Post.",
+          "quellen": [
+            { "name": "Blizzard: WoW Weekly (25. November)", "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315647" }
+          ]
+        },
+        {
+          "titel": "„Al'Aketh Rising“: Neues Forever-Comic",
+          "unterzeile": "Constable Aonda der Skyborne in einer streng kontrollierten Siedlung",
+          "text": "Blizzard hat das Forever-Comic „Al'Aketh Rising“ veröffentlicht. Es folgt Constable Aonda der Skyborne in eine abgelegene, streng kontrollierte Siedlung und steht als PDF zum Download bereit. Das Wowhead-Newsfeed führt dazu ein Motion-Comic mit Datum 25. November.",
+          "quellen": [
+            { "name": "Blizzard: WoW Weekly (25. November)", "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315647" },
+            { "name": "Wowhead: WoW Forever News", "url": "https://www.wowhead.com/forever/news" }
+          ]
+        },
+        {
+          "titel": "Vier-Monats-Takt: Blizzard peilt rund 17 Wochen an",
+          "unterzeile": "Laut Hotspawn begründete Principal Game Designer Kris Zierhut den Rhythmus im IGN-Interview",
+          "text": "Hotspawn fasst die Roadmap so zusammen: Blizzard zielt auf etwa 17 Wochen zwischen großen Updates, Zierhut sah im IGN-Interview darin die richtige Balance. Für Frühjahr 2027 sind zwei neue Raids (ein 10er, ein 20er) genannt; welcher Classic-Raid überarbeitet wird, ist laut Quellen unbestätigt.",
+          "quellen": [
+            { "name": "Hotspawn: WoW Forever Roadmap Explained", "url": "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-roadmap" }
+          ]
+        },
+        {
+          "titel": "Hardcore: Weiterhin ohne Termin",
+          "unterzeile": "Blizzard im Launch-Post: „sometime after launch“",
+          "text": "Der Launch-Post vom 29. Oktober sagt, das Hardcore-Regelwerk werde „irgendwann nach dem Launch“ verfügbar. Hotspawn und Guide-Seiten verorten es im Winter 2026/27, bestätigt ist das nicht. Die Details zu eigenen Hardcore-Servern stammen aus Sekundärquellen.",
+          "quellen": [
+            { "name": "Hotspawn: WoW Forever Roadmap Explained", "url": "https://www.hotspawn.com/world-of-warcraft/news/wow-forever-roadmap" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Blizzard in Kürze",
+        "punkte": [
+          "Celebration Pass: 365 Tage, kein Enddatum genannt",
+          "Comic „Al'Aketh Rising“ als PDF",
+          "Hardcore: kein Termin"
+        ],
+        "quellen": [
+          { "name": "Blizzard: WoW Weekly", "url": "https://worldofwarcraft.blizzard.com/en-us/news/24315647" }
+        ]
+      }
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Noch 13 Tage bis zum Raid-Start",
+          "unterzeile": "9. Dezember: Barrow Deeps, Hyjal Summit, Onyxia",
+          "text": "Am 9. Dezember 2026 öffnen die ersten drei Raids. Die Zeit bis dahin reicht für Attunement, Resistenz-Planung und Gold-Reserven – siehe Guides-Seite. GameRant nennt den Termin ebenfalls.",
+          "quellen": [
+            { "name": "GameRant: Instance cap halved", "url": "https://gamerant.com/wow-forever-instance-cap-halved-gold-crackdown/" },
+            { "name": "forg.gg: WoW Forever raids", "url": "https://forg.gg/en/forever/guides/raids" }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire kehrt am 7. Dezember zurück",
+          "unterzeile": "Laut Warcraft Tavern in Mulgore, zwei Tage vor den Raids",
+          "text": "Die erste Faire lief vom 9. bis 15. November in Elwynn Forest. Warcraft Tavern nennt als Rückkehr den 7. Dezember in Mulgore. Mein-MMO spricht vom Dezemberbeginn; Blizzard hat laut Berichten nichts angekündigt, die Daten stammen aus Client-Daten. Im Ingame-Kalender nachschauen.",
+          "quellen": [
+            { "name": "Warcraft Tavern: Darkmoon Faire", "url": "https://www.warcrafttavern.com/forever/news/the-darkmoon-faire-is-now-open-in-wow-forever/" },
+            { "name": "Mein-MMO: Darkmoon Faire", "url": "https://mein-mmo.de/en/wow-forever-darkmoon-faire-all-about-dates-rewards-duration-and-more,1595635/" }
+          ]
+        },
+        {
+          "titel": "Winter Veil: Kein bestätigtes Datum für Forever",
+          "unterzeile": "Nur Vorjahres-Zeiträume bekannt",
+          "text": "Für Forever liegt uns kein offizielles Winter-Veil-Datum vor. Im Vorjahr lief das Event auf Live-Servern vom 15. Dezember bis 2. Januar. Ob Forever dasselbe Fenster nutzt, ist unbestätigt.",
+          "quellen": [
+            { "name": "Icy Veins: Winter Veil 2025", "url": "https://www.icy-veins.com/wow/news/winter-veil-2025-is-smaller-than-you-think-but-one-reward-matters/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kalender",
+        "punkte": [
+          "7. Dez: Darkmoon Faire (laut Warcraft Tavern, Mulgore)",
+          "9. Dez: Raids öffnen",
+          "Winter Veil: kein bestätigtes Forever-Datum"
+        ],
+        "quellen": [
+          { "name": "Warcraft Tavern: Darkmoon Faire", "url": "https://www.warcrafttavern.com/forever/news/the-darkmoon-faire-is-now-open-in-wow-forever/" }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Raid-Check in fünf Minuten",
+    "text": "Mach dir vor dem 9. Dezember eine kurze Liste: Ist dein Attunement-Fortschritt klar, wie viele Gold-Reserven hast du für Repairs, und hast du Platz im Rucksack für Consumables? Schreib dir auf, was fehlt, und arbeite pro Abend einen Punkt ab."
+  }
+}
