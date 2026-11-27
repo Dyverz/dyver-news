@@ -1,0 +1,675 @@
+{
+  "gruss": "Guten Morgen, Azeroth! Freitag, 27. November: Der Hotfix von Mittwoch bringt mehr als Druiden-Talente, der Raid-Start am 9. Dezember ist noch 12 Tage entfernt, und das 365-Tage-Angebot läuft bis 7. Dezember.",
+  "aufmacher": {
+    "rubrik": "Hotfixes & Vorbereitung",
+    "titel": "Hotfix-Liste mit Items, Dungeons und Quests, noch 12 Tage bis zum Raid-Start",
+    "unterzeile": "Neben dem Balance-Umbau repariert Blizzard Items, Dungeons und Quests; die Raids öffnen am 9. Dezember",
+    "text": "Die jüngste Hotfix-Liste enthält neben Balance-Druiden und Alterac Valley viele kleine Korrekturen: Items wie Libram of Law und Blackhand's Breadth, Altar und Avatar in zwei Dungeons sowie Quests in Silithus, Searing Gorge und den Western Plaguelands. Quellen sind Blizzard, Wowhead und MeinMMO.\n\nGleichzeitig rückt der Raid-Start näher: Barrow Deeps, Hyjal Summit und Onyxia's Lair öffnen am 9. Dezember weltweit zeitgleich, eine Uhrzeit nennt Blizzard bisher nicht. Die Boss-Namen für Barrow Deeps stammen aus Datamining und sind nicht offiziell. Das Celebration-Pass-Angebot mit 365 Tagen Spielzeit für 120 Dollar läuft laut Händlerseiten bis 7. Dezember.",
+    "quellen": [
+      {
+        "name": "Blizzard News: WoW: Forever Hotfixes – November 25, 2026",
+        "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026"
+      },
+      {
+        "name": "MeinMMO: WoW Forever Hotfixes vom 26. November 2026",
+        "url": "https://mein-mmo.de/en/wow-forever-hotfixes-from-november-26-2026-with-love-for-owls-and-the-end-of-the-alterac-valley-sprint-german-patch-notes,1597949/"
+      },
+      {
+        "name": "Wowhead: Forever Roadmap",
+        "url": "https://www.wowhead.com/forever/guide/content-release-roadmap"
+      },
+      {
+        "name": "gg.deals: WoW Black Friday Deal 2026",
+        "url": "https://gg.deals/deal/wow-black-friday-deal-2026"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Hotfixes & Patches",
+      "artikel": [
+        {
+          "titel": "Hotfix-Nacht auf den 26. November: Items, Dungeons, Quests",
+          "unterzeile": "Neben den Klassen-Änderungen stehen viele kleine Reparaturen in der Liste",
+          "text": "Die Hotfix-Liste vom 25. auf den 26. November besteht nicht nur aus Druid-Talenten. Laut MeinMMO und Wowhead wurden auch zahlreiche Item-Fehler behoben: Das Totem of the Storm heißt jetzt Totem of the Maelstrom, Blackblade of Shahram wirkt wieder korrekt nur für den Träger, Libram of Law wirkt jetzt auf Judgement of Command, und Blackhand's Breadth kann nicht mehr resistet werden. Außerdem darf man die Night Watchman's Torch wieder auf dem Mount oder beim Zaubern benutzen.\n\nIn den Dungeons ist der Altar in Blackfathom Deeps nach 3 Sekunden wieder nutzbar und gibt den Blessing of Blackfathom, und der Avatar of Hakkar im Temple of Atal'Hakkar soll wieder erscheinen. Die Angaben stammen aus Zusammenfassungen von Dritten; maßgeblich bleibt die Blizzard-Liste.\n\nEine Build-Nummer nennt die Zusammenfassung von MeinMMO nicht. Andere Seiten nennen für Patch 1.60.1 abweichende Build-Nummern, deshalb verzichten wir hier auf eine.",
+          "quellen": [
+            {
+              "name": "MeinMMO: WoW Forever Hotfixes vom 26. November 2026",
+              "url": "https://mein-mmo.de/en/wow-forever-hotfixes-from-november-26-2026-with-love-for-owls-and-the-end-of-the-alterac-valley-sprint-german-patch-notes,1597949/"
+            },
+            {
+              "name": "Wowhead: Hotfixes vom 25. November",
+              "url": "https://www.wowhead.com/news=384000/fixes-for-legacy-points-classes-and-quests-wow-forever-hotfixes-for-november"
+            },
+            {
+              "name": "Blizzard News: WoW: Forever Hotfixes – November 25, 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Alterac Valley: Neue Schwelle für den Long-Match-Bonus",
+          "unterzeile": "Statt 60 Minuten reichen jetzt 20 für die Bonus-Reputation",
+          "text": "Laut MeinMMO liegt die Schwelle für den Long-Match-Bonus in Alterac Valley jetzt bei 20 statt bisher 60 Minuten. Generäle und Warmasters/Marshals bekommen einen Buff, solange Ziele offen sind: Er hält 20 Minuten, startet mit 4 Stacks, und jedes eroberte Ziel entfernt einen Stack. Zusätzlich leashen die Marshals und Warmasters, wenn sie ihre Räume verlassen, und reagieren aus größerer Entfernung. Wowhead berichtet, dass Blizzard die Reputation damit zum zweiten Mal erhöht hat.",
+          "quellen": [
+            {
+              "name": "MeinMMO: WoW Forever Hotfixes vom 26. November 2026",
+              "url": "https://mein-mmo.de/en/wow-forever-hotfixes-from-november-26-2026-with-love-for-owls-and-the-end-of-the-alterac-valley-sprint-german-patch-notes,1597949/"
+            },
+            {
+              "name": "Wowhead: Alterac Valley Reputation Increased Again",
+              "url": "https://www.wowhead.com/forever/news/alterac-valley-reputation-increased-again-in-wow-forever-383999"
+            }
+          ]
+        },
+        {
+          "titel": "Lockbox-Fix bleibt vorerst eine Notlösung",
+          "unterzeile": "Peeking ist abgeschaltet, ein richtiger Fix steht aus",
+          "text": "Seit dem 22. November kann man Lockboxen nicht mehr einsehen, ohne sie zu looten. Blizzard-Community-Manager Kaivax bezeichnete das als temporäre Maßnahme. Hintergrund: Der Inhalt einer ungeöffneten Box änderte sich je nach Charakter, der sie ansah, und Rogues konnten so offenbar Rezepte rerollen. Ein Fix, der Peeking und Teil-Looting zurückbringt, ist in Arbeit; einen Termin gibt es laut den Berichten nicht. Im selben Zug wurde der Stunden-Reset-Limit für Dungeons von 10 auf 5 gesenkt und die Loot-Tabelle des Sentinel in Uldaman geleert.",
+          "quellen": [
+            {
+              "name": "Mobalytics: Blizzard Addresses Lockbox Exploit, Uldaman Loot Removed",
+              "url": "https://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-lockbox-exploit-uldaman-loot-removed-new-mounts-and-more"
+            },
+            {
+              "name": "PlayCentral: WoW Forever blockt Lockbox-Exploit per Hotfix",
+              "url": "https://www.playcentral.de/wow-forever-lockbox-exploit-hotfix/"
+            },
+            {
+              "name": "The Forever Era: Blizzard-News-Archiv",
+              "url": "https://theforeverera.com/en/news/"
+            }
+          ]
+        },
+        {
+          "titel": "Wo Hotfixes stehen: Blizzard-News und Forum",
+          "unterzeile": "Eine laufende Liste, der neueste Tag steht oben",
+          "text": "Blizzard sammelt die Hotfixes für WoW: Forever in einer fortlaufenden Liste auf Blizzard News, dazu gibt es einen Forum-Thread. Der neueste Tag steht jeweils oben. Dritt-Seiten fassen die Änderungen zusammen, weichen aber im Detail ab. Wer genau wissen will, was geändert wurde, sollte deshalb im Zweifel die Blizzard-Liste lesen.",
+          "quellen": [
+            {
+              "name": "Blizzard News: WoW: Forever Hotfixes – November 25, 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026"
+            },
+            {
+              "name": "The Forever Era: Blizzard-News-Archiv",
+              "url": "https://theforeverera.com/en/news/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Hotfix 25./26. November in Stichpunkten",
+        "punkte": [
+          "Patch laut Wowhead: 1.60.1 (Build-Nummer in den Quellen uneinheitlich)",
+          "Druid: Hurricane trifft wieder mit dem letzten Tick, Balance-Talente umgebaut",
+          "Hunter: Pets hatten 0 % Melee-Crit, behoben; Hawks greifen Ziel an",
+          "Alterac Valley: Long-Match-Schwelle 20 Minuten, mehr Reputation für Ziele",
+          "Items: Totem of the Maelstrom, Libram of Law, Blackhand's Breadth u. a.",
+          "Lockboxen: Peeking weiter abgeschaltet (temporär)"
+        ],
+        "quellen": [
+          {
+            "name": "MeinMMO: WoW Forever Hotfixes vom 26. November 2026",
+            "url": "https://mein-mmo.de/en/wow-forever-hotfixes-from-november-26-2026-with-love-for-owls-and-the-end-of-the-alterac-valley-sprint-german-patch-notes,1597949/"
+          },
+          {
+            "name": "Wowhead: Hotfixes vom 25. November",
+            "url": "https://www.wowhead.com/news=384000/fixes-for-legacy-points-classes-and-quests-wow-forever-hotfixes-for-november"
+          },
+          {
+            "name": "Mobalytics: Blizzard Addresses Lockbox Exploit, Uldaman Loot Removed",
+            "url": "https://mobalytics.gg/wow-forever/news/wow-forever-news-blizzard-addresses-lockbox-exploit-uldaman-loot-removed-new-mounts-and-more"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klassen & Balance",
+      "artikel": [
+        {
+          "titel": "Balance-Druide: Was die neuen Talente im Detail tun",
+          "unterzeile": "Starlight Wrath, Moon and Stars und Dreamstate im Überblick",
+          "text": "Laut MeinMMO verkürzt Starlight Wrath (früher Improved Wrath) die Cast-Zeit von Starfire um 0,1 bis 0,5 Sekunden. Moon and Stars (früher Improved Moonfire) gibt Starfire eine Chance von 50 oder 100 Prozent, bei Schaden die Cast-Zeit zu behalten. Improved Starfire ist auf 2 Punkte gekürzt; wer 3 oder mehr Punkte hatte, bekommt die Talentpunkte zurück. Dreamstate ersetzt Moonfury und gibt 20 bis 100 Prozent des Innervate-Effekts, wenn man ihn auf andere wirkt. Genesis erhöht jetzt auch Hurricane-Schaden und Tranquility-Heilung korrekt.",
+          "quellen": [
+            {
+              "name": "MeinMMO: WoW Forever Hotfixes vom 26. November 2026",
+              "url": "https://mein-mmo.de/en/wow-forever-hotfixes-from-november-26-2026-with-love-for-owls-and-the-end-of-the-alterac-valley-sprint-german-patch-notes,1597949/"
+            },
+            {
+              "name": "Icy Veins: Forever Balance Druid Talent Changes and Tuning",
+              "url": "https://www.icy-veins.com/wow-forever/news/forever-balance-druid-talent-changes-and-tuning/"
+            }
+          ]
+        },
+        {
+          "titel": "Hunter-Pets: 0 % Crit behoben, Hawks hören zu",
+          "unterzeile": "Der Fix gilt auch für Warlock-Pets",
+          "text": "Der Hotfix behebt, dass Hunter-Pets 0 Prozent Melee-Crit hatten. Bei Beast Mastery greifen beschworene Hawks jetzt auch bei Passive-Pet ihr Ziel an, lassen sich per Dismiss Pet oder Rechtsklick entlassen und greifen im Idle das aktuelle Ziel an. Warlock-Pets bekamen ebenfalls eine Korrektur, Succubus und Incubus hatten 5 Prozent zu viel Crit.",
+          "quellen": [
+            {
+              "name": "MeinMMO: WoW Forever Hotfixes vom 26. November 2026",
+              "url": "https://mein-mmo.de/en/wow-forever-hotfixes-from-november-26-2026-with-love-for-owls-and-the-end-of-the-alterac-valley-sprint-german-patch-notes,1597949/"
+            },
+            {
+              "name": "Blizzard News: WoW: Forever Hotfixes – November 25, 2026",
+              "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026"
+            }
+          ]
+        },
+        {
+          "titel": "Podcast Folge 8: Survival, Warlock, Arms",
+          "unterzeile": "Was die Designer zu weiteren Klassen sagen",
+          "text": "In der achten Folge des offiziellen Forever-Podcasts nennen die Designer das Survival-Capstone Lacerating Strikes unterdimensioniert. Geplant ist, den Schaden von Mongoose Bite zu erhöhen und den Effekt stapeln zu lassen, doch man wartet auf Raid-Daten. Bei Warlocks kam der Vorschlag, Demonology-Talente zusammenzulegen, zu spät für den Launch; man wolle es sauber designen. Für Arms-Krieger sehen die Entwickler keinen großen Änderungsbedarf.",
+          "quellen": [
+            {
+              "name": "Blizzard Watch: Official WoW Forever Podcast episode 8",
+              "url": "https://blizzardwatch.com/2026/11/24/official-wow-forever-podcast-episode-8-discusses-class-changes-pvp-and-economy/"
+            },
+            {
+              "name": "PCGamesN: Forever devs on healer shortage and class balance",
+              "url": "https://www.pcgamesn.com/world-of-warcraft/forever-podcast-healer-shortage-class-balance"
+            }
+          ]
+        },
+        {
+          "titel": "Wer spielt was? Hunter vorn, Rogue hinten",
+          "unterzeile": "Census-Zahlen zu Klassen, Specs und Rassen",
+          "text": "Laut Icy Veins ist der Hunter mit rund 15,1 Prozent die meistgespielte Klasse, 1,6 Punkte vor dem Paladin. Rogues sind mit 8,4 Prozent am seltensten. Bei den Specs dominieren Retribution (63,9 Prozent der Paladine), Feral (70,3 Prozent der Druiden) und Beast Mastery (rund 74 Prozent der Hunter); bei Mages liegt Frost vorn. Prozentzahlen schwanken je nach Datum und Ruleset.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Top Specs and Combos",
+              "url": "https://www.icy-veins.com/wow-forever/news/top-specs-and-combos-wow-forever-class-and-race-popularity-faction-balance-and-more-stats/"
+            },
+            {
+              "name": "Raider.IO: WoW Forever Population",
+              "url": "https://forever.raider.io/population"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Census in Zahlen (Icy Veins)",
+        "punkte": [
+          "Hunter 15,1 % – meistgespielt",
+          "Rogue 8,4 % – am seltensten",
+          "Ret-Paladin 63,9 % vs. Protection 24 %",
+          "Feral-Druide 70,3 %",
+          "Frost-Mage 57 %, Arcane 28 %"
+        ],
+        "quellen": [
+          {
+            "name": "Icy Veins: Top Specs and Combos",
+            "url": "https://www.icy-veins.com/wow-forever/news/top-specs-and-combos-wow-forever-class-and-race-popularity-faction-balance-and-more-stats/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Dungeons & Raids",
+      "artikel": [
+        {
+          "titel": "Barrow Deeps: Das ist offiziell bekannt",
+          "unterzeile": "10 Spieler, acht Bosse, kein Attunement",
+          "text": "Laut Blizzards Raid-Übersicht ist Barrow Deeps ein 10-Spieler-Raid auf Level 60 mit acht Bossen. Die Eingänge liegen bei Mount Hyjal, Winterspring und Blackmaw Hold. Ein Attunement ist für Barrow Deeps und Hyjal Summit nicht nötig. Die Boss-Namen, die Fan-Seiten nennen (etwa Sonya Darkhallow oder Elder Tangleclaw), stammen aus Datamining und Beta-Material und sind nicht offiziell. Gekämpft hat bisher niemand dagegen; Strategien gibt es noch nicht.",
+          "quellen": [
+            {
+              "name": "Blizzard: Raid Overview – Locations, Raid Sizes, and Attunement",
+              "url": "http://worldofwarcraft.blizzard.com/en-gb/news/24303009"
+            },
+            {
+              "name": "ForeverDB: The Barrow Deeps",
+              "url": "https://foreverdb.net/guide/barrow-deeps"
+            },
+            {
+              "name": "Conquest Capped: WoW Forever Raids December 9",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-raids-overview/"
+            }
+          ]
+        },
+        {
+          "titel": "Schwierigkeit: Naxxramas-Niveau als Ziel",
+          "unterzeile": "Entwickler zu den Raids am 9. Dezember",
+          "text": "In einem Interview Anfang November sagten Kris Zierhut und Josh Greenfield laut Wowhead-Zusammenfassung, die Bosse sollten etwa so schwer sein wie ein typischer Naxxramas-Boss und damit härter als Molten Core. Barrow Deeps soll sich eher wie Karazhan anfühlen als wie Upper Blackrock Spire. Die Raids öffnen weltweit zeitgleich am Mittwoch, 9. Dezember; eine Uhrzeit nannte Blizzard bisher nicht.",
+          "quellen": [
+            {
+              "name": "EndgameTools: WoW Forever devs – global raid launch, no flying, Black Market",
+              "url": "https://endgametools.com/en/wow-forever/news/wow-forever-developers-raids-black-market"
+            },
+            {
+              "name": "Wowhead: Forever Roadmap",
+              "url": "https://www.wowhead.com/forever/guide/content-release-roadmap"
+            }
+          ]
+        },
+        {
+          "titel": "Dungeon-XP: Die 12-Level-Regel",
+          "unterzeile": "Anti-Boost-Regel wurde nach einem Tag entschärft",
+          "text": "Am 13. November führte Blizzard ein, dass Dungeon-Gegner null XP geben, wenn sie für ein Gruppenmitglied trivial sind. Nach Kritik der Spieler gilt die Regel seit dem 14. November nur noch, wenn ein Spieler mehr als 12 Level über den Gegnern liegt. Zuvor wurden die Dungeon-Kill-XP um 50 Prozent erhöht. Für bereits laufende Instanzen gilt die Änderung nicht.",
+          "quellen": [
+            {
+              "name": "Wowhead: Dungeon Mobs Grant Zero Experience if Trivial to Anyone in Party",
+              "url": "https://www.wowhead.com/forever/news/dungeon-mobs-grant-zero-experience-if-trivial-to-anyone-in-party-383880"
+            },
+            {
+              "name": "PC Gamer: WoW Forever dungeon mobs no longer give EXP if trivial",
+              "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Quests, Leveln & Gebiete",
+      "artikel": [
+        {
+          "titel": "Quest-Fixes im Detail: Silithus, Searing Gorge, Plaguelands",
+          "unterzeile": "Was der Hotfix an Quests repariert",
+          "text": "Laut MeinMMO droppen die Encrypted Twilight Texts in Silithus wieder für „Secret Communication“, „True Believers“ und „Still Believing“. Die wiederholbare Cenarion-Circle-Version ist absichtlich nicht verfügbar. In Searing Gorge gibt es für „STOLEN: Smithing Tuyere and Lookout's Spyglass“ zusätzliche Steamsmiths. In den Western Plaguelands hält die Scarlet Illusion bei „Scarlet Subterfuge“ jetzt 1 Stunde statt 30 Minuten. Die Horde-Quest „Saving the Best for Last“ lässt sich abschließen.",
+          "quellen": [
+            {
+              "name": "MeinMMO: WoW Forever Hotfixes vom 26. November 2026",
+              "url": "https://mein-mmo.de/en/wow-forever-hotfixes-from-november-26-2026-with-love-for-owls-and-the-end-of-the-alterac-valley-sprint-german-patch-notes,1597949/"
+            },
+            {
+              "name": "Wowhead: Hotfixes vom 25. November",
+              "url": "https://www.wowhead.com/news=384000/fixes-for-legacy-points-classes-and-quests-wow-forever-hotfixes-for-november"
+            }
+          ]
+        },
+        {
+          "titel": "Mount Hyjal: Blind Vengeance entschärft",
+          "unterzeile": "Explosive Runeshard machte den Felguard übermächtig",
+          "text": "Bei „Blind Vengeance“ in Mount Hyjal erhöhte der Explosive Runeshard den Mortal-Strike-Schaden des Felguard Sentinel zu stark. Das hat Blizzard laut MeinMMO behoben.",
+          "quellen": [
+            {
+              "name": "MeinMMO: WoW Forever Hotfixes vom 26. November 2026",
+              "url": "https://mein-mmo.de/en/wow-forever-hotfixes-from-november-26-2026-with-love-for-owls-and-the-end-of-the-alterac-valley-sprint-german-patch-notes,1597949/"
+            }
+          ]
+        },
+        {
+          "titel": "Riding-Skill für Paladin und Warlock",
+          "unterzeile": "Per Quest, bei Bedarf nachträglich kostenlos",
+          "text": "Paladine und Warlocks erhalten Journeyman Riding nach bestimmten Quests. Wer die Quests bereits erledigt hat, bekommt den Skill laut Hotfix-Notes kostenlos bei benannten NPCs. Zuvor hatte Blizzard einen Bug beim epischen Reitskill dieser Klassen gemeldet.",
+          "quellen": [
+            {
+              "name": "MeinMMO: WoW Forever Hotfixes vom 26. November 2026",
+              "url": "https://mein-mmo.de/en/wow-forever-hotfixes-from-november-26-2026-with-love-for-owls-and-the-end-of-the-alterac-valley-sprint-german-patch-notes,1597949/"
+            },
+            {
+              "name": "The Forever Era: Blizzard-News-Archiv",
+              "url": "https://theforeverera.com/en/news/"
+            }
+          ]
+        },
+        {
+          "titel": "Rockslicer: Axt aus den Deadmines baut Erz ohne Mining ab",
+          "unterzeile": "30 Charges, Level 18, BoP",
+          "text": "Laut Icy Veins und weiteren Guides ist der Rockslicer eine Zweihandaxt für Level 18 von Rhahk'Zor in den Deadmines. Er erlaubt, Copper, Tin, Silver und Iron ohne Mining-Skill abzubauen, mit 30 Charges, also 30 Nodes. Die Axt ist Bind on Pickup. Schmelzen geht ohne Mining nicht. Ob man dafür eine Spitzhacke braucht, sagen die Quellen nicht einheitlich.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Hidden Weapon Lets You Mine Without Mining",
+              "url": "https://www.icy-veins.com/wow-forever/news/this-hidden-weapon-lets-you-mine-ore-without-the-mining-profession-in-wow-forever/"
+            },
+            {
+              "name": "Forg.gg: Rockslicer",
+              "url": "https://forg.gg/en/forever/tips/rockslicer"
+            },
+            {
+              "name": "PewPewShop: Rockslicer (30 Charges)",
+              "url": "https://pewpewshop.pro/wow-boost/blog~rockslicer-in-wow-forever-mine-without-mining-30-charges"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet: Rassen & Rufe",
+        "punkte": [
+          "Gnome, Menschen, Nachtelfen und Zwerge können dem Kirin Tor nicht mehr den Krieg erklären",
+          "Zwerge auch nicht mehr den Wildhammer Clan",
+          "Quest „The Quick and the Dead“: Shadowform, Moonkin Form, Travel Form und Trueshot Aura kostenlos"
+        ],
+        "quellen": [
+          {
+            "name": "MeinMMO: WoW Forever Hotfixes vom 26. November 2026",
+            "url": "https://mein-mmo.de/en/wow-forever-hotfixes-from-november-26-2026-with-love-for-owls-and-the-end-of-the-alterac-valley-sprint-german-patch-notes,1597949/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Berufe, Gold & Auktionshaus",
+      "artikel": [
+        {
+          "titel": "Handelsfraktionen: Writs und Supply Crates",
+          "unterzeile": "Wie ihr an neue Forever-Rezepte kommt",
+          "text": "Die Azeroth Commerce Authority (Allianz) und Durotar Supply and Logistics (Horde) sind laut Wowhead das Tor zu neuen Forever-Rezepten. Man sammelt Waylaid Supply Crates, füllt sie und gibt sie im Camp für Merchant's Favor ab; Writs bringen Reputation. Nach Guides haben Writs 24 Stunden Cooldown pro Writ. Die Preise in Merchant's Favor weichen zwischen Method und Conquest Capped ab, also im Spiel prüfen.",
+          "quellen": [
+            {
+              "name": "Wowhead: Durotar Supply and Logistics Guide",
+              "url": "https://www.wowhead.com/forever/guide/durotar-supply-and-logistics-reputation-professions"
+            },
+            {
+              "name": "Method: Azeroth Commerce Authority and Durotar Supply and Logistics",
+              "url": "https://www.method.gg/wow-forever/azerorth-commerce-authority-and-durotar-supply-and-logistics-reputation-guide"
+            },
+            {
+              "name": "Conquest Capped: Durotar Supply and Logistics Rep Guide",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-durotar-supply-and-logistics-reputation/"
+            }
+          ]
+        },
+        {
+          "titel": "Profit-Ranking: Alchemy vorn",
+          "unterzeile": "Arcanite Bar bringt laut Tool rund 31 Gold pro Craft",
+          "text": "Ein Crafting-Tool von Timesaver sieht Alchemy auf EU-Auktionshäusern vorn, dann Tailoring und Leatherworking. Bester Einzel-Craft: Arcanite Bar mit etwa 31 Gold 10 Silber Profit (EU PvP Horde). Gerechnet wird Marktpreis minus 5 Prozent Auktionshaus-Gebühr und Materialkosten. Preise schwanken je Region und Fraktion.",
+          "quellen": [
+            {
+              "name": "Timesaver: WoW Forever Gold Making – Most Profitable Crafts",
+              "url": "https://timesaver.gg/tools/wow-forever/professions/profit"
+            },
+            {
+              "name": "GameLeap: Professions and Gold Making Guide",
+              "url": "https://www.gameleap.com/articles/wow-forever-professions-gold-guide"
+            }
+          ]
+        },
+        {
+          "titel": "Gold-Guides widersprechen sich",
+          "unterzeile": "Kochen, Flipping und Bank-Alts, aber mit Vorsicht",
+          "text": "Guides empfehlen Kochen und Angeln (Well Fed), das Flippen unterbewerteter Auktionen und einen Level-1-Alt am Briefkasten zum Relisten. Welche Profession die beste ist, sehen die Seiten unterschiedlich; ein Guide setzt Herbalism zum Sammeln vorn. Viele dieser Seiten verkaufen auch Gold oder Boosts, die Zahlen also nur als Orientierung nehmen.",
+          "quellen": [
+            {
+              "name": "GameLeap: Professions and Gold Making Guide",
+              "url": "https://www.gameleap.com/articles/wow-forever-professions-gold-guide"
+            },
+            {
+              "name": "LFCarry: WoW Forever Gold Farming Guide",
+              "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+            }
+          ]
+        },
+        {
+          "titel": "Black Market: Gold-Senke gegen Inflation",
+          "unterzeile": "Kleiner Start, Black Lotus beim Händler",
+          "text": "Laut dem Interview vom 7. November soll der Black Market Auction House Gold aus dem Umlauf ziehen. Zum Start ist er klein: einige Mounts und Pets, Items, die Bosse nicht droppen, und Set-Teile für Lord Valthalaks Quest in Blackrock Spire. Ein Händler verkauft seltene Ressourcen wie Black Lotus, um deren Preis zu deckeln.",
+          "quellen": [
+            {
+              "name": "EndgameTools: WoW Forever devs – global raid launch, no flying, Black Market",
+              "url": "https://endgametools.com/en/wow-forever/news/wow-forever-developers-raids-black-market"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Community: Rekorde, Gilden, Streamer, Server",
+      "artikel": [
+        {
+          "titel": "Fast 7,6 Millionen Charaktere: Alliance knapp vorn",
+          "unterzeile": "Raider.IO-Census zeigt ein ausgeglichenes Bild",
+          "text": "Laut Raider.IO-Census gibt es rund 7,6 Millionen Charaktere: 3.850.625 Alliance (50,6 %) und 3.759.669 Horde (49,4 %). Icy Veins meldet ebenfalls einen Alliance-Vorsprung von 0,5 Prozent. Undead liegen mit 0,1 Punkten vor Humans, was vor allem am Undead Paladin liegt. Ältere Beta-Daten anderer Seiten sehen Mage vorn; die gelten als überholt.",
+          "quellen": [
+            {
+              "name": "Raider.IO: WoW Forever Population",
+              "url": "https://forever.raider.io/population"
+            },
+            {
+              "name": "Icy Veins: Top Specs and Combos",
+              "url": "https://www.icy-veins.com/wow-forever/news/top-specs-and-combos-wow-forever-class-and-race-popularity-faction-balance-and-more-stats/"
+            }
+          ]
+        },
+        {
+          "titel": "Rückblick: 52 Stunden bis Level 60",
+          "unterzeile": "Team JokerD und die Tracker-Widersprüche",
+          "text": "Laut WoWGuide.net erreichte Team JokerD das Level 60 rund 52 Stunden nach dem Launch (4. November, 23:00 UTC) auf einem EU-Normal-Realm. Das letzte Level dauerte etwa 2 Stunden 28 Minuten. Welcher Charakter zuerst klingelte, ist je nach Tracker unterschiedlich (03:10 Uhr UTC Cloud Bells oder 03:15 Uhr Jokerd Prime). Blizzard hat dazu nichts offiziell mitgeteilt.",
+          "quellen": [
+            {
+              "name": "WoWGuide.net: World First Level 60",
+              "url": "https://wowguide.net/en/guides/wow-forever-world-first-level-60"
+            }
+          ]
+        },
+        {
+          "titel": "Streit ums Dungeon-Leveln im Forum",
+          "unterzeile": "Spieler fordern mehr oder keine Dungeon-XP-Hürden",
+          "text": "Im Blizzard-Forum zum Wochenrückblick vom 25. November wünschen sich mehrere Spieler mehr oder gar keine Beschränkungen bei Dungeon-Erfahrung, ein Kommentator hält das aktuelle Design für Absicht. Zum Celebration Pass kursieren dort widersprüchliche Angaben von Spielern. Das sind Forenmeinungen, keine Blizzard-Aussagen.",
+          "quellen": [
+            {
+              "name": "Blizzard-Forum: Wochenrückblick vom 25. November",
+              "url": "https://us.forums.blizzard.com/en/wow/t/wow-celebration-pass-wow-forevers-alaketh-rising-comic-december-trading-post-and-more-in-wow%E2%80%A6/2429017/1"
+            },
+            {
+              "name": "PC Gamer: WoW Forever dungeon mobs no longer give EXP if trivial",
+              "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-dungeon-mobs-no-longer-give-exp-if-theyre-trivial-for-anyone-in-the-party/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Guides & Tipps",
+      "artikel": [
+        {
+          "titel": "Scarlet-Set: Schild oder Selbst-Resurrect?",
+          "unterzeile": "Zwei Icy-Veins-Artikel, zwei Beschreibungen",
+          "text": "Icy Veins schreibt, das sechsteilige Chain-of-the-Scarlet-Crusade-Set habe einen versteckten Bonus mit Selbst-Resurrect („Arise, my Champion!“). Ein anderer Icy-Veins-Artikel und wowforever.be beschreiben den 6er-Bonus als Schild: ausgelöst bei Schaden unter 20 % Leben, absorbiert 480 Schaden für 10 Sekunden, alle 4 Minuten. Der Schild ist besser belegt; den Resurrect nur selbst testen.",
+          "quellen": [
+            {
+              "name": "Icy Veins: Chain of the Scarlet Crusade Hidden Set Bonus",
+              "url": "https://www.icy-veins.com/wow-forever/news/the-scarlet-monastery-chain-of-the-scarlet-crusade-set-has-a-hidden-set-bonus/"
+            },
+            {
+              "name": "Icy Veins: This Set is Amazing in WoW Forever",
+              "url": "https://www.icy-veins.com/wow-forever/news/this-set-is-amazing-in-wow-forever-but-will-anyone-bother-getting-it/"
+            },
+            {
+              "name": "WoW Forever (wowforever.be): Scarlet set pieces go blue",
+              "url": "https://wowforever.be/news/scarlet-set-pieces-go-blue-with-two-new-bonuses/"
+            }
+          ]
+        },
+        {
+          "titel": "World Buffs: Was seit dem Hotfix gilt",
+          "unterzeile": "Loading Screens löschen sie nicht mehr",
+          "text": "Seit dem 23. November bleiben World Buffs über Ladebildschirme erhalten. Beim Betreten von Raids verfallen sie weiterhin. Fengus' Ferocity wurde um 50 Prozent auf 115 Spell Power gekürzt (Angriffskraft-Bonus 200 unverändert) und funktioniert wie Slip'kik's Savvy nicht mehr in Raids. Eine Quelle spricht von 16 in Raids gesperrten Buffs.",
+          "quellen": [
+            {
+              "name": "Wowhead: World Buffs Now Persist Through Loading Screen",
+              "url": "https://www.wowhead.com/forever/news/world-buffs-now-persist-through-loading-screen-and-nerf-to-dire-maul-tribute-383967"
+            },
+            {
+              "name": "AccountShark: Hotfixes November 23",
+              "url": "https://accountshark.net/blog/wow-forever-hotfixes-november-23-world-buffs-loading-screens-fengus-ferocity-darkmoon-faire-nerf-raids-mortal-strike-feralheart"
+            }
+          ]
+        },
+        {
+          "titel": "Merchant's-Favor-Routine",
+          "unterzeile": "Wie ihr Handelsrep effizient farmt",
+          "text": "Wer neue Forever-Rezepte will, geht täglich die Writs durch, denn laut Guides können verschiedene Writs am selben Tag erledigt werden. Rezepte lassen sich auch über das Auktionshaus beschaffen, laut Conquest Capped zählt das für dieselbe Anforderung. Vor dem Kauf Kosten und Rufstufe im Spiel prüfen.",
+          "quellen": [
+            {
+              "name": "Conquest Capped: Durotar Supply and Logistics Rep Guide",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-durotar-supply-and-logistics-reputation/"
+            },
+            {
+              "name": "Method: Azeroth Commerce Authority and Durotar Supply and Logistics",
+              "url": "https://www.method.gg/wow-forever/azerorth-commerce-authority-and-durotar-supply-and-logistics-reputation-guide"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Tipp",
+        "punkte": [
+          "Vor Raid-Start: Fire-Resistance-, Consumable- und Repair-Gold bereithalten",
+          "World Buffs vor dem Raid nicht planen, sie verfallen beim Betreten"
+        ],
+        "quellen": [
+          {
+            "name": "Wowhead: World Buffs Now Persist Through Loading Screen",
+            "url": "https://www.wowhead.com/forever/news/world-buffs-now-persist-through-loading-screen-and-nerf-to-dire-maul-tribute-383967"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Blizzard: Ankündigungen, Interviews, Entwickler-Aussagen",
+      "artikel": [
+        {
+          "titel": "Celebration Pass: 120 Dollar für 365 Tage, bis 7. Dezember",
+          "unterzeile": "Ohne Mounts und Pets, einmal pro Account",
+          "text": "Das Angebot kostet in den USA 120 Dollar für 365 Tage Spielzeit und läuft laut gg.deals und wowforever.be bis 7. Dezember. Es gilt einmal pro Account und verschiebt das Abo-Verlängerungsdatum um ein Jahr. Mounts, Pets und Transmogs des 12-Monats-Abos (155,88 Dollar) sind nicht dabei. Preise in anderen Regionen weichen ab.",
+          "quellen": [
+            {
+              "name": "gg.deals: WoW Black Friday Deal 2026",
+              "url": "https://gg.deals/deal/wow-black-friday-deal-2026"
+            },
+            {
+              "name": "WoW Forever (wowforever.be): A year of game time for $120 until 7 December",
+              "url": "https://wowforever.be/news/a-year-of-game-time-costs-120-dollars/"
+            }
+          ]
+        },
+        {
+          "titel": "Podcast zur Wirtschaft: Respec-Kosten bleiben hoch",
+          "unterzeile": "Legacy-Respec absichtlich teuer",
+          "text": "Die Designer sagen im Podcast, die Legacy-Respec-Kosten bleiben hoch, weil günstige Respecs Gold-Farming ermöglichen würden. Itemization soll „fantasy first, optimization second“ sein. Dass große Materialfarmer weiter profitieren, räumen sie ein; die Langzeitfolgen seien offen. Eine Rückkehr des Season-of-Discovery-Trostpreis-Systems in Battlegrounds wird geprüft, entschieden ist nichts.",
+          "quellen": [
+            {
+              "name": "Blizzard Watch: Official WoW Forever Podcast episode 8",
+              "url": "https://blizzardwatch.com/2026/11/24/official-wow-forever-podcast-episode-8-discusses-class-changes-pvp-and-economy/"
+            },
+            {
+              "name": "PCGamesN: Forever devs on healer shortage and class balance",
+              "url": "https://www.pcgamesn.com/world-of-warcraft/forever-podcast-healer-shortage-class-balance"
+            }
+          ]
+        },
+        {
+          "titel": "Nie Flugmounts, keine Arenen",
+          "unterzeile": "Aussagen aus dem November-Interview",
+          "text": "Laut Wowhead-Zusammenfassung sagten die Entwickler, Flugmounts kämen nie zu WoW Forever; gewertete Arenen und geteiltes Mob-Tagging schließen sie ebenfalls aus. Die Karte sei so gebaut, dass es keine leeren Stellen gibt, als könne man darüber fliegen.",
+          "quellen": [
+            {
+              "name": "EndgameTools: WoW Forever devs – global raid launch, no flying, Black Market",
+              "url": "https://endgametools.com/en/wow-forever/news/wow-forever-developers-raids-black-market"
+            }
+          ]
+        },
+        {
+          "titel": "Healer-Mangel: Blizzard „denkt darüber nach“",
+          "unterzeile": "Healing sei die schwierigste Rolle",
+          "text": "Zierhut sagt laut PCGamesN, Tanks seien gut besetzt, bei Healern habe sich nichts geändert. Moon will weniger Best-in-Slot-Fokus. Mehr Spell-Power-Gear für Level 15 bis 40 ist laut Blizzard Watch für spätere Updates geplant.",
+          "quellen": [
+            {
+              "name": "PCGamesN: Forever devs on healer shortage and class balance",
+              "url": "https://www.pcgamesn.com/world-of-warcraft/forever-podcast-healer-shortage-class-balance"
+            },
+            {
+              "name": "Blizzard Watch: Official WoW Forever Podcast episode 8",
+              "url": "https://blizzardwatch.com/2026/11/24/official-wow-forever-podcast-episode-8-discusses-class-changes-pvp-and-economy/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Termine & Events",
+      "artikel": [
+        {
+          "titel": "Noch 12 Tage bis zum Raid-Start",
+          "unterzeile": "Barrow Deeps, Hyjal Summit und Onyxia am 9. Dezember",
+          "text": "Am Mittwoch, 9. Dezember, öffnen laut Roadmap Barrow Deeps (10), Hyjal Summit (20) und Onyxia's Lair (40) weltweit zeitgleich. Eine Uhrzeit ist nicht bekannt. Molten Core taucht in dieser Liste nicht auf.",
+          "quellen": [
+            {
+              "name": "Wowhead: Forever Roadmap",
+              "url": "https://www.wowhead.com/forever/guide/content-release-roadmap"
+            },
+            {
+              "name": "Conquest Capped: WoW Forever Raids December 9",
+              "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-raids-overview/"
+            },
+            {
+              "name": "EndgameTools: WoW Forever devs – global raid launch, no flying, Black Market",
+              "url": "https://endgametools.com/en/wow-forever/news/wow-forever-developers-raids-black-market"
+            }
+          ]
+        },
+        {
+          "titel": "Darkmoon Faire in Mulgore ab 7. Dezember",
+          "unterzeile": "Enddatum laut Quellen unterschiedlich",
+          "text": "Mehrere Seiten nennen den Dezember-Stopp des Darkmoon Faire in Mulgore ab Montag, 7. Dezember. Wowhead nennt den 13. Dezember als Ende, Undying den 14. Dezember um 4 Uhr. Im Januar folgt Elwynn Forest (4. bis 10. Januar).",
+          "quellen": [
+            {
+              "name": "Wowhead: Darkmoon Faire Event Overview Guide",
+              "url": "https://www.wowhead.com/forever/guide/darkmoon-faire-event-overview-guide"
+            },
+            {
+              "name": "Playnews: Where is the Darkmoon Faire in WoW Forever",
+              "url": "https://www.playnews.gg/en/updates/wow-forever-where-is-the-darkmoon-faire-and-when-does-it-move-to-mulgore"
+            },
+            {
+              "name": "Undying: WoW Forever events calendar",
+              "url": "https://undying.app/events"
+            }
+          ]
+        },
+        {
+          "titel": "Winter Veil laut Kalender-Seiten ab 15. Dezember",
+          "unterzeile": "Bis 2. Januar, ohne Blizzard-Bestätigung",
+          "text": "Kalender-Seiten wie WoWCalc und Undying listen das Feast of Winter Veil vom 15. Dezember bis 2. Januar. Eine eigene Blizzard-Ankündigung für Forever haben wir nicht gefunden; die Angabe ist daher vorläufig.",
+          "quellen": [
+            {
+              "name": "WoWCalc: WoW Forever Calendar",
+              "url": "https://wowcalc.net/en/forever/wiki/calendar"
+            },
+            {
+              "name": "Undying: WoW Forever events calendar",
+              "url": "https://undying.app/events"
+            }
+          ]
+        },
+        {
+          "titel": "Celebration-Pass-Frist endet am 7. Dezember",
+          "unterzeile": "Gleicher Tag wie Darkmoon-Start",
+          "text": "Wer das 365-Tage-Angebot nutzen will, hat laut gg.deals bis zum 7. Dezember Zeit. Das ist derselbe Tag, an dem der Darkmoon Faire laut Kalendern öffnet.",
+          "quellen": [
+            {
+              "name": "gg.deals: WoW Black Friday Deal 2026",
+              "url": "https://gg.deals/deal/wow-black-friday-deal-2026"
+            },
+            {
+              "name": "WoW Forever (wowforever.be): A year of game time for $120 until 7 December",
+              "url": "https://wowforever.be/news/a-year-of-game-time-costs-120-dollars/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kalender",
+        "punkte": [
+          "7. Dez.: Darkmoon Faire in Mulgore; Celebration-Pass-Frist",
+          "9. Dez.: Raids Barrow Deeps, Hyjal Summit, Onyxia",
+          "15. Dez.: Winter Veil laut Kalenderseiten (vorläufig)"
+        ],
+        "quellen": [
+          {
+            "name": "Wowhead: Forever Roadmap",
+            "url": "https://www.wowhead.com/forever/guide/content-release-roadmap"
+          },
+          {
+            "name": "WoWCalc: WoW Forever Calendar",
+            "url": "https://wowcalc.net/en/forever/wiki/calendar"
+          }
+        ]
+      }
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Handelsrep jetzt anfangen",
+    "text": "Wenn du neue Forever-Rezepte willst, starte heute mit den Writs deiner Handelsfraktion. Sie haben laut Guides 24 Stunden Cooldown, ein früher Start spart dir später Zeit vor dem Raid-Start. Prüfe vor jedem Kauf im Spiel die Kosten in Merchant's Favor."
+  }
+}
