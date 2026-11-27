@@ -1,0 +1,657 @@
+{
+  "gruss": "Guten Morgen, liebe Mama! Heute ist Freitag, der 27. November. Morgen ist schon der erste Advent. Ich wünsche dir einen ruhigen Tag und einen warmen Tee.",
+  "aufmacher": {
+    "rubrik": "Mülheim erleben",
+    "titel": "Der Advent beginnt in Mülheim",
+    "unterzeile": "Weihnachtstreff, Altstadt-Markt und Schiffsweihnacht laden ein",
+    "text": "Heute öffnet der Adventsmarkt in der Altstadt. Er läuft bis zum 13. Dezember. Am Forum gibt es schon seit dem 23. November den Weihnachtstreff. Er ist jeden Tag von 11 bis 20 Uhr geöffnet.\n\nAm Wochenende ist außerdem die Schiffsweihnacht an der Schleuseninsel. Der Eintritt ist frei. Dazu kommen ein Kreativmarkt in der Stadthalle und ein Adventsmarkt im Kunstmuseum.\n\nDas Wetter wird laut den Berichten meist trocken und kalt. Zieh dich also warm an.",
+    "quellen": [
+      {
+        "name": "Stadt Mülheim: Weihnachtsmärkte",
+        "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+      },
+      {
+        "name": "t-online",
+        "url": "https://essen.t-online.de/region/essen/id_101503290/schiffsweihnacht-muelheim-2026-weihnachtsmarkt-oeffnet-jetzt-noch-einmal.html"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Aus Mülheim",
+      "artikel": [
+        {
+          "titel": "Walkmühlenstraße bleibt länger gesperrt",
+          "unterzeile": "Regen und Frost bremsen die Bauarbeiter",
+          "text": "Die Walkmühlenstraße ist voll gesperrt. Dort wird die Straße gefräst und neu asphaltiert. Wegen Regen und Frost dauert das länger als geplant.\n\nDie Straße soll laut Radio Mülheim an einem „4.“ wieder frei sein. Der Monat ist in der Meldung leider abgeschnitten. Schau am besten kurz in die Verkehrsmeldungen, bevor du losfährst.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Lokalnachrichten",
+              "url": "https://www.radiomuelheim.de/nachrichten"
+            }
+          ]
+        },
+        {
+          "titel": "Zehn neue Ladestellen für E-Autos",
+          "unterzeile": "Am Salzgitter-Campus an der Zinkhüttenstraße",
+          "text": "Der Energieversorger medl hat zehn neue Ladepunkte für Elektroautos aufgestellt. Sie stehen an der Zinkhüttenstraße am Salzgitter-Campus. Man kann sie rund um die Uhr nutzen.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Lokalnachrichten",
+              "url": "https://www.radiomuelheim.de/nachrichten"
+            }
+          ]
+        },
+        {
+          "titel": "Vorsicht vor falschen Polizisten",
+          "unterzeile": "Warnung für Essen und Mülheim",
+          "text": "In Essen und Mülheim gab es wieder Fälle mit falschen Polizisten. Das sind Betrüger am Telefon, die sich als Polizei ausgeben. Leg im Zweifel einfach auf. Gib niemals Geld, Schmuck oder Daten heraus. Du kannst auch bei deiner Familie nachfragen.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Polizeimeldungen",
+              "url": "https://www.radiomuelheim.de/nachrichten"
+            }
+          ]
+        },
+        {
+          "titel": "Bus 129 fährt einen Umweg",
+          "unterzeile": "Drei Haltestellen entfallen",
+          "text": "Wegen Bauarbeiten in der Velauer Straße wird die Buslinie 129 umgeleitet. Drei Haltestellen werden in dieser Zeit nicht bedient. Die Quellen nennen leicht unterschiedliche Zeiten: bis etwa 3. oder 7. Dezember. Schau vor der Fahrt auf die Seite der Ruhrbahn.",
+          "quellen": [
+            {
+              "name": "MS Aktuell",
+              "url": "https://ms-aktuell.de/welt/velauer-strasse-muelheim-20-11-2026/"
+            },
+            {
+              "name": "Ruhrbahn: Verkehrsinfo",
+              "url": "https://www.ruhrbahn.de/muelheim/aktuelles/verkehrsinfo"
+            }
+          ]
+        },
+        {
+          "titel": "Küchenbrand in Styrum",
+          "unterzeile": "Drei Menschen zur Kontrolle im Krankenhaus",
+          "text": "Am Donnerstag hat es in einer Küche in Styrum gebrannt. Das Haus liegt an der Moritzstraße. Der Rettungsdienst sah sich 13 Menschen an. Drei von ihnen kamen zur Kontrolle ins Krankenhaus, weil sie Rauch eingeatmet hatten.",
+          "quellen": [
+            {
+              "name": "news.de: Polizei-News Mülheim",
+              "url": "https://www.news.de/lokales/860222509/blaulicht-news-polizei-einsatz-muelheim-an-der-ruhr-26-11-26-feuerwehreinsatz-heute/1/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Das Mülheim Jahrbuch 2027 ist erschienen. Es hat 296 Seiten.",
+          "Die Stadt hat sich an der Aktion „Orange your City“ gegen Gewalt an Frauen beteiligt."
+        ],
+        "quellen": [
+          {
+            "name": "Stadt Mülheim: Aktuelles",
+            "url": "https://cms.muelheim-ruhr.de/aktuell"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim erleben",
+      "artikel": [
+        {
+          "titel": "Der Weihnachtstreff am Forum",
+          "unterzeile": "Jeden Tag geöffnet, bis zum 23. Dezember",
+          "text": "Seit dem 23. November gibt es den Mülheimer Weihnachtstreff. Er steht auf dem Kurt-Schumacher-Platz vor dem Forum. Er ist jeden Tag von 11 bis 20 Uhr geöffnet.\n\nEr läuft noch bis zum 23. Dezember. Hier kannst du ganz einfach zwischendurch vorbeischauen. Zum Beispiel nach dem Einkaufen.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            }
+          ]
+        },
+        {
+          "titel": "Altstadt-Adventsmarkt: Wann er geöffnet ist",
+          "unterzeile": "Von heute bis 13. Dezember",
+          "text": "Der Adventsmarkt in der Altstadt hat vom 27. November bis zum 13. Dezember geöffnet. Dienstag bis Donnerstag ist von 16 bis 20 Uhr Betrieb. Freitags geht es von 16 bis 21 Uhr. Samstags ist von 14 bis 21 Uhr offen, sonntags von 14 bis 20 Uhr. Montags bleibt der Markt zu.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            },
+            {
+              "name": "alle-weihnachtsmaerkte.de",
+              "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/muelheimer-altstadt-adventsmarkt-804306.html"
+            }
+          ]
+        },
+        {
+          "titel": "Samstag auf der Schiffsweihnacht",
+          "unterzeile": "Musik für Kinder an der Schleuseninsel",
+          "text": "Die Schiffsweihnacht ist noch bis Sonntag geöffnet. Samstag ist von 13 bis 21 Uhr Betrieb, Sonntag von 11 bis 20 Uhr. Der Eintritt ist frei. Es gibt Dekoration, Schmuck und Kunst aus alten Materialien. Dazu gibt es Essen und Live-Musik. Am Samstag spielt laut t-online die Band „Suppi Huhn und die Kinderkönige“.",
+          "quellen": [
+            {
+              "name": "t-online",
+              "url": "https://essen.t-online.de/region/essen/id_101503290/schiffsweihnacht-muelheim-2026-weihnachtsmarkt-oeffnet-jetzt-noch-einmal.html"
+            },
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            }
+          ]
+        },
+        {
+          "titel": "So wird das Wetter am ersten Advent",
+          "unterzeile": "Meist trocken und kalt – warm anziehen",
+          "text": "Für das Wochenende sagen die Berichte meist trockenes und kaltes Wetter voraus. Ein Hoch bestimmt das Wetter. Im Süden Deutschlands bleiben die Temperaturen bei etwa 2 bis 4 Grad. Im Norden und Osten kann es um den 29. und 30. November etwas Schnee geben. Die Vorhersagen sind aber nicht ganz einig. Für Mülheim gibt es noch keine genaue Angabe. Zieh dir für den Markt warme Schuhe und eine Mütze an.",
+          "quellen": [
+            {
+              "name": "headtopics",
+              "url": "https://de.headtopics.com/news/gluhweinwetter-zum-ersten-advent-an-diesem-tag-lohnt-sich-90167920"
+            },
+            {
+              "name": "daswetter.com",
+              "url": "https://www.daswetter.com/nachrichten/vorhersage/sankt-clemens-bringt-den-winter-kommt-jetzt-der-schnee-zum-1-advent.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine am Wochenende",
+        "punkte": [
+          "Fr 27.11., 16 Uhr: Der Altstadt-Adventsmarkt öffnet",
+          "Fr 27.11., 15–21 Uhr: Schiffsweihnacht",
+          "Sa 28.11., 11–18 Uhr: Adventsmarkt im Kunstmuseum",
+          "Sa 28.11., 13–21 Uhr: Schiffsweihnacht",
+          "So 29.11., 11–17 Uhr: Kreativmarkt in der Stadthalle und Adventsmarkt im Kunstmuseum",
+          "So 29.11., 11–20 Uhr: Schiffsweihnacht",
+          "Ab 5.12.: Broicher Schlossweihnacht (Sa 13–22 Uhr, So 11–20 Uhr)"
+        ],
+        "quellen": [
+          {
+            "name": "Stadt Mülheim: Weihnachtsmärkte",
+            "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland",
+      "artikel": [
+        {
+          "titel": "EU-Treffen in Brüssel ohne Einigung",
+          "unterzeile": "Es geht um das Geld der EU für die Jahre 2028 bis 2034",
+          "text": "Die Staats- und Regierungschefs der EU haben sich in Brüssel getroffen. Sie wollten sich auf den Geldplan für die Jahre 2028 bis 2034 einigen. Das hat nicht geklappt. Das Treffen wurde früher beendet. Kanzler Friedrich Merz sagte: „Wir wissen, dass wir heute Abend nicht zu einem Ergebnis kommen.“\n\nMerz hält den geplanten Gesamtbetrag von 1,78 Billionen Euro für zu hoch. Ratspräsident António Costa hatte einen neuen Vorschlag mit rund 204 Milliarden Euro weniger gemacht. Das reicht Merz nicht. Andere Länder wollen lieber Geld für Bauern und ihre Regionen behalten.\n\nWie geht es weiter? Die Gespräche laufen auf Fachebene weiter. Beim nächsten Treffen kurz vor Weihnachten soll eine Einigung stehen.",
+          "quellen": [
+            {
+              "name": "ZDFheute",
+              "url": "https://www.zdfheute.de/politik/ausland/eu-gipfel-haushalt-bruessel-europaeische-union-merz-abbruch-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Spanier soll neuer Chef der Europäischen Zentralbank werden",
+          "unterzeile": "Er soll auf Christine Lagarde folgen",
+          "text": "Beim EU-Treffen ging es auch um einen neuen Chef für die Europäische Zentralbank. Die Bank kümmert sich um das Geld in Europa. Der Spanier Pablo Hernández de Cos soll Christine Lagarde nachfolgen. So meldet es die Nachrichtenagentur dpa.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim (dpa-Meldung)",
+              "url": "https://www.radiomuelheim.de/nachrichten"
+            }
+          ]
+        },
+        {
+          "titel": "Neuer Tarifvertrag in der Metallindustrie",
+          "unterzeile": "Mehr Lohn und Ausnahmen bei der 35-Stunden-Woche",
+          "text": "Für die Metall- und Elektroindustrie gibt es einen neuen Tarifabschluss. Die Beschäftigten bekommen mehr Lohn. Außerdem gibt es neue Ausnahmen von der 35-Stunden-Woche. Genaue Zahlen nennt die Meldung nicht.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim (dpa-Meldung)",
+              "url": "https://www.radiomuelheim.de/nachrichten"
+            }
+          ]
+        },
+        {
+          "titel": "Weihnachtspost und Zahnersatz: Das ist im Dezember wichtig",
+          "unterzeile": "Fristen, die du dir merken kannst",
+          "text": "Briefe und Pakete im Inland sollten bis zum 21. Dezember verschickt werden. Für Expresssendungen und Einschreiben gilt der 22. Dezember. Ab Januar 2027 gibt es beim Zahnersatz weniger Zuschuss von der Krankenkasse, wenn das Bonusheft nicht vollständig ist. Er sinkt dann von 60 auf 50 Prozent. Mit vollständigem Heft sind es höchstens 65 statt 75 Prozent. Ein Zahnarztbesuch vor Jahresende kann sich also lohnen.",
+          "quellen": [
+            {
+              "name": "t-online: Änderungen im Dezember 2026",
+              "url": "https://www.t-online.de/finanzen/aktuelles/verbraucher/id_101544302/aenderungen-im-dezember-2026-alle-neuerungen-auf-einen-blick.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Neu im Dezember",
+        "punkte": [
+          "2. Dezember: EU-Verbot für KI-Werkzeuge, die sexualisierte Fälschungen erstellen",
+          "9. Dezember: Neues Produkthaftungsgesetz. Auch Software gilt als Produkt",
+          "13. Dezember: Neuer Bahn-Fahrplan",
+          "31. Dezember: Letzter Tag für neue Riester-Verträge"
+        ],
+        "quellen": [
+          {
+            "name": "finanzen.net: Dezember-Änderungen",
+            "url": "https://www.finanzen.net/nachricht/aktien/neuerungen-und-gesetze-verbraucher-aufgepasst-das-aendert-sich-ab-dezember-2026-bei-tanken-haftung-und-steuern-00-16086072"
+          },
+          {
+            "name": "t-online",
+            "url": "https://www.t-online.de/finanzen/aktuelles/verbraucher/id_101544302/aenderungen-im-dezember-2026-alle-neuerungen-auf-einen-blick.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Aus aller Welt",
+      "artikel": [
+        {
+          "titel": "923,51 Euro für einen Stollen",
+          "unterzeile": "Das Papst-Geschenk aus Sachsen reiste im Dienstwagen",
+          "text": "Sachsen hat Papst Leo XIV. einen Christstollen geschenkt. Er wog etwa vier Kilo. Er kam aus dem Erzgebirge und wurde im September mit dem Dienstwagen von Dresden nach Rom gefahren. Die Fahrt kostete 923,51 Euro. Das sind vor allem Sprit, Maut, Parkgebühr und Spesen für den Fahrer.\n\nDas Paket passte nicht ins Handgepäck. Im Koffer im Flugzeug fand man es zu riskant. Das Geld sorgt jetzt für Fragen im Landtag. Das kam durch eine Anfrage eines Linken-Abgeordneten heraus.",
+          "quellen": [
+            {
+              "name": "t-online Dresden",
+              "url": "https://dresden.t-online.de/region/dresden/id_101543790/stollen-aus-sachsen-als-geschenk-fuer-papst-das-kostete-der-transport.html"
+            },
+            {
+              "name": "Tagesspiegel (dpa)",
+              "url": "https://www.tagesspiegel.de/gesellschaft/panorama/dpa-mit-dem-dienstwagen-uber-die-alpen-chauffiert-transport-von-sachsens-christstollen-fur-den-papst-kostete-92351-euro-16319051.html"
+            }
+          ]
+        },
+        {
+          "titel": "Vier Otter-Babys in Heidelberg",
+          "unterzeile": "Bald üben sie das Schwimmen",
+          "text": "Im Heidelberger Zoo gibt es Nachwuchs bei den Kurzkrallenottern. Das ist die kleinste Otterart der Welt. Es sind drei Weibchen und ein Männchen. Sie kamen am 29. September zur Welt. Jetzt wurden sie geimpft und gechippt. Als Nächstes stehen die ersten Schwimmversuche an.",
+          "quellen": [
+            {
+              "name": "web.de",
+              "url": "https://web.de/magazine/wissen/tiere/kleinste-otterart-welt-vierfacher-nachwuchs-heidelberger-zoo-36554054"
+            }
+          ]
+        },
+        {
+          "titel": "Baby-Haie in Leipzig",
+          "unterzeile": "Zum ersten Mal sind Bambushaie geschlüpft",
+          "text": "Im Leipziger Aquarium sind zum ersten Mal Bambushaie geschlüpft. Es sind zwei kleine Haie. Heute, am 27. November, zeigt eine MDR-Zoo-Doku die Jungtiere.",
+          "quellen": [
+            {
+              "name": "t-online Leipzig",
+              "url": "https://leipzig.t-online.de/region/leipzig/id_101547264/elefant-tiger-und-co-aus-dem-zoo-leipzig-erstmals-seltener-hai-nachwuchs.html"
+            }
+          ]
+        },
+        {
+          "titel": "Ameisenbär-Baby im Dortmunder Zoo",
+          "unterzeile": "Besucher müssen noch warten",
+          "text": "Im Zoo Dortmund ist ein Großer Ameisenbär geboren. Es ist schon das 66. Jungtier dieser Art im Zoo. Besucher können es noch nicht sehen. Dazu müssen sie sich gedulden. Auch die Löwinnen Zuri und Saba haben zusammen zwölf Jungtiere bekommen.",
+          "quellen": [
+            {
+              "name": "t-online Dortmund",
+              "url": "https://dortmund.t-online.de/region/dortmund/id_101511098/suesser-nachwuchs-im-zoo-dortmund-besucher-muessen-sich-noch-gedulden.html"
+            }
+          ]
+        },
+        {
+          "titel": "Der Weihnachtsbaum von New York",
+          "unterzeile": "Am 2. Dezember gehen die Lichter an",
+          "text": "Vor dem Rockefeller Center in New York steht wieder ein riesiger Weihnachtsbaum. Es ist eine etwa 23 Meter hohe Fichte aus dem Bundesstaat New York. Sie ist rund 75 Jahre alt. Sie hat mehr als 50.000 bunte Lämpchen und einen Stern aus Glas von 900 Pfund. Am 2. Dezember werden die Lichter feierlich angeschaltet. Der Baum bleibt bis Mitte Januar stehen.",
+          "quellen": [
+            {
+              "name": "Rockefeller Center",
+              "url": "https://www.rockefellercenter.com/magazine/arts-culture/rockefeller-center-christmas-tree/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Zwönitz im Erzgebirge feiert jedes Jahr das Einschalten der Weihnachtslichter. Tausende Gäste kommen.",
+          "Im Osten Deutschlands gibt es einen Weihnachtsmarkt unter der Erde."
+        ],
+        "quellen": [
+          {
+            "name": "Berliner Kurier",
+            "url": "https://www.berliner-kurier.de/article/weihnachtsbeleuchtung-erzgebirge-ahlichteln-zwoenitz-10635680"
+          },
+          {
+            "name": "Berliner Kurier",
+            "url": "https://www.berliner-kurier.de/article/dieser-weihnachtsmarkt-im-osten-findet-unter-der-erde-statt-10636291"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Sport: Fußball-Bundesliga",
+      "artikel": [
+        {
+          "titel": "Der 11. Spieltag beginnt heute Abend",
+          "unterzeile": "Bremen gegen Gladbach, morgen Bayern beim HSV",
+          "text": "Heute Abend beginnt der 11. Spieltag der Bundesliga. Um 20:30 Uhr spielt Werder Bremen gegen Borussia Mönchengladbach.\n\nAm Samstag spielt unter anderem der Hamburger SV gegen Bayern München. Anstoß ist um 15:30 Uhr. Abends um 18:30 Uhr trifft der VfB Stuttgart auf Eintracht Frankfurt. Am Sonntag steht das Spiel Dortmund gegen Leverkusen an.\n\nDie Anstoßzeiten sind in den Quellen nicht überall gleich. Prüfe sie am besten noch einmal vor dem Spiel.",
+          "quellen": [
+            {
+              "name": "anstosszeiten.de",
+              "url": "https://anstosszeiten.de/bundesliga/spieltag-11/"
+            },
+            {
+              "name": "bundesliga.com",
+              "url": "https://www.bundesliga.com/en/bundesliga/matchday"
+            }
+          ]
+        },
+        {
+          "titel": "Hoffenheim dreht das Spiel",
+          "unterzeile": "3:1 gegen Sturm Graz in der Europa League",
+          "text": "Hoffenheim hat in der Europa League 3:1 gegen Sturm Graz gewonnen. Zur Pause lag das Team noch 0:1 zurück. In den letzten 18 Minuten fielen dann drei Tore. Die Treffer erzielten Adam Hlozek, Bambasé Conté und Max Moerstedt.",
+          "quellen": [
+            {
+              "name": "klamm.de",
+              "url": "https://www.klamm.de/news/europa-league-hoffenheim-schlaegt-sturm-graz-21N1795670930290.html"
+            }
+          ]
+        },
+        {
+          "titel": "Freiburg siegt in letzter Minute",
+          "unterzeile": "2:1 gegen Twente in der Conference League",
+          "text": "Der SC Freiburg hat in der Conference League 2:1 gegen den FC Twente Enschede gewonnen. Cyriaque Irié schoss das 1:0. Younes Taha glich für Twente aus. In der Nachspielzeit traf Jan-Niklas Beste zum Sieg.",
+          "quellen": [
+            {
+              "name": "Pollar",
+              "url": "https://pollar.news/en/event/freiburg-hoffenheim-win-late"
+            }
+          ]
+        },
+        {
+          "titel": "Dortmund gegen Leverkusen am Sonntag",
+          "unterzeile": "Der BVB liegt oben in der Tabelle",
+          "text": "Nach dem 10. Spieltag stehen Borussia Dortmund und der FC Bayern ganz oben. Nach Berichten liegt Dortmund zwei Punkte vorn. Die Tabellen der Seiten sind aber nicht ganz einig. Am Sonntag spielt Dortmund zu Hause gegen Bayer Leverkusen.",
+          "quellen": [
+            {
+              "name": "sportschau.de",
+              "url": "https://sportschau.de/regional/wdr/wdr-tabellenfuehrung-wird-fuer-den-bvb-zur-kopfsache-100.html"
+            },
+            {
+              "name": "anstosszeiten.de",
+              "url": "https://anstosszeiten.de/bundesliga/spieltag-11/"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Der Spielplan",
+        "punkte": [
+          "Fr 20:30: Bremen – Mönchengladbach",
+          "Sa 15:30: Mainz – Union Berlin, HSV – Bayern, Köln – Elversberg, Paderborn – Schalke",
+          "Sa 18:30: Stuttgart – Frankfurt",
+          "So 15:30: Freiburg – Leipzig",
+          "So 17:30: Hoffenheim – Augsburg",
+          "So 19:30: Dortmund – Leverkusen"
+        ],
+        "quellen": [
+          {
+            "name": "anstosszeiten.de",
+            "url": "https://anstosszeiten.de/bundesliga/spieltag-11/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Sport: weitere Sportarten und Vereine",
+      "artikel": [
+        {
+          "titel": "Der Wintersport startet",
+          "unterzeile": "Biathlon, Langlauf und Skispringen im Weltcup",
+          "text": "Am Wochenende geht der Wintersport richtig los. Die Biathleten, Langläufer und Kombinierer starten in den Weltcup. Im Ersten gibt es um 16:15 Uhr das 15-Kilometer-Einzel der Frauen aus Kontiolahti. Die Skispringer haben am Freitag die Qualifikation der Männer in Ruka.",
+          "quellen": [
+            {
+              "name": "Sportschau",
+              "url": "https://www.sportschau.de/wintersport/so-laeuft-die-wintersport-woche-in-der-sportschau,so-laeuft-der-wintersport-in-der-sportschau-104.html"
+            }
+          ]
+        },
+        {
+          "titel": "Handball am Freitagabend",
+          "unterzeile": "14. Spieltag in der Bundesliga",
+          "text": "Heute Abend spielen in der Handball-Bundesliga Gummersbach und Erlangen um 19 Uhr. Um 20 Uhr treffen Wetzlar und Göppingen aufeinander. Es ist der 14. Spieltag.",
+          "quellen": [
+            {
+              "name": "sport.de: Sport im TV",
+              "url": "https://www.sport.de/sport-im-tv-und-stream/"
+            }
+          ]
+        },
+        {
+          "titel": "Eishockey: Haie gegen Straubing",
+          "unterzeile": "Die Kölner Haie spielen heute Abend",
+          "text": "In der Deutschen Eishockey Liga spielen die Kölner Haie heute gegen Straubing. Es geht um 19:30 Uhr los. Es ist der 20. Spieltag. Außerdem spielen Augsburg und Berlin.",
+          "quellen": [
+            {
+              "name": "sport.de: Sport im TV",
+              "url": "https://www.sport.de/sport-im-tv-und-stream/"
+            }
+          ]
+        },
+        {
+          "titel": "Badminton-Stars kommen nach Mülheim",
+          "unterzeile": "German Open 2027 in der höheren Kategorie",
+          "text": "Die YONEX German Open finden im nächsten Jahr wieder in Mülheim statt. Sie laufen vom 23. bis 28. Februar 2027 in der Westenergie Sporthalle. Das Turnier hat jetzt eine höhere Kategorie.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim",
+              "url": "https://www.radiomuelheim.de/artikel/german-open-2027-in-muelheim-hoehere-kategorie-2817024"
+            }
+          ]
+        },
+        {
+          "titel": "Laura Freigang gesperrt",
+          "unterzeile": "Sperre bis Oktober 2027",
+          "text": "Die Fußball-Nationalspielerin Laura Freigang ist bis Oktober 2027 gesperrt. Der Grund: Sie hat mehrfach gegen die Meldepflichten bei Dopingkontrollen verstoßen. Sie sagt: „Bricht mir das Herz.“",
+          "quellen": [
+            {
+              "name": "Radio Mülheim (dpa-Meldung)",
+              "url": "https://www.radiomuelheim.de/artikel/bricht-mir-das-herz-freigang-bis-oktober-2027-gesperrt-2817427"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Klatsch & Tratsch",
+      "artikel": [
+        {
+          "titel": "Dieter Nuhr ist krank",
+          "unterzeile": "Er sagt alle Auftritte bis zum Frühjahr ab",
+          "text": "Der Kabarettist Dieter Nuhr ist 66 Jahre alt. Er hat am 23. November auf Instagram erzählt, dass er an einem Hodgkin-Lymphom erkrankt ist. Das ist eine Krebsart. Er nennt sie „sehr gut heilbar“.\n\nEr muss sich einer Behandlung unterziehen. Deshalb sagt er alle Auftritte und Sendungen bis zum Frühjahr 2027 ab. Auch der ARD-Jahresrückblick vor Weihnachten fällt aus.\n\nWir wünschen ihm gute Besserung.",
+          "quellen": [
+            {
+              "name": "ZDFheute",
+              "url": "https://www.zdfheute.de/panorama/prominente/dieter-nuhr-krebs-erkrankung-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Tokio Hotel: Eine Doku über 25 Jahre",
+          "unterzeile": "Die Band öffnet ihr Archiv",
+          "text": "Das ZDF zeigt eine dreiteilige Doku über Tokio Hotel. Sie heißt „Gegen alle Regeln“. Sie begleitet Bill und Tom Kaulitz, Georg Listing und Gustav Schäfer über 25 Jahre. Es gibt auch Aufnahmen, die noch niemand kannte. Ein Sendetermin wird im Artikel nicht genannt. Am 5. Dezember moderieren Bill und Tom Kaulitz „Wetten, dass..?“.",
+          "quellen": [
+            {
+              "name": "ZDFheute",
+              "url": "https://www.zdfheute.de/panorama/prominente/tokio-hotel-doku-gegen-alle-regeln-wetten-dass-kaulitz-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Eric Stehfest wird Papa",
+          "unterzeile": "Freundin Sarah ist schwanger",
+          "text": "Der Schauspieler Eric Stehfest erwartet ein Kind. Seine Freundin Sarah ist schwanger. Das meldet ProSieben auf seiner Promi-Seite. In der Überschrift ist von „gleich zwei Babys“ die Rede. Genaue Angaben dazu stehen nicht in der Vorschau.",
+          "quellen": [
+            {
+              "name": "ProSieben: Stars",
+              "url": "https://www.prosieben.de/themen/stars"
+            }
+          ]
+        },
+        {
+          "titel": "Peter Maffay und das späte Glück",
+          "unterzeile": "Er spricht über seine Ehe",
+          "text": "Der Sänger Peter Maffay hat mit seiner Frau Hendrikje Balsmeyer über das späte Eheglück gesprochen. Sie ist 38 Jahre jünger. Er blickt auch auf seine Vergangenheit zurück. Mehr verrät die Vorschau nicht.",
+          "quellen": [
+            {
+              "name": "ProSieben: Stars",
+              "url": "https://www.prosieben.de/themen/stars"
+            }
+          ]
+        },
+        {
+          "titel": "Hartmut Engler ein Jahr nach dem Herzinfarkt",
+          "unterzeile": "Der Pur-Sänger erzählt von dem Tag",
+          "text": "Im November 2025 hatte Hartmut Engler einen schweren Herzinfarkt. Jetzt erzählt der Sänger in einem Interview, wie er den Tag erlebt hat. Und er sagt, wie es ihm heute geht.",
+          "quellen": [
+            {
+              "name": "Yahoo Nachrichten: Stars",
+              "url": "https://de.nachrichten.yahoo.com/stars/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Klatsch & Tratsch: TV, Shows, Royals und Stars der Welt",
+      "artikel": [
+        {
+          "titel": "Robert Pattinson ist der neue James Bond",
+          "unterzeile": "Gestern stand hier noch ein Fragezeichen",
+          "text": "Jetzt ist es offiziell. Am 16. November hat das Konto von James Bond bei Instagram es bestätigt. Der britische Schauspieler Robert Pattinson (40) spielt den nächsten Agenten 007. Er folgt auf Daniel Craig.\n\nRegie führt Denis Villeneuve, bekannt durch „Dune“. Das Drehbuch schreibt Steven Knight. Gedreht wird ab 2027. Der Film soll 2028 ins Kino kommen.",
+          "quellen": [
+            {
+              "name": "ZDFheute",
+              "url": "https://www.zdfheute.de/panorama/prominente/robert-pattinson-james-bond-007-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "„Wetten, dass..?“: The Rock und Kevin Hart kommen",
+          "unterzeile": "Am 5. Dezember live aus Halle",
+          "text": "Die Show „Wetten, dass..?“ kommt am Samstag, 5. Dezember, um 20:15 Uhr im ZDF. Sie läuft live aus Halle an der Saale. Bill und Tom Kaulitz moderieren. Als Wettpaten sind Dwayne „The Rock“ Johnson und Kevin Hart dabei. Weitere Gäste können noch dazukommen. Schau am besten auf der Seite des ZDF nach.",
+          "quellen": [
+            {
+              "name": "ZDFheute",
+              "url": "https://www.zdfheute.de/panorama/wetten-dass-prominente-gaeste-kevin-hart-dwayne-johnson-the-rock-100.html"
+            },
+            {
+              "name": "ZDF",
+              "url": "https://www.zdf.de/shows/wetten-dass-104"
+            }
+          ]
+        },
+        {
+          "titel": "Einbruch bei Prinz William und Kate",
+          "unterzeile": "Zwei Männer festgenommen",
+          "text": "Am Montagabend wurde offenbar auf dem Landsitz Anmer Hall eingebrochen. Er gehört Prinz William und Kate. Die Polizei nahm zwei Männer fest. Zu dieser Zeit war niemand im Haus. Zuerst berichtete die Zeitung „The Sun“ darüber.",
+          "quellen": [
+            {
+              "name": "ZDFheute",
+              "url": "https://www.zdfheute.de/panorama/prominente/grossbritannien-prinz-william-kate-einbruch-landhaus-verdaechtige-haft-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Morten Harket und sein Album",
+          "unterzeile": "Der a-ha-Sänger spricht über Parkinson",
+          "text": "Morten Harket ist 67 Jahre alt. Der Sänger von a-ha hat vor vier Jahren die Diagnose Parkinson bekommen. Seine Stimme ist nicht immer gleich. Trotzdem hat er ein Soloalbum fertig gemacht. Es heißt „Human Grace“. Zwei seiner Töchter haben mitgeholfen.",
+          "quellen": [
+            {
+              "name": "ZDFheute",
+              "url": "https://www.zdfheute.de/panorama/prominente/morten-harket-a-ha-saenger-parkinson-musik-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Dirigent Herbert Blomstedt ist tot",
+          "unterzeile": "Er wurde 99 Jahre alt",
+          "text": "Der schwedische Dirigent Herbert Blomstedt ist am 4. November gestorben. Er wurde 99 Jahre alt. Er starb zu Hause in Göteborg im Kreis seiner Familie. Von 1998 bis 2005 leitete er das Gewandhausorchester in Leipzig.",
+          "quellen": [
+            {
+              "name": "ZDFheute",
+              "url": "https://www.zdfheute.de/panorama/prominente/dirigent-herbert-blomstedt-tot-gewandhaus-100.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "TV-Tipps für heute Abend (Fr 27.11.)",
+        "punkte": [
+          "20:15 Uhr, ZDF: „Jenseits der Spree“",
+          "21:15 Uhr, ZDF: „SOKO Leipzig“",
+          "20:15 Uhr, WDR: „Das unsichtbare Land“",
+          "20:15 Uhr, RTL II: „Vergessene Welt – Jurassic Park“",
+          "22:50 Uhr, BR: „The Homesman“ mit Tommy Lee Jones"
+        ],
+        "quellen": [
+          {
+            "name": "TV-Programm 20:15 Uhr",
+            "url": "https://tv2015.de/tv-programm-20-15-uhr-freitag/"
+          },
+          {
+            "name": "kino-zeit.de",
+            "url": "https://www.kino-zeit.de/news-features/empfehlungen-tv-tipps/die-tv-tipps-fuer-freitag-den-27-11-2026"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Zum Schluss: Gesundheit und Haushalt",
+      "artikel": [
+        {
+          "titel": "Jetzt ist die Zeit für die Grippeimpfung",
+          "unterzeile": "Der Winter hat begonnen",
+          "text": "Die Erkältungszeit hat begonnen. Das Robert Koch-Institut beobachtet die Lage jede Woche. Es zählt neue Atemwegs-Beschwerden, Fieber-Fälle und Fälle im Krankenhaus. Der Arzt Leif Erik Sander nennt jetzt den „perfekten Zeitpunkt“ für die Grippeimpfung. Er rät außerdem zu gutem Schlaf und regelmäßigem Händewaschen. Vitamin C hilft aus seiner Sicht nicht so viel.",
+          "quellen": [
+            {
+              "name": "ZDFheute",
+              "url": "https://www.zdfheute.de/wissen/erkaeltung-grippe-welle-rki-106.html"
+            }
+          ]
+        },
+        {
+          "titel": "Heizkörper frei lassen",
+          "unterzeile": "Kleine Tricks sparen Geld",
+          "text": "Möbel und Vorhänge halten die Wärme zurück. Die Verbraucherzentrale rät: Sofas und Schränke sollten mindestens 30 Zentimeter von der Heizung entfernt stehen. Ein Grad weniger Raumtemperatur spart etwa 6 Prozent Heizenergie. Im Wohnzimmer reichen etwa 20 Grad. Im Schlafzimmer genügen 17 Grad. Lüfte mehrmals am Tag kurz mit weit offenem Fenster.",
+          "quellen": [
+            {
+              "name": "Verbraucherzentrale",
+              "url": "https://www.verbraucherzentrale.de/wissen/energie/heizen-und-warmwasser/heizung-10-einfache-tipps-zum-heizkosten-sparen-13892"
+            }
+          ]
+        },
+        {
+          "titel": "Briefe und Pakete rechtzeitig losschicken",
+          "unterzeile": "Weihnachtspost: Das sind die Fristen",
+          "text": "Briefe und Pakete im Inland sollten bis zum 21. Dezember aufgegeben werden. Expresssendungen und Einschreiben sollten bis zum 22. Dezember auf den Weg. Für Post ins Ausland gilt ein früherer Termin. Wer früh schreibt, hat weniger Stress.",
+          "quellen": [
+            {
+              "name": "t-online",
+              "url": "https://www.t-online.de/finanzen/aktuelles/verbraucher/id_101544302/aenderungen-im-dezember-2026-alle-neuerungen-auf-einen-blick.html"
+            }
+          ]
+        },
+        {
+          "titel": "Heizkostenzähler in Mietwohnungen",
+          "unterzeile": "Frist bis Jahresende",
+          "text": "Vermieter müssen die Zähler für die Heizkosten bis zum 31. Dezember 2026 aus der Ferne ablesbar machen. Sonst dürfen Mieter ihren Anteil an den Heizkosten um 3 Prozent kürzen. Wenn du zur Miete wohnst, kannst du bei deiner Verwaltung nachfragen.",
+          "quellen": [
+            {
+              "name": "t-online",
+              "url": "https://www.t-online.de/finanzen/aktuelles/verbraucher/id_101544302/aenderungen-im-dezember-2026-alle-neuerungen-auf-einen-blick.html"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Die erste Kerze",
+    "text": "Frau Winter holte den Adventskranz vom Dachboden. Er roch noch ein wenig nach Tannen und nach früher. Sie stellte ihn mitten auf den Tisch. Dann suchte sie die vier roten Kerzen. Zwei fand sie sofort, zwei hatten sich in der Schublade versteckt. Sie lachte und setzte alle vier in den Kranz. Am Fenster blies der Wind, aber in der Küche war es warm. Sie machte sich einen Tee mit Honig. Dann zündete sie die erste Kerze an, ganz langsam. Das kleine Licht flackerte kurz und wurde ruhig. Frau Winter lehnte sich zurück und dachte an alle, die sie gern hat. Sie nahm das Telefon und rief ihren Sohn an. „Ich wollte nur Guten Tag sagen“, sagte sie. Er sagte, dass er gerade an sie gedacht hat. Beide mussten lächeln, obwohl sie sich nicht sehen konnten."
+  }
+}
