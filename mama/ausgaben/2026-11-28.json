@@ -1,0 +1,609 @@
+{
+  "gruss": "Guten Morgen, liebe Mama! Heute ist Samstag, der 28. November. Morgen ist der erste Advent. Es wird kalt draußen. Ich wünsche dir einen gemütlichen Tag und eine warme Tasse Tee.",
+  "aufmacher": {
+    "rubrik": "Wetter",
+    "titel": "Der erste Advent wird eisig kalt",
+    "unterzeile": "Frost am Wochenende, am Sonntag vielleicht Glatteis",
+    "text": "Das Wochenende zum ersten Advent wird sehr kalt. Nachts sind es etwa minus 8 Grad. In den Bergen sind es sogar unter minus 10 Grad. Tagsüber bleibt es um den Gefrierpunkt. Nur ein paar Plusgrade sind drin.\n\nAm Sonntag kommt von Nordwesten ein schwaches Regengebiet. Fällt Regen auf gefrorenen Boden, kann es Glatteis geben. Der Wetterdienst warnt davor. Die Vorhersage ist aber noch unsicher.\n\nSchnee soll nicht mehr viel fallen. Nächste Woche wird es tagsüber etwas wärmer. Nachts bleibt es aber frostig. Zieh dich warm an, wenn du zum Adventsmarkt gehst.",
+    "quellen": [
+      {
+        "name": "ZDFheute: Der erste Advent wird eisig kalt",
+        "url": "https://www.zdfheute.de/panorama/wetter-samstag-sonntag-wochenende-advent-glaette-temperatur-100.html"
+      }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Aus Mülheim",
+      "artikel": [
+        {
+          "titel": "Auf der A52 wird weiter an der Brücke gearbeitet",
+          "unterzeile": "Die Mintarder Ruhrtalbrücke bleibt eine Baustelle",
+          "text": "Auf der A52 an der Mintarder Ruhrtalbrücke wird weiter repariert. Die Fahrbahn hat Schäden. Dazu kommt das schlechte Wetter.\n\nDeshalb dauern die Arbeiten bis in die nächste Woche. Es kann noch weitere Sperrungen geben. Plane für Fahrten dort etwas mehr Zeit ein.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Lokalnachrichten",
+              "url": "https://www.radiomuelheim.de/nachrichten"
+            }
+          ]
+        },
+        {
+          "titel": "Die Walkmühlenstraße soll am 4. Dezember frei sein",
+          "unterzeile": "Regen und Frost haben die Arbeiten gebremst",
+          "text": "Die Walkmühlenstraße ist noch voll gesperrt. Dort wird die Straße gefräst und neu asphaltiert. Regen und Frost haben die Arbeiten verzögert. Nach Angaben der Stadt soll es voraussichtlich bis zum 4. Dezember dauern.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Lokalnachrichten",
+              "url": "https://www.radiomuelheim.de/nachrichten"
+            },
+            {
+              "name": "Stadt Mülheim",
+              "url": "https://cms.muelheim-ruhr.de/"
+            }
+          ]
+        },
+        {
+          "titel": "Weniger Arbeitslose als befürchtet",
+          "unterzeile": "Im November stieg die Zahl nur ein ganz kleines bisschen",
+          "text": "Im November gab es in Mülheim nur wenig mehr Arbeitslose. Die Quote liegt bei 7,9 Prozent. Der Anstieg war minimal.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Lokalnachrichten",
+              "url": "https://www.radiomuelheim.de/nachrichten"
+            }
+          ]
+        },
+        {
+          "titel": "Konzerte im MüGa-Park im nächsten Sommer",
+          "unterzeile": "Michael Schulte und Culcha Candela kommen",
+          "text": "Im nächsten Sommer gibt es wieder Musik im MüGa-Park. Beim Summer Open Air treten am Samstag, 14. August, Michael Schulte und Culcha Candela auf. Die Karten gibt es schon im Vorverkauf. Vielleicht eine schöne Geschenkidee.",
+          "quellen": [
+            {
+              "name": "Radio Mülheim: Lokalnachrichten",
+              "url": "https://www.radiomuelheim.de/nachrichten"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Walkmühlenstraße: voraussichtlich bis 4. Dezember gesperrt",
+          "A52, Mintarder Ruhrtalbrücke: Arbeiten bis in die nächste Woche",
+          "Summer Open Air: Samstag, 14. August 2027, MüGa-Park"
+        ],
+        "quellen": [
+          {
+            "name": "Radio Mülheim: Lokalnachrichten",
+            "url": "https://www.radiomuelheim.de/nachrichten"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim erleben",
+      "artikel": [
+        {
+          "titel": "Der Altstadt-Adventsmarkt am ersten Adventswochenende",
+          "unterzeile": "Heute bis 21 Uhr, morgen bis 20 Uhr",
+          "text": "Der Adventsmarkt in der Mülheimer Altstadt hat seit gestern geöffnet. Er läuft noch bis zum 13. Dezember. Heute, am Samstag, kannst du von 14 bis 21 Uhr hingehen. Morgen, am ersten Advent, ist er von 14 bis 20 Uhr offen.\n\nAm Montag ist der Markt geschlossen. Der Eintritt ist frei. Ein Glühwein in der Kälte tut dann bestimmt gut. Zieh dich aber schön warm an, es wird eisig.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            },
+            {
+              "name": "Alle Weihnachtsmärkte: Altstadt-Adventsmarkt",
+              "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/muelheimer-altstadt-adventsmarkt-804306.html"
+            }
+          ]
+        },
+        {
+          "titel": "Adventsmarkt im Kunstmuseum",
+          "unterzeile": "Heute und morgen im Museumsshop",
+          "text": "Im Shop des Kunstmuseums gibt es dieses Wochenende einen kleinen Adventsmarkt. Heute ist er von 11 bis 18 Uhr geöffnet. Morgen von 11 bis 17 Uhr.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            }
+          ]
+        },
+        {
+          "titel": "Kreativmarkt und letzter Tag der Schiffsweihnacht",
+          "unterzeile": "Zwei Ideen für den Sonntag",
+          "text": "Morgen ist der Kreativmarkt in der Stadthalle. Es sind etwa 70 Aussteller dabei. Er ist von 11 bis 17 Uhr geöffnet.\n\nMorgen ist auch der letzte Tag der Schiffsweihnacht am Ufer der Ruhr. Sie ist von 11 bis 20 Uhr offen.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            }
+          ]
+        },
+        {
+          "titel": "Der Weihnachtstreff am Forum",
+          "unterzeile": "Jeden Tag von 11 bis 20 Uhr",
+          "text": "Der Weihnachtstreff vor dem Forum am Kurt-Schumacher-Platz ist noch bis zum 23. Dezember offen. Er hat jeden Tag von 11 bis 20 Uhr geöffnet.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            }
+          ]
+        },
+        {
+          "titel": "Schon vormerken: Schlossweihnacht und Nikolausfahrten",
+          "unterzeile": "Im Dezember geht es weiter",
+          "text": "Die Broicher Schlossweihnacht gibt es an drei Wochenenden im Dezember. Sie beginnt am 5. Dezember. Sie ist am Schloss Broich und im MüGa-Park.\n\nDie Weiße Flotte fährt vom 4. bis 6. Dezember mit dem Nikolaus. Am Sonntag, 6. Dezember, gibt es auch eine Frühstücksfahrt.",
+          "quellen": [
+            {
+              "name": "Stadt Mülheim: Weihnachtsmärkte",
+              "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine",
+        "punkte": [
+          "Sa 14–21 Uhr, So 14–20 Uhr: Altstadt-Adventsmarkt",
+          "Sa 11–18 Uhr, So 11–17 Uhr: Adventsmarkt im Kunstmuseum",
+          "So 11–17 Uhr: Kreativmarkt in der Stadthalle",
+          "So 11–20 Uhr: letzter Tag der Schiffsweihnacht",
+          "5./6., 12./13., 19./20. Dezember: Broicher Schlossweihnacht"
+        ],
+        "quellen": [
+          {
+            "name": "Stadt Mülheim: Weihnachtsmärkte",
+            "url": "https://cms.muelheim-ruhr.de/rathaus/aktuelles/aktuelle-meldungen/gluehwein-lichterglanz-weihnachtszauber-entdecken-sie"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland",
+      "artikel": [
+        {
+          "titel": "Der Bundestag hat das Geld für 2027 beschlossen",
+          "unterzeile": "Der Haushalt ist so groß wie nie",
+          "text": "Der Bundestag hat gestern den Haushalt für das Jahr 2027 beschlossen. Das ist der Plan, wofür der Staat Geld ausgibt. Rund 556 Milliarden Euro sollen ausgegeben werden. Das sind etwa 6 Prozent mehr als in diesem Jahr.\n\nDafür muss der Bund viele neue Schulden machen. Im Kernhaushalt sind es etwa 123 Milliarden Euro. Etwa jeder dritte Euro ist geliehen. Kritiker sind damit nicht einverstanden.\n\nCDU/CSU und SPD haben dem Haushalt zugestimmt. AfD, Grüne und Linke haben dagegen gestimmt.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Bundestag beschließt Haushalt 2027",
+              "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html"
+            },
+            {
+              "name": "Bundestag: Haushalt 2027",
+              "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1238868"
+            }
+          ]
+        },
+        {
+          "titel": "Strom soll ab Januar etwas billiger werden",
+          "unterzeile": "Die Stromsteuer sinkt",
+          "text": "Ab Anfang 2027 sinkt die Stromsteuer. Das gilt dann auch für Haushalte. Wie viel du am Ende sparst, ist noch offen. Die Senkung ist erst einmal nur für das Jahr 2027 bezahlt.\n\nAußerdem kommt ab 2028 eine Steuer auf stark gezuckerte Getränke. Sie gilt für Limonaden und Eistee mit viel Zucker. Getränke ohne Zucker und mit Alkohol sind davon ausgenommen. Schnaps wird teurer: Die Steuer darauf steigt um 20 Prozent.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Bundestag beschließt Haushalt 2027",
+              "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Streit um die Rente geht weiter",
+          "unterzeile": "Wer darf früher in Rente?",
+          "text": "Union und SPD streiten über die Rente nach 45 Beitragsjahren. Diese Rente ist oft als „Rente mit 63“ bekannt. Eine Kommission wollte sie abschaffen. Die SPD sagt Nein. Der Kanzler möchte, dass das Kabinett die Rentenreform noch vor Weihnachten beschließt.\n\nArbeitsminister Alexander Schweitzer hat einen Vorschlag gemacht. Die „Rente mit 63“ soll bleiben. Aber weniger Menschen sollen sie bekommen. Außerdem soll das Rentenalter an die Lebenserwartung gekoppelt werden. Er sagt selbst, das gehe „nicht ganz ohne Schmerzen“.",
+          "quellen": [
+            {
+              "name": "Stuttgarter Nachrichten: Rentenstreit",
+              "url": "https://www.stuttgarter-nachrichten.de/politik/haushaltsdebatte-im-bundestag-rentenstreit-union-und-spd-suchen-weiter-kompromiss-79791331.html"
+            },
+            {
+              "name": "ZDFheute: Schweitzers Rentenvorschlag",
+              "url": "https://www.zdfheute.de/politik/deutschland/alexander-schweitzer-rente-reform-vorschlag-spd-cdu-kritik-koalition-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Die meisten wollen die Rente mit 63 behalten",
+          "unterzeile": "Das zeigt eine Umfrage",
+          "text": "Im ZDF-Politbarometer sind 69 Prozent dagegen, die Rente nach 45 Beitragsjahren abzuschaffen. Nur 26 Prozent sind dafür. Eine Mehrheit glaubt auch nicht an eine schnelle Einigung in der Regierung.",
+          "quellen": [
+            {
+              "name": "Stuttgarter Nachrichten: Rentenstreit",
+              "url": "https://www.stuttgarter-nachrichten.de/politik/haushaltsdebatte-im-bundestag-rentenstreit-union-und-spd-suchen-weiter-kompromiss-79791331.html"
+            },
+            {
+              "name": "ZDFheute: Politbarometer",
+              "url": "https://www.zdfheute.de/politik/deutschland/politbarometer-rentenreform-einigung-zweifel-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Weihnachtsmärkte werden für Städte teurer",
+          "unterzeile": "Personal und Sicherheit kosten viel",
+          "text": "Viele Städte müssen sparen. Weihnachtsmärkte kosten viel Geld, vor allem für Personal und Sicherheit. In Isny im Allgäu gibt es die Schlossweihnacht zum letzten Mal. In Augsburg kauften die Verantwortlichen Stahlsperren gegen Autos für fast 800.000 Euro. Fast 70 Prozent der befragten Stadtmarketing-Firmen haben ihr Weihnachtsprogramm im Vorjahr verkleinert.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Weihnachtsmärkte",
+              "url": "https://www.zdfheute.de/wirtschaft/hohe-kosten-weihnachtsmaerkte-kommunen-100.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Aus aller Welt",
+      "artikel": [
+        {
+          "titel": "Sturm zu Thanksgiving in den USA",
+          "unterzeile": "Die berühmte Parade in New York wurde verschoben",
+          "text": "An der Ostküste der USA hat ein Sturm viel Regen und Wind gebracht. Straßen standen unter Wasser. In New York gilt der Notstand. Die Thanksgiving-Parade wurde zum ersten Mal in ihrer Geschichte verschoben. Die großen Ballons durften bei den Böen nicht steigen.\n\nZeitweise waren fast eine Million Menschen ohne Strom. Am Freitagmorgen waren es noch rund 680.000. Es gab auch viele Flugausfälle.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Thanksgiving-Sturm",
+              "url": "https://www.zdfheute.de/panorama/thanksgiving-sturm-usa-unwetter-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Geheime Gänge unter der Hagia Sophia",
+          "unterzeile": "Ein Tunnel-Netz in Istanbul entdeckt",
+          "text": "Bei Reinigungsarbeiten unter der berühmten Hagia Sophia in Istanbul fanden Fachleute ein großes Netz aus Tunneln. Der Kulturminister der Türkei sagt, das historische Erbe unter dem Gebäude solle für alle geöffnet werden.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Hagia Sophia",
+              "url": "https://www.zdfheute.de/video/panorama-hagia-sophia-tunnel-entdeckung-istanbul-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Zwei kleine Nashörner",
+          "unterzeile": "Nachwuchs in Basel und in England",
+          "text": "Im Zoo Basel kam am 5. November ein Panzernashorn-Junges zur Welt. Mutter Shakti und das Kleine sind wohlauf. Auch im Chester Zoo in England wurde am 20. November ein Panzernashorn geboren. Die Mutter Asha trug das Junge 15 Monate lang.",
+          "quellen": [
+            {
+              "name": "Badische Zeitung: Basel",
+              "url": "https://www.badische-zeitung.de/basler-zoo-begruesst-panzernashorn-baby-xshama"
+            },
+            {
+              "name": "VOL.AT: Chester Zoo",
+              "url": "https://www.vol.at/15-monate-getragen-seltenes-panzernashorn-baby-geboren/11349626"
+            }
+          ]
+        },
+        {
+          "titel": "Ein Schimpansen-Baby in Gelsenkirchen",
+          "unterzeile": "Gar nicht weit von Mülheim",
+          "text": "In der ZOOM Erlebniswelt in Gelsenkirchen hat Schimpansin Jahaga am 11. November ein Junges bekommen. Es ist vermutlich ein Mädchen. Die Geburt verlief ohne Probleme. Mutter und Kind sind wohlauf.",
+          "quellen": [
+            {
+              "name": "ZOOM Erlebniswelt",
+              "url": "https://www.zoom-erlebniswelt.de/tierische-neuigkeiten/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Sport: Fußball-Bundesliga",
+      "artikel": [
+        {
+          "titel": "Bremen und Gladbach trennen sich unentschieden",
+          "unterzeile": "Gladbach verspielt eine Führung",
+          "text": "Am Freitagabend spielten Werder Bremen und Borussia Mönchengladbach unentschieden. Gladbach hatte zwei Tore Vorsprung. Doch Bremen kam noch zurück. So gab es für beide Mannschaften nur einen Punkt.\n\nDie Meldung stammt von der Sportschau. Das genaue Ergebnis nennen die Quellen unterschiedlich. Wir schreiben es deshalb nicht auf.",
+          "quellen": [
+            {
+              "name": "Sportschau: Bundesliga",
+              "url": "https://www.sportschau.de/fussball/bundesliga"
+            },
+            {
+              "name": "Feverpitch: 11. Spieltag",
+              "url": "https://www.feverpitch.de/11-bundesliga-spieltag-2026-27/"
+            }
+          ]
+        },
+        {
+          "titel": "Bayern ohne Musiala beim HSV",
+          "unterzeile": "Muskelfaserriss im Oberschenkel",
+          "text": "Bayern-Spieler Jamal Musiala hat sich einen Muskelfaserriss im rechten Oberschenkel zugezogen. Beim Spiel in Hamburg heute um 15:30 Uhr fehlt er. Der Verein sagt, er fällt „bis auf Weiteres“ aus. Die „Bild“ schreibt, es könnte bis zum Jahresende dauern. Das ist aber nicht offiziell bestätigt.",
+          "quellen": [
+            {
+              "name": "Tagesspiegel: Musiala",
+              "url": "https://www.tagesspiegel.de/sport/muskelfaserriss-nach-kurzeinsatzen-musiala-fehlt-dem-fc-bayern-erneut-16335853.html"
+            }
+          ]
+        },
+        {
+          "titel": "Der Sonntag in der Bundesliga",
+          "unterzeile": "Drei Spiele",
+          "text": "Am Sonntag spielt Freiburg gegen Leipzig um 15:30 Uhr. Um 17:30 Uhr spielt Hoffenheim gegen Augsburg. Das Spitzenspiel ist um 19:30 Uhr: Dortmund gegen Leverkusen. Diese Spiele laufen nur beim Bezahlsender DAZN.",
+          "quellen": [
+            {
+              "name": "Feverpitch: 11. Spieltag",
+              "url": "https://www.feverpitch.de/11-bundesliga-spieltag-2026-27/"
+            }
+          ]
+        },
+        {
+          "titel": "Dortmund war zuletzt ganz oben",
+          "unterzeile": "Ein 1:0 in Gladbach brachte die Spitze",
+          "text": "Nach dem 10. Spieltag stand Borussia Dortmund an der Tabellenspitze. Die Mannschaft hatte in Gladbach 1:0 gewonnen. Wie die Tabelle jetzt aussieht, hängt von den Spielen dieses Wochenendes ab.",
+          "quellen": [
+            {
+              "name": "Sportschau: Bundesliga",
+              "url": "https://www.sportschau.de/fussball/bundesliga"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Heute in der Bundesliga",
+        "punkte": [
+          "15:30 Uhr: Mainz – Union Berlin",
+          "15:30 Uhr: Hamburger SV – Bayern München",
+          "15:30 Uhr: Köln – Elversberg",
+          "15:30 Uhr: Paderborn – Schalke 04",
+          "18:30 Uhr: Stuttgart – Eintracht Frankfurt"
+        ],
+        "quellen": [
+          {
+            "name": "Feverpitch: 11. Spieltag",
+            "url": "https://www.feverpitch.de/11-bundesliga-spieltag-2026-27/"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Sport: weitere Sportarten und Vereine",
+      "artikel": [
+        {
+          "titel": "Ein Wochenende voller Wintersport",
+          "unterzeile": "Skispringen, Biathlon und Ski alpin",
+          "text": "Im Wintersport ist viel los. Heute um 16:30 Uhr springen die Männer in Ruka in Finnland. Das läuft im Ersten. Im Biathlon in Kontiolahti gibt es heute um 13:10 Uhr den Wettkampf Single Mixed und um 15:15 Uhr die Mixed-Staffel.\n\nMorgen laufen die Sprints: die Männer um 13:00 Uhr und die Frauen um 16:15 Uhr. Auch das zeigt das Erste.",
+          "quellen": [
+            {
+              "name": "Sportschau: Wintersport am Wochenende",
+              "url": "https://www.sportschau.de/wintersport/so-laeuft-der-wintersport-am-wochenende-in-der-sportschau,so-laeuft-der-wintersport-in-der-sportschau-104.html"
+            }
+          ]
+        },
+        {
+          "titel": "Rodeln in Winterberg",
+          "unterzeile": "Der Eiskanal im Sauerland ist dran",
+          "text": "In Winterberg wird gerodelt. Heute um 8:58 Uhr starten die Doppelsitzer der Männer. Morgen um 10:48 Uhr fahren die Frauen im Einsitzer. Um 13:50 Uhr folgt die Teamstaffel. Die Staffel zeigt das Erste.",
+          "quellen": [
+            {
+              "name": "Sportschau: Wintersport am Wochenende",
+              "url": "https://www.sportschau.de/wintersport/so-laeuft-der-wintersport-am-wochenende-in-der-sportschau,so-laeuft-der-wintersport-in-der-sportschau-104.html"
+            }
+          ]
+        },
+        {
+          "titel": "Die Skisaison startet auf der Zugspitze",
+          "unterzeile": "Zwei Sessellifte, drei Pisten",
+          "text": "Auf der Zugspitze hat die Skisaison begonnen. Es gibt zwei Sesselbahnen und drei Pisten. 35 Zentimeter Neuschnee liegen dort. Ein Tagesticket kostet 78 Euro, im Netz 70 Euro. In tieferen Lagen fehlt noch der Schnee.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Zugspitze",
+              "url": "https://www.zdfheute.de/panorama/skisaison-2026-beginn-bayern-zugspitze-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Handball: Kiel gewinnt in Wuppertal",
+          "unterzeile": "34:26 gegen den Bergischen HC",
+          "text": "Der THW Kiel hat am Freitag beim Bergischen HC in Wuppertal mit 34:26 gewonnen. Zur Pause stand es 13:11.",
+          "quellen": [
+            {
+              "name": "Sportschau: THW Kiel",
+              "url": "https://sportschau.de/regional/ndr/thw-kiel-arbeitet-sich-gegen-bergischen-hc-zum-sieg,thw-kiel-596.html"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Wintersport heute",
+        "punkte": [
+          "10:15 Uhr: Nordische Kombination in Ruka (Das Erste)",
+          "13:10 Uhr: Biathlon Single Mixed (Das Erste)",
+          "15:15 Uhr: Biathlon Mixed-Staffel (Das Erste)",
+          "16:30 Uhr: Skispringen Männer in Ruka (Das Erste)"
+        ],
+        "quellen": [
+          {
+            "name": "Sportschau: Wintersport am Wochenende",
+            "url": "https://www.sportschau.de/wintersport/so-laeuft-der-wintersport-am-wochenende-in-der-sportschau,so-laeuft-der-wintersport-in-der-sportschau-104.html"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Klatsch & Tratsch",
+      "artikel": [
+        {
+          "titel": "Heino und sein neues Lied sorgen für Streit",
+          "unterzeile": "Ein Text aus der Nazi-Zeit",
+          "text": "Schlagersänger Heino hat ein neues Lied aufgenommen. Es heißt „Erika (Auf der Heide)“. Für die erste Strophe hat er den Text eines Marschlieds aus der Nazi-Zeit genommen. Die Aufnahme dazu stammt von 1938. Die Musik ist aber neu, mit schnellem Techno-Beat.\n\nEin Musikwissenschaftler aus Mainz kritisiert das scharf. Heino habe das Lied „ohne jeden Kontext“ übernommen. Heinos Management sagt, es sei ein neues Werk. Man wolle nicht „ins rechte Eck“ gestellt werden.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Heino und „Erika“",
+              "url": "https://www.zdfheute.de/panorama/prominente/heino-erika-lied-text-ns-zeit-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Danni Büchner über das Älterwerden",
+          "unterzeile": "Auch über Bodyshaming spricht sie",
+          "text": "Danni Büchner hat der Seite Promiflash ein Interview gegeben. Sie sagt, wie sie über das Älterwerden denkt. Sie erzählt auch, wie sehr sie Bodyshaming noch trifft. Das ist, wenn andere über das Aussehen lästern.",
+          "quellen": [
+            {
+              "name": "Promiflash",
+              "url": "https://www.promiflash.de/"
+            }
+          ]
+        },
+        {
+          "titel": "Lotto-Millionär Chico gewinnt wieder",
+          "unterzeile": "Diesmal muss er teilen",
+          "text": "Chico, der schon einmal Lotto-Millionär wurde, hat erneut im Lotto gewonnen. Laut Promiflash muss er diesmal mit anderen teilen.",
+          "quellen": [
+            {
+              "name": "Promiflash",
+              "url": "https://www.promiflash.de/"
+            }
+          ]
+        },
+        {
+          "titel": "Alena Gerber legt eine Beziehungspause ein",
+          "unterzeile": "Mehr ist noch nicht bekannt",
+          "text": "Das Model Alena Gerber sagt laut Promiflash, sie und ihr Partner brauchten eine Beziehungspause. Weitere Einzelheiten sind noch nicht bekannt. Wir wünschen den beiden alles Gute.",
+          "quellen": [
+            {
+              "name": "Promiflash",
+              "url": "https://www.promiflash.de/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Klatsch & Tratsch: TV, Shows, Royals und Stars der Welt",
+      "artikel": [
+        {
+          "titel": "„Wetten, dass..?“ am 5. Dezember: Das sind die Gäste",
+          "unterzeile": "Bill und Tom Kaulitz moderieren",
+          "text": "Am Samstag, 5. Dezember, kommt „Wetten, dass..?“ live aus Halle an der Saale. Es beginnt um 20:15 Uhr im ZDF. Bill und Tom Kaulitz moderieren zum ersten Mal.\n\nDabei sind die Hollywood-Stars Dwayne „The Rock“ Johnson und Kevin Hart. Auch Sängerin Nina Chuba ist Wettpatin. Herbert Grönemeyer zeigt ein neues Lied zum ersten Mal im Fernsehen. Hazel Brugger macht die Außenwette. Die Karten wurden verlost. Es gab rund 288.000 Anfragen.",
+          "quellen": [
+            {
+              "name": "Ruhr Nachrichten: Wetten, dass..?",
+              "url": "https://www.ruhrnachrichten.de/service/wetten-dass-2026-halle-5-dezember-zdf-bill-tom-kaulitz-countdown-show-aussenwette-gaeste-wetten-w1261478-2002264655/"
+            }
+          ]
+        },
+        {
+          "titel": "Gerücht: Feiern William und Kate Weihnachten ohne den König?",
+          "unterzeile": "Boulevard-Berichte, nicht bestätigt",
+          "text": "Einige Zeitungen schreiben, dass Prinz William und Prinzessin Kate Weihnachten vielleicht nicht in Sandringham feiern. Sie könnten bei Kates Familie feiern. Das berichten Boulevardmedien und beziehen sich auf Insider. Bestätigt ist das nicht. Der Palast hat sich dazu nicht geäußert.",
+          "quellen": [
+            {
+              "name": "Yahoo Nachrichten",
+              "url": "https://de.nachrichten.yahoo.com/feiertage-ohne-k%C3%B6nig-charles-royaler-100010639.html"
+            },
+            {
+              "name": "news.de",
+              "url": "https://www.news.de/promis/860161648/rinzessin-kate-und-prinz-william-planen-familien-flucht-kate-und-william-drohen-koenig-charles-mit-weihnachts-absage/1/"
+            }
+          ]
+        },
+        {
+          "titel": "Zehn Promis tanzen bei „Dancing Stars“",
+          "unterzeile": "Die österreichische Tanzshow startet im Februar",
+          "text": "In Österreich steht die Besetzung von „Dancing Stars“ 2027 fest. Zehn Promis tanzen mit, darunter die Schauspielerin Angelika Niedetzky, der Ex-Fußballer Stefan Maierhofer und der ORF-Wetterexperte Marcus Wadsak. Die Show startet am 26. Februar, freitags um 20:15 Uhr auf ORF 1.",
+          "quellen": [
+            {
+              "name": "Tiroler Tageszeitung",
+              "url": "https://tt.com/artikel/30947869/vom-ex-fussballstar-bis-zum-orf-wettermann-diese-zehn-promis-tanzen-2027-bei-dancing-stars"
+            }
+          ]
+        },
+        {
+          "titel": "Samstagabend im Fernsehen",
+          "unterzeile": "Zum ersten Advent gibt es Musik und Filme",
+          "text": "Heute läuft im Ersten um 20:15 Uhr „Das Adventsfest der 100.000 Lichter“. Im ZDF kommt der „Thüringenkrimi“. Bei RTL läuft „Harry Potter und die Heiligtümer des Todes – Teil 1“. Wer lieber klassische Musik mag: 3sat zeigt ein Konzert der Wiener Philharmoniker aus Tokio.",
+          "quellen": [
+            {
+              "name": "TV Movie: Fernsehprogramm Samstag",
+              "url": "https://www.tvmovie.de/tv/fernsehprogramm-samstag"
+            },
+            {
+              "name": "prisma: Adventsfest der 100.000 Lichter",
+              "url": "https://www.prisma.de/tv-programm/Das-Adventsfest-der-100000-Lichter,50007594"
+            }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "TV-Tipps für heute Abend",
+        "punkte": [
+          "20:15 Das Erste: Das Adventsfest der 100.000 Lichter",
+          "20:15 ZDF: Thüringenkrimi",
+          "20:15 RTL: Harry Potter und die Heiligtümer des Todes – Teil 1",
+          "20:15 3sat: Konzert der Wiener Philharmoniker aus Tokio",
+          "23:00 Das Erste: das aktuelle sportstudio",
+          "Bitte kurz im Programm prüfen: Zeiten können sich ändern"
+        ],
+        "quellen": [
+          {
+            "name": "TV Movie: Fernsehprogramm Samstag",
+            "url": "https://www.tvmovie.de/tv/fernsehprogramm-samstag"
+          }
+        ]
+      }
+    },
+    {
+      "titel": "Zum Schluss: Gesundheit und Haushalt",
+      "artikel": [
+        {
+          "titel": "Richtig lüften im Winter",
+          "unterzeile": "So kommt kein Schimmel in die Wohnung",
+          "text": "Lüfte lieber kurz und kräftig. Ein gekipptes Fenster kühlt das Zimmer nur aus. Im Winter reichen drei bis fünf Minuten. Noch schneller geht es, wenn du gegenüberliegende Fenster öffnest. Dann reichen etwa drei Minuten.\n\nDas Wohnzimmer sollte etwa 20 Grad warm sein. Wird es kälter, kann sich leichter Schimmel bilden. Ein kleines Messgerät für die Luftfeuchtigkeit hilft. Über 50 Prozent im Winter sind zu viel.",
+          "quellen": [
+            {
+              "name": "Verbraucherzentrale: Heizen und Lüften",
+              "url": "https://www.verbraucherzentrale.de/wissen/energie/heizen-und-warmwasser/heizen-und-lueften-so-gehts-richtig-10426"
+            }
+          ]
+        },
+        {
+          "titel": "Glätte am Sonntag: Vorsicht beim Gehen",
+          "unterzeile": "Frost am Samstag, vielleicht Glatteis am Sonntag",
+          "text": "Am Wochenende bleibt es eisig. Nachts sind es bis etwa minus 8 Grad. Am Sonntag kann Regen auf gefrorenen Boden fallen. Dann droht Glatteis, zuerst im Nordwesten. Der Wetterdienst warnt davor, die Vorhersage ist aber noch unsicher. Ziehe Schuhe mit gutem Profil an und gehe langsam.",
+          "quellen": [
+            {
+              "name": "ZDFheute: Der erste Advent wird eisig kalt",
+              "url": "https://www.zdfheute.de/panorama/wetter-samstag-sonntag-wochenende-advent-glaette-temperatur-100.html"
+            }
+          ]
+        },
+        {
+          "titel": "Erkältung vorbeugen",
+          "unterzeile": "Einfache Tipps für die kalte Jahreszeit",
+          "text": "Die Techniker Krankenkasse nennt Hygiene als wichtigste Maßnahme. Wasche dir regelmäßig die Hände. Meide in der Erkältungszeit große Menschenmengen. Frische Luft hilft ebenfalls, denn in geschlossenen Räumen sammeln sich Viren schnell an. Gegen die echte Grippe gibt es eine Impfung, gegen eine normale Erkältung nicht.",
+          "quellen": [
+            {
+              "name": "Techniker Krankenkasse: Erkältung vorbeugen",
+              "url": "https://www.tk.de/techniker/krankheit-und-behandlungen/erkrankungen/behandlungen-und-medizin/infektionen/erkaeltungen-vorbeugen-2016338"
+            }
+          ]
+        },
+        {
+          "titel": "Aldi senkt den Kaffeepreis",
+          "unterzeile": "Vorher schon die Butter",
+          "text": "Der Discounter Aldi hat angekündigt, Kaffee günstiger zu machen. Vor wenigen Tagen hatte Aldi schon den Butterpreis auf unter einen Euro gesenkt. Wie viel Kaffee genau kostet, steht in der Meldung nicht. Schau im Laden auf das Preisschild.",
+          "quellen": [
+            {
+              "name": "Presseportal: Meldungen aus Mülheim",
+              "url": "https://www.presseportal.de/regional/M%FClheim%20an%20der%20Ruhr"
+            }
+          ]
+        },
+        {
+          "titel": "Bestellungen und Geschenke aus dem Ausland",
+          "unterzeile": "Hinweise vom Zoll zu Weihnachten und Black Friday",
+          "text": "Der Zoll hat Hinweise zu Bestellungen und Geschenken aus dem Ausland herausgegeben. Sie sind für die Zeit rund um Weihnachten und den Black Friday gedacht. Die Meldung findest du beim Hauptzollamt Duisburg auf Presseportal.",
+          "quellen": [
+            {
+              "name": "Presseportal: Hauptzollamt Duisburg",
+              "url": "https://www.presseportal.de/regional/M%FClheim%20an%20der%20Ruhr"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Die zweite Kerze",
+    "text": "Am Abend vor dem ersten Advent stand Lena in der Küche. Draußen war es klirrend kalt. Sie hatte den Kranz auf den Tisch gestellt. Vier rote Kerzen steckten darin, und eine kleine Tanne duftete ganz leise. Lena zündete die erste Kerze an. Das Licht flackerte und wurde dann ruhig. Sie dachte an früher, als ihre Mutter immer Plätzchen gebacken hatte. Der Duft von Zimt war durch das ganze Haus gezogen. Heute hatte Lena einen Teller mit Plätzchen für die Nachbarin gepackt. Sie wollte ihn gleich vorbeibringen. Die alte Dame freute sich bestimmt. Lena zog ihren dicken Schal an und ging hinaus. Der Atem stand als kleine Wolke vor ihr. Als sich die Tür öffnete, lächelte die Nachbarin. „Komm rein, es gibt Tee“, sagte sie. Dann saßen sie zusammen im Warmen. Und die Kerze am Kranz brannte noch lange weiter."
+  }
+}
