@@ -1,0 +1,413 @@
+{
+  "gruss": "Guten Morgen, Tim! Samstag, 28. November: Der Bundestag hat den Haushalt 2027 beschlossen, in Mülheim startet das Adventswochenende an der Schleuseninsel, und bei Linux gibt es eine Lücke, die du kennen solltest. Viel Spaß beim Lesen!",
+  "aufmacher": {
+    "rubrik": "Deutschland",
+    "titel": "Haushalt 2027 steht: Rekordetat mit Rekordschulden",
+    "unterzeile": "Der Bundestag hat gestern mit der Koalitionsmehrheit abgestimmt – Steuern auf Alkohol und Zucker kommen, die Stromsteuer soll sinken",
+    "text": "Der Bundestag hat am Freitag den Bundeshaushalt 2027 beschlossen. Union und SPD brachten ihn mit ihrer Mehrheit durch, nach Angaben von ZDFheute stimmten 317 Abgeordnete dafür und 260 dagegen (das Bundestag-Protokoll nennt 316 Ja-Stimmen). Der Etat umfasst rund 556 Milliarden Euro, etwa 6 Prozent mehr als in diesem Jahr. Die Nettokreditaufnahme im Kernhaushalt steigt von 98 auf 123 Milliarden Euro; inklusive der Sondervermögen für Infrastruktur und Bundeswehr liegt die Neuverschuldung bei über 210 Milliarden Euro. Jeder dritte Euro im Haushalt ist also geliehen.\n\nGrößter Block bleibt Arbeit und Soziales mit über einem Drittel der Ausgaben, die Verteidigung steigt auf knapp 140 Milliarden Euro, die Ukraine soll 12 Milliarden Euro bekommen. Um zunächst 34 Milliarden Euro Lücke zu schließen, haben Union und SPD unter anderem Steuererhöhungen auf Spirituosen und Alkopops beschlossen, eine Zuckersteuer soll ab 2028 kommen. Gestrichen wurde dagegen eine geplante Kürzung beim Wohngeld und bei anderen Sozialleistungen.\n\nKritik gibt es von Experten und Opposition: Der Wirtschaftsweise Gabriel Felbermayr sagte laut ZDFheute, die Lücken würden nur kurzfristig gestopft, es fehle eine langfristige Perspektive. Finanzminister Lars Klingbeil (SPD) verteidigte die Schulden für Verteidigung und Investitionen und warnte, der Haushalt 2028 werde noch herausfordernder.",
+    "quellen": [
+      { "name": "ZDFheute: Rekordhaushalt und Rekordschulden", "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html" },
+      { "name": "Deutscher Bundestag: Bereinigungssitzung", "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw46-pa-haushalt-1231890" }
+    ]
+  },
+  "seiten": [
+    {
+      "titel": "Mülheim an der Ruhr",
+      "artikel": [
+        {
+          "titel": "Velauer Straße: Linie 129 fährt bis 7. Dezember Umleitung",
+          "unterzeile": "Wegen Bauarbeiten entfallen drei Haltestellen ersatzlos",
+          "text": "Wegen Bauarbeiten an der Velauer Straße wird die Straße gesperrt, die Busse fahren anders. Die Buslinie 129 ist laut Bericht von ms-aktuell vom 23. November bis zum 7. Dezember 2026 umgeleitet.\n\nWährend der Umleitung entfallen drei Haltestellen, Ersatzhaltestellen gibt es nicht. Wenn du die 129 nimmst, plane also etwas mehr Weg zur nächsten Haltestelle ein. Die Angaben zu Bauzeit und Busumleitung stimmen in der Quelle nicht ganz überein; schau deshalb vor der Fahrt in die aktuellen Infos der Ruhrbahn.",
+          "quellen": [
+            { "name": "ms-aktuell: Velauer Straße in Mülheim wird gesperrt", "url": "https://ms-aktuell.de/welt/velauer-strasse-muelheim-20-11-2026/" },
+            { "name": "Ruhrbahn: Verkehrsinfo Mülheim", "url": "https://www.ruhrbahn.de/muelheim/aktuelles/verkehrsinfo" }
+          ]
+        },
+        {
+          "titel": "Baumschulenweg in Linksruhr: Deckensanierung sollte gestern enden",
+          "unterzeile": "Tempo 30 und enge Durchfahrt auf rund 190 Metern",
+          "text": "Auf dem Baumschulenweg zwischen Straßburger Allee und der Anschlussstelle Breitscheid (B1) lief seit dem 2. November eine Fahrbahnerneuerung samt Restarbeiten. Laut der Verkehrsmeldung, die news.de vom Landesministerium NRW übernimmt, war die Baustelle bis 27. November, 23:59 Uhr angesetzt. Betroffen sind nur rund 0,19 Kilometer.\n\nIn der Zeit galten Tempo 30 und eine maximale Durchfahrtsbreite von 3 Metern; mit Stau war zu rechnen. Ob die Arbeiten tatsächlich fertig geworden sind, steht in der Meldung nicht, die Infozeile enthält zudem eine unpassende Ortsangabe (Ratingen). Wer dort unterwegs ist, wirft besser einen Blick auf aktuelle Verkehrsinfos.",
+          "quellen": [
+            { "name": "news.de: Verkehrsmeldung Baumschulenweg", "url": "https://www.news.de/auto/860219953/verkehrsmeldung-nw-muelheim-an-der-ruhr-mettmann-zur-verkehrsstoerung-wegen-baustelle-von-02-11-2026-bis-27-11-2026-einschraenkungen-im-verkehr-nordrhein-westfalen-staugefahr-in-linksruhr-auf-baumschulenweg/1/" }
+          ]
+        },
+        {
+          "titel": "Delta Rhine Corridor: Mülheimer Rat gegen Trasse durch den Wald",
+          "unterzeile": "Antrag fordert, die Position der Stadt bei den zuständigen Stellen durchzusetzen",
+          "text": "Der Rat der Stadt Mülheim stellt sich laut einem Antrag auf der Seite der Mülheimer Grünen gegen die aktuell geplante Trassenführung des Delta Rhine Corridor durch den Wald an der Grenze zwischen Duisburg und Mülheim. Die Verwaltung soll diese Position bei den zuständigen Gremien vertreten. Ein Datum der Abstimmung steht auf der Seite nicht, deshalb solltest du das als Hinweis auf ein laufendes Thema lesen und nicht als frische Beschlusslage. Die genauen Beschlüsse stehen im Ratsinformationssystem der Stadt.",
+          "quellen": [
+            { "name": "Grüne Mülheim: Anträge, Vorschläge, Anfragen", "url": "https://gruene-mh.de/antraege-2/" },
+            { "name": "Ratsinformationssystem Mülheim (Poliscope)", "url": "https://poliscope.de/ratsinformationssystem/m%C3%BClheim-an-der-ruhr-stadt/05117" }
+          ]
+        },
+        {
+          "titel": "Polizei fasst Bäckerei-Diebe: Was nach der Festnahme passiert",
+          "unterzeile": "38- und 48-Jähriger sollen dem Haftrichter vorgeführt werden",
+          "text": "Nachtrag zur Festnahme in der Innenstadt: Laut Antenne NRW sollen die beiden Männer, die in der Nacht zu Mittwoch eine Bäckerei-Kasse gestohlen haben sollen, auf Antrag der Staatsanwaltschaft Duisburg einem Richter vorgeführt werden. Beide müssen mit Anzeigen wegen schweren Diebstahls rechnen, der 38-Jährige zusätzlich wegen eines Verstoßes gegen das Waffengesetz, weil er ein Messer dabeihatte. Sie waren an der Baustelle Dickswall/Tourainer Ring gefasst worden.",
+          "quellen": [
+            { "name": "Antenne NRW: Diebe-Duo bei Flucht gestellt", "url": "https://antenne.nrw/blaulicht/schnappschuss-in-muelheim-diebe-duo-bei-flucht-gestellt/" },
+            { "name": "Radio Mülheim: Polizei schnappt mutmaßliche Diebe", "url": "https://www.radiomuelheim.de/artikel/muelheim-polizei-schnappt-mutmassliche-diebe-auf-der-baustelle-2816974" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Kurz gemeldet",
+        "punkte": [
+          "Linie 129: Umleitung 23.11. bis 7.12., drei Haltestellen entfallen",
+          "Baumschulenweg: Baustelle laut Meldung bis 27.11.",
+          "Tipp: Aktuelle Störungen der Ruhrbahn stehen auf der Verkehrsinfo-Seite"
+        ],
+        "quellen": [
+          { "name": "Ruhrbahn: Verkehrsinfo Mülheim", "url": "https://www.ruhrbahn.de/muelheim/aktuelles/verkehrsinfo" }
+        ]
+      }
+    },
+    {
+      "titel": "Mülheim & Ruhrgebiet",
+      "artikel": [
+        {
+          "titel": "Schiffsweihnacht: Samstag 13 bis 21 Uhr auf der Schleuseninsel",
+          "unterzeile": "Eintritt frei, letzter Tag ist morgen",
+          "text": "Die Mülheimer Schiffsweihnacht läuft an zwei Wochenenden auf der Schleuseninsel an der Alten Schleuse; heute ist sie von 13 bis 21 Uhr geöffnet, morgen von 11 bis 20 Uhr. Der Eintritt ist frei. Es gibt Stände mit Handgemachtem, Weihnachtsleckereien und Livemusik, die Weiße Flotte liegt als Kulisse am Ufer.\n\nZum Programm gehören laut Veranstalter am Samstag unter anderem Auftritte einer Ballettschule und Kinderlieder, am Sonntag ab 17 Uhr „Weihnachten mit FKK“. Die Insel ist eben und für Rollstuhl und Rollator geeignet; die Stände auf den Schiffen sind nur über Treppen erreichbar. Änderungen im Programm sind möglich.",
+          "quellen": [
+            { "name": "mein-muelheim.de: Schiffsweihnacht 2026", "url": "https://www.mein-muelheim.de/event/muelheimer-schiffsweihnacht-2026" }
+          ]
+        },
+        {
+          "titel": "Altstadt-Adventsmarkt läuft bis 13. Dezember",
+          "unterzeile": "Öffnungszeiten solltest du vorher checken",
+          "text": "Der Altstadt-Adventsmarkt in Mülheim ist laut dem Portal alle-weihnachtsmaerkte.de vom 27. November bis 13. Dezember angesetzt. Öffnungszeiten ließen sich in den Quellen nicht eindeutig finden, schau deshalb vor dem Besuch bei der Stadt oder dem Veranstalter nach.",
+          "quellen": [
+            { "name": "alle-weihnachtsmaerkte.de: Mülheim an der Ruhr", "url": "https://www.alle-weihnachtsmaerkte.de/weihnachtsmaerkte/muelheim-an-der-ruhr/" }
+          ]
+        },
+        {
+          "titel": "Weihnachtsmärkte im Revier: Was dieses Wochenende los ist",
+          "unterzeile": "Von Hagen bis Waltrop, dazu die großen Märkte in Essen, Dortmund und Duisburg",
+          "text": "Im Ruhrgebiet läuft das erste Adventswochenende an. Laut Mein Ruhrgebiet ist der Weihnachtszauber im Hagener Freilichtmuseum heute von 11 bis 21 Uhr geöffnet, morgen von 11 bis 20 Uhr. Im Schiffshebewerk Waltrop ist „Industriekultur meets Weihnachten“ am Samstag von 13 bis 20 Uhr und am Sonntag von 10 bis 17 Uhr.\n\nDazu kommen laut Makerbude kleinere Märkte, etwa in Duisburg-Walsum, Alt-Marl, Bochum-Rosenberg und Oer-Erkenschwick (Samstag) sowie auf der Essener Margarethenhöhe (Sonntag). Der Essener Weihnachtsmarkt läuft schon seit 13. November, der Dortmunder seit 19. November. Die Angaben stammen aus Ratgeberseiten und Blogs, prüf die Zeiten vor dem Losfahren.",
+          "quellen": [
+            { "name": "Mein Ruhrgebiet: Besondere Weihnachtsmärkte", "url": "https://www.mein-ruhrgebiet.blog/besondere-weihnachtsmaerkte-im-ruhrgebiet/" },
+            { "name": "Makerbude: Weihnachtsmärkte Ruhrgebiet", "url": "https://makerbude.com/weihnachtsmarkt/ruhrgebiet" },
+            { "name": "Rheinruhraktuell: Weihnachtsmärkte NRW 2026", "url": "https://rheinruhraktuell.de/weihnachtsmaerkte-in-nrw-2026-die-wichtigsten-termine-im-ruhrgebiet-rheinland-und-ganz-nordrhein-westfalen/" }
+          ]
+        },
+        {
+          "titel": "Landtag: FDP stellt Wüst wegen kalter Progression zur Rede",
+          "unterzeile": "Aktuelle Stunde am Freitag – Ausgleich würde rund 4,2 Milliarden Euro kosten",
+          "text": "Im Düsseldorfer Landtag hat die FDP Ministerpräsident Hendrik Wüst (CDU) am Freitag zur kalten Progression befragt. Wüst hält einen vollständigen Ausgleich für wünschenswert, aktuell aber nicht für machbar und verweist auf die angespannte Haushaltslage. Die FDP kritisiert, dass andere Länder zur Mitfinanzierung bereit seien.\n\nBayerns Ministerpräsident Markus Söder will einen Ausgleich auch 2027. Ein vollständiger Ausgleich würde Bund, Länder und Kommunen zusammen rund 4,2 Milliarden Euro kosten; der Koalitionsausschuss in Berlin hat laut Antenne NRW noch keine Lösung vorgelegt.",
+          "quellen": [
+            { "name": "Antenne NRW: Kalte Progression – FDP stellt Wüst zur Rede", "url": "https://antenne.nrw/nrw/kalte-progression-fdp-stellt-wuest-im-landtag-zur-rede/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Termine der Woche",
+        "punkte": [
+          "Sa 28.11., 13–21 Uhr: Schiffsweihnacht, Schleuseninsel Mülheim (Eintritt frei)",
+          "So 29.11., 11–20 Uhr: Schiffsweihnacht, letzter Tag",
+          "Sa 28.11., 11–21 Uhr / So 29.11., 11–20 Uhr: Weihnachtszauber, Freilichtmuseum Hagen",
+          "Sa 28.11., 13–20 Uhr / So 29.11., 10–17 Uhr: Schiffshebewerk Waltrop",
+          "So 29.11.: Weihnachtsmarkt Margarethenhöhe, Essen",
+          "bis 13.12.: Altstadt-Adventsmarkt Mülheim (Zeiten beim Veranstalter prüfen)"
+        ],
+        "quellen": [
+          { "name": "mein-muelheim.de: Schiffsweihnacht", "url": "https://www.mein-muelheim.de/event/muelheimer-schiffsweihnacht-2026" },
+          { "name": "Mein Ruhrgebiet", "url": "https://www.mein-ruhrgebiet.blog/besondere-weihnachtsmaerkte-im-ruhrgebiet/" },
+          { "name": "Makerbude", "url": "https://makerbude.com/weihnachtsmarkt/ruhrgebiet" }
+        ]
+      }
+    },
+    {
+      "titel": "Deutschland: Politik",
+      "artikel": [
+        {
+          "titel": "Haushalt 2027: Was die Koalition gestrichen und was sie draufgelegt hat",
+          "unterzeile": "Wohngeld bleibt, Rentenzuschuss sinkt um 3 Milliarden",
+          "text": "Hinter den großen Zahlen stecken einige Detailentscheidungen. Die Koalitionsfraktionen haben eine ursprünglich geplante Kürzung beim Wohngeld und bei anderen Sozialleistungen wieder gestrichen. Der Zuschuss an die gesetzliche Rentenversicherung wird dagegen um 3 statt 1 Milliarde Euro gekürzt.\n\nZur Gegenfinanzierung steigt die Alkoholsteuer auf Spirituosen um je 20 Prozent, die Steuer auf Alkopops gilt künftig für Mischgetränke bis 15 statt 10 Volumenprozent. Die Linke-Chefin Ines Schwerdtner kritisierte, die Regierung rede ständig von Ernstfall und Krieg, während das Geld für Millionen Menschen jeden Monat knapp sei.",
+          "quellen": [
+            { "name": "ZDFheute: Rekordhaushalt und Rekordschulden", "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html" }
+          ]
+        },
+        {
+          "titel": "Stromsteuer: Senkung für alle, aber nur für 2027 bezahlt",
+          "unterzeile": "Kosten: rund 5 Milliarden Euro",
+          "text": "Die Stromsteuer soll auf das nach EU-Recht zulässige Minimum sinken. Bisher gilt das nur für das produzierende Gewerbe sowie Land- und Forstwirtschaft; Kanzler Merz hatte auf die Ausweitung auf alle Verbraucher und Unternehmen gedrungen. Das kostet rund 5 Milliarden Euro und ist laut ZDFheute vorerst nur für 2027 finanziert. Der Koalitionsausschuss hat die Senkung nach Angaben von Antenne NRW beschlossen. Zur Finanzierung gab es zuvor Streit: Die Union wollte Überschüsse aus dem EEG-Konto nutzen, was die SPD für verfassungsrechtlich riskant hält.",
+          "quellen": [
+            { "name": "ZDFheute: Rekordhaushalt und Rekordschulden", "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html" },
+            { "name": "ZDFheute: Koalitionsausschuss – Stromsteuer und andere Knackpunkte", "url": "https://www.zdfheute.de/politik/koalition-cdu-csu-spd-stromsteuer-koalitionsausschuss-100.html" },
+            { "name": "Antenne NRW: Kalte Progression", "url": "https://antenne.nrw/nrw/kalte-progression-fdp-stellt-wuest-im-landtag-zur-rede/" }
+          ]
+        },
+        {
+          "titel": "Rente mit 63 und Einkommensteuer: Offene Baustellen der Koalition",
+          "unterzeile": "Union und SPD streiten weiter",
+          "text": "Bei der abschlagsfreien Rente nach 45 Beitragsjahren kam der Koalitionsausschuss laut cash-online erneut zu keinem Ergebnis: Die SPD will die im Juli vereinbarte Abschaffung wieder einkassieren. Auch die Einkommensteuerreform ist laut ZDFheute wegen des Streits zwischen Union und SPD noch nicht beschlossen. Die SPD schlägt einen Subventionsabbau von 10 Milliarden Euro vor. Der Bericht von cash-online ist rund zehn Tage alt, der Stand kann sich inzwischen verändert haben.",
+          "quellen": [
+            { "name": "cash-online: Was der Koalitionsausschuss beschlossen hat", "url": "https://www.cash-online.de/a/stromsteuer-sinkt-rentenreform-wartet-was-der-koalitionsausschuss-beschlossen-hat-730813/" },
+            { "name": "ZDFheute: Rekordhaushalt und Rekordschulden", "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html" }
+          ]
+        },
+        {
+          "titel": "Haushaltsbegleitgesetz ebenfalls durch",
+          "unterzeile": "Mit den Stimmen der Koalition angenommen",
+          "text": "Neben dem Etat selbst hat der Bundestag laut Bundestag.de auch das Haushaltsbegleitgesetz 2027 mit den Stimmen der Koalitionsfraktionen angenommen. Zuvor hatte der Haushaltsausschuss in der Bereinigungssitzung einen Etat von rund 560,9 Milliarden Euro gebilligt; im Plenum wird für das Endergebnis eine Summe von 555,94 Milliarden Euro genannt. Die Quellen weichen bei den Zahlen leicht voneinander ab, übereinstimmend ist die Größenordnung von rund 556 Milliarden Euro.",
+          "quellen": [
+            { "name": "Deutscher Bundestag: Bundeshaushalt 2027", "url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw46-pa-haushalt-1231890" },
+            { "name": "Bundestag: Namentliche Abstimmung", "url": "https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=1048" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Deutschland: Wirtschaft, Gesellschaft, Verbraucher",
+      "artikel": [
+        {
+          "titel": "Arbeitsmarkt November: 2,936 Millionen Arbeitslose",
+          "unterzeile": "Weniger als im Oktober, aber 51.000 mehr als vor einem Jahr",
+          "text": "Laut Bundesagentur für Arbeit waren im November 2.936.000 Menschen arbeitslos, 19.000 weniger als im Oktober. Die Quote sank um 0,1 Punkte auf 6,2 Prozent. Saisonbereinigt stieg die Zahl aber um 9.000, im Vergleich zum Vorjahr sind es 51.000 mehr.\n\nBA-Vorstand Daniel Terzenbach sagte: „Die leichte konjunkturelle Erholung führt auch im November nicht zu einer Belebung am Arbeitsmarkt.“ Gemeldet sind 646.000 offene Stellen (+23.000 zum Vorjahr), die Nachfrage nach Arbeitskräften bleibt laut BA weiter schwach.",
+          "quellen": [
+            { "name": "Bundesagentur für Arbeit auf Presseportal", "url": "https://www.presseportal.de/pm/6776/6399040" }
+          ]
+        },
+        {
+          "titel": "Beschäftigung und Kurzarbeit: Die Zahlen im Detail",
+          "unterzeile": "Weniger Erwerbstätige, weniger Kurzarbeit als vor einem Jahr",
+          "text": "Die Zahl der Erwerbstätigen lag im Oktober bei 45,84 Millionen, das sind 227.000 weniger als vor einem Jahr. Die sozialversicherungspflichtige Beschäftigung betrug im September 35,16 Millionen (minus 61.000 zum Vorjahr). Kurzarbeitergeld bezogen laut vorläufiger Hochrechnung 113.000 Beschäftigte, 68.000 weniger als ein Jahr zuvor, aber 19.000 mehr als im Vormonat. Arbeitslosengeld erhielten 1.068.000 Menschen, 84.000 mehr als im Vorjahr.",
+          "quellen": [
+            { "name": "Bundesagentur für Arbeit auf Presseportal", "url": "https://www.presseportal.de/pm/6776/6399040" }
+          ]
+        },
+        {
+          "titel": "Alkohol und Zucker: Das kommt auf deinen Einkaufszettel zu",
+          "unterzeile": "Spirituosen teurer, Zuckersteuer ab 2028",
+          "text": "Mit dem Haushalt steigt die Steuer auf Spirituosen wie Rum, Wodka oder Korn um je 20 Prozent. Alkopops werden künftig bis 15 statt 10 Volumenprozent erfasst. Die Zuckersteuer soll ab 2028 kommen und 25 bis 35 Cent pro Liter betragen, je nach Zuckergehalt; die Ernährungsindustrie rechnet laut ZDFheute mit Preisaufschlägen von etwa einem Euro pro Dose. Alle Details der Staffelung sind in anderen Quellen noch offen.",
+          "quellen": [
+            { "name": "ZDFheute: Rekordhaushalt und Rekordschulden", "url": "https://www.zdfheute.de/politik/deutschland/haushalt-2027-beschlossen-abstimmung-bundestag-100.html" }
+          ]
+        },
+        {
+          "titel": "Cyber Monday am 30. November: So erkennst du echte Schnäppchen",
+          "unterzeile": "Fakeshop-Finder, Preisverlauf und Rückgaberecht",
+          "text": "Nach dem Black Friday folgt am Montag, 30. November, der Cyber Monday. Die Verbraucherzentralen raten: Prüfe den Preisverlauf, denn vermeintliche Rabatte waren oft schon Wochen vorher ähnlich günstig. Mit dem kostenlosen Fakeshop-Finder lässt sich die Adresse eines Shops auf typische Betrugsmerkmale prüfen. Fehlendes Impressum und Zahlung nur per Vorkasse sind klare Warnzeichen. Bei Online-Käufen hast du in der Regel 14 Tage Widerrufsrecht.",
+          "quellen": [
+            { "name": "Verbraucherzentrale Niedersachsen: Black Friday & Cyber Monday", "url": "https://www.verbraucherzentrale-niedersachsen.de/wissen/vertraege-reklamation/kundenrechte/black-friday-cyber-monday-so-erkennen-sie-echte-schnaeppchen-und-fakeshops-120002" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Altenpflege: Politik, Recht, Pflegeversicherung, Gesetze",
+      "artikel": [
+        {
+          "titel": "Pflegereform: Die Länder wollen Änderungen, die Regierung bleibt teils hart",
+          "unterzeile": "Bundesrat unterstützt das PNOG im Grundsatz – fordert aber Nachbesserungen",
+          "text": "Der Bundesrat trägt die Pflegereform (Pflegeneuordnungsgesetz, PNOG) im Grundsatz mit, verlangt aber mehrere Änderungen. Die Länder fürchten laut Bundestag eine unzureichende Finanzierung, die Zerschlagung kommunaler Pflegestrukturen und die Verdrängung niedrigschwelliger Alltagsangebote.\n\nBesonders kritisch sehen sie Pflegegrad 1: Der Entlastungsbetrag entfiele ganz, der Umwandlungsanspruch würde gestrichen, und das neue Sozialraumbudget wäre nur für Pflegegrade 2 bis 5 vorgesehen. Außerdem bemängeln sie fehlende Flexibilität, weil Mittel im Budget nicht übertragbar wären.\n\nDie Bundesregierung sagt bei einigen Punkten eine Prüfung zu, teilt die Sorge um eine Schwächung der Angebote aber nicht. Das Sozialraumbudget soll nur für anerkannte Alltagsangebote nutzbar sein, das stärke die Anbieter und baue Bürokratie ab. Für die Pflegegrade 2 bis 5 werde der Betrag für niedrigschwellige Unterstützung angehoben.",
+          "quellen": [
+            { "name": "Deutscher Bundestag (hib): Bundesrat fordert Änderungen an der Pflegereform", "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1238184" }
+          ]
+        },
+        {
+          "titel": "Zeitplan: Bundestag will am 11. Dezember entscheiden",
+          "unterzeile": "Inkrafttreten zum 1. Januar 2027, einzelne Teile später",
+          "text": "Laut einem Zeitplan-Überblick von JUHI ist die zweite und dritte Lesung im Bundestag für den 11. Dezember 2026 geplant, der zweite Bundesrat-Durchgang für den 18. Dezember. Der Hauptteil soll am 1. Januar 2027 in Kraft treten, darunter Sachleistungs-, Entlastungs-, Sozialraum- und Überbrückungsbudget. Der Notdienst in der ambulanten Pflege und Änderungen im Beitragsrecht folgen 2028, Pflegebegleitung und jährliche Leistungsanpassung 2029. Wichtig: Die Seite stammt von einem Anbieter von Haushaltshilfe, die Termine sind als „geplant“ gekennzeichnet und nicht garantiert.",
+          "quellen": [
+            { "name": "JUHI: Pflegereform 2027 – wann wird entschieden", "url": "https://www.juhi.de/blog/pflegereform-2027-wann-wird-entschieden" },
+            { "name": "Barmer: Pflegereform 2027", "url": "https://www.barmer.de/unsere-leistungen/pflege/pflegereform-2027" }
+          ]
+        },
+        {
+          "titel": "Eigenanteile im Pflegeheim: DGB fordert einen Deckel",
+          "unterzeile": "Im ersten Jahr im Heim zahlen Bewohner im Schnitt über 3.300 Euro im Monat",
+          "text": "Der DGB fordert einen festen Höchstbetrag für die Eigenanteile in der Pflege und einen Risikoausgleich zwischen sozialer und privater Pflegeversicherung. DGB-Vorständin Anja Piel sagte vor der ersten Lesung: „Pflege muss bezahlbar sein – doch fehlt noch immer der Deckel für die Eigenanteile.“ Der Entwurf sieht ab 2028 regelmäßige Anpassungen der Leistungen vor, nennt aber keinen festen Höchstbetrag.\n\nLaut vdek lag die durchschnittliche Eigenbelastung im ersten Heimjahr Anfang 2026 bei 3.245 Euro im Monat; zum 1. Juli 2026 meldet eine Zusammenstellung 3.364 Euro, davon 1.775 Euro für den einrichtungseinheitlichen Eigenanteil. Der DGB beziffert das mögliche Entlastungsvolumen auf 10 Milliarden Euro.",
+          "quellen": [
+            { "name": "Verbandsbüro: DGB fordert Deckel für Pflege-Eigenanteile", "url": "https://www.verbandsbuero.de/dgb-fordert-deckel-fuer-pflege-eigenanteile/" },
+            { "name": "pflegeweide.de: Pflegeheim 2027 – Eigenanteil", "url": "https://pflegeweide.de/pflegereform/pflegeheim/" }
+          ]
+        },
+        {
+          "titel": "Wer die Reform bezahlt: Beitragssatz und Finanzlücke",
+          "unterzeile": "Entwurf hält den Satz bei 3,6 Prozent",
+          "text": "Laut dem Überblick der Barmer sieht der Entwurf vor, den allgemeinen Beitragssatz zur Pflegeversicherung bei 3,6 Prozent zu belassen und Beitragserhöhungen 2027 zu vermeiden. Gleichzeitig bleibt die Finanzierung ein Streitpunkt: Der Bundesrat spricht von unzureichender Finanzierung, und für 2027 wird eine Lücke in der Größenordnung von mehreren Milliarden Euro genannt. Die Angaben dazu schwanken je nach Quelle, deshalb hier keine genaue Zahl.",
+          "quellen": [
+            { "name": "Barmer: Pflegereform 2027", "url": "https://www.barmer.de/unsere-leistungen/pflege/pflegereform-2027" },
+            { "name": "Deutscher Bundestag (hib)", "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1238184" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Altenpflege: Praxis, Studien, Fachwissen, Arbeitsbedingungen",
+      "artikel": [
+        {
+          "titel": "DBfK-Befragung: Pflege findet Sinn, aber wenig Anerkennung",
+          "unterzeile": "83 Prozent empfinden den Beruf als sinnstiftend, 55 Prozent würden ihn wieder wählen",
+          "text": "Die dritte Ausgabe der DBfK-Befragung „Pflege, wie geht es dir?“ (durchgeführt im März und April 2026) zeichnet ein leicht negativeres Bild als im Vorjahr. 83 Prozent der Befragten empfinden ihren Beruf als sinnstiftend, 55 Prozent würden ihn wieder ergreifen; 2025 waren es 84 und 57 Prozent. Die Wechselbereitschaft steigt leicht.\n\nNur 3 Prozent der Befragten stimmen laut DBfK voll zu, dass ihre Kompetenz gesellschaftlich anerkannt wird. Die Befragung ist nicht repräsentativ.",
+          "quellen": [
+            { "name": "DBfK: Pflege, wie geht es dir? 2026 (Onepager)", "url": "https://www.dbfk.de/media/docs/newsroom/pressemitteilungen/2026/Onepager_Pflege-wie-geht-es-dir-2026.pdf" },
+            { "name": "DBfK: Pflege wie geht es dir 2026", "url": "https://www.dbfk.de/media/docs/newsroom/pressemitteilungen/2026/Pflege-wie-geht-es-dir-2026.pdf" }
+          ]
+        },
+        {
+          "titel": "Mehr Verantwortung, aber kaum Mitsprache beim Geld",
+          "unterzeile": "76 Prozent wollen mehr Verantwortung übernehmen",
+          "text": "Laut der DBfK-Befragung sind 76 Prozent der Pflegenden bereit, mehr Verantwortung zu übernehmen. Gleichzeitig ist die Beteiligung an der Steuerung gering: Nur 22 Prozent der Pflegenden mit Führungsaufgaben finden, dass Verantwortung in ihrem Unternehmen gemeinsam gestaltet wird, und nur 15 Prozent der Pflegenden in Führungspositionen sind an Verhandlungen zum Pflegebudget beteiligt. Der Verband fordert, Pflege solle nicht länger „Gegenstand von Politik“ sein, sondern Mitgestalterin der Versorgung. Zudem sind 43 Prozent der Befragten laut einem Blogbeitrag von socialnet mit Führung und Management in ihrem Bereich unzufrieden.",
+          "quellen": [
+            { "name": "DBfK: Onepager Pflege wie geht es dir 2026", "url": "https://www.dbfk.de/media/docs/newsroom/pressemitteilungen/2026/Onepager_Pflege-wie-geht-es-dir-2026.pdf" },
+            { "name": "socialnet: Arbeitszufriedenheit von Pflegekräften", "url": "https://www.socialnet.de/personalblog/arbeitszufriedenheit-von-pflegekraeften.html" }
+          ]
+        },
+        {
+          "titel": "Hintergrund: Wie 300.000 Pflegekräfte zurückkommen könnten",
+          "unterzeile": "Ältere Studie (2022), aber Thema bleibt aktuell",
+          "text": "Dieser Beitrag ist ein Rückblick auf eine Studie von 2022, weil das Thema bei der Reformdebatte weiter eine Rolle spielt. Die Hans-Böckler-Stiftung, das IAT und zwei Arbeitnehmerkammern befragten im Herbst 2021 bundesweit 12.684 ausgestiegene oder in Teilzeit arbeitende Pflegekräfte. Ergebnis: Konservativ gerechnet wären mindestens rund 300.000 zusätzliche Vollzeitkräfte möglich, optimistisch bis zu 660.000. Wichtigste Bedingung war eine bedarfsgerechte Personalausstattung, danach bessere Bezahlung, verlässliche Dienstpläne, mehr Zeit für Zuwendung und weniger Dokumentationsaufwand.",
+          "quellen": [
+            { "name": "Hans-Böckler-Stiftung: Pressemitteilung vom 3. Mai 2022", "url": "https://www.boeckler.de/de/pressemitteilungen-2675-neue-studie-mindestens-300-000-zusatzliche-pflegekrafte-40798.htm" }
+          ]
+        }
+      ]
+    },
+    {
+      "titel": "Gaming: Steam & PC",
+      "artikel": [
+        {
+          "titel": "Steam-Hardware: Zum Black Friday gibt es keinen Rabatt von Valve",
+          "unterzeile": "Preisliste von Deck, Machine, Frame und Controller (US-Preise)",
+          "text": "Valve bietet 2026 laut gamingonsteam.com keinen eigenen Black-Friday-Sale für Hardware an; die Steam-Angebote laufen über die Seite „Discounts & Events“ vom 26. bis 30. November. Die offiziellen US-Preise waren am 26. November nicht reduziert.\n\nDas Steam Deck OLED kostet 789 Dollar (512 GB) beziehungsweise 949 Dollar (1 TB), wegen Speicherengpässen kann es regional zeitweise fehlen. Die Steam Machine ist derzeit kaufbar: 1.049 Dollar für 512 GB, 1.349 Dollar für 2 TB. Der Steam Frame ist nur per Warteliste zu haben (Kit ab 1.059 Dollar), der Steam Controller kostet 99 Dollar und ist über eine Reservierung erhältlich. Der nächste große Sale ist der Winter Sale vom 17. Dezember bis 4. Januar.",
+          "quellen": [
+            { "name": "gamingonsteam.com: Steam Deck news – Black Friday Hardware", "url": "https://gamingonsteam.com/2026/11/26/steam-deck-news-black-friday-hardware-guide" }
+          ]
+        },
+        {
+          "titel": "Ruins to Fortress: Gratis im Early Access, 1.0 am 15. Dezember",
+          "unterzeile": "Wer jetzt zugreift, behält das Spiel",
+          "text": "Das Survival-Crafting-Spiel „Ruins to Fortress“ von NimbleBeasts ist derzeit im Early Access kostenlos. Laut ScreenRant bleibt es kostenlos, wenn du es jetzt in deine Bibliothek holst, auch nach dem Start der Version 1.0 am 15. Dezember. Danach kostet es 6,99 Dollar.\n\nDu baust in 2D-Pixeloptik auf einer postapokalyptischen Insel eine Hütte zur Festung aus; es gibt Solo-, Koop-, PvE- und PvP-Modi. Das Spiel enthält Inhalte für Erwachsene wie pixelige Blutdarstellung.",
+          "quellen": [
+            { "name": "ScreenRant: Steam-Spiel gratis bis 15. Dezember", "url": "https://screenrant.com/steam-open-world-free-game-december-2026" }
+          ]
+        },
+        {
+          "titel": "Steam Deck: Zehn Spiele neu bewertet",
+          "unterzeile": "Booster Pack Heroes und MONOMOON sind auch für den Steam Frame verified",
+          "text": "In der Wochenübersicht vom 23. November hat gamingonsteam.com zehn Spiele gelistet, die neu eine Verified- oder Playable-Bewertung fürs Steam Deck bekommen haben. Auf Deck und Steam Machine zugleich verified sind MONOMOON, Black Mesa, Warota und Booster Pack Heroes. Booster Pack Heroes und MONOMOON sind zusätzlich auch für den Steam Frame verified. Dice Hoarder steht auf Platz eins, ist aber nur „Playable“. Mehrere Titel sind keine Neuerscheinungen, etwa Jagged Alliance 3 und Black Mesa. „Playable“ heißt laut Valve zum Beispiel, dass die Schrift klein ist oder die Controller-Belegung nicht ganz passt.",
+          "quellen": [
+            { "name": "gamingonsteam.com: Steam Deck Verified Games, 23. November", "url": "https://gamingonsteam.com/2026/11/23/steam-deck-verified-games-23-november-2026-dice-hoarder" }
+          ]
+        },
+        {
+          "titel": "Early-Access-Vorschau: STATE Z, HUNGER und AetherCycle",
+          "unterzeile": "Die nächsten Termine laut Steam-Store",
+          "text": "Auf der Steam-Seite „Upcoming Releases“ stehen mehrere Early-Access-Starts: STATE Z am 30. November, HUNGER am 3. Dezember und AetherCycle am 4. Dezember. Termine im Store können sich ändern, schau vor dem Launch noch einmal nach.",
+          "quellen": [
+            { "name": "Steam: Upcoming Releases", "url": "https://store.steampowered.com/explore/upcoming/" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Sale-Kalender",
+        "punkte": [
+          "26.–30.11.: Steam „Discounts & Events“ (jeweils 10 Uhr PT)",
+          "17.12.2026 bis 4.1.2027: Steam Winter Sale",
+          "15.12.: Ruins to Fortress 1.0 (jetzt noch gratis sichern)"
+        ],
+        "quellen": [
+          { "name": "gamingonsteam.com", "url": "https://gamingonsteam.com/2026/11/26/steam-deck-news-black-friday-hardware-guide" },
+          { "name": "SteamDB: Sale-Termine", "url": "https://steamdb.info/sales/history/" }
+        ]
+      }
+    },
+    {
+      "titel": "Nintendo Switch 2 & Konsolen",
+      "artikel": [
+        {
+          "titel": "Dezember auf der Switch 2: Xenoblade, Dragon Quest und Monster Hunter",
+          "unterzeile": "Die Release-Liste für die ersten Tage des Monats",
+          "text": "Der Dezember startet auf der Switch 2 mit „Hela: Harmony Edition“ am 1. Dezember. Am 3. Dezember folgen laut GamingHQ „Dragon Quest Monsters: The Withered World“, „Xenoblade Chronicles 3 – Nintendo Switch 2 Edition“ und „Thief: The Dark Project Remastered“. Am 4. Dezember kommt „Monster Hunter Wilds“ von Capcom, mit plattformübergreifendem Multiplayer.\n\nDanach geht es weiter mit „Ancestors: The Humankind Odyssey“ am 8. Dezember sowie „Attack on Titan 3“, „Stage Tour“ und „Sugardew Island – Nintendo Switch 2 Edition“ am 10. Dezember. „Professor Layton and the New World of Steam“ ist für Dezember ohne genaues Datum gelistet. Die Termine können sich noch ändern, und die Quellen weichen teils voneinander ab.",
+          "quellen": [
+            { "name": "GamingHQ: Switch 2 Games im Dezember 2026", "url": "https://gaminghq.eu/2026/11/27/nintendo-switch-2-games-december-2026/" },
+            { "name": "GameRant: Switch 2 Dezember 2026", "url": "https://gamerant.com/nintendo-switch-2-games-coming-out-soon-december-2026/" }
+          ]
+        },
+        {
+          "titel": "Vorsicht beim Kauf: Game-Key-Cards und Download-Zwang",
+          "unterzeile": "Nicht jede Box enthält das ganze Spiel",
+          "text": "Laut GamingHQ erscheinen mehrere der Dezember-Titel als Game-Key-Cards statt als vollständige Module. Das heißt: Vor dem Spielen ist ein Download nötig. Bei der Retail-Version von „Stage Tour“ soll sogar nur ein digitaler Code statt einer physischen Karte beiliegen. Wenn du Wert auf ein Spiel im Regal legst, prüf vor dem Kauf die Produktbeschreibung.",
+          "quellen": [
+            { "name": "GamingHQ: Switch 2 Games im Dezember 2026", "url": "https://gaminghq.eu/2026/11/27/nintendo-switch-2-games-december-2026/" }
+          ]
+        },
+        {
+          "titel": "Release-Daten: Wo sich die Listen widersprechen",
+          "unterzeile": "Dragon Quest Monsters je nach Region am 1. oder 3. Dezember",
+          "text": "Bei „Dragon Quest Monsters: The Withered World“ unterscheiden sich die Angaben je nach Region: In Nordamerika und Singapur steht der 3. Dezember, die Auflistung von Nintendo UK nennt dagegen den 1. Dezember. Das zeigt: Release-Listen aus Magazinen solltest du mit dem eShop-Eintrag abgleichen. Auch beim Release von Coral Island auf der Switch 2 (7. Dezember) und Yooka-Laylee and the Impossible Lair: Definitive Edition (15. Dezember) gilt dasselbe, sie stammen aus Aggregator-Listen.",
+          "quellen": [
+            { "name": "Pro-Gamer: 9 Major Switch 2 Games im Dezember", "url": "https://pro-gamer.gg/nintendo-switch-2-9-major-games-confirmed-december-2026-release-schedule/" },
+            { "name": "GameRant: Switch 2 Dezember 2026", "url": "https://gamerant.com/nintendo-switch-2-games-coming-out-soon-december-2026/" }
+          ]
+        },
+        {
+          "titel": "Switch 2: Verkaufszahl laut Wikipedia bei 26,35 Millionen",
+          "unterzeile": "Stand 30. September – Drittquelle, keine neue Nintendo-Meldung",
+          "text": "Laut Wikipedia wurden bis zum 30. September 2026 weltweit 26,35 Millionen Switch-2-Konsolen verkauft. Das ist eine Zusammenstellung durch Dritte, eine aktuellere offizielle Zahl von Nintendo habe ich nicht gefunden. Auch zu einer Nintendo Direct Ende November gab es in den Suchergebnissen keine Meldung.",
+          "quellen": [
+            { "name": "Wikipedia: Nintendo Switch 2", "url": "https://en.wikipedia.org/wiki/Nintendo_Switch_2" }
+          ]
+        }
+      ],
+      "kasten": {
+        "titel": "Neue Spiele der Woche (1.–7. Dezember)",
+        "punkte": [
+          "1.12.: Hela: Harmony Edition",
+          "3.12.: Dragon Quest Monsters: The Withered World, Xenoblade Chronicles 3 – Switch 2 Edition, Thief: The Dark Project Remastered",
+          "4.12.: Monster Hunter Wilds",
+          "7.12.: Coral Island (laut Aggregator-Liste)"
+        ],
+        "quellen": [
+          { "name": "GamingHQ", "url": "https://gaminghq.eu/2026/11/27/nintendo-switch-2-games-december-2026/" },
+          { "name": "GameRant", "url": "https://gamerant.com/nintendo-switch-2-games-coming-out-soon-december-2026/" }
+        ]
+      }
+    },
+    {
+      "titel": "Tech & Netz",
+      "artikel": [
+        {
+          "titel": "„NFS2ROOT“: Kritische Lücke im Linux-NFS-Server",
+          "unterzeile": "CVE-2026-99362, CVSS 9,8 – Root-Rechte möglich",
+          "text": "Im NFS-Server des Linux-Kernels steckt laut heise eine kritische Lücke (CVE-2026-99362, CVSS 9,8), seit Linux 3.16. Ein bösartiger Client kann den Server dazu bringen, 61 Bytes hinter seinen Antwort-Cache zu schreiben, 40 davon kontrolliert der Angreifer. So lässt sich Kernel-Speicher überschreiben und Root-Zugriff erlangen.\n\nGepatcht sind seit dem 23. November alle Longterm-Kernel (zum Beispiel 6.12.117, 6.6.163, 6.1.193). Bei den Distributionskernen von Red Hat, Ubuntu und SUSE war die Lücke laut heise noch nicht vollständig geschlossen. Bis zum Patch hilft es, NFS 4.1 und 4.2 abzuschalten, Port 2049 für nicht vertrauenswürdige Clients zu sperren oder den NFS-Server auszuschalten.",
+          "quellen": [
+            { "name": "heise: Kritische Lücke in Linux-NFS-Server", "url": "https://www.heise.de/news/Kritische-Luecke-in-Linux-NFS-Server-11540361.html" }
+          ]
+        },
+        {
+          "titel": "Windows 11: Optionales Update bringt neue Suche",
+          "unterzeile": "KB5132057 vom 20. November – vorerst nur für englische Systeme",
+          "text": "Das optionale November-Update KB5132057 für Windows 11 bringt laut ComputerBase eine neue Suche auf WinUI-3-Basis. Sie kann direkt Einstellungen ändern (etwa Dark Mode oder Helligkeit), Apps starten und Fenster schließen, zeigt Dateivorschauen und Web-Ergebnisse wie Wetter an. Über Phone Link kannst du verbundene Android-Smartphones anrufen oder anschreiben. Die neue Suche ist vorerst nur für englische Systemversionen verfügbar, Funktionen werden schrittweise ausgerollt. Ein Dezember-Update entfällt.",
+          "quellen": [
+            { "name": "ComputerBase: Optionales November-Update für Windows 11", "url": "https://www.computerbase.de/news/apps/optionales-november-update-windows-11-erhaelt-neue-suche-die-einstellungen-veraendern-kann.100423/" }
+          ]
+        },
+        {
+          "titel": "Android: „Fast Switch“ und Motorradmodus – bisher nur Hinweise",
+          "unterzeile": "Nicht offiziell bestätigt",
+          "text": "Der GoogleWatchBlog berichtet über zwei mögliche Neuerungen: „Fast Switch“ soll eine Rufnummer auf mehreren Smartphones gleichzeitig nutzbar machen und wohl ähnlich wie Apples Handoff funktionieren. Außerdem taucht in Google Maps für Android Auto offenbar ein Motorradmodus bei ersten Nutzern auf. Beides ist laut Artikel nicht offiziell bestätigt, also Hinweise und keine Ankündigungen.",
+          "quellen": [
+            { "name": "GoogleWatchBlog: Android Update November 2026", "url": "https://www.googlewatchblog.de/2026/11/android-update-nov2026-vier" }
+          ]
+        },
+        {
+          "titel": "Weitere Sicherheitswarnungen der Woche",
+          "unterzeile": "Palo Alto, VMware und CISA-Bestätigungen",
+          "text": "Weitere heise-Meldungen der letzten Tage: Angreifer nutzen derzeit eine Lücke im Firewall-System PAN-OS von Palo Alto aus (Patches sind verfügbar), und Broadcom schließt 23 Lücken in VMware-Produkten. Die US-Behörde CISA hat Angriffe auf insgesamt zehn Lücken unter anderem bei Danfoss, HPE-Juniper, Mitel MiCollab und Xen Orchestra bestätigt. Einiges davon stand schon in der Vorwoche; hier ist es als Überblick, falls du in der Admin-Ecke unterwegs bist.",
+          "quellen": [
+            { "name": "heise: Palo Alto PAN-OS", "url": "https://www.heise.de/en/news/Palo-Alto-Attacks-target-PAN-OS-firewalls-with-exposed-management-access-11538882.html" },
+            { "name": "heise: Angriffswarnung Danfoss, HPE-Juniper, Mitel, XO", "url": "https://www.heise.de/news/Angriffswarnung-auf-Danfoss-Geraete-HPE-Juniper-Router-Mitel-MiCollab-und-XO-11538657.html" }
+          ]
+        }
+      ]
+    }
+  ],
+  "zumSchluss": {
+    "titel": "Tipp des Tages: Läuft bei dir ein NFS-Server?",
+    "text": "Wenn du einen Linux-Rechner oder NAS zu Hause hast: Mit uname -r siehst du die Kernel-Version. Vergleich sie mit der Liste der gepatchten Versionen in der heise-Meldung zu NFS2ROOT. Brauchst du NFS nicht, schalte den Dienst ab; brauchst du ihn, lass den Port 2049 nur aus deinem eigenen Netz erreichbar sein."
+  }
+}
