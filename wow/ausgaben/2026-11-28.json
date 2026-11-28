@@ -1,0 +1,610 @@
+{
+ "gruss": "Guten Morgen, Abenteurer! Samstag, 28. November: elf Tage bis zum ersten Raid-Tag, und die Suchergebnisse zeigen heute vor allem Rückblicke und Guides statt frischer Hotfixes.",
+ "aufmacher": {
+  "rubrik": "Raids",
+  "titel": "Barrow Deeps, Hyjal Summit, Onyxia: Was elf Tage vor dem Raid-Start feststeht",
+  "unterzeile": "Bossnamen, Eingänge und Attunement im Überblick – und was noch offen ist",
+  "text": "Am 9. Dezember öffnen die ersten drei Raids: Barrow Deeps (10 Spieler, 8 Bosse), Hyjal Summit (20 Spieler, 13 Bosse) und Onyxia's Lair (40 Spieler). Barrow Deeps hat drei bestätigte Eingänge – Mount Hyjal, Winterspring und Blackmaw Hold. Hyjal Summit beginnt mit einem Ancient Guardian und verzweigt dann in mehrere Wege.\n\nMethod.gg liest aus den Legacy Challenges Bossnamen heraus, etwa Sonya Darkhallow als wahrscheinlichen Endboss von Barrow Deeps und The Wild King als Endboss von Hyjal Summit. Das ist eine Ableitung, keine Blizzard-Ankündigung. Für Onyxia gilt: Drakefire Amulet im Inventar, Fire Resistance einpacken.\n\nOffen sind laut Fan-Kalender der Reset-Tag der wöchentlichen Lockouts und die Belohnungen, die sich bei Onyxia deutlich von Classic unterscheiden sollen.",
+  "quellen": [
+   {
+    "name": "Warcraft Tavern: Three New Raids Coming to WoW Forever",
+    "url": "https://www.warcrafttavern.com/forever/news/three-new-raids-coming-to-world-of-warcraft-forever/"
+   },
+   {
+    "name": "Method.gg: Barrow Deeps, Hyjal Summit & Onyxia's Lair",
+    "url": "https://www.method.gg/wow-forever/wow-forever-raids-a-look-at-barrow-deeps-hyjal-summit-and-onyxias-lair"
+   },
+   {
+    "name": "wowcalc.net: WoW Forever Calendar (Fan-Seite)",
+    "url": "https://wowcalc.net/en/forever/wiki/calendar"
+   }
+  ]
+ },
+ "seiten": [
+  {
+   "titel": "Hotfixes & Patches",
+   "artikel": [
+    {
+     "titel": "Hotfix-Rückblick: Was seit Launch am 5. November alles angepasst wurde",
+     "unterzeile": "Wowhead bündelt die Listen vom 5. bis 25. November nach Bereichen",
+     "text": "Wowhead hat die Hotfixes vom 5. bis 25. November nach Bereichen sortiert. Bei den Klassen reichen die Änderungen vom reworkten Balance-Talentbaum (25.11.) über die Enhancement-Überarbeitung rund um Stormstrike und Maelstrom Weapon bis zum neu gestalteten Warlock-Wrack. Dungeon-XP wurde am 9. November um 50 % erhöht, die Zahl der Dungeon-Einträge am 20. November auf 5 pro Stunde gesenkt.\n\nAußerdem stehen in der Liste: Quests ab Level 48 geben jetzt Gold (10.11.), Paladin und Warlock bekommen Journeyman Riding über Quests (25.11.) und Ignore-Listen sowie Aktionsleisten-Einstellungen bleiben nun erhalten. Wer in den letzten Wochen nicht jede Patchnote gelesen hat, findet dort den schnellsten Überblick.",
+     "quellen": [
+      {
+       "name": "Wowhead Blue Tracker: Hotfix-Liste 5.–25. November",
+       "url": "https://www.wowhead.com/forever/blue-tracker/news/eu/wow-forever-hotfixes-november-25-2026-world-of-warcraft-blizzard-news-24315281"
+      },
+      {
+       "name": "Blizzard News: WoW Forever Hotfixes, 25. November 2026",
+       "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026"
+      }
+     ]
+    },
+    {
+     "titel": "Klammern-Küche: Alle sechs Clam-Gerichte jetzt Stamina-Food",
+     "unterzeile": "Nov-25-Hotfix sortiert die Muschel-Rezepte neu",
+     "text": "Laut WoW Handbook liegen mit dem Hotfix vom 25. November alle sechs Muschelgerichte in der Stamina-Kategorie. Die Well-Fed-Buffs halten 15 Minuten und reichen von +1 (Boiled Clams) bis +20 (Clam Linguine). Murloc Fin Soup gibt nun +3 Stamina. Die Angaben stammen von einer Zusammenfassung, nicht direkt aus den offiziellen Patchnotes; vor dem Craften lohnt ein Blick ins Spiel.",
+     "quellen": [
+      {
+       "name": "WoW Handbook: Nov-25-Hotfixes (Balance, AV, Clam Food)",
+       "url": "https://wowhandbook.com/news/wow-forever-balance-druid-av-nov25-hotfixes/"
+      },
+      {
+       "name": "Blizzard News: WoW Forever Hotfixes, 25. November 2026",
+       "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026"
+      }
+     ]
+    },
+    {
+     "titel": "Rogue-Gifte bleiben BoP: 22 Rezepte ohne Verkaufswert",
+     "unterzeile": "Vorübergehende Maßnahme gegen den Markt",
+     "text": "Die 22 gecrafteten Rogue-Gifte sind laut WoW Handbook seit dem 25. November Bind on Pickup und haben einen Händlerpreis von 0 Kupfer. Wowhead nennt die Änderung ebenfalls (Poisons und Blinding Powder „temporarily“ BoP). Für Händler heißt das: Gifte lassen sich nicht mehr im Auktionshaus handeln, bis Blizzard die Sperre wieder aufhebt.",
+     "quellen": [
+      {
+       "name": "WoW Handbook: Nov-25-Hotfixes (Balance, AV, Clam Food)",
+       "url": "https://wowhandbook.com/news/wow-forever-balance-druid-av-nov25-hotfixes/"
+      },
+      {
+       "name": "Wowhead Blue Tracker: Hotfix-Liste 5.–25. November",
+       "url": "https://www.wowhead.com/forever/blue-tracker/news/eu/wow-forever-hotfixes-november-25-2026-world-of-warcraft-blizzard-news-24315281"
+      }
+     ]
+    },
+    {
+     "titel": "Fischturnier und Legacy-Fixes aus dem Hotfix vom 25. November",
+     "unterzeile": "Mehr Gewinner in Stranglethorn, Valthalak-Quest zählt jetzt",
+     "text": "Blizzard hat das wöchentliche Angelturnier angepasst: Pro Ruleset können deutlich mehr Spieler gewinnen, an der Performance wird weiter gearbeitet. Wer „Lord Valthalak Laid to Rest“ abschließt, bekommt nun Legacy-Credit, und Reinforce reduziert den Haltbarkeitsverlust korrekt. Die Battle-for-Alterac-Valley-Quests verlangen Level 58.",
+     "quellen": [
+      {
+       "name": "Blizzard News: WoW Forever Hotfixes, 25. November 2026",
+       "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Stand Hotfix 25. November",
+    "punkte": [
+     "Quelle: Blizzard-Hotfixliste vom 25.11. (Thread im Forum; Blizzard-Log trägt den Abschnitt am 26.11. nach)",
+     "Balance-Druide: Moonfury raus, Dreamstate rein",
+     "Alterac Valley: Zerg-Strat entschärft, Objective-Rep rauf",
+     "Rogue-Gifte: temporär BoP",
+     "Dungeon-Einträge: 5 pro Stunde (seit 20.11.)",
+     "Eine Hotfix-Liste vom 27. November ist in den Suchergebnissen nicht zu finden (Stand 28.11.)"
+    ],
+    "quellen": [
+     {
+      "name": "Blizzard News: WoW Forever Hotfixes, 25. November 2026",
+      "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026"
+     },
+     {
+      "name": "Wowhead Blue Tracker: Hotfix-Liste 5.–25. November",
+      "url": "https://www.wowhead.com/forever/blue-tracker/news/eu/wow-forever-hotfixes-november-25-2026-world-of-warcraft-blizzard-news-24315281"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Klassen & Balance",
+   "artikel": [
+    {
+     "titel": "Balance-Druide im Detail: Moonfury weg, aber ohne Schadensverlust",
+     "unterzeile": "Die +10 % Arcane/Nature wandern auf die Moonkin Form",
+     "text": "Laut WoW Handbook wurde Moonfury entfernt, der +10-%-Schadensbonus auf Arcane und Nature sitzt jetzt direkt auf der Moonkin Form – „zero damage“ gehe verloren. Improved Starfire sinkt von 5 auf 2 Punkte, wer 3 oder mehr Punkte hatte, wurde automatisch zurückgesetzt. Starlight Wrath, Moon and Stars und Eclipse bekamen zusätzliche Effekte.\n\nDas neue Talent Dreamstate ersetzt Moonfury: Innervate auf einen Verbündeten erstattet dir 20–100 % des Effekts. Das Material stammt aus einer Drittseite, die offiziellen Notes bestätigen den Umbau grob.",
+     "quellen": [
+      {
+       "name": "WoW Handbook: Nov-25-Hotfixes (Balance, AV, Clam Food)",
+       "url": "https://wowhandbook.com/news/wow-forever-balance-druid-av-nov25-hotfixes/"
+      },
+      {
+       "name": "Blizzard News: WoW Forever Hotfixes, 25. November 2026",
+       "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026"
+      }
+     ]
+    },
+    {
+     "titel": "Enhancement-Shaman: Rework um Stormstrike und Maelstrom Weapon",
+     "unterzeile": "Wowhead listet die Änderungen vom 10., 13. und 16. November",
+     "text": "Der Enhancement-Baum wurde laut Wowhead-Hotfixliste rund um Stormstrike und Maelstrom Weapon umgebaut, dazu kamen mehrere Windfury-Korrekturen. Beim Warlock wurde Wrack neu gestaltet und mehrere Dämonen haben mehr Leben. Priester: Vampiric Embrace heilt nur noch 10 % des Shadow-Schadens.",
+     "quellen": [
+      {
+       "name": "Wowhead Blue Tracker: Hotfix-Liste 5.–25. November",
+       "url": "https://www.wowhead.com/forever/blue-tracker/news/eu/wow-forever-hotfixes-november-25-2026-world-of-warcraft-blizzard-news-24315281"
+      }
+     ]
+    },
+    {
+     "titel": "Paladin: Judgement jetzt Ranged, Oath of Light hält 60 Minuten",
+     "unterzeile": "Kleine Verschiebungen mit Auswirkung auf Rotationen",
+     "text": "Judgement wurde als Ranged Attack klassifiziert, Judgement of Command als Melee Attack (Hotfixes vom 11. und 13. November). Oath of Light dauert seit dem 25. November 60 Minuten. Mage: Die Proc-Chance von Arcane Concentration wurde korrigiert (9.11.).",
+     "quellen": [
+      {
+       "name": "Wowhead Blue Tracker: Hotfix-Liste 5.–25. November",
+       "url": "https://www.wowhead.com/forever/blue-tracker/news/eu/wow-forever-hotfixes-november-25-2026-world-of-warcraft-blizzard-news-24315281"
+      }
+     ]
+    },
+    {
+     "titel": "Warrior: Mortal Strike nur noch mit Talent nutzbar",
+     "unterzeile": "Spellbook-Eintrag bleibt, Nutzung ist gesperrt",
+     "text": "Ein Bug erlaubte es, Mortal Strike aus dem Spellbook ohne investierten Talentpunkt zu nutzen. Der Hotfix vom 25. November verhindert die Nutzung, entfernt den Zauber aber nicht aus dem Spellbook. Zuvor wurden Mortal Strike und Sweeping Strikes schon am 10. und 23. November angefasst.",
+     "quellen": [
+      {
+       "name": "Blizzard News: WoW Forever Hotfixes, 25. November 2026",
+       "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026"
+      },
+      {
+       "name": "Wowhead Blue Tracker: Hotfix-Liste 5.–25. November",
+       "url": "https://www.wowhead.com/forever/blue-tracker/news/eu/wow-forever-hotfixes-november-25-2026-world-of-warcraft-blizzard-news-24315281"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Dungeons & Raids",
+   "artikel": [
+    {
+     "titel": "Barrow Deeps: Acht Bosse, drei Eingänge – Namen aus den Legacy Challenges",
+     "unterzeile": "Method.gg nennt Deepscar Matriarch bis Sonya Darkhallow",
+     "text": "Der 10-Spieler-Raid Barrow Deeps hat acht Bosse und drei bestätigte Eingänge: Mount Hyjal, Winterspring und Blackmaw Hold. Method.gg liest aus den Legacy Challenges folgende Namen heraus: Deepscar Matriarch, Khalith the Dreadspinner, Amethrax, Ravus and Darlissa, Elder Tangleclaw, Well of Sorrow, Del'lynar Songwood und Sonya Darkhallow, die wohl der Endboss ist. Das ist eine Ableitung der Seite, keine Blizzard-Ankündigung; ob jeder Eingang zu einem eigenen Flügel führt, ist offen.\n\nDer Raid war einst das Gefängnis, in dem Illidan Stormrage 10.000 Jahre saß. Am 9. Dezember geht er auf.",
+     "quellen": [
+      {
+       "name": "Method.gg: Barrow Deeps, Hyjal Summit & Onyxia's Lair",
+       "url": "https://www.method.gg/wow-forever/wow-forever-raids-a-look-at-barrow-deeps-hyjal-summit-and-onyxias-lair"
+      },
+      {
+       "name": "Warcraft Tavern: Three New Raids Coming to WoW Forever",
+       "url": "https://www.warcrafttavern.com/forever/news/three-new-raids-coming-to-world-of-warcraft-forever/"
+      }
+     ]
+    },
+    {
+     "titel": "Hyjal Summit: 13 Bosse, Karazhan-ähnlich",
+     "unterzeile": "Method.gg: Gilden könnten ihn anfangs auf mehrere Abende verteilen",
+     "text": "Hyjal Summit ist ein 20-Spieler-Raid am Gipfel des Mount Hyjal neben Nordrassil. Er beginnt mit einem Ancient Guardian, danach wählt die Gruppe zwischen mehreren Wegen über und unter der Erde bis zu den Endkämpfen. Laut Method.gg lauten die Namen unter anderem Bandalar, Ancient of Decay, Council of Thorns und als Endboss The Wild King. Der Autor rechnet damit, dass viele Gilden ihn zu Beginn auf ein paar Abende verteilen.",
+     "quellen": [
+      {
+       "name": "Method.gg: Barrow Deeps, Hyjal Summit & Onyxia's Lair",
+       "url": "https://www.method.gg/wow-forever/wow-forever-raids-a-look-at-barrow-deeps-hyjal-summit-and-onyxias-lair"
+      },
+      {
+       "name": "Warcraft Tavern: Three New Raids Coming to WoW Forever",
+       "url": "https://www.warcrafttavern.com/forever/news/three-new-raids-coming-to-world-of-warcraft-forever/"
+      }
+     ]
+    },
+    {
+     "titel": "Onyxia: Drakefire Amulet muss im Inventar liegen",
+     "unterzeile": "Attunement laut Warcraft Tavern wie in Classic",
+     "text": "Für Onyxia's Lair in Dustwallow Marsh braucht jeder Spieler das Drakefire Amulet im Inventar, getragen werden muss es nicht. Die Allianz startet bei Helendis Riverhorn in den Burning Steppes mit „Dragonkin Menace“, die Horde bei Warlord Goretooth in den Badlands mit „Blood and Thunder“; letzte Station ist jeweils Upper Blackrock Spire. Der Kampf hat drei Phasen mit viel Feuer, Fire Resistance wird empfohlen. Die Belohnungen sollen sich laut Quelle deutlich von Classic unterscheiden.",
+     "quellen": [
+      {
+       "name": "Warcraft Tavern: Three New Raids Coming to WoW Forever",
+       "url": "https://www.warcrafttavern.com/forever/news/three-new-raids-coming-to-world-of-warcraft-forever/"
+      }
+     ]
+    },
+    {
+     "titel": "Dungeon-Limit: 5 Einträge pro Stunde statt 10",
+     "unterzeile": "Quellen uneinig, ob pro Charakter oder pro Account",
+     "text": "Seit dem Hotfix vom 20. November sind pro Dungeon nur noch 5 Resets/Einträge pro Stunde erlaubt, vorher waren es 10. Berichte werten das als Bremse für schnelles Boss-Farmen; die Zahl der Dungeonläufe pro Tag bleibt unbegrenzt. Ob die Sperre pro Charakter oder pro Account gilt, ist in den Quellen nicht eindeutig.",
+     "quellen": [
+      {
+       "name": "Vice: November-20-Hotfix",
+       "url": "https://www.vice.com/en/article/world-of-warcraft-forever-all-class-and-dungeon-changes-in-november-20-hotfix/"
+      },
+      {
+       "name": "Team Overpowered: Nov-20-Hotfixes",
+       "url": "https://teamoverpowered.com/forever/news/wow-forever-hotfixes-november-20-dungeon-lockouts-halved-lfg-fix-stormshroud/"
+      },
+      {
+       "name": "Wowhead Blue Tracker: Hotfix-Liste 5.–25. November",
+       "url": "https://www.wowhead.com/forever/blue-tracker/news/eu/wow-forever-hotfixes-november-25-2026-world-of-warcraft-blizzard-news-24315281"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Raids im Überblick (Start 9. Dezember)",
+    "punkte": [
+     "Barrow Deeps: 10 Spieler, 8 Bosse",
+     "Hyjal Summit: 20 Spieler, 13 Bosse",
+     "Onyxia's Lair: 40 Spieler, 1 Boss, Drakefire Amulet",
+     "Lockouts sollen wöchentlich zurückgesetzt werden (Reset-Tag nicht bestätigt)"
+    ],
+    "quellen": [
+     {
+      "name": "Warcraft Tavern: Three New Raids Coming to WoW Forever",
+      "url": "https://www.warcrafttavern.com/forever/news/three-new-raids-coming-to-world-of-warcraft-forever/"
+     },
+     {
+      "name": "wowcalc.net: WoW Forever Calendar (Fan-Seite)",
+      "url": "https://wowcalc.net/en/forever/wiki/calendar"
+     }
+    ]
+   }
+  },
+  {
+   "titel": "Quests, Leveln & Gebiete",
+   "artikel": [
+    {
+     "titel": "Riverglades: Das neue Gebiet für Level 36 bis 44",
+     "unterzeile": "Wowhead: beide Fraktionen, Krol'dok Stronghold als Dungeon",
+     "text": "Riverglades liegt zwischen Barrens und Dustwallow Marsh und ist laut Wowhead-Datenbank für Level 36–44 ausgelegt. Die Allianz hat ihren Hub in Farholde Keep, die Horde in Rog'mar, Powderfuse Port ist der neutrale Goblin-Hafen. Eine Drittseite nennt Krol'dok Stronghold als 5-Spieler-Ogerdungeon für Level 40–45.\n\nDie Questzahl ist uneinheitlich: Blizzard sprach von „mehr als 150“, andere Zählungen kommen auf 148 bis 165. Die genaue Zahl ist unklar.",
+     "quellen": [
+      {
+       "name": "Wowhead: Riverglades Zone Overview",
+       "url": "https://www.wowhead.com/forever/guide/riverglades-zone-overview"
+      },
+      {
+       "name": "WoW Forever News: BlizzCon 2026 Developer Wrap-up",
+       "url": "https://wowforevernews.com/news/blizzcon-2026-developer-wrap-up-no-wow-token-staggered-beta-level-caps-and-the-future-of-vanilla-azeroth"
+      }
+     ]
+    },
+    {
+     "titel": "Quests ab Level 48 zahlen Gold",
+     "unterzeile": "Hotfix vom 10. November",
+     "text": "Laut Wowhead-Hotfixliste geben Quests ab Level 48 seit dem 10. November Gold. Am 23. und 25. November kamen weitere Korrekturen bei Questbelohnungen und Ruf. Für Leveln zu Fuß ist das ein kleiner Anreiz, auch hohe Quests mitzunehmen.",
+     "quellen": [
+      {
+       "name": "Wowhead Blue Tracker: Hotfix-Liste 5.–25. November",
+       "url": "https://www.wowhead.com/forever/blue-tracker/news/eu/wow-forever-hotfixes-november-25-2026-world-of-warcraft-blizzard-news-24315281"
+      }
+     ]
+    },
+    {
+     "titel": "Kein Krieg mehr mit Kirin Tor und Wildhammer",
+     "unterzeile": "Hotfix verhindert ungewollte Fraktionskriege",
+     "text": "Gnome, Menschen, Nachtelfen und Zwerge können laut Hotfixliste vom 25. November nicht mehr in den Krieg mit den Kirin Tor ziehen. Zwerge können zudem nicht mehr den Wildhammer Clan bekriegen.",
+     "quellen": [
+      {
+       "name": "Wowhead Blue Tracker: Hotfix-Liste 5.–25. November",
+       "url": "https://www.wowhead.com/forever/blue-tracker/news/eu/wow-forever-hotfixes-november-25-2026-world-of-warcraft-blizzard-news-24315281"
+      },
+      {
+       "name": "Blizzard News: WoW Forever Hotfixes, 25. November 2026",
+       "url": "https://news.blizzard.com/en-us/article/24315281/wow-forever-hotfixes-november-25-2026"
+      }
+     ]
+    },
+    {
+     "titel": "Lockpicking-Leveln: Tyr's Hand statt Blackrock Depths",
+     "unterzeile": "Wowhead rät zu Scarlet Footlockers in den Eastern Plaguelands",
+     "text": "Die klassische Blackrock-Depths-Methode funktioniert in Forever laut Wowhead nicht mehr. Stattdessen empfiehlt der Guide Tyr's Hand in den Eastern Plaguelands mit vielen Elite-Gegnern und verstreuten Scarlet Footlockers. Andere Guides nennen für frühe Stufen die Practice Lockboxes in Redridge (Allianz) bzw. das Piratenschiff südlich von Ratchet (Horde). Die Quellen widersprechen sich beim Startlevel von Pick Lock.",
+     "quellen": [
+      {
+       "name": "Wowhead: Best Way to Level Lockpicking",
+       "url": "https://www.wowhead.com/forever/news/the-best-way-to-level-lockpicking-to-max-in-wow-forever-383884"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Berufe, Gold & Auktionshaus",
+   "artikel": [
+    {
+     "titel": "Auktionshaus-Deposit: Minimum nur noch 1 Kupfer",
+     "unterzeile": "Zusammenfassungen sind sich nicht ganz einig",
+     "text": "Mehrere Guides nennen das Minimum für das Auktionshaus-Deposit jetzt 1 Kupfer, nicht mehr 1 Silber. Wer Händler-Guides folgt, sollte vorher im Spiel nachsehen: Die Quellen stimmen bei Details nicht überein.",
+     "quellen": [
+      {
+       "name": "Conquest Capped: Gold Making Guide (Händler-Seite)",
+       "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-gold-making/"
+      },
+      {
+       "name": "LFCarry: Gold Economy Guide (Händler-Seite)",
+       "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+      }
+     ]
+    },
+    {
+     "titel": "Mister Graphed und Madam Swyndle: Preisdeckel durch Händler",
+     "unterzeile": "Guides: Black Lotus und Arcane Crystal zum Festpreis",
+     "text": "Zwei Guides beschreiben Mister Graphed in Riverglades, der Spitzenmaterial wie Black Lotus und Arcane Crystal zu Festpreisen ohne Kauflimit anbietet. Das setze dem Auktionshauspreis eine Obergrenze. Madam Swyndle in Powderfuse Port betreibt laut einem Guide ein Black-Market-Auktionshaus für seltene Items. Die Quellen sind Händler-Seiten.",
+     "quellen": [
+      {
+       "name": "Conquest Capped: Gold Making Guide (Händler-Seite)",
+       "url": "https://conquestcapped.com/guides/wow-forever/wow-forever-gold-making/"
+      },
+      {
+       "name": "LFCarry: Gold Economy Guide (Händler-Seite)",
+       "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+      }
+     ]
+    },
+    {
+     "titel": "Gathering vs. Crafting: Wo das Gold wirklich liegt",
+     "unterzeile": "Händler-Guides sehen Herbalism und Mining beim Leveln vorn",
+     "text": "Ein Guide nennt Herbalism und Mining als ertragreichste Berufe-Kombination beim Leveln und beziffert Herbalism auf 1.464 Gold am Tag auf einem durchschnittlichen US-Realm; wie das gemessen wurde, steht nicht dabei. Crafting (Alchemy, Enchanting, Jewelcrafting) habe die höhere Decke, verlange aber Marktkenntnis. Gebühren, Deposits und Verkaufsquote sollte man einrechnen. Alle diese Seiten verkaufen selbst Gold oder Services.",
+     "quellen": [
+      {
+       "name": "EpicCarry: Best Professions for Gold (Händler-Seite)",
+       "url": "https://epiccarry.com/blogs/best-professions-for-gold-wow-forever/"
+      },
+      {
+       "name": "LFCarry: Gold Economy Guide (Händler-Seite)",
+       "url": "https://lfcarry.com/guides/wow-forever-gold-economy"
+      }
+     ]
+    },
+    {
+     "titel": "Kein WoW Token, keine Boosts: Blizzard bleibt dabei",
+     "unterzeile": "Clay Stone: Real-Money-Trading wird bekämpft",
+     "text": "Associate Production Director Clay Stone sagte laut Wowhead und WoW Forever News, es gebe keine Pläne für WoW Token oder Character Boosts. Blizzard wolle bei Real-Money-Trading hart bleiben. Das erklärt, warum Gold-Verkäufer-Seiten in den Guides oft als Quelle auftauchen: Sie sind die Alternative, die Blizzard offiziell nicht bieten will.",
+     "quellen": [
+      {
+       "name": "WoW Forever News: BlizzCon 2026 Developer Wrap-up",
+       "url": "https://wowforevernews.com/news/blizzcon-2026-developer-wrap-up-no-wow-token-staggered-beta-level-caps-and-the-future-of-vanilla-azeroth"
+      },
+      {
+       "name": "Wowhead: Destin-Interview mit Blizzard",
+       "url": "https://www.wowhead.com/forever/news/no-wow-token-or-boosts-and-the-future-of-forever-destin-interview-with-blizzard-382882"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Community: Rekorde, Gilden, Streamer, Server",
+   "artikel": [
+    {
+     "titel": "Realmless: Vier Rulesets statt Server",
+     "unterzeile": "Normal, PvP, Roleplay und später Hardcore",
+     "text": "Blizzard hat angekündigt, dass WoW Forever ohne Realms auskommt. Spieler wählen ein Ruleset: Normal, PvP, Roleplay und Hardcore (kommt nach Launch). Gruppen über Rulesets hinweg sind nicht möglich, Fraktionen bleiben getrennt. Jeder Spieler bekommt zwei Namen, die zusammen eindeutig sind. Collections und Legacy Points gelten für alle Rulesets außer Hardcore. Ein einzelner Spieler kritisierte, Blizzard verkenne, warum Classic-Realms Gemeinschaft hatten – das ist nur eine Stimme.",
+     "quellen": [
+      {
+       "name": "TweakTown: Four Rulesets for Realmless Design",
+       "url": "https://www.tweaktown.com/news/113686/blizzard-reveals-four-rulesets-for-wow-forevers-realmless-design/index.html"
+      },
+      {
+       "name": "LFCarry: BlizzCon-2026-Überblick (Händler-Seite)",
+       "url": "https://lfcarry.com/guides/wow-forever-blizzcon-2026"
+      }
+     ]
+    },
+    {
+     "titel": "Legacy-System: 65 Challenges, 16 Punkte pro Charakter",
+     "unterzeile": "Account-weite Punkte, Cosmetics ab 15 Punkten",
+     "text": "Laut Icy Veins gibt es 65 Legacy Challenges mit je einem Punkt: 27 für Klassen, 18 für Berufe, 3 Dungeons, 3 Raids, 12 PvP und 2 Adventure. Jeder Charakter kann bis zu 16 Punkte auf drei Perk-Bäume verteilen (Professions, Adventure, Resourcefulness). Belohnungen bei 15, 25, 40 und 55 Punkten: Replica Ironforge Air Rifle, Spectral Bear Cub, Spectral Bear Tabard und Reins of the Spectral Bear, abzuholen bei Innkeeper Wiley in Ratchet. Die Kategorienzahl variiert zwischen Quellen.",
+     "quellen": [
+      {
+       "name": "Icy Veins: Legacy System Guide",
+       "url": "https://www.icy-veins.com/wow-forever/legacy-system"
+      }
+     ]
+    },
+    {
+     "titel": "Staggered Beta und Launch am 4. November: der Rückblick",
+     "unterzeile": "Closed Beta startete mit Level-20-Cap",
+     "text": "Laut WoW Forever News startete die Closed Beta mit Level-20-Cap, stieg nach einigen Wochen Datensammlung auf Level 30 und blieb dort. Der weltweite Launch war für den 4. November 2026 genannt. Das Material ist ein Rückblick; andere Seiten nennen für den Launch abweichende Daten.",
+     "quellen": [
+      {
+       "name": "WoW Forever News: BlizzCon 2026 Developer Wrap-up",
+       "url": "https://wowforevernews.com/news/blizzcon-2026-developer-wrap-up-no-wow-token-staggered-beta-level-caps-and-the-future-of-vanilla-azeroth"
+      }
+     ]
+    },
+    {
+     "titel": "Streamer-Rekorde: Zu Forever fehlen belastbare Zahlen",
+     "unterzeile": "Was die Suche nicht liefert",
+     "text": "Zu Twitch-Spitzenwerten oder Gilden-Rennen speziell für Forever fanden sich in den Suchergebnissen keine belegten Zahlen. Die bekannten Rekorde stammen aus Retail-Raid-Races und gehören nicht in diese Zeitung. Sobald die Raids am 9. Dezember öffnen, ist mit ersten Rennen zu rechnen – das ist Erwartung, keine Meldung.",
+     "quellen": [
+      {
+       "name": "wowcalc.net: WoW Forever Calendar (Fan-Seite)",
+       "url": "https://wowcalc.net/en/forever/wiki/calendar"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Guides & Tipps",
+   "artikel": [
+    {
+     "titel": "Camping-Guide: Jeder Beruf bringt einen Buff ans Lagerfeuer",
+     "unterzeile": "Cook baut das Feuer, alle anderen legen ein Objekt dazu",
+     "text": "Laut Mobalytics platziert ein Cook das Lagerfeuer, nahestehende Spieler fügen je ein Berufs-Objekt hinzu, und wer eine Minute dort sitzt oder craftet, bekommt alle Buffs etwa eine Stunde. Beispiele (Tier 1): Alchemy Mana Well, Blacksmithing Sharpening Wheel (Strength), Mining Lodestone (Melee-AP), Skinning Camp Chair (+2 % Crit), Fishing Fish Bowl (+8 % alle Attribute). Camp-Buffs stacken nicht mit den passenden Klassenbuffs.\n\nDie Skill-Anforderungen der Lagerfeuerstufen unterscheiden sich je nach Quelle; vor dem Planen die Patchnotes prüfen.",
+     "quellen": [
+      {
+       "name": "Mobalytics: Camping Guide",
+       "url": "https://mobalytics.gg/wow-forever/guides/camping-guide"
+      },
+      {
+       "name": "Icy Veins: Camping System Guide",
+       "url": "https://www.icy-veins.com/wow-forever/camping"
+      }
+     ]
+    },
+    {
+     "titel": "Campfires: Die Entwickler wollen eine „Camp-Meta“ beobachten",
+     "unterzeile": "MMORPG.com: Fixtures halten rund 10 Minuten",
+     "text": "Im MMORPG.com-Interview erklärten die Entwickler, dass Camps nicht in manchen Städten platziert werden können und Abstand zu anderen Feuern halten müssen. Objekte halten etwa 10 Minuten, jedes Feuer hat rund eine Stunde Cooldown. Man sehe die Buffs als Evolution der klassischen Buffs und beobachte, ob eine „Camp-Meta“ aus dem Ruder läuft; Stellschrauben seien bereit.",
+     "quellen": [
+      {
+       "name": "MMORPG.com: BlizzCon-2026-Interview",
+       "url": "https://www.mmorpg.com/interviews/blizzcon-2026-interview-chatting-wow-forevers-campsites-horizontal-progression-and-more-with-blizzard-2000138932"
+      }
+     ]
+    },
+    {
+     "titel": "Pre-Raid-BiS: Level 60 reicht, perfekt muss es nicht sein",
+     "unterzeile": "Dungeons, Crafts und Ruf liefern die Basis",
+     "text": "Laut Foreverspec und weiteren Guides kommt Pre-Raid-Gear aus Level-60-Dungeons (Blackrock Depths, Blackrock Spire, Stratholme, Scholomance, Dire Maul), Crafting, Ruf und Quests. Wowhead hebt für Restoration-Druiden einen Ring of Nature's Cycles aus Hyjal hervor; Foreverspec und Wowhead nennen teils unterschiedliche Items. Mathematisch perfektes BiS sei für den Raid-Einstieg nicht nötig. Die Wowhead-Seiten sind noch nicht fertig.",
+     "quellen": [
+      {
+       "name": "Foreverspec: Pre-Raid BiS",
+       "url": "https://foreverspec.com/pre-raid-bis/"
+      },
+      {
+       "name": "Wowhead: Restoration Druid BiS",
+       "url": "https://www.wowhead.com/forever/guide/classes/druid/restoration/bis-gear"
+      }
+     ]
+    },
+    {
+     "titel": "Fire Resistance für Onyxia vorbereiten",
+     "unterzeile": "Empfehlung aus Blizzards Raid-Vorschau",
+     "text": "Blizzard rät, vor Onyxia Fire Resistance aufzubauen, weil die Dreiphasen-Begegnung viel Feuer nutzt. Wer das Drakefire Amulet noch nicht hat, sollte die Attunement-Questkette früh beginnen: Sie führt die Horde durch Lower und Upper Blackrock Spire.",
+     "quellen": [
+      {
+       "name": "Warcraft Tavern: Three New Raids Coming to WoW Forever",
+       "url": "https://www.warcrafttavern.com/forever/news/three-new-raids-coming-to-world-of-warcraft-forever/"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Blizzard: Ankündigungen, Interviews, Entwickler-Aussagen",
+   "artikel": [
+    {
+     "titel": "Horizontal statt vertikal: Kleinere Power-Sprünge zwischen den Tiers",
+     "unterzeile": "MMORPG.com-Interview vom BlizzCon",
+     "text": "Das Team will kleinere Power-Steigerungen zwischen den Tiers; Naxxramas sei im Original zu optimiert gewesen und habe frühere Ausrüstung wertlos gemacht. „Biome-specific effects“ geben situative Boni, laut Greenfield gibt es hunderte. Epics sollen prestigeträchtig bleiben, blaue Items können für bestimmte Zwecke besser sein. Die Standardbank hat etwa 96 Slots.",
+     "quellen": [
+      {
+       "name": "MMORPG.com: BlizzCon-2026-Interview",
+       "url": "https://www.mmorpg.com/interviews/blizzcon-2026-interview-chatting-wow-forevers-campsites-horizontal-progression-and-more-with-blizzard-2000138932"
+      }
+     ]
+    },
+    {
+     "titel": "Leveln soll langsam und gefährlich bleiben",
+     "unterzeile": "Pulls von drei Gegnern sind riskant",
+     "text": "Laut Interview ist das Level-Kampfgefühl bewusst langsam: Auf Level 10–15 dauert ein Kill 10 bis 15 Sekunden, drei Gegner zu pullen ist riskant. Die Entwickler wollen Atmosphäre wie in Vanilla mit Nebel und Licht verstärken.",
+     "quellen": [
+      {
+       "name": "MMORPG.com: BlizzCon-2026-Interview",
+       "url": "https://www.mmorpg.com/interviews/blizzcon-2026-interview-chatting-wow-forevers-campsites-horizontal-progression-and-more-with-blizzard-2000138932"
+      }
+     ]
+    },
+    {
+     "titel": "Zukunft: Nur Azeroth, keine Reise durchs Dunkle Portal",
+     "unterzeile": "Season-of-Discovery-Klassenquests stehen „auf einem Whiteboard“",
+     "text": "Forever bleibt auf Azeroth und erweitert in unfertige Regionen von Östlichen Königreichen und Kalimdor. Greenfield sagte, klassenspezifische Questreihen aus Season of Discovery seien geplant, aber noch nicht terminiert. Terrain-Änderungen und „What if“-Events seien selten, zerstörerische Eingriffe wie Cataclysm wolle man vermeiden. Ein konkretes neues Gebiet wurde nicht genannt.",
+     "quellen": [
+      {
+       "name": "MMORPG.com: BlizzCon-2026-Interview",
+       "url": "https://www.mmorpg.com/interviews/blizzcon-2026-interview-chatting-wow-forevers-campsites-horizontal-progression-and-more-with-blizzard-2000138932"
+      },
+      {
+       "name": "WoW Forever News: BlizzCon 2026 Developer Wrap-up",
+       "url": "https://wowforevernews.com/news/blizzcon-2026-developer-wrap-up-no-wow-token-staggered-beta-level-caps-and-the-future-of-vanilla-azeroth"
+      }
+     ]
+    },
+    {
+     "titel": "Kein Termin für Hardcore",
+     "unterzeile": "Quellen widersprechen sich",
+     "text": "Hardcore wurde angekündigt. Eine Quelle nennt den Winter laut Roadmap, eine andere „nach dem Launch“. Ein offizielles Datum gibt es nicht.",
+     "quellen": [
+      {
+       "name": "Wowhead: Destin-Interview mit Blizzard",
+       "url": "https://www.wowhead.com/forever/news/no-wow-token-or-boosts-and-the-future-of-forever-destin-interview-with-blizzard-382882"
+      },
+      {
+       "name": "TweakTown: Four Rulesets for Realmless Design",
+       "url": "https://www.tweaktown.com/news/113686/blizzard-reveals-four-rulesets-for-wow-forevers-realmless-design/index.html"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "titel": "Termine & Events",
+   "artikel": [
+    {
+     "titel": "Noch 11 Tage bis zum Raid-Start am 9. Dezember",
+     "unterzeile": "Barrow Deeps, Hyjal Summit und Onyxia öffnen gemeinsam",
+     "text": "Am Mittwoch, 9. Dezember, schalten die drei ersten Raids frei. Wöchentliche Lockouts sind geplant, der Reset-Tag ist laut Fan-Kalender noch nicht bestätigt. Bis dahin bleiben Pre-Raid-Gear, Onyxia-Attunement und Fire Resistance die Hausaufgaben.",
+     "quellen": [
+      {
+       "name": "Warcraft Tavern: Three New Raids Coming to WoW Forever",
+       "url": "https://www.warcrafttavern.com/forever/news/three-new-raids-coming-to-world-of-warcraft-forever/"
+      },
+      {
+       "name": "wowcalc.net: WoW Forever Calendar (Fan-Seite)",
+       "url": "https://wowcalc.net/en/forever/wiki/calendar"
+      }
+     ]
+    },
+    {
+     "titel": "Darkmoon Faire in Mulgore: 7. bis 14. Dezember",
+     "unterzeile": "Termin laut Fan-Kalender",
+     "text": "Der Fan-Kalender wowcalc.net führt die Darkmoon Faire am Fuß von Thunder Bluff vom 7. bis 14. Dezember. Eine offizielle Blizzard-Bestätigung dazu liegt uns nicht vor.",
+     "quellen": [
+      {
+       "name": "wowcalc.net: WoW Forever Calendar (Fan-Seite)",
+       "url": "https://wowcalc.net/en/forever/wiki/calendar"
+      }
+     ]
+    },
+    {
+     "titel": "Winter Veil: weiter nicht offiziell bestätigt",
+     "unterzeile": "Fan-Kalender nennt 15. Dezember bis 2. Januar",
+     "text": "Der Fan-Kalender führt das Feast of Winter Veil vom 15. Dezember bis 2. Januar. Eine Seite weist darauf hin, dass zum Stand 1. November keine Blizzard-Meldung dazu bekannt war. Die Termine bleiben also vorerst eine Fan-Angabe.",
+     "quellen": [
+      {
+       "name": "wowcalc.net: WoW Forever Calendar (Fan-Seite)",
+       "url": "https://wowcalc.net/en/forever/wiki/calendar"
+      }
+     ]
+    },
+    {
+     "titel": "Call to Arms: Warsong Gulch und Darkspear Islands",
+     "unterzeile": "Rotation laut Fan-Kalender",
+     "text": "Nach dem Kalender läuft Call to Arms: Warsong Gulch vom 1. bis 8. Dezember, danach Darkspear Islands vom 8. bis 15. Dezember. Dazu läuft wöchentlich die Stranglethorn Fishing Extravaganza. Fan-Quelle, nicht offiziell bestätigt.",
+     "quellen": [
+      {
+       "name": "wowcalc.net: WoW Forever Calendar (Fan-Seite)",
+       "url": "https://wowcalc.net/en/forever/wiki/calendar"
+      }
+     ]
+    }
+   ],
+   "kasten": {
+    "titel": "Termine (Fan-Kalender, ohne Gewähr)",
+    "punkte": [
+     "1.–8.12.: Call to Arms Warsong Gulch",
+     "7.–14.12.: Darkmoon Faire (Mulgore)",
+     "8.–15.12.: Call to Arms Darkspear Islands",
+     "9.12.: Raids Barrow Deeps, Hyjal Summit, Onyxia",
+     "15.12.–2.1.: Winter Veil (nicht bestätigt)"
+    ],
+    "quellen": [
+     {
+      "name": "wowcalc.net: WoW Forever Calendar (Fan-Seite)",
+      "url": "https://wowcalc.net/en/forever/wiki/calendar"
+     }
+    ]
+   }
+  }
+ ],
+ "zumSchluss": {
+  "titel": "Tipp des Tages: Onyxia-Attunement jetzt starten",
+  "text": "Wer Onyxia am 9. Dezember mitnehmen will, sollte die Drakefire-Amulet-Questkette jetzt beginnen: Allianz bei Helendis Riverhorn (Burning Steppes), Horde bei Warlord Goretooth (Badlands). Plane Zeit für Upper Blackrock Spire ein und sammle nebenbei Fire Resistance."
+ }
+}
